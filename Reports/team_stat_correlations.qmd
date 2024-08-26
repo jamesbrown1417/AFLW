@@ -1,0 +1,358 @@
+---
+title: "Team Stat Correlations"
+format:
+  html:
+      df-print: paged
+      theme: cosmo
+      toc: true
+      self-contained: true
+editor: visual
+author: James Brown
+echo: false
+warning: false
+message: false
+---
+
+```{r}
+# Libraries and functions
+library(tidyverse)
+library(qreport)
+library(kableExtra)
+library(fitzRoy)
+
+# Read in Current Season Data
+afl_fantasy_2015_2023_data <- read_rds("../Data/afl_fantasy_2015_2023_data.rds")
+afl_fantasy_2024_data <- read_rds("../Data/afl_fantasy_2024_data.rds")
+
+# Combine
+all_data <- bind_rows(afl_fantasy_2015_2023_data, afl_fantasy_2024_data)
+```
+
+## Across Team Disposals
+
+```{r}
+disposal_disposal_correlations <-
+all_data |> 
+  mutate(home_away = if_else(home_team == player_team, "home", "away")) |> 
+  group_by(match,start_time_utc, season_name, round, venue, player_team, home_away) |>
+  summarise(team_disposals = sum(disposals)) |>
+  filter(start_time_utc > "2021-01-01") |> 
+  ungroup() |> 
+  select(match, season_name, round, team = player_team, home_away, team_disposals)
+
+# Get Home
+home_disposals <-
+  disposal_disposal_correlations |>
+  filter(home_away == "home") |>
+  select(-home_away, -team) |> 
+  rename(home_disposals = team_disposals)
+
+# Get Away
+away_disposals <-
+  disposal_disposal_correlations |>
+  filter(home_away == "away") |>
+  select(-home_away, -team) |>
+  rename(away_disposals = team_disposals)
+
+# Join together
+home_away_disposals <- left_join(home_disposals, away_disposals)
+
+# Scatterplot with loess line + correlation coefficient overlaid
+home_away_disposals |> 
+  ggplot(aes(x = home_disposals, y = away_disposals)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  geom_text(aes(label = round(cor(home_disposals, away_disposals), 2)), x = 450, y = 450) +
+  labs(title = "Home vs Away Team Disposals",
+       x = "Home Team Disposals",
+       y = "Away Team Disposals")
+```
+
+## Across Team Tackles
+
+```{r}
+tackle_tackle_correlations <-
+all_data |> 
+  mutate(home_away = if_else(home_team == player_team, "home", "away")) |> 
+  group_by(match,start_time_utc, season_name, round, venue, player_team, home_away) |>
+  summarise(team_tackles = sum(tackles)) |>
+  filter(start_time_utc > "2021-01-01") |> 
+  ungroup() |> 
+  select(match, season_name, round, team = player_team, home_away, team_tackles)
+
+# Get Home
+home_tackles <-
+  tackle_tackle_correlations |>
+  filter(home_away == "home") |>
+  select(-home_away, -team) |> 
+  rename(home_tackles = team_tackles)
+
+# Get Away
+away_tackles <-
+  tackle_tackle_correlations |>
+  filter(home_away == "away") |>
+  select(-home_away, -team) |>
+  rename(away_tackles = team_tackles)
+
+# Join together
+home_away_tackles <- left_join(home_tackles, away_tackles)
+
+# Scatterplot with loess line + correlation coefficient overlaid
+home_away_tackles |> 
+  ggplot(aes(x = home_tackles, y = away_tackles)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  geom_text(aes(label = round(cor(home_tackles, away_tackles), 2)), x = 100, y = 125) +
+  labs(title = "Home vs Away Team Tackles",
+       x = "Home Team Tackles",
+       y = "Away Team Tackles")
+```
+
+## Across Team Marks
+
+```{r}
+mark_mark_correlations <-
+all_data |> 
+  mutate(home_away = if_else(home_team == player_team, "home", "away")) |> 
+  group_by(match,start_time_utc, season_name, round, venue, player_team, home_away) |>
+  summarise(team_marks = sum(marks)) |>
+  filter(start_time_utc > "2021-01-01") |> 
+  ungroup() |> 
+  select(match, season_name, round, team = player_team, home_away, team_marks)
+
+# Get Home
+home_marks <-
+  mark_mark_correlations |>
+  filter(home_away == "home") |>
+  select(-home_away, -team) |> 
+  rename(home_marks = team_marks)
+
+# Get Away
+away_marks <-
+  mark_mark_correlations |>
+  filter(home_away == "away") |>
+  select(-home_away, -team) |>
+  rename(away_marks = team_marks)
+
+# Join together
+home_away_marks <- left_join(home_marks, away_marks)
+
+# Scatterplot with loess line + correlation coefficient overlaid
+home_away_marks |> 
+  ggplot(aes(x = home_marks, y = away_marks)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  geom_text(aes(label = round(cor(home_marks, away_marks), 2)), x = 160, y = 160) +
+  labs(title = "Home vs Away Team Marks",
+       x = "Home Team Marks",
+       y = "Away Team Marks")
+```
+
+## Team Disposals Vs Team Tackles
+
+```{r}
+disposal_tackle_correlations <-
+all_data |> 
+  mutate(home_away = if_else(home_team == player_team, "home", "away")) |> 
+  group_by(match,start_time_utc, season_name, round, venue, player_team, home_away) |>
+  summarise(team_disposals = sum(disposals),
+            team_tackles = sum(tackles)) |>
+  filter(start_time_utc > "2021-01-01") |> 
+  ungroup() |> 
+  select(match, season_name, round, team = player_team, home_away, team_disposals, team_tackles)
+
+# Scatterplot with loess line + correlation coefficient overlaid
+disposal_tackle_correlations |> 
+  ggplot(aes(x = team_disposals, y = team_tackles)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  geom_text(aes(label = round(cor(team_disposals, team_tackles), 2)), x = 450, y = 125) +
+  labs(title = "Team Disposals vs Team Tackles",
+       x = "Team Disposals",
+       y = "Team Tackles")
+```
+
+## Team Disposals Vs Team Marks
+
+```{r}
+disposal_mark_correlations <-
+all_data |> 
+  mutate(home_away = if_else(home_team == player_team, "home", "away")) |> 
+  group_by(match,start_time_utc, season_name, round, venue, player_team, home_away) |>
+  summarise(team_disposals = sum(disposals),
+            team_marks = sum(marks)) |>
+  filter(start_time_utc > "2021-01-01") |> 
+  ungroup() |> 
+  select(match, season_name, round, team = player_team, home_away, team_disposals, team_marks)
+
+# Scatterplot with loess line + correlation coefficient overlaid
+disposal_mark_correlations |> 
+  ggplot(aes(x = team_disposals, y = team_marks)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  geom_text(aes(label = round(cor(team_disposals, team_marks), 2)), x = 450, y = 160) +
+  labs(title = "Team Disposals vs Team Marks",
+       x = "Team Disposals",
+       y = "Team Marks")
+```
+
+## Team Tackles Vs Team Marks
+
+```{r}
+tackle_mark_correlations <-
+all_data |> 
+  mutate(home_away = if_else(home_team == player_team, "home", "away")) |> 
+  group_by(match,start_time_utc, season_name, round, venue, player_team, home_away) |>
+  summarise(team_tackles = sum(tackles),
+            team_marks = sum(marks)) |>
+  filter(start_time_utc > "2021-01-01") |> 
+  ungroup() |> 
+  select(match, season_name, round, team = player_team, home_away, team_tackles, team_marks)
+
+# Scatterplot with loess line + correlation coefficient overlaid
+tackle_mark_correlations |> 
+  ggplot(aes(x = team_tackles, y = team_marks)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  geom_text(aes(label = round(cor(team_tackles, team_marks), 2)), x = 125, y = 160) +
+  labs(title = "Team Tackles vs Team Marks",
+       x = "Team Tackles",
+       y = "Team Marks")
+```
+
+## Team Disposals Vs Other Team Tackles
+
+```{r}
+disposal_tackle_correlations <-
+all_data |> 
+  mutate(home_away = if_else(home_team == player_team, "home", "away")) |> 
+  group_by(match,start_time_utc, season_name, round, venue, player_team, home_away) |>
+  summarise(team_disposals = sum(disposals),
+            team_tackles = sum(tackles)) |>
+  filter(start_time_utc > "2021-01-01") |> 
+  ungroup() |> 
+  select(match, season_name, round, team = player_team, home_away, team_disposals, team_tackles)
+
+# Get Home Disposals
+home_disposals <-
+  disposal_tackle_correlations |>
+  filter(home_away == "home") |>
+  select(-home_away, -team, -team_tackles) |> 
+  rename(home_disposals = team_disposals)
+
+# Get Away Disposals
+away_disposals <-
+  disposal_tackle_correlations |>
+  filter(home_away == "away") |>
+  select(-home_away, -team, -team_tackles) |>
+  rename(away_disposals = team_disposals)
+
+# Get Home Tackles
+home_tackles <-
+  disposal_tackle_correlations |>
+  filter(home_away == "home") |>
+  select(-home_away, -team, -team_disposals) |> 
+  rename(home_tackles = team_tackles)
+
+# Get Away Tackles
+away_tackles <-
+  disposal_tackle_correlations |>
+  filter(home_away == "away") |>
+  select(-home_away, -team, -team_disposals) |>
+  rename(away_tackles = team_tackles)
+
+# Get Home Disposals and Away Tackles
+home_disposals_away_tackles <-
+  home_disposals |> 
+  left_join(away_tackles) |> 
+  rename(tackles = away_tackles, disposals = home_disposals)
+
+# Get Away Disposals and Home Tackles
+away_disposals_home_tackles <-
+  away_disposals |> 
+  left_join(home_tackles) |> 
+  rename(tackles = home_tackles, disposals = away_disposals)
+
+# Bind Rows
+disposal_tackle_correlations <- 
+  rbind(home_disposals_away_tackles, away_disposals_home_tackles)
+
+# Scatterplot with loess line + correlation coefficient overlaid
+disposal_tackle_correlations |> 
+  ggplot(aes(x = disposals, y = tackles)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  geom_text(aes(label = round(cor(disposals, tackles), 2)), x = 450, y = 125) +
+  labs(title = "Team Disposals vs Other Team Tackles",
+       x = "Team Disposals",
+       y = "Other Team Tackles")
+```
+
+## Team Disposals Vs Other Team Marks
+
+```{r}
+disposal_mark_correlations <-
+all_data |> 
+  mutate(home_away = if_else(home_team == player_team, "home", "away")) |> 
+  group_by(match,start_time_utc, season_name, round, venue, player_team, home_away) |>
+  summarise(team_disposals = sum(disposals),
+            team_marks = sum(marks)) |>
+  filter(start_time_utc > "2021-01-01") |> 
+  ungroup() |> 
+  select(match, season_name, round, team = player_team, home_away, team_disposals, team_marks)
+
+# Get Home Disposals
+home_disposals <-
+  disposal_mark_correlations |>
+  filter(home_away == "home") |>
+  select(-home_away, -team, -team_marks) |> 
+  rename(home_disposals = team_disposals)
+
+# Get Away Disposals
+away_disposals <-
+  disposal_mark_correlations |>
+  filter(home_away == "away") |>
+  select(-home_away, -team, -team_marks) |>
+  rename(away_disposals = team_disposals)
+
+# Get Home Marks
+home_marks <-
+  disposal_mark_correlations |>
+  filter(home_away == "home") |>
+  select(-home_away, -team, -team_disposals) |> 
+  rename(home_marks = team_marks)
+
+# Get Away Marks
+away_marks <-
+  disposal_mark_correlations |>
+  filter(home_away == "away") |>
+  select(-home_away, -team, -team_disposals) |>
+  rename(away_marks = team_marks)
+
+# Get Home Disposals and Away Marks
+home_disposals_away_marks <-
+  home_disposals |> 
+  left_join(away_marks) |> 
+  rename(marks = away_marks, disposals = home_disposals)
+
+# Get Away Disposals and Home Marks
+away_disposals_home_marks <-
+  away_disposals |> 
+  left_join(home_marks) |> 
+  rename(marks = home_marks, disposals = away_disposals)
+
+# Bind Rows
+disposal_mark_correlations <- 
+  rbind(home_disposals_away_marks, away_disposals_home_marks)
+
+# Scatterplot with loess line + correlation coefficient overlaid
+disposal_mark_correlations |> 
+  ggplot(aes(x = disposals, y = marks)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  geom_text(aes(label = round(cor(disposals, marks), 2)), x = 450, y = 160) +
+  labs(title = "Team Disposals vs Other Team Marks",
+       x = "Team Disposals",
+       y = "Other Team Marks")
+```
+

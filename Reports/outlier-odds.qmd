@@ -1,0 +1,329 @@
+---
+title: "Outlier Odds"
+execute:
+  echo: false
+  message: false
+  warning: false
+author: "James Brown"
+date: "`r Sys.Date()`"
+format:
+  html:
+    df-print: kable
+    max-width: 100%
+    theme: cosmo
+    self-contained: true
+    toc: true
+    toc-depth: 3
+    fig-width: 8
+    fig-height: 6
+editor: source
+---
+
+**Last Updated: `r format(Sys.time(), "%I:%M %p")`**
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(qreport)
+library(DT)
+library(readxl)
+
+# Load data
+  h2h_data <- read_rds("../Data/processed_odds/all_h2h.rds")
+  line_data <- read_rds("../Data/processed_odds/all_line.rds")
+  player_disposals_data <- read_rds("../Data/processed_odds/all_player_disposals.rds")
+  player_goals_data <- read_rds("../Data/processed_odds/all_player_goals.rds")
+  player_fantasy_data <- read_rds("../Data/processed_odds/all_player_fantasy_points.rds")
+  player_marks_data <- read_rds("../Data/processed_odds/all_player_marks.rds")
+  player_tackles_data <- read_rds("../Data/processed_odds/all_player_tackles.rds")
+```
+
+```{r}
+
+# Read in data
+dvp_data <-
+  read_csv("../DVP/dvp_data.csv")
+
+# Read in position data---------------------------------------------------------
+player_positions <-
+  read_excel("../DVP/AFL-Players-Positions-2024.xlsx") |>
+  select(
+    player_full_name,
+    player_team = team_name,
+    pos_1 = `position 1`,
+    pos_2 = `position 2`
+  ) |>
+  mutate(pos_1_factor = factor(
+    pos_1,
+    levels = 1:11,
+    labels = c(
+      "Key Defender",
+      "Small Defender",
+      "Offensive Defender",
+      "CBA > 50%",
+      "CBA < 50%",
+      "Wing",
+      "Contested",
+      "Uncontested",
+      "Ruck",
+      "Key Forward",
+      "Small Forward"
+    )
+  )) |> 
+  mutate(pos_2_factor = factor(
+    pos_2,
+    levels = 1:11,
+    labels = c(
+      "Key Defender",
+      "Small Defender",
+      "Offensive Defender",
+      "CBA > 50%",
+      "CBA < 50%",
+      "Wing",
+      "Contested",
+      "Uncontested",
+      "Ruck",
+      "Key Forward",
+      "Small Forward"
+    )
+  )) |> 
+  select(player_name = player_full_name, player_team, Position = pos_1_factor)
+
+
+dvp_data <-
+  dvp_data %>%
+  mutate(dvp = ifelse(market_name == "Player Goals", rnorm(nrow(dvp_data)), dvp)) |> 
+  group_by(market_name) %>%
+  mutate(
+    DVP_Category = cut(
+      dvp,
+      breaks = quantile(dvp, probs = 0:5/5, na.rm = TRUE),
+      include.lowest = TRUE,
+      labels = c("Terrible", "Bad", "Neutral", "Good", "Excellent")
+    )
+  ) %>%
+    mutate(DVP_Category = as.character(DVP_Category)) |> 
+    mutate(DVP_Category = ifelse(market_name == "Player Goals", "Neutral", DVP_Category)) |> 
+  ungroup() %>%
+  select(Position = Pos, opposition_team = Opponent, market_name, DVP_Category)
+```
+
+```{r}
+# Get all markets together
+  all_markets <- bind_rows(
+    player_disposals_data,
+    player_goals_data,
+    player_fantasy_data,
+    player_marks_data,
+    player_tackles_data
+  )
+
+# Arrange in order
+all_markets <-
+all_markets |>
+  select(
+    match,
+    player_name,
+    player_team,
+    opposition_team,
+    market_name,
+    over_price,
+    implied_prob_over,
+    under_price,
+    implied_prob_under,
+    line,
+    agency,
+    diff_over_2023,
+    diff_over_last_10,
+    diff_under_2023,
+    diff_under_last_10
+  ) |>
+  arrange(match, player_name, market_name, line, desc(over_price))
+
+# Add positions and DVP
+all_markets <-
+all_markets |>
+left_join(player_positions, relationship = "many-to-one") |>
+  left_join(dvp_data, by = c("opposition_team", "Position", "market_name"), relationship = "many-to-one") |> 
+  relocate(Position, DVP_Category, .after = player_name)
+```
+
+```{r}
+# Get biggest differences from second best odds available
+  biggest_diffs <-
+  all_markets |>
+    group_by(match, player_name, market_name, line) |> 
+    distinct(match, player_name, market_name, line, agency, .keep_all = TRUE) |> 
+    mutate(number_of_odds = n()) |>
+    mutate(best_implied_prob_over = implied_prob_over,
+           second_best_implied_prob_over = lead(implied_prob_over, 1),
+           second_best_odds = lead(over_price, 1)) |>
+  slice_head(n = 1) |> 
+  ungroup() |> 
+  # filter(number_of_odds > 1) |>
+  mutate(diff_over = second_best_implied_prob_over - best_implied_prob_over) |>
+  select(-number_of_odds, -best_implied_prob_over, -second_best_implied_prob_over) |>
+  arrange(desc(diff_over), match, player_name, market_name, line) |> 
+  relocate(second_best_odds, .after = over_price)
+```
+
+::: panel-tabset
+## +EV Bets
+
+```{r}
+#| results: asis
+
+# Outlier List
+biggest_diffs_outliers <-
+  biggest_diffs |>
+  filter(diff_over_last_10 >= 0) |>
+  arrange(desc(diff_over_last_10)) |> 
+  rename(gap = diff_over) |> 
+  filter(gap > 0)
+
+# Function to take list, filter to agency and return
+filter_agency <- function(df, agency) {
+  df |>
+    filter(agency == !!agency)
+}
+
+# Unique list of agencies
+agencies <- biggest_diffs_outliers$agency |> unique()
+
+# Make list of dataframes
+agency_list <- map(agencies, ~filter_agency(biggest_diffs_outliers, .x)) |> set_names(agencies)
+
+# # For each element of the list, make a DT table
+# agency_list <-
+#   map(agency_list, ~ datatable(.x, options = list(
+#     pageLength = 10, scrollX = TRUE, width = "100%"
+#   )))
+
+# Make tabset with each
+maketabs(agency_list, wide = TRUE)
+```
+
+## Biggest Outliers By Agency
+
+```{r}
+#| results: asis
+
+# Outlier List
+biggest_diffs_outliers <-
+  biggest_diffs |>
+  filter(diff_over >= 0.03) |>
+  arrange(desc(diff_over)) |> 
+  rename(gap = diff_over)
+
+# Function to take list, filter to agency and return
+filter_agency <- function(df, agency) {
+  df |>
+    filter(agency == !!agency)
+}
+
+# Unique list of agencies
+agencies <- biggest_diffs_outliers$agency |> unique()
+
+# Make list of dataframes
+agency_list <- map(agencies, ~filter_agency(biggest_diffs_outliers, .x)) |> set_names(agencies)
+
+# # For each element of the list, make a DT table
+# agency_list <-
+#   map(agency_list, ~ datatable(.x, options = list(
+#     pageLength = 10, scrollX = TRUE, width = "100%"
+#   )))
+
+# Make tabset with each
+maketabs(agency_list, wide = TRUE)
+```
+
+## Biggest Outliers +EV
+
+```{r}
+#| results: asis
+
+# Outlier List
+biggest_diffs_outliers <-
+  biggest_diffs |>
+  filter(diff_over_last_10 >= 0) |>
+  filter(diff_over >= 0.03) |>
+  arrange(desc(diff_over)) |> 
+  rename(gap = diff_over)
+
+# Function to take list, filter to agency and return
+filter_agency <- function(df, agency) {
+  df |>
+    filter(agency == !!agency)
+}
+
+# Unique list of agencies
+agencies <- biggest_diffs_outliers$agency |> unique()
+
+# Make list of dataframes
+agency_list <- map(agencies, ~filter_agency(biggest_diffs_outliers, .x)) |> set_names(agencies)
+
+# # For each element of the list, make a DT table
+# agency_list <-
+#   map(agency_list, ~ datatable(.x, options = list(
+#     pageLength = 10, scrollX = TRUE, width = "100%"
+#   )))
+
+# Make tabset with each
+maketabs(agency_list, wide = TRUE)
+```
+
+## Unders
+
+```{r}
+#| results: asis
+
+# Get biggest differences from second best odds available
+  biggest_diffs <-
+  all_markets |>
+    filter(!is.na(under_price)) |> 
+    group_by(match, player_name, market_name, line) |> 
+    distinct(match, player_name, market_name, line, agency, .keep_all = TRUE) |> 
+    mutate(number_of_odds = n()) |>
+    mutate(best_implied_prob_under = implied_prob_under,
+           second_best_implied_prob_under = lead(implied_prob_under, 1),
+           second_best_odds = lead(under_price, 1)) |>
+  slice_head(n = 1) |> 
+  ungroup() |> 
+  # filter(number_of_odds > 1) |>
+  mutate(diff_under = second_best_implied_prob_under - best_implied_prob_under) |>
+  select(-number_of_odds, -best_implied_prob_under, -second_best_implied_prob_under) |>
+  arrange(desc(diff_under), match, player_name, market_name, line) |> 
+  relocate(second_best_odds, .after = under_price)
+
+# Outlier List
+biggest_diffs_outliers <-
+  biggest_diffs |>
+  filter(diff_under_last_10 >= 0) |>
+  arrange(desc(diff_under_last_10))
+
+# Function to take list, filter to agency and return
+filter_agency <- function(df, agency) {
+  df |>
+    filter(agency == !!agency)
+}
+
+# Unique list of agencies
+agencies <- biggest_diffs_outliers$agency |> unique()
+
+# Make list of dataframes
+agency_list <- map(agencies, ~filter_agency(biggest_diffs_outliers, .x)) |> set_names(agencies)
+
+# # For each element of the list, make a DT table
+# agency_list <-
+#   map(agency_list, ~ datatable(.x, options = list(
+#     pageLength = 10, scrollX = TRUE, width = "100%"
+#   )))
+
+# Make tabset with each
+tryCatch({
+  maketabs(agency_list, wide = TRUE)
+}, error = function(e) {
+  print(e)
+})
+```
+
+:::

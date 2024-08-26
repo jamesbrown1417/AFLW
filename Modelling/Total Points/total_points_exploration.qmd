@@ -1,0 +1,116 @@
+---
+title: "Total Points Exploration"
+execute:
+  echo: false
+  message: false
+  warning: false
+author: "James Brown"
+date: "2024-05-30"
+format:
+  html:
+    df-print: default
+    theme: cosmo
+    self-contained: true
+    toc: true
+    toc-depth: 3
+    fig-width: 8
+    fig-height: 6
+editor: visual
+---
+
+```{r}
+# Read in data
+afl_fantasy_2015_2023_data <- readRDS("../../Data/afl_fantasy_2015_2023_data.rds")
+afl_fantasy_2024_data <- readRDS("../../Data/afl_fantasy_2024_data.rds")
+
+# Combine data
+combined_stats <-
+  bind_rows(afl_fantasy_2015_2023_data, afl_fantasy_2024_data) |> 
+  mutate(total_points = home_team_score + away_team_score)
+
+# For 2020 data, make total_points 1.25 times more than the original value
+combined_stats <- combined_stats |>
+  mutate(total_points = ifelse(season_name == "2020", total_points * 1.25, total_points))
+
+# Join
+total_points <-
+  combined_stats |>
+  group_by(
+    match,
+    start_time_utc,
+    round,
+    season_name,
+    temperature,
+    venue,
+    weather_category
+  ) |>
+  slice_head(n = 1) |>
+  ungroup() |>
+  select(
+    match,
+    start_time_utc,
+    round,
+    season_name,
+    temperature,
+    venue,
+    weather_category,
+    total_points
+  )
+```
+
+# Analyse total points by venue
+
+```{r}
+# Get total total_points by venue
+venue_total_points <-
+  total_points |>
+  group_by(venue) |>
+  summarise(
+    games_played = n(),
+    median_total_points_per_match = median(total_points, na.rm = TRUE)) |> 
+  arrange(desc(median_total_points_per_match)) |> 
+  filter(games_played >= 10)
+```
+
+# Analyse total total_points by weather
+
+```{r}
+# Get total total_points by weather
+weather_total_points <-
+  total_points |>
+  group_by(weather_category) |>
+  summarise(
+    games_played = n(),
+    median_total_points_per_match = median(total_points, na.rm = TRUE)) |> 
+  arrange(desc(median_total_points_per_match)) |> 
+  filter(games_played >= 10)
+```
+
+# Night vs day games total_points
+
+```{r}
+night_vs_day_total_points <-
+total_points |> 
+  # Convert start_time_utc to melbourne time
+  mutate(start_time_melbourne = with_tz(start_time_utc, tzone = "Australia/Melbourne")) |>
+  # Make a new column for time of day
+  mutate(night_game = ifelse(hour(start_time_melbourne) >= 19, "Night", "Day")) |>
+  group_by(night_game) |>
+  summarise(
+    games_played = n(),
+    median_total_points_per_match = median(total_points, na.rm = TRUE)) |>
+  arrange(desc(median_total_points_per_match))
+```
+
+# Plot temperature vs total total_points
+
+```{r}
+# Plot temperature vs total total_points
+total_points |>
+  ggplot(aes(x = temperature, y = total_points)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = TRUE) +
+  labs(title = "Temperature vs Total Total Points",
+       x = "Temperature",
+       y = "Total Total Points")
+```

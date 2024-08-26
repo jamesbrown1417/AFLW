@@ -1,0 +1,110 @@
+---
+title: "Top Players By Position - Last Season"
+execute:
+  echo: false
+  message: false
+  warning: false
+author: "James Brown"
+date: "2024-02-12"
+format:
+  html:
+    df-print: kable
+    theme: cosmo
+    self-contained: true
+    toc: true
+    toc-depth: 3
+    fig-width: 8
+    fig-height: 6
+editor: visual
+---
+
+```{r setup, include=FALSE}
+# Load Libraries
+library(tidyverse)
+library(fitzRoy)
+
+# Read in data
+afl_fantasy_2015_2023_data <- read_rds("../Data/afl_fantasy_2015_2023_data.rds")
+
+# Get last season
+afl_fantasy_2023_data <-
+  afl_fantasy_2015_2023_data |> 
+  filter(season_name == 2023)
+
+# Get fantasy position data
+start_positions_and_prices_2024 <- read_rds("../Data/2024_start_positions_and_prices.rds")
+
+```
+
+```{r top_players_by_position, echo=FALSE}
+# Get each players mean, median scores for the season, excluding less than 50% TOG games
+summary_stats <-
+afl_fantasy_2023_data |>
+  filter(tog_percentage > 50) |>
+  group_by(player_full_name) |>
+  summarise(
+    games_played = n(),
+    avg_score = mean(fantasy_points, na.rm = TRUE),
+    low_score = min(fantasy_points, na.rm = TRUE),
+    Q1_score = quantile(fantasy_points, 0.25, na.rm = TRUE),
+    median_score = median(fantasy_points, na.rm = TRUE),
+    Q3_score = quantile(fantasy_points, 0.75, na.rm = TRUE),
+    high_score = max(fantasy_points, na.rm = TRUE)
+  ) |>
+  arrange(desc(avg_score)) |> 
+  mutate(across(where(is.numeric),  \(x) round(x, digits = 1)))
+
+# Add summary stats to player positions
+start_positions_and_prices_2024 <-
+  start_positions_and_prices_2024 |>
+  left_join(summary_stats, by = "player_full_name") |> 
+  arrange(desc(avg_score))
+
+# Best Forwards
+best_forwards <-
+  start_positions_and_prices_2024 |>
+  filter(forward_status) |>
+  head(32)
+
+# Best Midfielders
+best_midfielders <-
+  start_positions_and_prices_2024 |>
+  filter(midfield_status) |>
+  head(64)
+
+# Best Rucks
+best_rucks <-
+  start_positions_and_prices_2024 |>
+  filter(ruck_status) |>
+  head(16)
+
+# Best Defenders
+best_defenders <-
+  start_positions_and_prices_2024 |>
+  filter(defender_status) |>
+  head(32)
+```
+
+::: {.panel-tabset}
+
+## Defenders
+```{r def, echo=FALSE}
+best_defenders
+```
+
+## Midfielders
+```{r mid, echo=FALSE}
+best_midfielders
+```
+
+## Rucks
+```{r ruck, echo=FALSE}
+best_rucks
+```
+
+## Forwards
+```{r fwd, echo=FALSE}
+best_forwards
+```
+
+:::

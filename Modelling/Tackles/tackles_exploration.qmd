@@ -1,0 +1,93 @@
+---
+title: "Tackles Exploration"
+execute:
+  echo: false
+  message: false
+  warning: false
+author: "James Brown"
+date: "2024-05-30"
+format:
+  html:
+    df-print: default
+    theme: cosmo
+    self-contained: true
+    toc: true
+    toc-depth: 3
+    fig-width: 8
+    fig-height: 6
+editor: visual
+---
+
+```{r}
+# Read in data
+afl_fantasy_2015_2023_data <- readRDS("../../Data/afl_fantasy_2015_2023_data.rds")
+afl_fantasy_2024_data <- readRDS("../../Data/afl_fantasy_2024_data.rds")
+
+# Combine data
+combined_stats <- bind_rows(afl_fantasy_2015_2023_data, afl_fantasy_2024_data)
+
+# For 2020 data, make tackles 1.25 times more than the original value
+combined_stats <- combined_stats |>
+  mutate(tackles = ifelse(season_name == "2020", tackles * 1.25, tackles))
+
+# Get all home team total tackles
+home_team_tackles <-
+  combined_stats |>
+  filter(player_team == home_team) |> 
+  select(match, round, season_name, home_team,tackles, temperature, venue, weather_category) |> 
+  group_by(match, round, season_name, home_team, temperature, venue, weather_category) |>
+  summarise(home_team_total_tackles = sum(tackles, na.rm = TRUE))
+
+# Get all away team total tackles
+away_team_tackles <-
+  combined_stats |>
+  filter(player_team == away_team) |> 
+  select(match, round, season_name, away_team, tackles, temperature, venue, weather_category) |> 
+  group_by(match, round, season_name, away_team, temperature, venue, weather_category) |>
+  summarise(away_team_total_tackles = sum(tackles, na.rm = TRUE))
+
+# Join
+team_tackles <- left_join(home_team_tackles, away_team_tackles, by = c("match", "round", "season_name", "temperature", "venue", "weather_category"))
+```
+
+# Analyse how tackles are distributed between home and away teams
+
+```{r}
+# Plot home tackles vs away tackles
+team_tackles |>
+  ggplot(aes(x = home_team_total_tackles, y = away_team_total_tackles)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = TRUE) +
+  labs(title = "Home Team Tackles vs Away Team Tackles",
+       x = "Home Team Total Tackles",
+       y = "Away Team Total Tackles")
+```
+
+# Analyse total tackles by venue
+```{r}
+# Get total tackles by venue
+venue_tackles <-
+  team_tackles |>
+  mutate(total_tackles = home_team_total_tackles + away_team_total_tackles) |>
+  group_by(venue) |>
+  summarise(
+    games_played = n(),
+    median_tackles_per_match = median(total_tackles, na.rm = TRUE)) |> 
+  arrange(desc(median_tackles_per_match)) |> 
+  filter(games_played >= 10)
+```
+
+# Analyse total tackles by weather
+```{r}
+# Get total tackles by weather
+weather_tackles <-
+  team_tackles |>
+  mutate(total_tackles = home_team_total_tackles + away_team_total_tackles) |>
+  group_by(weather_category) |>
+  summarise(
+    games_played = n(),
+    median_tackles_per_match = median(total_tackles, na.rm = TRUE)) |> 
+  arrange(desc(median_tackles_per_match)) |> 
+  filter(games_played >= 10)
+```
+

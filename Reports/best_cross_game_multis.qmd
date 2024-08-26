@@ -1,0 +1,298 @@
+---
+title: "Cross Game Multis"
+execute:
+  echo: false
+  message: false
+  warning: false
+author: "James Brown"
+date: "`r Sys.Date()`"
+format:
+  html:
+    df-print: kable
+    max-width: 100%
+    theme: cosmo
+    self-contained: true
+    toc: true
+    toc-depth: 3
+    fig-width: 8
+    fig-height: 6
+editor: source
+---
+
+**Last Updated: `r format(Sys.time(), "%I:%M %p")`**
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(qreport)
+library(DT)
+library(readxl)
+
+# Load data
+  h2h_data <- read_rds("../Data/processed_odds/all_h2h.rds")
+  line_data <- read_rds("../Data/processed_odds/all_line.rds")
+  player_disposals_data <- read_rds("../Data/processed_odds/all_player_disposals.rds")
+  player_goals_data <- read_rds("../Data/processed_odds/all_player_goals.rds")
+  player_fantasy_data <- read_rds("../Data/processed_odds/all_player_fantasy_points.rds")
+  player_marks_data <- read_rds("../Data/processed_odds/all_player_marks.rds")
+  player_tackles_data <- read_rds("../Data/processed_odds/all_player_tackles.rds")
+```
+
+```{r}
+
+# Read in data
+dvp_data <-
+  read_csv("../DVP/dvp_data.csv")
+
+# Read in position data---------------------------------------------------------
+player_positions <-
+  read_excel("../DVP/AFL-Players-Positions-2024.xlsx") |>
+  select(
+    player_full_name,
+    player_team = team_name,
+    pos_1 = `position 1`,
+    pos_2 = `position 2`
+  ) |>
+  mutate(pos_1_factor = factor(
+    pos_1,
+    levels = 1:11,
+    labels = c(
+      "Key Defender",
+      "Small Defender",
+      "Offensive Defender",
+      "CBA > 50%",
+      "CBA < 50%",
+      "Wing",
+      "Contested",
+      "Uncontested",
+      "Ruck",
+      "Key Forward",
+      "Small Forward"
+    )
+  )) |> 
+  mutate(pos_2_factor = factor(
+    pos_2,
+    levels = 1:11,
+    labels = c(
+      "Key Defender",
+      "Small Defender",
+      "Offensive Defender",
+      "CBA > 50%",
+      "CBA < 50%",
+      "Wing",
+      "Contested",
+      "Uncontested",
+      "Ruck",
+      "Key Forward",
+      "Small Forward"
+    )
+  )) |> 
+  select(player_name = player_full_name, player_team, Position = pos_1_factor)
+
+
+dvp_data <-
+  dvp_data %>%
+  mutate(dvp = ifelse(market_name == "Player Goals", rnorm(nrow(dvp_data)), dvp)) |> 
+  group_by(market_name) %>%
+  mutate(
+    DVP_Category = cut(
+      dvp,
+      breaks = quantile(dvp, probs = 0:5/5, na.rm = TRUE),
+      include.lowest = TRUE,
+      labels = c("Terrible", "Bad", "Neutral", "Good", "Excellent")
+    )
+  ) %>%
+    mutate(DVP_Category = as.character(DVP_Category)) |> 
+    mutate(DVP_Category = ifelse(market_name == "Player Goals", "Neutral", DVP_Category)) |> 
+  ungroup() %>%
+  select(Position = Pos, opposition_team = Opponent, market_name, DVP_Category)
+```
+
+```{r}
+# Get all markets together
+  all_markets <- bind_rows(
+    player_disposals_data,
+    player_goals_data,
+    player_fantasy_data,
+    player_marks_data,
+    player_tackles_data
+  )
+
+# Arrange in order
+all_markets <-
+all_markets |>
+  select(
+    match,
+    player_name,
+    player_team,
+    opposition_team,
+    market_name,
+    over_price,
+    implied_prob_over,
+    under_price,
+    implied_prob_under,
+    line,
+    agency,
+    diff_over_2023,
+    diff_over_last_10,
+    diff_under_2023,
+    diff_under_last_10
+  ) |>
+  arrange(match, player_name, market_name, line, desc(over_price))
+
+# Add positions and DVP
+all_markets <-
+all_markets |>
+left_join(player_positions, relationship = "many-to-one") |>
+  left_join(dvp_data, by = c("opposition_team", "Position", "market_name"), relationship = "many-to-one") |> 
+  relocate(Position, DVP_Category, .after = player_name)
+```
+
+```{r}
+# Get biggest differences from second best odds available
+  biggest_diffs <-
+  all_markets |>
+    group_by(match, player_name, market_name, line) |> 
+    distinct(match, player_name, market_name, line, agency, .keep_all = TRUE) |> 
+    mutate(number_of_odds = n()) |>
+    mutate(best_implied_prob_over = implied_prob_over,
+           second_best_implied_prob_over = lead(implied_prob_over, 1),
+           second_best_odds = lead(over_price, 1)) |>
+  slice_head(n = 1) |>
+  ungroup() |> 
+  filter(number_of_odds > 1) |>
+  mutate(diff_over = second_best_implied_prob_over - best_implied_prob_over) |>
+  select(-number_of_odds, -best_implied_prob_over, -second_best_implied_prob_over) |>
+  arrange(desc(diff_over), match, player_name, market_name, line) |> 
+  relocate(second_best_odds, .after = over_price)
+```
+
+
+## 2 Leg Multis
+
+```{r}
+#| results: asis
+
+# Outlier List
+biggest_diffs_outliers <-
+  biggest_diffs |>
+  filter(diff_over_last_10 >= 0) |>
+  arrange(desc(diff_over_last_10)) |> 
+  rename(gap = diff_over) |> 
+  filter(gap > 0) |> 
+  filter(DVP_Category %notin% c("Terrible", "Bad")) |> 
+  filter(!is.na(DVP_Category))
+
+# Get all 2 leg multis----------------------------------------------------------
+
+# Get the number of rows in the tibble
+n <- nrow(biggest_diffs_outliers)
+
+# Generate all combinations of two numbers between 1 and n
+combinations <- combn(1:n, 2)
+
+# Convert the combinations matrix to a tibble for better readability
+combinations_tibble <- as_tibble(t(combinations), .name_repair = "minimal") %>%
+  set_names(c("row1", "row2"))
+
+# Create a list where each element is a tibble with the subset of the original tibble for the two rows of interest
+combination_list <-
+  combinations_tibble %>%
+  rowwise() %>%
+  mutate(subset_tibble = list(biggest_diffs_outliers[c(row1, row2), ])) %>%
+  pull(subset_tibble)
+
+# Filter to instances where the two rows are for different matches and same agency
+combination_list <- combination_list %>%
+  keep(~ .x$match[1] != .x$match[2]) %>%
+  keep(~ .x$agency[1] == .x$agency[2])
+
+# Filter to where the combined prices are greater than 1.5 and less than 3
+combination_list <- combination_list %>%
+  keep(~ prod(.x$over_price) > 1.5 & prod(.x$over_price) < 3)
+
+# Map a function that takes the tibble with 2 rows and returns a tibble with 1 row
+
+process_function <-
+  function(tibble) {
+  tibble %>%
+    summarise(
+      match = paste(match, collapse = " & "),
+      player_name = paste(player_name, collapse = " & "),
+      market_name = paste(market_name, collapse = " & "),
+      line = paste(line, collapse = " & "),
+      individual_prices = paste(over_price, collapse = " & "),
+      over_price = prod(over_price),
+      implied_prob_over = prod(implied_prob_over),
+      diff_over_last_10 = paste(diff_over_last_10, collapse = " & "), 
+      agency = first(agency),
+      DVP_Category = paste(DVP_Category, collapse = " & "),
+      second_best_odds = prod(second_best_odds)
+    )
+  }
+
+candidate_2_leg_cgms <-
+  map_dfr(combination_list, process_function, .progress = TRUE) |> 
+  mutate(price_gap = over_price - second_best_odds) |>
+  arrange(desc(price_gap))
+
+```
+
+# 3 Leg Multis
+
+```{r}
+#| results: asis
+
+# Get all 3 leg multis----------------------------------------------------------
+
+# Get the number of rows in the tibble
+n <- nrow(biggest_diffs_outliers)
+
+# Generate all combinations of three numbers between 1 and n
+combinations <- combn(1:n, 3)
+
+# Convert the combinations matrix to a tibble for better readability
+combinations_tibble <- as_tibble(t(combinations), .name_repair = "minimal") %>%
+  set_names(c("row1", "row2", "row3"))
+
+# Create a list where each element is a tibble with the subset of the original tibble for the three rows of interest
+combination_list <-
+  combinations_tibble %>%
+  rowwise() %>%
+  mutate(subset_tibble = list(biggest_diffs_outliers[c(row1, row2, row3), ])) %>%
+  pull(subset_tibble)
+
+# Filter to instances where the three rows are for different matches and same agency
+combination_list <- combination_list %>%
+  keep(~ .x$match[1] != .x$match[2] & .x$match[1] != .x$match[3] & .x$match[2] != .x$match[3]) %>%
+  keep(~ .x$agency[1] == .x$agency[2] & .x$agency[1] == .x$agency[3])
+
+# Filter to where the combined prices are greater than 2 and less than 5
+combination_list <- combination_list %>%
+  keep(~ prod(.x$over_price) > 1.5 & prod(.x$over_price) < 3)
+
+# Map a function that takes the tibble with 3 rows and returns a tibble with 1 row
+
+process_function <-
+  function(tibble) {
+  tibble %>%
+    summarise(
+      match = paste(match, collapse = " & "),
+      player_name = paste(player_name, collapse = " & "),
+      market_name = paste(market_name, collapse = " & "),
+      line = paste(line, collapse = " & "),
+      individual_prices = paste(over_price, collapse = " & "),
+      over_price = prod(over_price),
+      implied_prob_over = prod(implied_prob_over),
+      diff_over_last_10 = paste(diff_over_last_10, collapse = " & "), 
+      agency = first(agency),
+      DVP_Category = paste(DVP_Category, collapse = " & "),
+      second_best_odds = prod(second_best_odds)
+    )
+  }
+
+candidate_3_leg_cgms <-
+  map_dfr(combination_list, process_function, .progress = TRUE) |> 
+  mutate(price_gap = over_price - second_best_odds) |>
+  arrange(desc(price_gap))
+
+```

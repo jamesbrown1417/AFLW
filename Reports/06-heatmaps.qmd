@@ -1,0 +1,163 @@
+---
+title: "Heatmaps"
+subtitle: "2024 Season"
+format:
+  html:
+      theme: cosmo
+      page-layout: full
+      self-contained: true
+      toc: true
+      fig-width: 8
+      fig-height: 6
+editor: visual
+author: James Brown
+echo: false
+warning: false
+message: false
+---
+
+\# Load Current Season Data
+
+current_season_data \<- get_fantasy_data(season = 2024)
+
+```{r}
+# Libraries and functions
+library(tidyverse)
+library(qreport)
+library(kableExtra)
+library(fitzRoy)
+
+# Load data processing functions
+source("../Functions/data_processing_functions.R")
+
+# Load Current Season Data
+current_season_data <- get_fantasy_data(season = 2024)
+
+# Fix Round
+current_season_data <-
+  current_season_data |> 
+  mutate(round = str_replace(round, "Opening Round", "Round 0"))
+```
+
+```{r}
+#| results: asis
+
+# Get only players with at least one CBA
+current_season_cbas <-
+current_season_data |>
+  select(Player = player_full_name,
+         Team = player_team,
+         Round = round,
+         Opposition = opposition_team,
+         CBAs = cbas,
+         `CBA %` = cba_percentage) |> 
+  filter(`CBA %` > 0) |> 
+  arrange(Team, desc(`CBA %`)) |> 
+  mutate(`CBA %` = (100*`CBA %`) |> round(2))
+
+# Output each team DF
+cba_list <-
+map(
+  unique(current_season_cbas$Team),
+  ~ current_season_cbas |> filter(Team == .x) |> arrange(Player, Round)
+) |> 
+  set_names(unique(current_season_cbas$Team))
+```
+
+## CBA Tables
+
+```{r}
+#| results: asis
+
+# Ztable options
+options(ztable.type="html")
+
+# Function to get heatmaps
+get_heatmap <- function(df) {
+  df |>
+    mutate(Avg = round(mean(`CBA %`, na.rm = TRUE), 2), .by = Player) |>
+    select(Player, Round, `CBA %`, Avg) |>
+    mutate(Round = as.integer(str_remove(Round, "Round "))) |>
+    arrange(Round) |>
+    pivot_wider(
+      id_cols = c("Player", "Avg"),
+      names_from = Round,
+      values_from = `CBA %`
+    ) |>
+    relocate(Avg, .after = last_col()) |>
+    arrange(desc(Avg)) |>
+    as.data.frame() |> 
+    ztable::ztable() |> 
+    ztable::makeHeatmap(mycolor = heat.colors(n = 20, rev = TRUE), margin = 2, changeColor = FALSE, reverse = TRUE) |> 
+    ztable::update_ztable(family = "serif", size = 9)
+}
+
+# Map to cba df list
+cba_tables <- map(cba_list, get_heatmap)
+
+# Make tabset with each team's CBAs
+maketabs(cba_tables, wide = TRUE)
+```
+
+## Kick-in Tables
+
+```{r}
+#| results: asis
+
+# Get only players with at least one kickin
+current_season_kickins <-
+current_season_data |>
+  select(Player = player_full_name,
+         Team = player_team,
+         Opposition = opposition_team,
+         Round = round,
+         Kickins = kick_ins,
+         `Kickins (Play On)` = kick_ins_play_on) |>
+  mutate(`Kickin %` = Kickins / sum(Kickins), .by = c("Team", "Opposition", "Round")) |> 
+  filter(Kickins > 0) |> 
+  group_by(Team) |> 
+  arrange(Team, desc(`Kickin %`)) |> 
+  mutate(`Kickin %` = (100*`Kickin %`) |> round(2)) |> 
+  ungroup()
+
+# Output each team DF
+kickin_list <-
+map(
+  unique(current_season_kickins$Team),
+  ~ current_season_kickins |> filter(Team == .x)
+) |> 
+  set_names(unique(current_season_kickins$Team))
+```
+
+```{r}
+#| results: asis
+
+# Ztable options
+options(ztable.type="html")
+
+# Function to get heatmaps
+get_heatmap <- function(df) {
+  df |>
+    mutate(Avg = round(mean(`Kickin %`, na.rm = TRUE), 2), .by = Player) |>
+    select(Player, Round, `Kickin %`, Avg) |>
+    mutate(Round = as.integer(str_remove(Round, "Round "))) |>
+    arrange(Round) |>
+    pivot_wider(
+      id_cols = c("Player", "Avg"),
+      names_from = Round,
+      values_from = `Kickin %`
+    ) |>
+    relocate(Avg, .after = last_col()) |>
+    arrange(desc(Avg)) |>
+    as.data.frame() |> 
+    ztable::ztable() |> 
+    ztable::makeHeatmap(mycolor = heat.colors(n = 20, rev = TRUE), margin = 2, changeColor = FALSE, reverse = TRUE) |> 
+    ztable::update_ztable(family = "serif", size = 9)
+}
+
+# Map to kickin df list
+kickin_tables <- map(kickin_list, get_heatmap)
+
+# Make tabset with each team's Kickins
+maketabs(kickin_tables, wide = TRUE)
+```

@@ -1,0 +1,10 @@
+match,start_time,market_name,home_team,home_line,home_win,away_team,away_line,away_win,margin,agency
+Sydney Swans v Collingwood Magpies,2024-08-30T09:15:00.000Z,Line,Sydney Swans,-7.5,1.87,Collingwood Magpies,7.5,1.87,1.07,TAB
+West Coast Eagles v Richmond Tigers,2024-08-30T11:15:00.000Z,Line,West Coast Eagles,20.5,1.9,Richmond Tigers,-20.5,1.85,1.067,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,-4.5,1.87,Western Bulldogs,4.5,1.87,1.07,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-8.5,1.87,Fremantle Dockers,8.5,1.87,1.07,TAB
+Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Line,Gold Coast Suns,-6.5,1.87,St Kilda Saints,6.5,1.87,1.07,TAB
+Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Line,Geelong Cats,-5.5,1.87,Melbourne Demons,5.5,1.87,1.07,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,26.5,1.87,Adelaide Crows,-26.5,1.87,1.07,TAB
+Hawthorn Hawks v Carlton,2024-09-01T03:05:00.000Z,Line,Hawthorn Hawks,-10.5,1.9,Carlton,10.5,1.85,1.067,TAB
+Brisbane Lions v North Melbourne Kangaroos,2024-09-01T05:05:00.000Z,Line,Brisbane Lions,-7.5,1.87,North Melbourne Kangaroos,7.5,1.87,1.07,TAB
