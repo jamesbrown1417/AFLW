@@ -14,7 +14,7 @@ player_names <- player_names |> select(player_full_name, team_name)
 
 pointsbet_h2h_main <- function() {
   # URL of website
-  pointsbet_url = "https://api.pointsbet.com/api/v2/competitions/7523/events/featured?includeLive=false&page=1"
+  pointsbet_url = "https://api.pointsbet.com/api/v2/competitions/7303/events/featured?includeLive=false&page=1"
   
   # Make request and get response
   pointsbet_response <-
