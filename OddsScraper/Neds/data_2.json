@@ -16,6 +16,22 @@
             "sort_order": 10,
             "market_id": "6fed1644-0296-4b03-8b89-0ca3c2588b60"
         },
+        "037e0f57-498f-4a70-a035-646fab51bbfb": {
+            "id": "037e0f57-498f-4a70-a035-646fab51bbfb",
+            "name": "Kate Darby (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 120,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "05fa7187-e8a2-4a36-bb9b-5e0ddc4b05e4": {
+            "id": "05fa7187-e8a2-4a36-bb9b-5e0ddc4b05e4",
+            "name": "Paxy Paxman (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 110,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
         "0738aab9-45f9-4497-8839-6f98291be743": {
             "id": "0738aab9-45f9-4497-8839-6f98291be743",
             "name": "Melbourne (W)",
@@ -23,6 +39,22 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "4f139bf3-c2a5-43ee-8632-f465d04c6114"
+        },
+        "09953da9-5be6-4b71-9c2a-58578e6d5c9d": {
+            "id": "09953da9-5be6-4b71-9c2a-58578e6d5c9d",
+            "name": "Darcy Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 220,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "0a6d70ad-6ab6-44eb-93ad-3107b33a6f4f": {
+            "id": "0a6d70ad-6ab6-44eb-93ad-3107b33a6f4f",
+            "name": "Jacqueline Parry (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
         },
         "0c63babd-5a5c-45b3-9dbe-a2af4217d9e9": {
             "id": "0c63babd-5a5c-45b3-9dbe-a2af4217d9e9",
@@ -32,6 +64,14 @@
             "sort_order": 10,
             "market_id": "093173ea-b645-4ebf-bfc2-93b68678d499"
         },
+        "0d50465f-ac58-47e0-be98-dfd5967e82aa": {
+            "id": "0d50465f-ac58-47e0-be98-dfd5967e82aa",
+            "name": "Kate Hore (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6"
+        },
         "0eb4e321-a85d-40fd-9e4a-477e85cd1a12": {
             "id": "0eb4e321-a85d-40fd-9e4a-477e85cd1a12",
             "name": "Melbourne (W) to win by more than 15.5 points",
@@ -39,6 +79,13 @@
             "visible": true,
             "sort_order": 30,
             "market_id": "b2df8e9e-be34-4f90-ac01-74c5ea2d9ccd"
+        },
+        "0f0ec932-41f7-4072-ade5-1622ea330e41": {
+            "id": "0f0ec932-41f7-4072-ade5-1622ea330e41",
+            "name": "Geelong Cats (W) -2.5 / Over 86.5",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "4a5ef98d-bf2c-4a52-bf57-6a50c5745ccd"
         },
         "0f3df071-f429-436f-bf33-c838ed0de0c5": {
             "id": "0f3df071-f429-436f-bf33-c838ed0de0c5",
@@ -48,12 +95,58 @@
             "sort_order": 30,
             "market_id": "f7d044b3-32e6-420a-894a-2dd0fcd92f43"
         },
+        "109eafc8-87aa-44ba-bf23-f96db374f4f8": {
+            "id": "109eafc8-87aa-44ba-bf23-f96db374f4f8",
+            "name": "Nina Morrison (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "10bb5cd7-0971-46b7-92e1-409f16736d60": {
+            "id": "10bb5cd7-0971-46b7-92e1-409f16736d60",
+            "name": "Alyssa Bannan (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "11c96d8d-c22a-479f-bf55-4b719b6f93e5": {
+            "id": "11c96d8d-c22a-479f-bf55-4b719b6f93e5",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "8988fbac-30ee-455e-b0c6-ee78b235e57e"
+        },
+        "12a5783e-e939-46a8-890a-62da61b999fe": {
+            "id": "12a5783e-e939-46a8-890a-62da61b999fe",
+            "name": "Rebecca Webster (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "9be71763-362d-43f6-b630-6a086362f2be"
+        },
+        "12fee3cc-c016-448a-9f40-203271b0fd1f": {
+            "id": "12fee3cc-c016-448a-9f40-203271b0fd1f",
+            "name": "Geelong Cats (W) / Geelong Cats (W)",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "b0848e03-aa4f-4743-8998-00ec4561d876"
+        },
         "148dddfe-5532-4ef0-8367-6b54c6de1d89": {
             "id": "148dddfe-5532-4ef0-8367-6b54c6de1d89",
             "name": "Draw",
             "visible": true,
             "sort_order": 30,
             "market_id": "2a8191ad-b474-46f2-821c-e1cd1139fa37"
+        },
+        "150073f5-20d4-4410-9580-d97901edd1f9": {
+            "id": "150073f5-20d4-4410-9580-d97901edd1f9",
+            "name": "Rebecca Webster (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 260,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
         },
         "1616d14c-c928-429b-ae94-dc61090ddc19": {
             "id": "1616d14c-c928-429b-ae94-dc61090ddc19",
@@ -71,6 +164,117 @@
             "sort_order": 10,
             "market_id": "2a8191ad-b474-46f2-821c-e1cd1139fa37"
         },
+        "19b73e7d-f888-4d03-8905-f138c99e81a1": {
+            "id": "19b73e7d-f888-4d03-8905-f138c99e81a1",
+            "name": "Georgie Rankin (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 310,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "1a87c36e-36f1-4fcb-893c-b18a6ec129dd": {
+            "id": "1a87c36e-36f1-4fcb-893c-b18a6ec129dd",
+            "name": "Tahlia Gillard (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 330,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "1a8a1e5c-11c8-43e2-85ba-120339697f6f": {
+            "id": "1a8a1e5c-11c8-43e2-85ba-120339697f6f",
+            "name": "Georgie Prespakis (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 120,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "1ac27b4b-b223-4eaf-92ed-e1709fc2b020": {
+            "id": "1ac27b4b-b223-4eaf-92ed-e1709fc2b020",
+            "name": "Nina Morrison (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6"
+        },
+        "1acc1c94-f047-47dc-b4b1-99781e240dab": {
+            "id": "1acc1c94-f047-47dc-b4b1-99781e240dab",
+            "name": "Amy McDonald (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 100,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "1aeef343-7404-4fc9-976f-55ec2c896992": {
+            "id": "1aeef343-7404-4fc9-976f-55ec2c896992",
+            "name": "Lily Mithen (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 190,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "1ba37cfc-d05b-43d8-a62c-eafe99bb820c": {
+            "id": "1ba37cfc-d05b-43d8-a62c-eafe99bb820c",
+            "name": "Rhiannon Watt (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 300,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "1c8bd28a-e8ee-4764-9ae4-0c709751f251": {
+            "id": "1c8bd28a-e8ee-4764-9ae4-0c709751f251",
+            "name": "Kate Darby (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 120,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "1c9ff8c8-8175-4cf1-b407-e581a9468074": {
+            "id": "1c9ff8c8-8175-4cf1-b407-e581a9468074",
+            "name": "Darcy Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 220,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "1cb47d61-f8a7-4da6-aca1-cf7c6d55bf26": {
+            "id": "1cb47d61-f8a7-4da6-aca1-cf7c6d55bf26",
+            "name": "Geelong Cats (W) / Under 86.5",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "20a68a7a-d2fd-4504-be85-2ce9adb8899b"
+        },
+        "1ce699ec-abd2-4219-862f-e76cc781503a": {
+            "id": "1ce699ec-abd2-4219-862f-e76cc781503a",
+            "name": "Darcy Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 190,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "1d030fc5-db90-42be-b861-0b4ff0248ca9": {
+            "id": "1d030fc5-db90-42be-b861-0b4ff0248ca9",
+            "name": "Grace Beasley (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 420,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "1e5d8e99-0f2b-432a-a7f4-396b506648a7": {
+            "id": "1e5d8e99-0f2b-432a-a7f4-396b506648a7",
+            "name": "Kate Kenny (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 90,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "1fd8cf6e-e47e-450d-8209-e566796eb31c": {
+            "id": "1fd8cf6e-e47e-450d-8209-e566796eb31c",
+            "name": "Aishling Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
         "20078457-725c-43e6-801b-b7c33ecb4cf6": {
             "id": "20078457-725c-43e6-801b-b7c33ecb4cf6",
             "name": "Melbourne (W) Behind",
@@ -78,6 +282,46 @@
             "visible": true,
             "sort_order": 30,
             "market_id": "52243119-00f3-45a5-ac6a-4375c3d9cb72"
+        },
+        "204d5a06-ff06-4552-950c-e1c938f866c9": {
+            "id": "204d5a06-ff06-4552-950c-e1c938f866c9",
+            "name": "Shelley Heath (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 290,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "20795726-efac-432e-b491-3c1e7340548f": {
+            "id": "20795726-efac-432e-b491-3c1e7340548f",
+            "name": "Eliza McNamara (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 230,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "20e78067-d32a-4a65-989f-f83a354b4350": {
+            "id": "20e78067-d32a-4a65-989f-f83a354b4350",
+            "name": "Shelley Scott (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 240,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "2263f180-d75d-42ff-85d7-e71436689cd9": {
+            "id": "2263f180-d75d-42ff-85d7-e71436689cd9",
+            "name": "Tahlia Gillard (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 330,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "232eacab-542b-4b38-8eae-ed1ed723b304": {
+            "id": "232eacab-542b-4b38-8eae-ed1ed723b304",
+            "name": "Shelley Heath (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 290,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
         },
         "23e3ba71-073a-49de-aad9-ad0f3ef0e1a7": {
             "id": "23e3ba71-073a-49de-aad9-ad0f3ef0e1a7",
@@ -95,6 +339,22 @@
             "sort_order": 20,
             "market_id": "79298ba9-dfc6-4609-aa7d-ca82e7a1c9fe"
         },
+        "23f8acf1-a554-4c94-8d35-a6394a9e7112": {
+            "id": "23f8acf1-a554-4c94-8d35-a6394a9e7112",
+            "name": "Eden Zanker (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "242670de-abe7-40f5-b92c-b26d4fcbf521": {
+            "id": "242670de-abe7-40f5-b92c-b26d4fcbf521",
+            "name": "Eliza McNamara (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "9be71763-362d-43f6-b630-6a086362f2be"
+        },
         "246e23c3-7325-48b0-bf50-f6f9709a8d2a": {
             "id": "246e23c3-7325-48b0-bf50-f6f9709a8d2a",
             "name": "Melbourne (W) to win by more than 24.5 points",
@@ -103,6 +363,30 @@
             "sort_order": 30,
             "market_id": "093173ea-b645-4ebf-bfc2-93b68678d499"
         },
+        "24fa4673-9fbb-4e15-947b-5c1e94b5f1a1": {
+            "id": "24fa4673-9fbb-4e15-947b-5c1e94b5f1a1",
+            "name": "Kate Darby (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 120,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "26b90747-2eda-4cf1-baf2-f4b0fb0808a4": {
+            "id": "26b90747-2eda-4cf1-baf2-f4b0fb0808a4",
+            "name": "Ryleigh Wotherspoon (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "28e94999-aa45-4ee8-9bed-9c402e503bd4": {
+            "id": "28e94999-aa45-4ee8-9bed-9c402e503bd4",
+            "name": "Meghan McDonald (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 250,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
         "295f5baf-c26c-4876-a9a4-c251366e111b": {
             "id": "295f5baf-c26c-4876-a9a4-c251366e111b",
             "name": "Melbourne (W)",
@@ -110,6 +394,173 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "944effbd-129f-4078-97fb-28dbb5b31f34"
+        },
+        "2a9159ae-9069-4d15-90e1-10e8a67a62b4": {
+            "id": "2a9159ae-9069-4d15-90e1-10e8a67a62b4",
+            "name": "Sarah Lampard (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 150,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "2a945449-bdb2-4fec-95e5-e90939317450": {
+            "id": "2a945449-bdb2-4fec-95e5-e90939317450",
+            "name": "Kate Surman (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 180,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "2b5d9d46-28fb-4b6b-aecf-b858057c7f6d": {
+            "id": "2b5d9d46-28fb-4b6b-aecf-b858057c7f6d",
+            "name": "Paxy Paxman (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 110,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "2c72d03a-760a-424e-a2e4-129dd12ae210": {
+            "id": "2c72d03a-760a-424e-a2e4-129dd12ae210",
+            "name": "Aishling Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 90,
+            "market_id": "9be71763-362d-43f6-b630-6a086362f2be"
+        },
+        "2d53220a-81f6-43bc-9451-f4183cd11bbd": {
+            "id": "2d53220a-81f6-43bc-9451-f4183cd11bbd",
+            "name": "Meghan McDonald (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 250,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "2e3a9f95-a399-4fdf-b34c-7ccaddaf9b42": {
+            "id": "2e3a9f95-a399-4fdf-b34c-7ccaddaf9b42",
+            "name": "Tyla Hanks (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "fc21dc7f-d33a-4c42-9d1c-729f739f3381"
+        },
+        "2e7bc233-3802-427d-86ee-84b3433c246b": {
+            "id": "2e7bc233-3802-427d-86ee-84b3433c246b",
+            "name": "Georgie Prespakis (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 140,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "2fd22cc4-be3c-4464-a72a-6e987796509f": {
+            "id": "2fd22cc4-be3c-4464-a72a-6e987796509f",
+            "name": "Lily Mithen (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 190,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "3160f22a-de51-4d3a-8c3b-3e7aea3400ea": {
+            "id": "3160f22a-de51-4d3a-8c3b-3e7aea3400ea",
+            "name": "Lily Mithen (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "9be71763-362d-43f6-b630-6a086362f2be"
+        },
+        "32d9b01b-6b6e-46ae-a87e-d3a28741e13f": {
+            "id": "32d9b01b-6b6e-46ae-a87e-d3a28741e13f",
+            "name": "Ryleigh Wotherspoon (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 90,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "335051d4-d04d-4ad9-a529-2ca60ed7c8b9": {
+            "id": "335051d4-d04d-4ad9-a529-2ca60ed7c8b9",
+            "name": "Kate Hore (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "3355b5e8-99fd-41e5-9702-c0d0d089329a": {
+            "id": "3355b5e8-99fd-41e5-9702-c0d0d089329a",
+            "name": "Amy McDonald (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 100,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "33e47203-e4cc-41f2-a116-36b8a0fe256e": {
+            "id": "33e47203-e4cc-41f2-a116-36b8a0fe256e",
+            "name": "Maeve Chaplin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 340,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "34f3f386-0e04-4a47-b1ad-72431f79b749": {
+            "id": "34f3f386-0e04-4a47-b1ad-72431f79b749",
+            "name": "Claudia Gunjaca (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 370,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "361203ad-db2d-475e-869c-baa12cb4b888": {
+            "id": "361203ad-db2d-475e-869c-baa12cb4b888",
+            "name": "Julia Crockett-Grills (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 160,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "39345f3b-5b42-41ee-b1cb-f79d9dc92d48": {
+            "id": "39345f3b-5b42-41ee-b1cb-f79d9dc92d48",
+            "name": "Eliza McNamara (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 230,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "39966c77-7971-486e-9cf2-be146c24b90a": {
+            "id": "39966c77-7971-486e-9cf2-be146c24b90a",
+            "name": "Melbourne (W) / Under 86.5",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "20a68a7a-d2fd-4504-be85-2ce9adb8899b"
+        },
+        "3ab642a5-6358-4bb9-bb87-7b4d6e945048": {
+            "id": "3ab642a5-6358-4bb9-bb87-7b4d6e945048",
+            "name": "Eden Zanker (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "3ba5460e-7208-4c26-a1a3-354eb8300573": {
+            "id": "3ba5460e-7208-4c26-a1a3-354eb8300573",
+            "name": "Kate Surman (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 180,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "3c3266a5-b1a3-48dd-a959-5f3f2494fac9": {
+            "id": "3c3266a5-b1a3-48dd-a959-5f3f2494fac9",
+            "name": "Kate Hore (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "3dd520b2-50db-4027-9aee-b68294bc57fb": {
+            "id": "3dd520b2-50db-4027-9aee-b68294bc57fb",
+            "name": "Nina Morrison (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "9be71763-362d-43f6-b630-6a086362f2be"
         },
         "3e774aec-c6de-4591-b91a-d90c9797ff7a": {
             "id": "3e774aec-c6de-4591-b91a-d90c9797ff7a",
@@ -127,6 +578,14 @@
             "sort_order": 50,
             "market_id": "2a8191ad-b474-46f2-821c-e1cd1139fa37"
         },
+        "3fabdac3-5610-4d2d-ba69-15d78b870c89": {
+            "id": "3fabdac3-5610-4d2d-ba69-15d78b870c89",
+            "name": "Kate Hore (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
         "403f946c-3dc9-4c64-aa2b-5ef8a884d1b5": {
             "id": "403f946c-3dc9-4c64-aa2b-5ef8a884d1b5",
             "name": "Melbourne (W)",
@@ -134,6 +593,76 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "388a3072-c28a-4ce5-9375-6af21af2bd90"
+        },
+        "40baa1d6-8413-4126-9ae8-8183c1947619": {
+            "id": "40baa1d6-8413-4126-9ae8-8183c1947619",
+            "name": "Grace Beasley (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 420,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "41058ae9-3ec6-4d17-ad0a-b34da280a4db": {
+            "id": "41058ae9-3ec6-4d17-ad0a-b34da280a4db",
+            "name": "Megan Fitzsimon (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 210,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "42a48819-7177-4e84-811a-2fd4f98d9f91": {
+            "id": "42a48819-7177-4e84-811a-2fd4f98d9f91",
+            "name": "Tayla Harris (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "42d23805-d712-4330-9ff1-db71d688d6f2": {
+            "id": "42d23805-d712-4330-9ff1-db71d688d6f2",
+            "name": "Paxy Paxman (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "9be71763-362d-43f6-b630-6a086362f2be"
+        },
+        "42e79125-7add-4dd2-ba6f-20d9aa68978b": {
+            "id": "42e79125-7add-4dd2-ba6f-20d9aa68978b",
+            "name": "Lily Mithen (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 190,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "4320c889-5d72-483c-b3dc-8bc9c4805517": {
+            "id": "4320c889-5d72-483c-b3dc-8bc9c4805517",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "8988fbac-30ee-455e-b0c6-ee78b235e57e"
+        },
+        "447bbc9b-b44d-4b61-98e8-a664bfea102e": {
+            "id": "447bbc9b-b44d-4b61-98e8-a664bfea102e",
+            "name": "Geelong Cats (W) / Over 86.5",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "20a68a7a-d2fd-4504-be85-2ce9adb8899b"
+        },
+        "465c56da-33bb-4b03-8fbc-47da2f9e8f2a": {
+            "id": "465c56da-33bb-4b03-8fbc-47da2f9e8f2a",
+            "name": "Georgie Prespakis (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 140,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "4771113f-0775-4b56-a1de-e0b095c456ff": {
+            "id": "4771113f-0775-4b56-a1de-e0b095c456ff",
+            "name": "Lauren Pearce (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 200,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
         },
         "47e34754-9764-4f66-908e-7c7089dfa9fa": {
             "id": "47e34754-9764-4f66-908e-7c7089dfa9fa",
@@ -143,6 +672,38 @@
             "sort_order": 10,
             "market_id": "44b738b0-c03a-48a3-9ebb-56074033eec7"
         },
+        "48ba7502-6ecd-44f1-aab6-46b1fb3cfd3c": {
+            "id": "48ba7502-6ecd-44f1-aab6-46b1fb3cfd3c",
+            "name": "Jacqueline Parry (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "491ac2e6-e3ca-4ee5-b505-77e52ae8b1c6": {
+            "id": "491ac2e6-e3ca-4ee5-b505-77e52ae8b1c6",
+            "name": "Ryleigh Wotherspoon (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "499026ea-817e-4cb5-80bb-1c956cba024f": {
+            "id": "499026ea-817e-4cb5-80bb-1c956cba024f",
+            "name": "Jacqueline Parry (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "49f0137c-c27d-4547-a053-d00e35c24f3f": {
+            "id": "49f0137c-c27d-4547-a053-d00e35c24f3f",
+            "name": "Georgie Prespakis (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 140,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
         "4a1b6939-f13d-45db-a935-702a8809f466": {
             "id": "4a1b6939-f13d-45db-a935-702a8809f466",
             "name": "Melbourne (W) Goal",
@@ -151,6 +712,14 @@
             "sort_order": 40,
             "market_id": "cb223532-9451-4e47-bb3a-fa60024ed71c"
         },
+        "4a3ff945-d8ee-4591-8431-d8d4d1888235": {
+            "id": "4a3ff945-d8ee-4591-8431-d8d4d1888235",
+            "name": "Alyssa Bannan (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
         "4a40510d-0e37-43ec-9592-b72aea2c4c7f": {
             "id": "4a40510d-0e37-43ec-9592-b72aea2c4c7f",
             "name": "Melbourne (W)",
@@ -158,6 +727,86 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "e5451495-a48b-4147-bb57-cd706f8547eb"
+        },
+        "4a8c8c49-1321-4fba-8246-5ecd44978804": {
+            "id": "4a8c8c49-1321-4fba-8246-5ecd44978804",
+            "name": "Zali Friswell (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 320,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "4dab7db7-a0df-48a3-a9ee-bce1bdd0b638": {
+            "id": "4dab7db7-a0df-48a3-a9ee-bce1bdd0b638",
+            "name": "Kate Darby (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 130,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "4e26a988-2df2-4836-83a9-dc3470f130ea": {
+            "id": "4e26a988-2df2-4836-83a9-dc3470f130ea",
+            "name": "Mikayla Bowen (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 140,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "4f5b0d53-b043-4fc3-9fd0-8c3869c404c4": {
+            "id": "4f5b0d53-b043-4fc3-9fd0-8c3869c404c4",
+            "name": "Grace Hill (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 400,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "50587dfb-ad69-43d2-8601-d5a9c3c9ce00": {
+            "id": "50587dfb-ad69-43d2-8601-d5a9c3c9ce00",
+            "name": "Tayla Harris (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "517cae81-25bf-477e-9420-0fbe73dbd819": {
+            "id": "517cae81-25bf-477e-9420-0fbe73dbd819",
+            "name": "Kate Hore (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "9be71763-362d-43f6-b630-6a086362f2be"
+        },
+        "5239486d-979d-4d0b-ab2d-7acad05c7495": {
+            "id": "5239486d-979d-4d0b-ab2d-7acad05c7495",
+            "name": "Gabrielle Colvin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 270,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "5283c406-1043-45d1-90ec-d76b6104cdca": {
+            "id": "5283c406-1043-45d1-90ec-d76b6104cdca",
+            "name": "Tayla Harris (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "52be2f1a-427f-4ab0-a378-d2b9de801c8e": {
+            "id": "52be2f1a-427f-4ab0-a378-d2b9de801c8e",
+            "name": "Nina Morrison (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "fc21dc7f-d33a-4c42-9d1c-729f739f3381"
+        },
+        "536b8137-d3f8-4062-b7f7-880e4d968ef4": {
+            "id": "536b8137-d3f8-4062-b7f7-880e4d968ef4",
+            "name": "Mikayla Bowen (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 130,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
         },
         "5386e3c8-473b-47fd-baf5-7c56374fae6d": {
             "id": "5386e3c8-473b-47fd-baf5-7c56374fae6d",
@@ -174,6 +823,14 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "14b01f48-c511-4b1e-bb89-3492f263f173"
+        },
+        "54505bef-a608-4b75-a436-3ba9c4b80268": {
+            "id": "54505bef-a608-4b75-a436-3ba9c4b80268",
+            "name": "Grace Hill (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 400,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
         },
         "54921af5-9ea9-4c09-bedc-d832b4088c1d": {
             "id": "54921af5-9ea9-4c09-bedc-d832b4088c1d",
@@ -199,6 +856,54 @@
             "sort_order": 10,
             "market_id": "388a3072-c28a-4ce5-9375-6af21af2bd90"
         },
+        "59774bb8-dd1a-4e39-a252-f5c08a988e96": {
+            "id": "59774bb8-dd1a-4e39-a252-f5c08a988e96",
+            "name": "Gabbi Featherston (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 350,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "5a4b5f6b-e3f2-41df-b406-53e4a9e3336d": {
+            "id": "5a4b5f6b-e3f2-41df-b406-53e4a9e3336d",
+            "name": "Kate Kenny (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 90,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "5a5f0a38-00c7-484d-8fa5-9a0db17e818a": {
+            "id": "5a5f0a38-00c7-484d-8fa5-9a0db17e818a",
+            "name": "Ryleigh Wotherspoon (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "5a907a79-d311-455a-9e32-dc9e2262ea94": {
+            "id": "5a907a79-d311-455a-9e32-dc9e2262ea94",
+            "name": "Gabrielle Colvin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 270,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "5abaf17e-5b5c-46db-938b-843589f4ea51": {
+            "id": "5abaf17e-5b5c-46db-938b-843589f4ea51",
+            "name": "Gabbi Featherston (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 350,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "5c086eb6-54c6-46bc-9694-12603f7acfb1": {
+            "id": "5c086eb6-54c6-46bc-9694-12603f7acfb1",
+            "name": "Georgie Rankin (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 310,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
         "5c591bf9-5bdd-4094-b9ff-b192ab9a82f0": {
             "id": "5c591bf9-5bdd-4094-b9ff-b192ab9a82f0",
             "name": "Melbourne (W)",
@@ -206,6 +911,22 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "eecac583-552e-4c14-878a-54e735b68887"
+        },
+        "5cb67cd4-e674-423c-9ecd-3ffb6e2c2f9e": {
+            "id": "5cb67cd4-e674-423c-9ecd-3ffb6e2c2f9e",
+            "name": "Shelley Scott (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 240,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "5d0dd5f5-b2b1-45fa-b9ca-41ee27d78714": {
+            "id": "5d0dd5f5-b2b1-45fa-b9ca-41ee27d78714",
+            "name": "Grace Beasley (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 420,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
         },
         "5f79c76c-2620-47b8-a100-f23d5e11904f": {
             "id": "5f79c76c-2620-47b8-a100-f23d5e11904f",
@@ -215,6 +936,14 @@
             "sort_order": 10,
             "market_id": "e5451495-a48b-4147-bb57-cd706f8547eb"
         },
+        "5fd2b431-13d7-46df-b5d8-1dcfc9e05d4e": {
+            "id": "5fd2b431-13d7-46df-b5d8-1dcfc9e05d4e",
+            "name": "Anna-Rose Kennedy (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 410,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
         "606c335b-8530-4630-9cdf-9f4c615d4974": {
             "id": "606c335b-8530-4630-9cdf-9f4c615d4974",
             "name": "Melbourne (W)",
@@ -223,12 +952,59 @@
             "sort_order": 20,
             "market_id": "546ad1dd-2fc0-4077-b12f-582e1aee45f0"
         },
+        "619a7d00-cc4e-4b6f-825c-3bc4e9513887": {
+            "id": "619a7d00-cc4e-4b6f-825c-3bc4e9513887",
+            "name": "Julia Crockett-Grills (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 170,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "62d5f4e7-9c15-47f2-b9b0-1db2f6a40e33": {
+            "id": "62d5f4e7-9c15-47f2-b9b0-1db2f6a40e33",
+            "name": "Geelong Cats (W) -2.5 / Under 86.5",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "4a5ef98d-bf2c-4a52-bf57-6a50c5745ccd"
+        },
+        "630d3da2-2fd6-4de6-94ea-ddd780e93eef": {
+            "id": "630d3da2-2fd6-4de6-94ea-ddd780e93eef",
+            "name": "Tyla Hanks (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 160,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "648981e3-eb7b-4a1c-91a3-51d0b3a095d9": {
+            "id": "648981e3-eb7b-4a1c-91a3-51d0b3a095d9",
+            "name": "Rebecca Webster (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 260,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
         "64af4d24-bac5-4b93-a9e1-5f421c1134a1": {
             "id": "64af4d24-bac5-4b93-a9e1-5f421c1134a1",
             "name": "Either team to win by less than 15.5 points",
             "visible": true,
             "sort_order": 20,
             "market_id": "b2df8e9e-be34-4f90-ac01-74c5ea2d9ccd"
+        },
+        "653aba1e-baa6-4ab6-bf20-771fdc48572e": {
+            "id": "653aba1e-baa6-4ab6-bf20-771fdc48572e",
+            "name": "Claudia Gunjaca (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 370,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "657a024c-4949-4707-9257-87de34f0bdf7": {
+            "id": "657a024c-4949-4707-9257-87de34f0bdf7",
+            "name": "Kate Hore (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "fc21dc7f-d33a-4c42-9d1c-729f739f3381"
         },
         "658dac24-cd35-41a9-b633-fd9aee8ece50": {
             "id": "658dac24-cd35-41a9-b633-fd9aee8ece50",
@@ -238,6 +1014,22 @@
             "sort_order": 10,
             "market_id": "b2df8e9e-be34-4f90-ac01-74c5ea2d9ccd"
         },
+        "66905ce8-5c1a-4334-98ae-11f883080b67": {
+            "id": "66905ce8-5c1a-4334-98ae-11f883080b67",
+            "name": "Eden Zanker (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6"
+        },
+        "66bb0918-ff36-43ae-aaca-0d710b51b0eb": {
+            "id": "66bb0918-ff36-43ae-aaca-0d710b51b0eb",
+            "name": "Paxy Paxman (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 110,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
         "6720371f-ed5a-4ec1-bb9d-a3f648b4eacd": {
             "id": "6720371f-ed5a-4ec1-bb9d-a3f648b4eacd",
             "name": "Melbourne (W) Behind",
@@ -245,6 +1037,61 @@
             "visible": true,
             "sort_order": 30,
             "market_id": "cfefcb7f-b253-4d52-b785-e14beaee7ea7"
+        },
+        "686ce119-211f-4e02-be8c-01f9eacad808": {
+            "id": "686ce119-211f-4e02-be8c-01f9eacad808",
+            "name": "Alyssa Bannan (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "6ae8b693-0766-4cc9-bf04-2229679a456a": {
+            "id": "6ae8b693-0766-4cc9-bf04-2229679a456a",
+            "name": "Kate Surman (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 180,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "6aef22b9-f98a-4b30-af07-8aa1f678bcb7": {
+            "id": "6aef22b9-f98a-4b30-af07-8aa1f678bcb7",
+            "name": "Aishling Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "6bb171f7-4171-4f24-a498-05234c0ccbcb": {
+            "id": "6bb171f7-4171-4f24-a498-05234c0ccbcb",
+            "name": "Jacqueline Parry (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "6c0219b1-49bb-4d90-923c-1dfafa1cef2f": {
+            "id": "6c0219b1-49bb-4d90-923c-1dfafa1cef2f",
+            "name": "Melbourne (W) / Geelong Cats (W)",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "b0848e03-aa4f-4743-8998-00ec4561d876"
+        },
+        "6c5032c5-a4e4-4686-9497-15c3cd23bcb7": {
+            "id": "6c5032c5-a4e4-4686-9497-15c3cd23bcb7",
+            "name": "Kate Hore (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "6c619239-1164-4dc0-a25a-ad1a9e27b70e": {
+            "id": "6c619239-1164-4dc0-a25a-ad1a9e27b70e",
+            "name": "Kate Kenny (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 90,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
         },
         "6c6fce46-cf61-4db2-bcd9-e29ec1996f85": {
             "id": "6c6fce46-cf61-4db2-bcd9-e29ec1996f85",
@@ -278,6 +1125,38 @@
             "sort_order": 30,
             "market_id": "6fed1644-0296-4b03-8b89-0ca3c2588b60"
         },
+        "6fca87c4-da82-4808-bf50-166485486834": {
+            "id": "6fca87c4-da82-4808-bf50-166485486834",
+            "name": "Amy McDonald (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 100,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "705757a0-6125-44d0-9249-071126a1cc47": {
+            "id": "705757a0-6125-44d0-9249-071126a1cc47",
+            "name": "Nina Morrison (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "706d97c1-fc86-40bf-8e92-918ecd335331": {
+            "id": "706d97c1-fc86-40bf-8e92-918ecd335331",
+            "name": "Tyla Hanks (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 160,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "72433f6e-0e9c-4675-b807-a20a31438269": {
+            "id": "72433f6e-0e9c-4675-b807-a20a31438269",
+            "name": "Tahlia Gillard (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 330,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
         "739c392a-4808-447b-a096-a75d7e87d2e1": {
             "id": "739c392a-4808-447b-a096-a75d7e87d2e1",
             "name": "Geelong Cats (W)",
@@ -285,6 +1164,54 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "f1de3db0-8f49-47f0-a5d7-211dbd4b77fc"
+        },
+        "73f3b4da-675a-42fa-8baf-b3d02a2f9c4a": {
+            "id": "73f3b4da-675a-42fa-8baf-b3d02a2f9c4a",
+            "name": "Georgie Rankin (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 310,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "744c715e-d9c1-40c7-9b3e-0281c8c1dfbc": {
+            "id": "744c715e-d9c1-40c7-9b3e-0281c8c1dfbc",
+            "name": "Megan Fitzsimon (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 210,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "74f1db27-37c7-4609-a000-6b1f29bc7cdd": {
+            "id": "74f1db27-37c7-4609-a000-6b1f29bc7cdd",
+            "name": "Paxy Paxman (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 110,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "76242fca-e25f-4d35-a898-5f8c112b56f7": {
+            "id": "76242fca-e25f-4d35-a898-5f8c112b56f7",
+            "name": "Zali Friswell (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 320,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "76672ed1-f4e6-4eb3-98ea-9ffe86ecebfe": {
+            "id": "76672ed1-f4e6-4eb3-98ea-9ffe86ecebfe",
+            "name": "Alyssa Bannan (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "77672d21-64c0-4fe2-bec2-ae9cecd3c4b6": {
+            "id": "77672d21-64c0-4fe2-bec2-ae9cecd3c4b6",
+            "name": "Rebecca Webster (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 260,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
         },
         "77ffaa37-081c-4114-a9a6-57dbcd400027": {
             "id": "77ffaa37-081c-4114-a9a6-57dbcd400027",
@@ -294,6 +1221,30 @@
             "sort_order": 10,
             "market_id": "32245271-20ae-482b-9739-ad7657504a85"
         },
+        "7a8b0b05-769c-42f5-b5f5-cc19b8432305": {
+            "id": "7a8b0b05-769c-42f5-b5f5-cc19b8432305",
+            "name": "Ryleigh Wotherspoon (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "7cdffb20-d353-435e-b5db-5af2cd077285": {
+            "id": "7cdffb20-d353-435e-b5db-5af2cd077285",
+            "name": "Eliza McNamara (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 230,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "7d72df0d-59d6-44da-b6ab-1d5be48e4027": {
+            "id": "7d72df0d-59d6-44da-b6ab-1d5be48e4027",
+            "name": "Julia Crockett-Grills (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 170,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
         "805c6558-3d37-40d9-9b3c-c10126f34cf9": {
             "id": "805c6558-3d37-40d9-9b3c-c10126f34cf9",
             "name": "Melbourne (W) Goal",
@@ -301,6 +1252,45 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "52243119-00f3-45a5-ac6a-4375c3d9cb72"
+        },
+        "808488ff-c7bc-4440-8391-65bd2434b479": {
+            "id": "808488ff-c7bc-4440-8391-65bd2434b479",
+            "name": "Julia Crockett-Grills (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 170,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "82d7b726-9298-4789-8c49-637f9388ccb2": {
+            "id": "82d7b726-9298-4789-8c49-637f9388ccb2",
+            "name": "Zali Friswell (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 320,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "83c99b66-40a0-4fda-8257-08fe978b545a": {
+            "id": "83c99b66-40a0-4fda-8257-08fe978b545a",
+            "name": "Melbourne (W) / Melbourne (W)",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "b0848e03-aa4f-4743-8998-00ec4561d876"
+        },
+        "848aca41-d36e-433e-98c7-4e39df16eae7": {
+            "id": "848aca41-d36e-433e-98c7-4e39df16eae7",
+            "name": "Lauren Pearce (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 200,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "8817c29a-023d-46ca-85a6-02e8bd07c4de": {
+            "id": "8817c29a-023d-46ca-85a6-02e8bd07c4de",
+            "name": "Sarah Lampard (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 180,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
         },
         "88dc84d1-22ff-46e2-ae82-1e83edd23981": {
             "id": "88dc84d1-22ff-46e2-ae82-1e83edd23981",
@@ -310,6 +1300,22 @@
             "sort_order": 10,
             "market_id": "8978f18a-5dfa-4a56-9da1-d7b4c33dc70d"
         },
+        "89146b1b-92bf-4cc8-bf77-3ab3b8d60130": {
+            "id": "89146b1b-92bf-4cc8-bf77-3ab3b8d60130",
+            "name": "Tyla Hanks (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 150,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "89c9c6d4-b77f-4232-bdbd-b96e18d9a5e8": {
+            "id": "89c9c6d4-b77f-4232-bdbd-b96e18d9a5e8",
+            "name": "Claudia Gunjaca (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 370,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
         "8a19a89d-e9f6-460e-90cd-354310514cdb": {
             "id": "8a19a89d-e9f6-460e-90cd-354310514cdb",
             "name": "Melbourne (W)",
@@ -317,6 +1323,44 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "8978f18a-5dfa-4a56-9da1-d7b4c33dc70d"
+        },
+        "8a2f2f1b-77b6-43a2-a062-923d5eba1064": {
+            "id": "8a2f2f1b-77b6-43a2-a062-923d5eba1064",
+            "name": "Melbourne (W) / Over 86.5",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "20a68a7a-d2fd-4504-be85-2ce9adb8899b"
+        },
+        "8a7c9cf5-d102-4dc2-bb00-23cfdde3450f": {
+            "id": "8a7c9cf5-d102-4dc2-bb00-23cfdde3450f",
+            "name": "Geelong Cats (W) / Melbourne (W)",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "b0848e03-aa4f-4743-8998-00ec4561d876"
+        },
+        "8afd2aa0-9d03-45ef-832a-cc65b6990f1d": {
+            "id": "8afd2aa0-9d03-45ef-832a-cc65b6990f1d",
+            "name": "Eden Zanker (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "8b4f09f7-dd97-4bbc-bd70-a39e1b12decb": {
+            "id": "8b4f09f7-dd97-4bbc-bd70-a39e1b12decb",
+            "name": "Aishling Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "8ca42eb7-8518-452d-ae15-c23f61245284": {
+            "id": "8ca42eb7-8518-452d-ae15-c23f61245284",
+            "name": "Zali Friswell (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 320,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
         },
         "8e158dfc-0315-44d9-a83e-007b508d7a1b": {
             "id": "8e158dfc-0315-44d9-a83e-007b508d7a1b",
@@ -334,6 +1378,158 @@
             "sort_order": 40,
             "market_id": "660a10cd-7a62-4cc6-bc94-aefaaf75535b"
         },
+        "8eef7b16-4b70-42cd-8438-b4767a51e8b2": {
+            "id": "8eef7b16-4b70-42cd-8438-b4767a51e8b2",
+            "name": "Meghan McDonald (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 250,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "90546169-71f6-4887-a2d6-b845df8fbaa6": {
+            "id": "90546169-71f6-4887-a2d6-b845df8fbaa6",
+            "name": "Blaithin Mackin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 390,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "916eaf38-4661-4cb7-96ab-afd59c1fe720": {
+            "id": "916eaf38-4661-4cb7-96ab-afd59c1fe720",
+            "name": "Grace Hill (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 400,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "96c7111a-a13a-45d7-ae98-5586f04b14d7": {
+            "id": "96c7111a-a13a-45d7-ae98-5586f04b14d7",
+            "name": "Eliza McNamara (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 230,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "96cdf4c5-1aad-44b1-92c7-1137c01096e9": {
+            "id": "96cdf4c5-1aad-44b1-92c7-1137c01096e9",
+            "name": "Tahlia Gillard (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 330,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "98c69df0-2ffb-4d14-b58c-09c06bedd978": {
+            "id": "98c69df0-2ffb-4d14-b58c-09c06bedd978",
+            "name": "Kate Kenny (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 100,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "998c33ec-2797-411a-af42-2d63fa1f7d0b": {
+            "id": "998c33ec-2797-411a-af42-2d63fa1f7d0b",
+            "name": "Rhiannon Watt (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 300,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "9a316c16-a062-49ef-8724-1b9941d07c7b": {
+            "id": "9a316c16-a062-49ef-8724-1b9941d07c7b",
+            "name": "Mikayla Bowen (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 130,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "9af2ad5f-bc33-44d7-beb9-6a1515e28518": {
+            "id": "9af2ad5f-bc33-44d7-beb9-6a1515e28518",
+            "name": "Chantel Emonson (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 280,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "9b5a2278-d2f9-474a-974d-fb1700b53e39": {
+            "id": "9b5a2278-d2f9-474a-974d-fb1700b53e39",
+            "name": "Georgie Prespakis (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 140,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "9b7baa02-ff9d-4dd8-a1c2-75697ed5066f": {
+            "id": "9b7baa02-ff9d-4dd8-a1c2-75697ed5066f",
+            "name": "Sarah Lampard (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 150,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "9bbe12c5-43a0-4974-bc3c-6f6cdff95608": {
+            "id": "9bbe12c5-43a0-4974-bc3c-6f6cdff95608",
+            "name": "Claudia Gunjaca (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 370,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "9d8343e0-26a5-4029-8f00-f8b607bfdec6": {
+            "id": "9d8343e0-26a5-4029-8f00-f8b607bfdec6",
+            "name": "Sinead Goldrick (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 360,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "9e0c2f58-2742-4304-9699-7aef984b1d65": {
+            "id": "9e0c2f58-2742-4304-9699-7aef984b1d65",
+            "name": "Eden Zanker (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "9f5a9ceb-dd89-483a-b60a-ac8cb01afcb1": {
+            "id": "9f5a9ceb-dd89-483a-b60a-ac8cb01afcb1",
+            "name": "Amy McDonald (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "9be71763-362d-43f6-b630-6a086362f2be"
+        },
+        "a0012b7d-02a5-443a-9389-92c657171590": {
+            "id": "a0012b7d-02a5-443a-9389-92c657171590",
+            "name": "Kate Surman (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 170,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "a22edaf7-72c8-4d37-a853-a3bcc1892b30": {
+            "id": "a22edaf7-72c8-4d37-a853-a3bcc1892b30",
+            "name": "Amy McDonald (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "a297f35f-5b00-4079-b909-c0aca9baae80": {
+            "id": "a297f35f-5b00-4079-b909-c0aca9baae80",
+            "name": "Lauren Pearce (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 200,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "a43864f0-0146-40f0-9676-907f7771f376": {
+            "id": "a43864f0-0146-40f0-9676-907f7771f376",
+            "name": "Jacqueline Parry (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6"
+        },
         "a5270b16-77b9-445e-9cbf-cd9e4fc012ef": {
             "id": "a5270b16-77b9-445e-9cbf-cd9e4fc012ef",
             "name": "Melbourne (W)",
@@ -342,6 +1538,30 @@
             "sort_order": 20,
             "market_id": "f1de3db0-8f49-47f0-a5d7-211dbd4b77fc"
         },
+        "a5566e5d-a3b4-44fa-b684-5f34b4c81f6f": {
+            "id": "a5566e5d-a3b4-44fa-b684-5f34b4c81f6f",
+            "name": "Tyla Hanks (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 160,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "a62dd87b-2d1c-4125-b086-f52c223f80db": {
+            "id": "a62dd87b-2d1c-4125-b086-f52c223f80db",
+            "name": "Anna-Rose Kennedy (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 410,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "a6e2977e-fe06-4d72-a966-4d4e57ab1ea2": {
+            "id": "a6e2977e-fe06-4d72-a966-4d4e57ab1ea2",
+            "name": "Amy McDonald (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 100,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
         "a86c15d5-614c-4da5-a84e-62ab49d565b7": {
             "id": "a86c15d5-614c-4da5-a84e-62ab49d565b7",
             "name": "Melbourne (W) Goal",
@@ -349,6 +1569,14 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "32245271-20ae-482b-9739-ad7657504a85"
+        },
+        "a8b9800c-1809-4b43-82a2-4cc310d2d3a2": {
+            "id": "a8b9800c-1809-4b43-82a2-4cc310d2d3a2",
+            "name": "Paxy Paxman (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 110,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
         },
         "a8f3ec31-4340-460d-b20b-3070463d7033": {
             "id": "a8f3ec31-4340-460d-b20b-3070463d7033",
@@ -366,6 +1594,14 @@
             "sort_order": 20,
             "market_id": "6fed1644-0296-4b03-8b89-0ca3c2588b60"
         },
+        "aa170057-b720-4741-aef9-66761e54f5ea": {
+            "id": "aa170057-b720-4741-aef9-66761e54f5ea",
+            "name": "Sinead Goldrick (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 360,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
         "aaf8bc7a-ccbc-4b78-afd6-28ac85657527": {
             "id": "aaf8bc7a-ccbc-4b78-afd6-28ac85657527",
             "name": "Melbourne (W)",
@@ -373,6 +1609,45 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "7b86357e-5fb9-4323-968c-b062d56cf9ff"
+        },
+        "aaf9fe45-162d-4180-80c9-ac2716f423d2": {
+            "id": "aaf9fe45-162d-4180-80c9-ac2716f423d2",
+            "name": "Aishling Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "ac244157-1da6-4d77-b689-66e6102824d2": {
+            "id": "ac244157-1da6-4d77-b689-66e6102824d2",
+            "name": "Rachel Kearns (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 380,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "ac24ab9c-a6d2-4892-967d-0d1dc3645d9a": {
+            "id": "ac24ab9c-a6d2-4892-967d-0d1dc3645d9a",
+            "name": "Draw at Halftime or Fulltime",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "b0848e03-aa4f-4743-8998-00ec4561d876"
+        },
+        "ae8d7992-771a-4405-aaae-bcf0778f4b42": {
+            "id": "ae8d7992-771a-4405-aaae-bcf0778f4b42",
+            "name": "Chantel Emonson (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 280,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "aeca532a-4ae0-4bad-844b-621192d04042": {
+            "id": "aeca532a-4ae0-4bad-844b-621192d04042",
+            "name": "Eliza McNamara (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 230,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
         },
         "aef9914f-27b8-4fc8-b4a6-ee0dfb4da62e": {
             "id": "aef9914f-27b8-4fc8-b4a6-ee0dfb4da62e",
@@ -382,6 +1657,62 @@
             "sort_order": 30,
             "market_id": "14b01f48-c511-4b1e-bb89-3492f263f173"
         },
+        "b19b9d12-6678-435e-981d-769fc679c0e4": {
+            "id": "b19b9d12-6678-435e-981d-769fc679c0e4",
+            "name": "Megan Fitzsimon (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 210,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "b36c1c87-e41e-4581-8b60-8beb14e1b1f0": {
+            "id": "b36c1c87-e41e-4581-8b60-8beb14e1b1f0",
+            "name": "Tayla Harris (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "b395f41b-1e2a-48ee-8d8f-5916cd9f3a86": {
+            "id": "b395f41b-1e2a-48ee-8d8f-5916cd9f3a86",
+            "name": "Kate Hore (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "b4e09f38-8523-420f-9bf7-bb7114c58ffd": {
+            "id": "b4e09f38-8523-420f-9bf7-bb7114c58ffd",
+            "name": "Mikayla Bowen (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 130,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "b57dac99-0964-4609-baab-3e76bce3826a": {
+            "id": "b57dac99-0964-4609-baab-3e76bce3826a",
+            "name": "Shelley Heath (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 290,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "b6051c14-fbd6-4826-93f6-8e3b16f8c4e3": {
+            "id": "b6051c14-fbd6-4826-93f6-8e3b16f8c4e3",
+            "name": "Aishling Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6"
+        },
+        "b75f2936-2a8f-411f-9339-b96d0914beba": {
+            "id": "b75f2936-2a8f-411f-9339-b96d0914beba",
+            "name": "Kate Surman (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 180,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
         "b845d4e2-44ff-4cae-8be9-faa26a910386": {
             "id": "b845d4e2-44ff-4cae-8be9-faa26a910386",
             "name": "Geelong Cats (W) Goal",
@@ -389,6 +1720,14 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "14b01f48-c511-4b1e-bb89-3492f263f173"
+        },
+        "b8a68088-5625-479a-a31a-0e559ba82a8f": {
+            "id": "b8a68088-5625-479a-a31a-0e559ba82a8f",
+            "name": "Grace Beasley (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 420,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
         },
         "b9b383f1-92f7-4750-96de-74c38c04fbe8": {
             "id": "b9b383f1-92f7-4750-96de-74c38c04fbe8",
@@ -398,6 +1737,22 @@
             "sort_order": 10,
             "market_id": "cb223532-9451-4e47-bb3a-fa60024ed71c"
         },
+        "bafb1f0a-e260-4f8a-910b-0c67a6559869": {
+            "id": "bafb1f0a-e260-4f8a-910b-0c67a6559869",
+            "name": "Meghan McDonald (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 250,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "bc6b6a04-e188-4a78-8d23-76823f4dd423": {
+            "id": "bc6b6a04-e188-4a78-8d23-76823f4dd423",
+            "name": "Rachel Kearns (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 380,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
         "bd78b2db-b5ab-4df9-97e2-5deb7523e95a": {
             "id": "bd78b2db-b5ab-4df9-97e2-5deb7523e95a",
             "name": "Melbourne (W) Goal",
@@ -405,6 +1760,126 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "cfefcb7f-b253-4d52-b785-e14beaee7ea7"
+        },
+        "be5b516c-9b5b-433e-938b-bbf2635b31ec": {
+            "id": "be5b516c-9b5b-433e-938b-bbf2635b31ec",
+            "name": "Sarah Lampard (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 150,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "bf98beb3-54b1-4a85-b5da-625042d258a6": {
+            "id": "bf98beb3-54b1-4a85-b5da-625042d258a6",
+            "name": "Shelley Scott (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 240,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "bfd1bccf-bf54-4bcd-9caa-3da1c9360bd8": {
+            "id": "bfd1bccf-bf54-4bcd-9caa-3da1c9360bd8",
+            "name": "Julia Crockett-Grills (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 170,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "bfe4a867-34e1-4a8d-b7b1-3a1683752f9b": {
+            "id": "bfe4a867-34e1-4a8d-b7b1-3a1683752f9b",
+            "name": "Nina Morrison (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "bff1a5b6-a485-483d-a5fd-2773104c9a6b": {
+            "id": "bff1a5b6-a485-483d-a5fd-2773104c9a6b",
+            "name": "Megan Fitzsimon (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 210,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "c0328d14-a080-4a1c-85aa-b7135b28e8fc": {
+            "id": "c0328d14-a080-4a1c-85aa-b7135b28e8fc",
+            "name": "Blaithin Mackin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 390,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "c1da7d26-7f02-4a78-81ce-71cd4f685d9d": {
+            "id": "c1da7d26-7f02-4a78-81ce-71cd4f685d9d",
+            "name": "Amy McDonald (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "fc21dc7f-d33a-4c42-9d1c-729f739f3381"
+        },
+        "c2f5f776-2d71-4ebe-8aa7-caa94ebe1358": {
+            "id": "c2f5f776-2d71-4ebe-8aa7-caa94ebe1358",
+            "name": "Nina Morrison (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "c3065c27-addb-402e-840f-dc967bf27a00": {
+            "id": "c3065c27-addb-402e-840f-dc967bf27a00",
+            "name": "Shelley Scott (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 240,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "c3b690f7-be91-43ec-a043-198230da92a9": {
+            "id": "c3b690f7-be91-43ec-a043-198230da92a9",
+            "name": "Shelley Heath (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 290,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "c40f886d-3d71-4b75-b3ab-d9460830d107": {
+            "id": "c40f886d-3d71-4b75-b3ab-d9460830d107",
+            "name": "Grace Hill (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 400,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "c5d6d085-e62b-405b-a4f0-bab86a6948db": {
+            "id": "c5d6d085-e62b-405b-a4f0-bab86a6948db",
+            "name": "Tayla Harris (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "c70a0c58-2933-4f96-ac13-7f221bb68ab5": {
+            "id": "c70a0c58-2933-4f96-ac13-7f221bb68ab5",
+            "name": "Rachel Kearns (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 380,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "c7e2f25d-13b0-4c4c-9fa8-19015953b9dc": {
+            "id": "c7e2f25d-13b0-4c4c-9fa8-19015953b9dc",
+            "name": "Aishling Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "c906569f-7d34-4133-ac96-50a135646c08": {
+            "id": "c906569f-7d34-4133-ac96-50a135646c08",
+            "name": "Maeve Chaplin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 340,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
         },
         "ccac06a2-76ed-4b42-899e-edbbd322f9f9": {
             "id": "ccac06a2-76ed-4b42-899e-edbbd322f9f9",
@@ -414,6 +1889,30 @@
             "sort_order": 10,
             "market_id": "14b01f48-c511-4b1e-bb89-3492f263f173"
         },
+        "cda9a2b8-17e0-4dfc-8d21-b2ce0d2f238a": {
+            "id": "cda9a2b8-17e0-4dfc-8d21-b2ce0d2f238a",
+            "name": "Kate Kenny (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 90,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "cf88a467-c99a-4ab2-a413-deb073fe5915": {
+            "id": "cf88a467-c99a-4ab2-a413-deb073fe5915",
+            "name": "Sinead Goldrick (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 360,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "cff776e9-5ccf-4c20-89eb-bc1c5ecf9cf8": {
+            "id": "cff776e9-5ccf-4c20-89eb-bc1c5ecf9cf8",
+            "name": "Darcy Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 220,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
         "d1511a07-d2ce-4256-b314-882528cd8478": {
             "id": "d1511a07-d2ce-4256-b314-882528cd8478",
             "name": "Geelong Cats (W) to win by 25+",
@@ -421,6 +1920,45 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "2a8191ad-b474-46f2-821c-e1cd1139fa37"
+        },
+        "d1aaaa42-0ea0-4a99-97cd-a254223b126e": {
+            "id": "d1aaaa42-0ea0-4a99-97cd-a254223b126e",
+            "name": "Alyssa Bannan (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "d295e717-7c29-4533-baa2-3728628aec0c": {
+            "id": "d295e717-7c29-4533-baa2-3728628aec0c",
+            "name": "Jacqueline Parry (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "d32d867e-14d9-485e-9e09-c3a04742337f": {
+            "id": "d32d867e-14d9-485e-9e09-c3a04742337f",
+            "name": "Chantel Emonson (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 280,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "d38c5edd-c8a6-4d0c-a358-a5763cf35f1b": {
+            "id": "d38c5edd-c8a6-4d0c-a358-a5763cf35f1b",
+            "name": "Melbourne (W) +2.5 / Under 86.5",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "4a5ef98d-bf2c-4a52-bf57-6a50c5745ccd"
+        },
+        "d42c77de-305e-416f-8563-314df95afb07": {
+            "id": "d42c77de-305e-416f-8563-314df95afb07",
+            "name": "Rachel Kearns (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 380,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
         },
         "d4407b7b-3e02-49d4-a489-73d7bd8d957d": {
             "id": "d4407b7b-3e02-49d4-a489-73d7bd8d957d",
@@ -446,6 +1984,14 @@
             "sort_order": 10,
             "market_id": "546ad1dd-2fc0-4077-b12f-582e1aee45f0"
         },
+        "db40168b-43d6-49b5-a00c-9518c140cac5": {
+            "id": "db40168b-43d6-49b5-a00c-9518c140cac5",
+            "name": "Lily Mithen (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 190,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
         "dbcc0914-2b97-426f-b450-a552e5b1d3a8": {
             "id": "dbcc0914-2b97-426f-b450-a552e5b1d3a8",
             "name": "Geelong Cats (W) Goal",
@@ -461,6 +2007,22 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "32245271-20ae-482b-9739-ad7657504a85"
+        },
+        "dd22308c-046b-42a3-beba-4201aed5fb77": {
+            "id": "dd22308c-046b-42a3-beba-4201aed5fb77",
+            "name": "Blaithin Mackin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 390,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "dd553742-70db-4171-97f6-e9e31f591e72": {
+            "id": "dd553742-70db-4171-97f6-e9e31f591e72",
+            "name": "Darcy Moloney (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 220,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
         },
         "df09720a-1f1e-433a-8154-50eb58908212": {
             "id": "df09720a-1f1e-433a-8154-50eb58908212",
@@ -478,6 +2040,22 @@
             "sort_order": 10,
             "market_id": "f7d044b3-32e6-420a-894a-2dd0fcd92f43"
         },
+        "e1c47b1d-40bd-4413-8543-b8d9ad815411": {
+            "id": "e1c47b1d-40bd-4413-8543-b8d9ad815411",
+            "name": "Lauren Pearce (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 200,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "e513fbb8-0769-4895-8f9e-4b7ebafceb18": {
+            "id": "e513fbb8-0769-4895-8f9e-4b7ebafceb18",
+            "name": "Eden Zanker (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
         "e55eb96b-0bef-40e9-a38d-dfd94175b671": {
             "id": "e55eb96b-0bef-40e9-a38d-dfd94175b671",
             "name": "Melbourne (W) Goal",
@@ -486,6 +2064,22 @@
             "sort_order": 40,
             "market_id": "6fed1644-0296-4b03-8b89-0ca3c2588b60"
         },
+        "e72197ec-24be-47e9-b104-584ac00177d1": {
+            "id": "e72197ec-24be-47e9-b104-584ac00177d1",
+            "name": "Maeve Chaplin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 340,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "e7735974-4022-422b-9a59-d0b2004ef091": {
+            "id": "e7735974-4022-422b-9a59-d0b2004ef091",
+            "name": "Georgie Rankin (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 310,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
         "e7bf0f81-db3f-4822-9106-92a394c9ead6": {
             "id": "e7bf0f81-db3f-4822-9106-92a394c9ead6",
             "name": "Melbourne (W) Behind",
@@ -493,6 +2087,22 @@
             "visible": true,
             "sort_order": 30,
             "market_id": "660a10cd-7a62-4cc6-bc94-aefaaf75535b"
+        },
+        "e855eb61-82a3-4c41-a377-c20036122801": {
+            "id": "e855eb61-82a3-4c41-a377-c20036122801",
+            "name": "Georgie Prespakis (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "fc21dc7f-d33a-4c42-9d1c-729f739f3381"
+        },
+        "e889b365-b0c8-4e51-9e25-9cf39088adc6": {
+            "id": "e889b365-b0c8-4e51-9e25-9cf39088adc6",
+            "name": "Sinead Goldrick (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 360,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
         },
         "e903d5e1-22a4-4bfa-9eb2-c9ffa5f35f78": {
             "id": "e903d5e1-22a4-4bfa-9eb2-c9ffa5f35f78",
@@ -510,6 +2120,85 @@
             "sort_order": 30,
             "market_id": "cb223532-9451-4e47-bb3a-fa60024ed71c"
         },
+        "eafcb97f-05b1-4870-bf68-6695de402d3b": {
+            "id": "eafcb97f-05b1-4870-bf68-6695de402d3b",
+            "name": "Chantel Emonson (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 280,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "ebe8b321-43e5-4dd8-b726-6f0673c07bc1": {
+            "id": "ebe8b321-43e5-4dd8-b726-6f0673c07bc1",
+            "name": "Mikayla Bowen (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 130,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "ebf86b98-ea11-443c-ad96-2846ab9732d9": {
+            "id": "ebf86b98-ea11-443c-ad96-2846ab9732d9",
+            "name": "Nina Morrison (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "ed1612c9-0364-49c9-b2e5-ed2db3db056c": {
+            "id": "ed1612c9-0364-49c9-b2e5-ed2db3db056c",
+            "name": "Melbourne (W) +2.5 / Over 86.5",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "4a5ef98d-bf2c-4a52-bf57-6a50c5745ccd"
+        },
+        "eea7060a-6687-4651-b1b8-f2d6b569ee45": {
+            "id": "eea7060a-6687-4651-b1b8-f2d6b569ee45",
+            "name": "Tyla Hanks (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 160,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
+        "ef53ffaa-1803-445f-8092-527b18c7e7b2": {
+            "id": "ef53ffaa-1803-445f-8092-527b18c7e7b2",
+            "name": "Anna-Rose Kennedy (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 410,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "f08f66f9-7101-444f-9d55-9d36b5728590": {
+            "id": "f08f66f9-7101-444f-9d55-9d36b5728590",
+            "name": "Anna-Rose Kennedy (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 410,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "f259d442-67d5-45f8-ba4f-b0714d6dce8e": {
+            "id": "f259d442-67d5-45f8-ba4f-b0714d6dce8e",
+            "name": "Gabrielle Colvin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 270,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "f4297908-caf6-4e1a-b6e8-afcd12ee0a70": {
+            "id": "f4297908-caf6-4e1a-b6e8-afcd12ee0a70",
+            "name": "Kate Darby (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 120,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "f4a5ed97-0839-4c21-ac12-3d349ec80283": {
+            "id": "f4a5ed97-0839-4c21-ac12-3d349ec80283",
+            "name": "Gabbi Featherston (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 350,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+        },
         "f4a9df5a-2342-4fd2-826e-1a5c8db503a1": {
             "id": "f4a9df5a-2342-4fd2-826e-1a5c8db503a1",
             "name": "Melbourne (W) Goal",
@@ -517,6 +2206,86 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "f7d044b3-32e6-420a-894a-2dd0fcd92f43"
+        },
+        "f4ec2293-69b8-4a64-b543-e47a51a819af": {
+            "id": "f4ec2293-69b8-4a64-b543-e47a51a819af",
+            "name": "Gabrielle Colvin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 270,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "f623d65e-dd62-44d3-a34d-36ea8af80cd7": {
+            "id": "f623d65e-dd62-44d3-a34d-36ea8af80cd7",
+            "name": "Blaithin Mackin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 390,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
+        },
+        "f67fcb1b-9176-4c19-a78b-3d02779b763c": {
+            "id": "f67fcb1b-9176-4c19-a78b-3d02779b763c",
+            "name": "Gabbi Featherston (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 350,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "f794c2af-afa5-43ef-bd0b-0655a3705ae1": {
+            "id": "f794c2af-afa5-43ef-bd0b-0655a3705ae1",
+            "name": "Lily Mithen (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 200,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "f80d387c-e5f1-4677-b27a-991c7c001bc2": {
+            "id": "f80d387c-e5f1-4677-b27a-991c7c001bc2",
+            "name": "Tyla Hanks (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "9be71763-362d-43f6-b630-6a086362f2be"
+        },
+        "f8d73783-47c9-4a81-9893-2c044095900e": {
+            "id": "f8d73783-47c9-4a81-9893-2c044095900e",
+            "name": "Alyssa Bannan (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6"
+        },
+        "f927bac2-0f6d-4345-a475-f2338fa796b6": {
+            "id": "f927bac2-0f6d-4345-a475-f2338fa796b6",
+            "name": "Lauren Pearce (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 220,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "f9e4d56a-1148-4040-9887-3272e679c722": {
+            "id": "f9e4d56a-1148-4040-9887-3272e679c722",
+            "name": "Rhiannon Watt (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 300,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "fba5ec96-03e8-4a38-8d97-93b77231f748": {
+            "id": "fba5ec96-03e8-4a38-8d97-93b77231f748",
+            "name": "Sarah Lampard (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 150,
+            "market_id": "1b515f49-5b42-4235-84c9-528229c73c67"
+        },
+        "fbc66825-4c3f-4dbe-a922-da1a50781230": {
+            "id": "fbc66825-4c3f-4dbe-a922-da1a50781230",
+            "name": "Maeve Chaplin (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 340,
+            "market_id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
         },
         "fc0fe489-9471-4eb7-8e84-9761326b5163": {
             "id": "fc0fe489-9471-4eb7-8e84-9761326b5163",
@@ -532,6 +2301,30 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "660a10cd-7a62-4cc6-bc94-aefaaf75535b"
+        },
+        "fcb250ab-c595-44f3-8e8e-0cd3eece020f": {
+            "id": "fcb250ab-c595-44f3-8e8e-0cd3eece020f",
+            "name": "Rebecca Webster (Geelong Cats (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 260,
+            "market_id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a"
+        },
+        "ff4c2095-b4d6-4ef3-af7f-8147a2335795": {
+            "id": "ff4c2095-b4d6-4ef3-af7f-8147a2335795",
+            "name": "Megan Fitzsimon (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 210,
+            "market_id": "a25b8f73-10cf-458f-8f1d-00d570cda77d"
+        },
+        "ffa08e85-bb0f-412d-8095-090167828f1b": {
+            "id": "ffa08e85-bb0f-412d-8095-090167828f1b",
+            "name": "Rhiannon Watt (Melbourne (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 300,
+            "market_id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e"
         }
     },
     "event_participants": {
@@ -570,8 +2363,12 @@
             "competition_id": "f4de6fff-de1d-40f9-b3bc-1d9d614ae6c1",
             "market_type_group_ids": [
                 "29edb5e1-a717-4769-8bcd-2d43ec38d828",
+                "750dfc4f-a778-4aeb-9e11-e9711566bc32",
+                "b8247ccf-a29f-4149-88dd-2f7ddea5a963",
+                "f4719457-4b2b-4f69-b8f9-c943d2b1440b",
                 "f8d682e7-80d0-4489-bbf5-358f1e8c7801",
                 "88dbaaac-e459-425e-90f2-319521d6fb27",
+                "68b6bfcc-f17e-42e9-ae36-300a4d98ba5f",
                 "23b315d6-f5f6-4a84-aeb7-76ab244b34c0",
                 "068cedc4-f695-4eec-a31d-9e94b25dc06d",
                 "4eb25c09-7065-4b36-8bce-77e6d8facddd",
@@ -584,7 +2381,39 @@
                     "market_type_group_id": "29edb5e1-a717-4769-8bcd-2d43ec38d828",
                     "market_ids": [
                         "79298ba9-dfc6-4609-aa7d-ca82e7a1c9fe",
-                        "44b738b0-c03a-48a3-9ebb-56074033eec7"
+                        "44b738b0-c03a-48a3-9ebb-56074033eec7",
+                        "8988fbac-30ee-455e-b0c6-ee78b235e57e",
+                        "a25b8f73-10cf-458f-8f1d-00d570cda77d",
+                        "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6",
+                        "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e",
+                        "9be71763-362d-43f6-b630-6a086362f2be",
+                        "fc21dc7f-d33a-4c42-9d1c-729f739f3381"
+                    ]
+                },
+                {
+                    "market_type_group_id": "750dfc4f-a778-4aeb-9e11-e9711566bc32",
+                    "market_ids": [
+                        "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e",
+                        "a25b8f73-10cf-458f-8f1d-00d570cda77d",
+                        "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6",
+                        "1b515f49-5b42-4235-84c9-528229c73c67",
+                        "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a",
+                        "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec"
+                    ]
+                },
+                {
+                    "market_type_group_id": "b8247ccf-a29f-4149-88dd-2f7ddea5a963",
+                    "market_ids": [
+                        "9be71763-362d-43f6-b630-6a086362f2be",
+                        "fc21dc7f-d33a-4c42-9d1c-729f739f3381"
+                    ]
+                },
+                {
+                    "market_type_group_id": "f4719457-4b2b-4f69-b8f9-c943d2b1440b",
+                    "market_ids": [
+                        "20a68a7a-d2fd-4504-be85-2ce9adb8899b",
+                        "4a5ef98d-bf2c-4a52-bf57-6a50c5745ccd",
+                        "b0848e03-aa4f-4743-8998-00ec4561d876"
                     ]
                 },
                 {
@@ -599,6 +2428,12 @@
                     "market_type_group_id": "88dbaaac-e459-425e-90f2-319521d6fb27",
                     "market_ids": [
                         "8db8fa88-19e5-4f0d-b1af-3a0165c44e1e"
+                    ]
+                },
+                {
+                    "market_type_group_id": "68b6bfcc-f17e-42e9-ae36-300a4d98ba5f",
+                    "market_ids": [
+                        "8988fbac-30ee-455e-b0c6-ee78b235e57e"
                     ]
                 },
                 {
@@ -649,13 +2484,25 @@
                     ]
                 }
             ],
-            "market_count": 23,
+            "market_count": 35,
             "main_markets": [
                 "79298ba9-dfc6-4609-aa7d-ca82e7a1c9fe"
             ],
             "market_ids": [
                 "79298ba9-dfc6-4609-aa7d-ca82e7a1c9fe",
                 "44b738b0-c03a-48a3-9ebb-56074033eec7",
+                "8988fbac-30ee-455e-b0c6-ee78b235e57e",
+                "a25b8f73-10cf-458f-8f1d-00d570cda77d",
+                "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6",
+                "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e",
+                "9be71763-362d-43f6-b630-6a086362f2be",
+                "fc21dc7f-d33a-4c42-9d1c-729f739f3381",
+                "1b515f49-5b42-4235-84c9-528229c73c67",
+                "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a",
+                "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec",
+                "20a68a7a-d2fd-4504-be85-2ce9adb8899b",
+                "4a5ef98d-bf2c-4a52-bf57-6a50c5745ccd",
+                "b0848e03-aa4f-4743-8998-00ec4561d876",
                 "2a8191ad-b474-46f2-821c-e1cd1139fa37",
                 "b2df8e9e-be34-4f90-ac01-74c5ea2d9ccd",
                 "093173ea-b645-4ebf-bfc2-93b68678d499",
@@ -718,6 +2565,18 @@
             "name": "1st Quarter Markets",
             "priority": 120
         },
+        "68b6bfcc-f17e-42e9-ae36-300a4d98ba5f": {
+            "id": "68b6bfcc-f17e-42e9-ae36-300a4d98ba5f",
+            "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
+            "name": "Total Markets",
+            "priority": 160
+        },
+        "750dfc4f-a778-4aeb-9e11-e9711566bc32": {
+            "id": "750dfc4f-a778-4aeb-9e11-e9711566bc32",
+            "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
+            "name": "Goal Kicker Markets",
+            "priority": 300
+        },
         "88dbaaac-e459-425e-90f2-319521d6fb27": {
             "id": "88dbaaac-e459-425e-90f2-319521d6fb27",
             "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
@@ -730,11 +2589,23 @@
             "name": "2nd Quarter Markets",
             "priority": 110
         },
+        "b8247ccf-a29f-4149-88dd-2f7ddea5a963": {
+            "id": "b8247ccf-a29f-4149-88dd-2f7ddea5a963",
+            "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
+            "name": "Disposal Markets",
+            "priority": 260
+        },
         "c4358226-c6b9-4d1a-ad5b-a761cc3f8068": {
             "id": "c4358226-c6b9-4d1a-ad5b-a761cc3f8068",
             "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
             "name": "4th Quarter Markets",
             "priority": 80
+        },
+        "f4719457-4b2b-4f69-b8f9-c943d2b1440b": {
+            "id": "f4719457-4b2b-4f69-b8f9-c943d2b1440b",
+            "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
+            "name": "Double Markets",
+            "priority": 230
         },
         "f8d682e7-80d0-4489-bbf5-358f1e8c7801": {
             "id": "f8d682e7-80d0-4489-bbf5-358f1e8c7801",
@@ -786,6 +2657,90 @@
                 "53b261b9-3119-458c-a84d-0ba0fda10c49"
             ],
             "num_winners": 1
+        },
+        "1b515f49-5b42-4235-84c9-528229c73c67": {
+            "id": "1b515f49-5b42-4235-84c9-528229c73c67",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "d9bb2f0e-f107-4c02-8b11-9dc37c56ef7c",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "First Goal Kicker - 2nd Quarter",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "same_game_multi_available": true,
+            "comments": "Quote Others",
+            "visible": true,
+            "entrant_ids": [
+                "499026ea-817e-4cb5-80bb-1c956cba024f",
+                "3c3266a5-b1a3-48dd-a959-5f3f2494fac9",
+                "3ab642a5-6358-4bb9-bb87-7b4d6e945048",
+                "1fd8cf6e-e47e-450d-8209-e566796eb31c",
+                "10bb5cd7-0971-46b7-92e1-409f16736d60",
+                "109eafc8-87aa-44ba-bf23-f96db374f4f8",
+                "50587dfb-ad69-43d2-8601-d5a9c3c9ce00",
+                "491ac2e6-e3ca-4ee5-b505-77e52ae8b1c6",
+                "5a4b5f6b-e3f2-41df-b406-53e4a9e3336d",
+                "a6e2977e-fe06-4d72-a966-4d4e57ab1ea2",
+                "74f1db27-37c7-4609-a000-6b1f29bc7cdd",
+                "24fa4673-9fbb-4e15-947b-5c1e94b5f1a1",
+                "9a316c16-a062-49ef-8724-1b9941d07c7b",
+                "9b5a2278-d2f9-474a-974d-fb1700b53e39",
+                "fba5ec96-03e8-4a38-8d97-93b77231f748",
+                "630d3da2-2fd6-4de6-94ea-ddd780e93eef",
+                "7d72df0d-59d6-44da-b6ab-1d5be48e4027",
+                "b75f2936-2a8f-411f-9339-b96d0914beba",
+                "db40168b-43d6-49b5-a00c-9518c140cac5",
+                "a297f35f-5b00-4079-b909-c0aca9baae80",
+                "41058ae9-3ec6-4d17-ad0a-b34da280a4db",
+                "cff776e9-5ccf-4c20-89eb-bc1c5ecf9cf8",
+                "39345f3b-5b42-41ee-b1cb-f79d9dc92d48",
+                "5cb67cd4-e674-423c-9ecd-3ffb6e2c2f9e",
+                "8eef7b16-4b70-42cd-8438-b4767a51e8b2",
+                "77672d21-64c0-4fe2-bec2-ae9cecd3c4b6",
+                "f4ec2293-69b8-4a64-b543-e47a51a819af",
+                "9af2ad5f-bc33-44d7-beb9-6a1515e28518",
+                "c3b690f7-be91-43ec-a043-198230da92a9",
+                "998c33ec-2797-411a-af42-2d63fa1f7d0b",
+                "e7735974-4022-422b-9a59-d0b2004ef091",
+                "4a8c8c49-1321-4fba-8246-5ecd44978804",
+                "2263f180-d75d-42ff-85d7-e71436689cd9",
+                "e72197ec-24be-47e9-b104-584ac00177d1",
+                "f67fcb1b-9176-4c19-a78b-3d02779b763c",
+                "e889b365-b0c8-4e51-9e25-9cf39088adc6",
+                "89c9c6d4-b77f-4232-bdbd-b96e18d9a5e8",
+                "c70a0c58-2933-4f96-ac13-7f221bb68ab5",
+                "c0328d14-a080-4a1c-85aa-b7135b28e8fc",
+                "54505bef-a608-4b75-a436-3ba9c4b80268",
+                "ef53ffaa-1803-445f-8092-527b18c7e7b2",
+                "5d0dd5f5-b2b1-45fa-b9ca-41ee27d78714"
+            ],
+            "num_winners": 1
+        },
+        "20a68a7a-d2fd-4504-be85-2ce9adb8899b": {
+            "id": "20a68a7a-d2fd-4504-be85-2ce9adb8899b",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "c2334cfd-9495-4464-a557-27cb6b4e73f4",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Winner / Total Points Double",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "1cb47d61-f8a7-4da6-aca1-cf7c6d55bf26",
+                "447bbc9b-b44d-4b61-98e8-a664bfea102e",
+                "39966c77-7971-486e-9cf2-be146c24b90a",
+                "8a2f2f1b-77b6-43a2-a062-923d5eba1064"
+            ],
+            "num_winners": 4
         },
         "2a8191ad-b474-46f2-821c-e1cd1139fa37": {
             "id": "2a8191ad-b474-46f2-821c-e1cd1139fa37",
@@ -865,7 +2820,7 @@
                 "seconds": 1725095700
             },
             "live_betting_available": true,
-            "handicap": 5.5,
+            "handicap": 2.5,
             "same_game_multi_available": true,
             "visible": true,
             "entrant_ids": [
@@ -873,6 +2828,29 @@
                 "5386e3c8-473b-47fd-baf5-7c56374fae6d"
             ],
             "num_winners": 1
+        },
+        "4a5ef98d-bf2c-4a52-bf57-6a50c5745ccd": {
+            "id": "4a5ef98d-bf2c-4a52-bf57-6a50c5745ccd",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "785f7163-5608-4650-8101-1f4bc0015543",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Line / Total Points Double",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "62d5f4e7-9c15-47f2-b9b0-1db2f6a40e33",
+                "d38c5edd-c8a6-4d0c-a358-a5763cf35f1b",
+                "0f0ec932-41f7-4072-ade5-1622ea330e41",
+                "ed1612c9-0364-49c9-b2e5-ed2db3db056c"
+            ],
+            "num_winners": 8
         },
         "4f139bf3-c2a5-43ee-8632-f465d04c6114": {
             "id": "4f139bf3-c2a5-43ee-8632-f465d04c6114",
@@ -1014,7 +2992,7 @@
             "actual_start": {
                 "seconds": 1725095700
             },
-            "handicap": 2.5,
+            "handicap": 1.5,
             "same_game_multi_available": true,
             "comments": "Paid on points scored in individual half only.",
             "visible": true,
@@ -1036,13 +3014,35 @@
             "actual_start": {
                 "seconds": 1725095700
             },
-            "handicap": 2.5,
+            "handicap": 1.5,
             "same_game_multi_available": true,
             "comments": "Paid on points scored in individual half only.",
             "visible": true,
             "entrant_ids": [
                 "88dc84d1-22ff-46e2-ae82-1e83edd23981",
                 "8a19a89d-e9f6-460e-90cd-354310514cdb"
+            ],
+            "num_winners": 1
+        },
+        "8988fbac-30ee-455e-b0c6-ee78b235e57e": {
+            "id": "8988fbac-30ee-455e-b0c6-ee78b235e57e",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "9cc10db4-c9bb-49f2-bba6-e4ea6eabcb4a",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Total Points",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "live_betting_available": true,
+            "handicap": 86.5,
+            "same_game_multi_available": true,
+            "visible": true,
+            "entrant_ids": [
+                "4320c889-5d72-483c-b3dc-8bc9c4805517",
+                "11c96d8d-c22a-479f-bf55-4b719b6f93e5"
             ],
             "num_winners": 1
         },
@@ -1086,6 +3086,187 @@
             ],
             "num_winners": 1
         },
+        "9be71763-362d-43f6-b630-6a086362f2be": {
+            "id": "9be71763-362d-43f6-b630-6a086362f2be",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "af25c289-602f-48b9-a99e-cc91a2a15d16",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 15+ Disposals",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "9f5a9ceb-dd89-483a-b60a-ac8cb01afcb1",
+                "f80d387c-e5f1-4677-b27a-991c7c001bc2",
+                "3dd520b2-50db-4027-9aee-b68294bc57fb",
+                "517cae81-25bf-477e-9420-0fbe73dbd819",
+                "3160f22a-de51-4d3a-8c3b-3e7aea3400ea",
+                "42d23805-d712-4330-9ff1-db71d688d6f2",
+                "242670de-abe7-40f5-b92c-b26d4fcbf521",
+                "12a5783e-e939-46a8-890a-62da61b999fe",
+                "2c72d03a-760a-424e-a2e4-129dd12ae210"
+            ],
+            "num_winners": 9
+        },
+        "a25b8f73-10cf-458f-8f1d-00d570cda77d": {
+            "id": "a25b8f73-10cf-458f-8f1d-00d570cda77d",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "92ceeb90-0e12-45b7-bcd4-b7b6f9c09268",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Player Goals - Anytime Goal Kicker",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "0a6d70ad-6ab6-44eb-93ad-3107b33a6f4f",
+                "b395f41b-1e2a-48ee-8d8f-5916cd9f3a86",
+                "8afd2aa0-9d03-45ef-832a-cc65b6990f1d",
+                "aaf9fe45-162d-4180-80c9-ac2716f423d2",
+                "4a3ff945-d8ee-4591-8431-d8d4d1888235",
+                "705757a0-6125-44d0-9249-071126a1cc47",
+                "42a48819-7177-4e84-811a-2fd4f98d9f91",
+                "a22edaf7-72c8-4d37-a853-a3bcc1892b30",
+                "32d9b01b-6b6e-46ae-a87e-d3a28741e13f",
+                "98c69df0-2ffb-4d14-b58c-09c06bedd978",
+                "2b5d9d46-28fb-4b6b-aecf-b858057c7f6d",
+                "1a8a1e5c-11c8-43e2-85ba-120339697f6f",
+                "4dab7db7-a0df-48a3-a9ee-bce1bdd0b638",
+                "4e26a988-2df2-4836-83a9-dc3470f130ea",
+                "89146b1b-92bf-4cc8-bf77-3ab3b8d60130",
+                "361203ad-db2d-475e-869c-baa12cb4b888",
+                "a0012b7d-02a5-443a-9389-92c657171590",
+                "8817c29a-023d-46ca-85a6-02e8bd07c4de",
+                "1ce699ec-abd2-4219-862f-e76cc781503a",
+                "f794c2af-afa5-43ef-bd0b-0655a3705ae1",
+                "ff4c2095-b4d6-4ef3-af7f-8147a2335795",
+                "f927bac2-0f6d-4345-a475-f2338fa796b6",
+                "aeca532a-4ae0-4bad-844b-621192d04042"
+            ],
+            "num_winners": 23
+        },
+        "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6": {
+            "id": "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "80c765fe-383e-4e6b-95c7-a47ea815c6d2",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Player Goals - To Kick 2+ Goals",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "is_future_market": true,
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "a43864f0-0146-40f0-9676-907f7771f376",
+                "0d50465f-ac58-47e0-be98-dfd5967e82aa",
+                "66905ce8-5c1a-4334-98ae-11f883080b67",
+                "b6051c14-fbd6-4826-93f6-8e3b16f8c4e3",
+                "f8d73783-47c9-4a81-9893-2c044095900e",
+                "1ac27b4b-b223-4eaf-92ed-e1709fc2b020"
+            ],
+            "num_winners": 6
+        },
+        "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e": {
+            "id": "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "4fb5763b-84fa-49c5-8f37-e2ed980b255f",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "First Goal Kicker",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "same_game_multi_available": true,
+            "comments": "Market Pays on First Goal Kicker whether or not the Goal is Kicked in the 1st Quarter, Quote Others",
+            "visible": true,
+            "entrant_ids": [
+                "d295e717-7c29-4533-baa2-3728628aec0c",
+                "335051d4-d04d-4ad9-a529-2ca60ed7c8b9",
+                "e513fbb8-0769-4895-8f9e-4b7ebafceb18",
+                "c7e2f25d-13b0-4c4c-9fa8-19015953b9dc",
+                "d1aaaa42-0ea0-4a99-97cd-a254223b126e",
+                "ebf86b98-ea11-443c-ad96-2846ab9732d9",
+                "c5d6d085-e62b-405b-a4f0-bab86a6948db",
+                "5a5f0a38-00c7-484d-8fa5-9a0db17e818a",
+                "6c619239-1164-4dc0-a25a-ad1a9e27b70e",
+                "3355b5e8-99fd-41e5-9702-c0d0d089329a",
+                "66bb0918-ff36-43ae-aaca-0d710b51b0eb",
+                "f4297908-caf6-4e1a-b6e8-afcd12ee0a70",
+                "536b8137-d3f8-4062-b7f7-880e4d968ef4",
+                "465c56da-33bb-4b03-8fbc-47da2f9e8f2a",
+                "2a9159ae-9069-4d15-90e1-10e8a67a62b4",
+                "a5566e5d-a3b4-44fa-b684-5f34b4c81f6f",
+                "bfd1bccf-bf54-4bcd-9caa-3da1c9360bd8",
+                "2a945449-bdb2-4fec-95e5-e90939317450",
+                "42e79125-7add-4dd2-ba6f-20d9aa68978b",
+                "4771113f-0775-4b56-a1de-e0b095c456ff",
+                "744c715e-d9c1-40c7-9b3e-0281c8c1dfbc",
+                "09953da9-5be6-4b71-9c2a-58578e6d5c9d",
+                "7cdffb20-d353-435e-b5db-5af2cd077285",
+                "20e78067-d32a-4a65-989f-f83a354b4350",
+                "bafb1f0a-e260-4f8a-910b-0c67a6559869",
+                "150073f5-20d4-4410-9580-d97901edd1f9",
+                "f259d442-67d5-45f8-ba4f-b0714d6dce8e",
+                "eafcb97f-05b1-4870-bf68-6695de402d3b",
+                "b57dac99-0964-4609-baab-3e76bce3826a",
+                "ffa08e85-bb0f-412d-8095-090167828f1b",
+                "19b73e7d-f888-4d03-8905-f138c99e81a1",
+                "82d7b726-9298-4789-8c49-637f9388ccb2",
+                "96cdf4c5-1aad-44b1-92c7-1137c01096e9",
+                "33e47203-e4cc-41f2-a116-36b8a0fe256e",
+                "5abaf17e-5b5c-46db-938b-843589f4ea51",
+                "cf88a467-c99a-4ab2-a413-deb073fe5915",
+                "9bbe12c5-43a0-4974-bc3c-6f6cdff95608",
+                "bc6b6a04-e188-4a78-8d23-76823f4dd423",
+                "f623d65e-dd62-44d3-a34d-36ea8af80cd7",
+                "916eaf38-4661-4cb7-96ab-afd59c1fe720",
+                "f08f66f9-7101-444f-9d55-9d36b5728590",
+                "40baa1d6-8413-4126-9ae8-8183c1947619"
+            ],
+            "num_winners": 1
+        },
+        "b0848e03-aa4f-4743-8998-00ec4561d876": {
+            "id": "b0848e03-aa4f-4743-8998-00ec4561d876",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "a3be2c40-c0dc-4b90-a367-bbaa7fa9e63f",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Half-Time / Full-Time Double",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "12fee3cc-c016-448a-9f40-203271b0fd1f",
+                "83c99b66-40a0-4fda-8257-08fe978b545a",
+                "6c0219b1-49bb-4d90-923c-1dfafa1cef2f",
+                "8a7c9cf5-d102-4dc2-bb00-23cfdde3450f",
+                "ac24ab9c-a6d2-4892-967d-0d1dc3645d9a"
+            ],
+            "num_winners": 5
+        },
         "b2df8e9e-be34-4f90-ac01-74c5ea2d9ccd": {
             "id": "b2df8e9e-be34-4f90-ac01-74c5ea2d9ccd",
             "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
@@ -1104,6 +3285,67 @@
                 "658dac24-cd35-41a9-b633-fd9aee8ece50",
                 "64af4d24-bac5-4b93-a9e1-5f421c1134a1",
                 "0eb4e321-a85d-40fd-9e4a-477e85cd1a12"
+            ],
+            "num_winners": 1
+        },
+        "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec": {
+            "id": "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "75a617d3-2172-4760-b7b5-ff7209e005ad",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "First Goal Kicker - 4th Quarter",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "same_game_multi_available": true,
+            "comments": "Quote Others",
+            "visible": true,
+            "entrant_ids": [
+                "48ba7502-6ecd-44f1-aab6-46b1fb3cfd3c",
+                "3fabdac3-5610-4d2d-ba69-15d78b870c89",
+                "9e0c2f58-2742-4304-9699-7aef984b1d65",
+                "6aef22b9-f98a-4b30-af07-8aa1f678bcb7",
+                "686ce119-211f-4e02-be8c-01f9eacad808",
+                "bfe4a867-34e1-4a8d-b7b1-3a1683752f9b",
+                "b36c1c87-e41e-4581-8b60-8beb14e1b1f0",
+                "7a8b0b05-769c-42f5-b5f5-cc19b8432305",
+                "1e5d8e99-0f2b-432a-a7f4-396b506648a7",
+                "6fca87c4-da82-4808-bf50-166485486834",
+                "a8b9800c-1809-4b43-82a2-4cc310d2d3a2",
+                "037e0f57-498f-4a70-a035-646fab51bbfb",
+                "ebe8b321-43e5-4dd8-b726-6f0673c07bc1",
+                "2e7bc233-3802-427d-86ee-84b3433c246b",
+                "be5b516c-9b5b-433e-938b-bbf2635b31ec",
+                "eea7060a-6687-4651-b1b8-f2d6b569ee45",
+                "808488ff-c7bc-4440-8391-65bd2434b479",
+                "6ae8b693-0766-4cc9-bf04-2229679a456a",
+                "1aeef343-7404-4fc9-976f-55ec2c896992",
+                "848aca41-d36e-433e-98c7-4e39df16eae7",
+                "bff1a5b6-a485-483d-a5fd-2773104c9a6b",
+                "dd553742-70db-4171-97f6-e9e31f591e72",
+                "96c7111a-a13a-45d7-ae98-5586f04b14d7",
+                "bf98beb3-54b1-4a85-b5da-625042d258a6",
+                "2d53220a-81f6-43bc-9451-f4183cd11bbd",
+                "648981e3-eb7b-4a1c-91a3-51d0b3a095d9",
+                "5239486d-979d-4d0b-ab2d-7acad05c7495",
+                "d32d867e-14d9-485e-9e09-c3a04742337f",
+                "204d5a06-ff06-4552-950c-e1c938f866c9",
+                "1ba37cfc-d05b-43d8-a62c-eafe99bb820c",
+                "73f3b4da-675a-42fa-8baf-b3d02a2f9c4a",
+                "76242fca-e25f-4d35-a898-5f8c112b56f7",
+                "1a87c36e-36f1-4fcb-893c-b18a6ec129dd",
+                "fbc66825-4c3f-4dbe-a922-da1a50781230",
+                "f4a5ed97-0839-4c21-ac12-3d349ec80283",
+                "aa170057-b720-4741-aef9-66761e54f5ea",
+                "653aba1e-baa6-4ab6-bf20-771fdc48572e",
+                "d42c77de-305e-416f-8563-314df95afb07",
+                "dd22308c-046b-42a3-beba-4201aed5fb77",
+                "c40f886d-3d71-4b75-b3ab-d9460830d107",
+                "5fd2b431-13d7-46df-b5d8-1dcfc9e05d4e",
+                "1d030fc5-db90-42be-b861-0b4ff0248ca9"
             ],
             "num_winners": 1
         },
@@ -1232,15 +3474,104 @@
                 "f4a9df5a-2342-4fd2-826e-1a5c8db503a1"
             ],
             "num_winners": 1
+        },
+        "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a": {
+            "id": "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "9540ad92-aff8-4efe-b03e-93408aefafce",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "First Goal Kicker - 3rd Quarter",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "same_game_multi_available": true,
+            "comments": "Quote Others",
+            "visible": true,
+            "entrant_ids": [
+                "6bb171f7-4171-4f24-a498-05234c0ccbcb",
+                "6c5032c5-a4e4-4686-9497-15c3cd23bcb7",
+                "23f8acf1-a554-4c94-8d35-a6394a9e7112",
+                "8b4f09f7-dd97-4bbc-bd70-a39e1b12decb",
+                "76672ed1-f4e6-4eb3-98ea-9ffe86ecebfe",
+                "c2f5f776-2d71-4ebe-8aa7-caa94ebe1358",
+                "5283c406-1043-45d1-90ec-d76b6104cdca",
+                "26b90747-2eda-4cf1-baf2-f4b0fb0808a4",
+                "cda9a2b8-17e0-4dfc-8d21-b2ce0d2f238a",
+                "1acc1c94-f047-47dc-b4b1-99781e240dab",
+                "05fa7187-e8a2-4a36-bb9b-5e0ddc4b05e4",
+                "1c8bd28a-e8ee-4764-9ae4-0c709751f251",
+                "b4e09f38-8523-420f-9bf7-bb7114c58ffd",
+                "49f0137c-c27d-4547-a053-d00e35c24f3f",
+                "9b7baa02-ff9d-4dd8-a1c2-75697ed5066f",
+                "706d97c1-fc86-40bf-8e92-918ecd335331",
+                "619a7d00-cc4e-4b6f-825c-3bc4e9513887",
+                "3ba5460e-7208-4c26-a1a3-354eb8300573",
+                "2fd22cc4-be3c-4464-a72a-6e987796509f",
+                "e1c47b1d-40bd-4413-8543-b8d9ad815411",
+                "b19b9d12-6678-435e-981d-769fc679c0e4",
+                "1c9ff8c8-8175-4cf1-b407-e581a9468074",
+                "20795726-efac-432e-b491-3c1e7340548f",
+                "c3065c27-addb-402e-840f-dc967bf27a00",
+                "28e94999-aa45-4ee8-9bed-9c402e503bd4",
+                "fcb250ab-c595-44f3-8e8e-0cd3eece020f",
+                "5a907a79-d311-455a-9e32-dc9e2262ea94",
+                "ae8d7992-771a-4405-aaae-bcf0778f4b42",
+                "232eacab-542b-4b38-8eae-ed1ed723b304",
+                "f9e4d56a-1148-4040-9887-3272e679c722",
+                "5c086eb6-54c6-46bc-9694-12603f7acfb1",
+                "8ca42eb7-8518-452d-ae15-c23f61245284",
+                "72433f6e-0e9c-4675-b807-a20a31438269",
+                "c906569f-7d34-4133-ac96-50a135646c08",
+                "59774bb8-dd1a-4e39-a252-f5c08a988e96",
+                "9d8343e0-26a5-4029-8f00-f8b607bfdec6",
+                "34f3f386-0e04-4a47-b1ad-72431f79b749",
+                "ac244157-1da6-4d77-b689-66e6102824d2",
+                "90546169-71f6-4887-a2d6-b845df8fbaa6",
+                "4f5b0d53-b043-4fc3-9fd0-8c3869c404c4",
+                "a62dd87b-2d1c-4125-b086-f52c223f80db",
+                "b8a68088-5625-479a-a31a-0e559ba82a8f"
+            ],
+            "num_winners": 1
+        },
+        "fc21dc7f-d33a-4c42-9d1c-729f739f3381": {
+            "id": "fc21dc7f-d33a-4c42-9d1c-729f739f3381",
+            "event_id": "0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3",
+            "market_type_id": "a4a7ecff-fe82-4d1b-b7b6-f498232a5606",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 20+ Disposals",
+            "advertised_start": {
+                "seconds": 1725095700
+            },
+            "actual_start": {
+                "seconds": 1725095700
+            },
+            "is_future_market": true,
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "e855eb61-82a3-4c41-a377-c20036122801",
+                "c1da7d26-7f02-4a78-81ce-71cd4f685d9d",
+                "2e3a9f95-a399-4fdf-b34c-7ccaddaf9b42",
+                "52be2f1a-427f-4ab0-a378-d2b9de801c8e",
+                "657a024c-4949-4707-9257-87de34f0bdf7"
+            ],
+            "num_winners": 5
         }
     },
     "markets_allow_cashout": {
         "093173ea-b645-4ebf-bfc2-93b68678d499": true,
         "14b01f48-c511-4b1e-bb89-3492f263f173": true,
+        "1b515f49-5b42-4235-84c9-528229c73c67": true,
+        "20a68a7a-d2fd-4504-be85-2ce9adb8899b": false,
         "2a8191ad-b474-46f2-821c-e1cd1139fa37": true,
         "32245271-20ae-482b-9739-ad7657504a85": true,
         "388a3072-c28a-4ce5-9375-6af21af2bd90": true,
         "44b738b0-c03a-48a3-9ebb-56074033eec7": false,
+        "4a5ef98d-bf2c-4a52-bf57-6a50c5745ccd": false,
         "4f139bf3-c2a5-43ee-8632-f465d04c6114": true,
         "52243119-00f3-45a5-ac6a-4375c3d9cb72": true,
         "546ad1dd-2fc0-4077-b12f-582e1aee45f0": true,
@@ -1249,51 +3580,126 @@
         "79298ba9-dfc6-4609-aa7d-ca82e7a1c9fe": true,
         "7b86357e-5fb9-4323-968c-b062d56cf9ff": false,
         "8978f18a-5dfa-4a56-9da1-d7b4c33dc70d": false,
+        "8988fbac-30ee-455e-b0c6-ee78b235e57e": false,
         "8db8fa88-19e5-4f0d-b1af-3a0165c44e1e": true,
         "944effbd-129f-4078-97fb-28dbb5b31f34": true,
+        "9be71763-362d-43f6-b630-6a086362f2be": true,
+        "a25b8f73-10cf-458f-8f1d-00d570cda77d": true,
+        "a7dc9685-24cf-4e5a-9c85-cf2d0f2608d6": true,
+        "ab5b92c5-e3bc-40cd-ac84-3caf8ba08b3e": true,
+        "b0848e03-aa4f-4743-8998-00ec4561d876": true,
         "b2df8e9e-be34-4f90-ac01-74c5ea2d9ccd": true,
+        "c7545d60-4aaa-4804-b7bc-9fd5b4cf8cec": true,
         "cb223532-9451-4e47-bb3a-fa60024ed71c": true,
         "cfefcb7f-b253-4d52-b785-e14beaee7ea7": true,
         "e5451495-a48b-4147-bb57-cd706f8547eb": true,
         "eecac583-552e-4c14-878a-54e735b68887": true,
         "f1de3db0-8f49-47f0-a5d7-211dbd4b77fc": true,
-        "f7d044b3-32e6-420a-894a-2dd0fcd92f43": true
+        "f7d044b3-32e6-420a-894a-2dd0fcd92f43": true,
+        "fa13e6dd-bf3e-4e3a-9285-2bc71a791f8a": true,
+        "fc21dc7f-d33a-4c42-9d1c-729f739f3381": true
     },
     "prices": {
         "019099a0-666b-48ae-81e6-1ad9b7f7c907:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 4
+                "numerator": 41,
+                "denominator": 50
             }
         },
         "01e968e6-00cb-43e1-a95d-93b8ae6e0ee3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 4
+                "numerator": 12,
+                "denominator": 5
+            }
+        },
+        "037e0f57-498f-4a70-a035-646fab51bbfb:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "05fa7187-e8a2-4a36-bb9b-5e0ddc4b05e4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
             }
         },
         "0738aab9-45f9-4497-8839-6f98291be743:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
+                "numerator": 23,
+                "denominator": 25
+            }
+        },
+        "09953da9-5be6-4b71-9c2a-58578e6d5c9d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
                 "denominator": 1
+            }
+        },
+        "0a6d70ad-6ab6-44eb-93ad-3107b33a6f4f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 100
             }
         },
         "0c63babd-5a5c-45b3-9dbe-a2af4217d9e9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 1
+                "numerator": 7,
+                "denominator": 2
+            }
+        },
+        "0d50465f-ac58-47e0-be98-dfd5967e82aa:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 10
             }
         },
         "0eb4e321-a85d-40fd-9e4a-477e85cd1a12:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
+                "numerator": 13,
+                "denominator": 5
+            }
+        },
+        "0f0ec932-41f7-4072-ade5-1622ea330e41:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
                 "denominator": 5
             }
         },
         "0f3df071-f429-436f-bf33-c838ed0de0c5:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 10
+                "numerator": 13,
+                "denominator": 5
+            }
+        },
+        "109eafc8-87aa-44ba-bf23-f96db374f4f8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 1
+            }
+        },
+        "10bb5cd7-0971-46b7-92e1-409f16736d60:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "11c96d8d-c22a-479f-bf55-4b719b6f93e5:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 87,
+                "denominator": 100
+            }
+        },
+        "12a5783e-e939-46a8-890a-62da61b999fe:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 53,
+                "denominator": 100
+            }
+        },
+        "12fee3cc-c016-448a-9f40-203271b0fd1f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 4
             }
         },
         "148dddfe-5532-4ef0-8367-6b54c6de1d89:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1302,63 +3708,399 @@
                 "denominator": 1
             }
         },
-        "1616d14c-c928-429b-ae94-dc61090ddc19:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "150073f5-20d4-4410-9580-d97901edd1f9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 2,
+                "numerator": 40,
                 "denominator": 1
             }
         },
+        "1616d14c-c928-429b-ae94-dc61090ddc19:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 5
+            }
+        },
         "18a75c39-ff9d-40c5-b34f-09e234149846:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 33,
+                "denominator": 20
+            }
+        },
+        "19b73e7d-f888-4d03-8905-f138c99e81a1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "1a87c36e-36f1-4fcb-893c-b18a6ec129dd:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "1a8a1e5c-11c8-43e2-85ba-120339697f6f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 3,
+                "denominator": 2
+            }
+        },
+        "1ac27b4b-b223-4eaf-92ed-e1709fc2b020:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 24,
+                "denominator": 5
+            }
+        },
+        "1acc1c94-f047-47dc-b4b1-99781e240dab:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "1aeef343-7404-4fc9-976f-55ec2c896992:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "1ba37cfc-d05b-43d8-a62c-eafe99bb820c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "1c8bd28a-e8ee-4764-9ae4-0c709751f251:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "1c9ff8c8-8175-4cf1-b407-e581a9468074:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "1cb47d61-f8a7-4da6-aca1-cf7c6d55bf26:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 10
+            }
+        },
+        "1ce699ec-abd2-4219-862f-e76cc781503a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 4
+            }
+        },
+        "1d030fc5-db90-42be-b861-0b4ff0248ca9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "1e5d8e99-0f2b-432a-a7f4-396b506648a7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "1fd8cf6e-e47e-450d-8209-e566796eb31c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 1
+            }
+        },
+        "20078457-725c-43e6-801b-b7c33ecb4cf6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 4
+            }
+        },
+        "204d5a06-ff06-4552-950c-e1c938f866c9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "20795726-efac-432e-b491-3c1e7340548f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 28,
+                "denominator": 1
+            }
+        },
+        "20e78067-d32a-4a65-989f-f83a354b4350:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "2263f180-d75d-42ff-85d7-e71436689cd9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "232eacab-542b-4b38-8eae-ed1ed723b304:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "23e3ba71-073a-49de-aad9-ad0f3ef0e1a7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 41,
+                "denominator": 50
+            }
+        },
+        "23ed8977-f552-40df-ae46-d7fbeedbeeed:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 51,
+                "denominator": 50
+            }
+        },
+        "23f8acf1-a554-4c94-8d35-a6394a9e7112:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 1
+            }
+        },
+        "242670de-abe7-40f5-b92c-b26d4fcbf521:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 1,
+                "denominator": 2
+            }
+        },
+        "246e23c3-7325-48b0-bf50-f6f9709a8d2a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 24,
+                "denominator": 5
+            }
+        },
+        "24fa4673-9fbb-4e15-947b-5c1e94b5f1a1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "26b90747-2eda-4cf1-baf2-f4b0fb0808a4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "28e94999-aa45-4ee8-9bed-9c402e503bd4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "295f5baf-c26c-4876-a9a4-c251366e111b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 23,
+                "denominator": 25
+            }
+        },
+        "2a9159ae-9069-4d15-90e1-10e8a67a62b4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "2a945449-bdb2-4fec-95e5-e90939317450:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "2b5d9d46-28fb-4b6b-aecf-b858057c7f6d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
                 "denominator": 5
             }
         },
-        "20078457-725c-43e6-801b-b7c33ecb4cf6:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "2c72d03a-760a-424e-a2e4-129dd12ae210:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 12,
+                "numerator": 18,
+                "denominator": 25
+            }
+        },
+        "2d53220a-81f6-43bc-9451-f4183cd11bbd:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "2e3a9f95-a399-4fdf-b34c-7ccaddaf9b42:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 50
+            }
+        },
+        "2e7bc233-3802-427d-86ee-84b3433c246b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "2fd22cc4-be3c-4464-a72a-6e987796509f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "3160f22a-de51-4d3a-8c3b-3e7aea3400ea:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 50
+            }
+        },
+        "32d9b01b-6b6e-46ae-a87e-d3a28741e13f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
                 "denominator": 5
             }
         },
-        "23e3ba71-073a-49de-aad9-ad0f3ef0e1a7:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 3,
-                "denominator": 4
-            }
-        },
-        "23ed8977-f552-40df-ae46-d7fbeedbeeed:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 5,
-                "denominator": 4
-            }
-        },
-        "246e23c3-7325-48b0-bf50-f6f9709a8d2a:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "335051d4-d04d-4ad9-a529-2ca60ed7c8b9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 13,
                 "denominator": 2
             }
         },
-        "295f5baf-c26c-4876-a9a4-c251366e111b:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "3355b5e8-99fd-41e5-9702-c0d0d089329a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
+                "numerator": 15,
                 "denominator": 1
             }
         },
-        "3e774aec-c6de-4591-b91a-d90c9797ff7a:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "33e47203-e4cc-41f2-a116-36b8a0fe256e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 31,
-                "denominator": 50
+                "numerator": 40,
+                "denominator": 1
             }
         },
-        "3f6f67fe-f41c-4701-99d1-2544f82d381a:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "34f3f386-0e04-4a47-b1ad-72431f79b749:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "361203ad-db2d-475e-869c-baa12cb4b888:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 41,
+                "denominator": 20
+            }
+        },
+        "39345f3b-5b42-41ee-b1cb-f79d9dc92d48:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 28,
+                "denominator": 1
+            }
+        },
+        "39966c77-7971-486e-9cf2-be146c24b90a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 5
+            }
+        },
+        "3ab642a5-6358-4bb9-bb87-7b4d6e945048:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
                 "denominator": 1
             }
         },
+        "3ba5460e-7208-4c26-a1a3-354eb8300573:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "3c3266a5-b1a3-48dd-a959-5f3f2494fac9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 2
+            }
+        },
+        "3dd520b2-50db-4027-9aee-b68294bc57fb:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 3,
+                "denominator": 50
+            }
+        },
+        "3e774aec-c6de-4591-b91a-d90c9797ff7a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 39,
+                "denominator": 50
+            }
+        },
+        "3f6f67fe-f41c-4701-99d1-2544f82d381a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 26,
+                "denominator": 5
+            }
+        },
+        "3fabdac3-5610-4d2d-ba69-15d78b870c89:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 2
+            }
+        },
         "403f946c-3dc9-4c64-aa2b-5ef8a884d1b5:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
+                "numerator": 23,
+                "denominator": 25
+            }
+        },
+        "40baa1d6-8413-4126-9ae8-8183c1947619:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "41058ae9-3ec6-4d17-ad0a-b34da280a4db:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "42a48819-7177-4e84-811a-2fd4f98d9f91:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 20
+            }
+        },
+        "42d23805-d712-4330-9ff1-db71d688d6f2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 50
+            }
+        },
+        "42e79125-7add-4dd2-ba6f-20d9aa68978b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "4320c889-5d72-483c-b3dc-8bc9c4805517:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 87,
+                "denominator": 100
+            }
+        },
+        "447bbc9b-b44d-4b61-98e8-a664bfea102e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 23,
+                "denominator": 10
+            }
+        },
+        "465c56da-33bb-4b03-8fbc-47da2f9e8f2a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "4771113f-0775-4b56-a1de-e0b095c456ff:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
                 "denominator": 1
             }
         },
@@ -1368,15 +4110,105 @@
                 "denominator": 25
             }
         },
+        "48ba7502-6ecd-44f1-aab6-46b1fb3cfd3c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 2
+            }
+        },
+        "491ac2e6-e3ca-4ee5-b505-77e52ae8b1c6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "499026ea-817e-4cb5-80bb-1c956cba024f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 2
+            }
+        },
+        "49f0137c-c27d-4547-a053-d00e35c24f3f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
         "4a1b6939-f13d-45db-a935-702a8809f466:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 41,
+                "numerator": 39,
                 "denominator": 20
+            }
+        },
+        "4a3ff945-d8ee-4591-8431-d8d4d1888235:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 31,
+                "denominator": 50
             }
         },
         "4a40510d-0e37-43ec-9592-b72aea2c4c7f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
+                "numerator": 23,
+                "denominator": 25
+            }
+        },
+        "4a8c8c49-1321-4fba-8246-5ecd44978804:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "4dab7db7-a0df-48a3-a9ee-bce1bdd0b638:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 31,
+                "denominator": 20
+            }
+        },
+        "4e26a988-2df2-4836-83a9-dc3470f130ea:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 31,
+                "denominator": 20
+            }
+        },
+        "4f5b0d53-b043-4fc3-9fd0-8c3869c404c4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "50587dfb-ad69-43d2-8601-d5a9c3c9ce00:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 1
+            }
+        },
+        "517cae81-25bf-477e-9420-0fbe73dbd819:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 33,
+                "denominator": 100
+            }
+        },
+        "5239486d-979d-4d0b-ab2d-7acad05c7495:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "5283c406-1043-45d1-90ec-d76b6104cdca:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 1
+            }
+        },
+        "52be2f1a-427f-4ab0-a378-d2b9de801c8e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 25
+            }
+        },
+        "536b8137-d3f8-4062-b7f7-880e4d968ef4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
                 "denominator": 1
             }
         },
@@ -1388,278 +4220,1142 @@
         },
         "53b261b9-3119-458c-a84d-0ba0fda10c49:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
-                "denominator": 10
+                "numerator": 11,
+                "denominator": 5
+            }
+        },
+        "54505bef-a608-4b75-a436-3ba9c4b80268:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "54921af5-9ea9-4c09-bedc-d832b4088c1d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 10
+                "numerator": 9,
+                "denominator": 5
             }
         },
         "5641b631-df3a-4ec0-b27a-715f1168f985:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 10
+                "numerator": 9,
+                "denominator": 5
             }
         },
         "574c6804-089c-4ee2-a261-7262b0c9dbc8:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 4
+                "numerator": 41,
+                "denominator": 50
+            }
+        },
+        "59774bb8-dd1a-4e39-a252-f5c08a988e96:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "5a4b5f6b-e3f2-41df-b406-53e4a9e3336d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "5a5f0a38-00c7-484d-8fa5-9a0db17e818a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "5a907a79-d311-455a-9e32-dc9e2262ea94:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "5abaf17e-5b5c-46db-938b-843589f4ea51:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "5c086eb6-54c6-46bc-9694-12603f7acfb1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "5c591bf9-5bdd-4094-b9ff-b192ab9a82f0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
+                "numerator": 23,
+                "denominator": 25
+            }
+        },
+        "5cb67cd4-e674-423c-9ecd-3ffb6e2c2f9e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "5d0dd5f5-b2b1-45fa-b9ca-41ee27d78714:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
                 "denominator": 1
             }
         },
         "5f79c76c-2620-47b8-a100-f23d5e11904f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 4
+                "numerator": 41,
+                "denominator": 50
+            }
+        },
+        "5fd2b431-13d7-46df-b5d8-1dcfc9e05d4e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "606c335b-8530-4630-9cdf-9f4c615d4974:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
+                "numerator": 23,
+                "denominator": 25
+            }
+        },
+        "619a7d00-cc4e-4b6f-825c-3bc4e9513887:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "62d5f4e7-9c15-47f2-b9b0-1db2f6a40e33:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 23,
+                "denominator": 10
+            }
+        },
+        "630d3da2-2fd6-4de6-94ea-ddd780e93eef:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "648981e3-eb7b-4a1c-91a3-51d0b3a095d9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
                 "denominator": 1
             }
         },
         "64af4d24-bac5-4b93-a9e1-5f421c1134a1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 10
+                "numerator": 47,
+                "denominator": 50
+            }
+        },
+        "653aba1e-baa6-4ab6-bf20-771fdc48572e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "657a024c-4949-4707-9257-87de34f0bdf7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 20
             }
         },
         "658dac24-cd35-41a9-b633-fd9aee8ece50:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 5
+                "numerator": 19,
+                "denominator": 10
+            }
+        },
+        "66905ce8-5c1a-4334-98ae-11f883080b67:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 31,
+                "denominator": 20
+            }
+        },
+        "66bb0918-ff36-43ae-aaca-0d710b51b0eb:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
             }
         },
         "6720371f-ed5a-4ec1-bb9d-a3f648b4eacd:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 12,
+                "numerator": 9,
+                "denominator": 4
+            }
+        },
+        "686ce119-211f-4e02-be8c-01f9eacad808:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "6ae8b693-0766-4cc9-bf04-2229679a456a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "6aef22b9-f98a-4b30-af07-8aa1f678bcb7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 1
+            }
+        },
+        "6bb171f7-4171-4f24-a498-05234c0ccbcb:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 2
+            }
+        },
+        "6c0219b1-49bb-4d90-923c-1dfafa1cef2f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 28,
                 "denominator": 5
+            }
+        },
+        "6c5032c5-a4e4-4686-9497-15c3cd23bcb7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 2
+            }
+        },
+        "6c619239-1164-4dc0-a25a-ad1a9e27b70e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
             }
         },
         "6c6fce46-cf61-4db2-bcd9-e29ec1996f85:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 4
+                "numerator": 41,
+                "denominator": 50
             }
         },
         "6d4e9d19-06a0-4881-b748-002d628c634d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 2,
-                "denominator": 1
+                "numerator": 21,
+                "denominator": 10
             }
         },
         "6de8fccc-87e2-416c-969a-f3dc0dee0c96:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 22,
+                "numerator": 23,
                 "denominator": 25
             }
         },
         "6e0a144d-c2b5-4380-86d5-6d4f00e9e3cb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 10
+                "numerator": 13,
+                "denominator": 5
+            }
+        },
+        "6fca87c4-da82-4808-bf50-166485486834:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "705757a0-6125-44d0-9249-071126a1cc47:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 47,
+                "denominator": 50
+            }
+        },
+        "706d97c1-fc86-40bf-8e92-918ecd335331:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "72433f6e-0e9c-4675-b807-a20a31438269:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "739c392a-4808-447b-a096-a75d7e87d2e1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 4
+                "numerator": 41,
+                "denominator": 50
+            }
+        },
+        "73f3b4da-675a-42fa-8baf-b3d02a2f9c4a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "744c715e-d9c1-40c7-9b3e-0281c8c1dfbc:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "74f1db27-37c7-4609-a000-6b1f29bc7cdd:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
+        "76242fca-e25f-4d35-a898-5f8c112b56f7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "76672ed1-f4e6-4eb3-98ea-9ffe86ecebfe:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "77672d21-64c0-4fe2-bec2-ae9cecd3c4b6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "77ffaa37-081c-4114-a9a6-57dbcd400027:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 2,
+                "numerator": 21,
+                "denominator": 10
+            }
+        },
+        "7a8b0b05-769c-42f5-b5f5-cc19b8432305:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "7cdffb20-d353-435e-b5db-5af2cd077285:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 28,
+                "denominator": 1
+            }
+        },
+        "7d72df0d-59d6-44da-b6ab-1d5be48e4027:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
                 "denominator": 1
             }
         },
         "805c6558-3d37-40d9-9b3c-c10126f34cf9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 41,
+                "numerator": 39,
                 "denominator": 20
+            }
+        },
+        "808488ff-c7bc-4440-8391-65bd2434b479:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "82d7b726-9298-4789-8c49-637f9388ccb2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "83c99b66-40a0-4fda-8257-08fe978b545a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 8,
+                "denominator": 5
+            }
+        },
+        "848aca41-d36e-433e-98c7-4e39df16eae7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "8817c29a-023d-46ca-85a6-02e8bd07c4de:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 4
             }
         },
         "88dc84d1-22ff-46e2-ae82-1e83edd23981:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 10
+                "numerator": 23,
+                "denominator": 25
+            }
+        },
+        "89146b1b-92bf-4cc8-bf77-3ab3b8d60130:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 41,
+                "denominator": 20
+            }
+        },
+        "89c9c6d4-b77f-4232-bdbd-b96e18d9a5e8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "8a19a89d-e9f6-460e-90cd-354310514cdb:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 91,
+                "numerator": 22,
+                "denominator": 25
+            }
+        },
+        "8a2f2f1b-77b6-43a2-a062-923d5eba1064:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 10
+            }
+        },
+        "8a7c9cf5-d102-4dc2-bb00-23cfdde3450f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 2
+            }
+        },
+        "8afd2aa0-9d03-45ef-832a-cc65b6990f1d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 33,
                 "denominator": 100
+            }
+        },
+        "8b4f09f7-dd97-4bbc-bd70-a39e1b12decb:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 1
+            }
+        },
+        "8ca42eb7-8518-452d-ae15-c23f61245284:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "8e158dfc-0315-44d9-a83e-007b508d7a1b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
-                "denominator": 1
+                "numerator": 23,
+                "denominator": 25
             }
         },
         "8e828bd2-3770-4b16-9e6c-d01368b61013:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
+                "numerator": 11,
+                "denominator": 5
+            }
+        },
+        "8eef7b16-4b70-42cd-8438-b4767a51e8b2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "90546169-71f6-4887-a2d6-b845df8fbaa6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "916eaf38-4661-4cb7-96ab-afd59c1fe720:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "96c7111a-a13a-45d7-ae98-5586f04b14d7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 28,
+                "denominator": 1
+            }
+        },
+        "96cdf4c5-1aad-44b1-92c7-1137c01096e9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "98c69df0-2ffb-4d14-b58c-09c06bedd978:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 5
+            }
+        },
+        "998c33ec-2797-411a-af42-2d63fa1f7d0b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "9a316c16-a062-49ef-8724-1b9941d07c7b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "9af2ad5f-bc33-44d7-beb9-6a1515e28518:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "9b5a2278-d2f9-474a-974d-fb1700b53e39:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "9b7baa02-ff9d-4dd8-a1c2-75697ed5066f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "9bbe12c5-43a0-4974-bc3c-6f6cdff95608:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "9d8343e0-26a5-4029-8f00-f8b607bfdec6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "9e0c2f58-2742-4304-9699-7aef984b1d65:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 1
+            }
+        },
+        "9f5a9ceb-dd89-483a-b60a-ac8cb01afcb1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 1,
+                "denominator": 50
+            }
+        },
+        "a0012b7d-02a5-443a-9389-92c657171590:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 41,
+                "denominator": 20
+            }
+        },
+        "a22edaf7-72c8-4d37-a853-a3bcc1892b30:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
                 "numerator": 23,
-                "denominator": 10
+                "denominator": 20
+            }
+        },
+        "a297f35f-5b00-4079-b909-c0aca9baae80:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "a43864f0-0146-40f0-9676-907f7771f376:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 24,
+                "denominator": 25
             }
         },
         "a5270b16-77b9-445e-9cbf-cd9e4fc012ef:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 1,
+                "numerator": 23,
+                "denominator": 25
+            }
+        },
+        "a5566e5d-a3b4-44fa-b684-5f34b4c81f6f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "a62dd87b-2d1c-4125-b086-f52c223f80db:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "a6e2977e-fe06-4d72-a966-4d4e57ab1ea2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
                 "denominator": 1
             }
         },
         "a86c15d5-614c-4da5-a84e-62ab49d565b7:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 41,
+                "numerator": 39,
                 "denominator": 20
+            }
+        },
+        "a8b9800c-1809-4b43-82a2-4cc310d2d3a2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
             }
         },
         "a8f3ec31-4340-460d-b20b-3070463d7033:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 2,
-                "denominator": 1
+                "numerator": 21,
+                "denominator": 10
             }
         },
         "a9f754fe-927f-456f-bee4-53d2d2a0c40c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 39,
+                "numerator": 41,
                 "denominator": 20
+            }
+        },
+        "aa170057-b720-4741-aef9-66761e54f5ea:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "aaf8bc7a-ccbc-4b78-afd6-28ac85657527:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 23,
+                "numerator": 22,
                 "denominator": 25
+            }
+        },
+        "aaf9fe45-162d-4180-80c9-ac2716f423d2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 53,
+                "denominator": 100
+            }
+        },
+        "ac244157-1da6-4d77-b689-66e6102824d2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "ac24ab9c-a6d2-4892-967d-0d1dc3645d9a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 21,
+                "denominator": 2
+            }
+        },
+        "ae8d7992-771a-4405-aaae-bcf0778f4b42:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "aeca532a-4ae0-4bad-844b-621192d04042:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 4
             }
         },
         "aef9914f-27b8-4fc8-b4a6-ee0dfb4da62e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 27,
-                "denominator": 10
+                "numerator": 13,
+                "denominator": 5
+            }
+        },
+        "b19b9d12-6678-435e-981d-769fc679c0e4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "b36c1c87-e41e-4581-8b60-8beb14e1b1f0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 1
+            }
+        },
+        "b395f41b-1e2a-48ee-8d8f-5916cd9f3a86:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 25
+            }
+        },
+        "b4e09f38-8523-420f-9bf7-bb7114c58ffd:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "b57dac99-0964-4609-baab-3e76bce3826a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "b6051c14-fbd6-4826-93f6-8e3b16f8c4e3:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 2
+            }
+        },
+        "b75f2936-2a8f-411f-9339-b96d0914beba:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
             }
         },
         "b845d4e2-44ff-4cae-8be9-faa26a910386:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 39,
+                "numerator": 41,
                 "denominator": 20
+            }
+        },
+        "b8a68088-5625-479a-a31a-0e559ba82a8f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "b9b383f1-92f7-4750-96de-74c38c04fbe8:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 2,
+                "numerator": 21,
+                "denominator": 10
+            }
+        },
+        "bafb1f0a-e260-4f8a-910b-0c67a6559869:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "bc6b6a04-e188-4a78-8d23-76823f4dd423:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
                 "denominator": 1
             }
         },
         "bd78b2db-b5ab-4df9-97e2-5deb7523e95a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 41,
-                "denominator": 20
-            }
-        },
-        "ccac06a2-76ed-4b42-899e-edbbd322f9f9:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 9,
-                "denominator": 4
-            }
-        },
-        "d1511a07-d2ce-4256-b314-882528cd8478:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 31,
-                "denominator": 10
-            }
-        },
-        "d4407b7b-3e02-49d4-a489-73d7bd8d957d:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
                 "numerator": 39,
                 "denominator": 20
             }
         },
-        "d54c3da7-dff2-4df7-a49d-af4352ad9bdd:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "be5b516c-9b5b-433e-938b-bbf2635b31ec:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 12,
-                "denominator": 5
+                "numerator": 22,
+                "denominator": 1
             }
         },
-        "d558eb19-23e8-4f74-83af-00fae60275c8:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "bf98beb3-54b1-4a85-b5da-625042d258a6:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 4
+                "numerator": 40,
+                "denominator": 1
             }
         },
-        "dbcc0914-2b97-426f-b450-a552e5b1d3a8:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "bfd1bccf-bf54-4bcd-9caa-3da1c9360bd8:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 10
+                "numerator": 22,
+                "denominator": 1
             }
         },
-        "dcaa00c6-3d66-4b3c-bdfa-2f91023267e1:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "bfe4a867-34e1-4a8d-b7b1-3a1683752f9b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 17,
-                "denominator": 10
+                "numerator": 13,
+                "denominator": 1
             }
         },
-        "df09720a-1f1e-433a-8154-50eb58908212:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "bff1a5b6-a485-483d-a5fd-2773104c9a6b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 3,
-                "denominator": 4
+                "numerator": 25,
+                "denominator": 1
             }
         },
-        "e0697bc8-a296-4adc-bba0-ec85f889997b:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "c0328d14-a080-4a1c-85aa-b7135b28e8fc:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 9,
-                "denominator": 4
+                "numerator": 40,
+                "denominator": 1
             }
         },
-        "e55eb96b-0bef-40e9-a38d-dfd94175b671:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 23,
-                "denominator": 10
-            }
-        },
-        "e7bf0f81-db3f-4822-9106-92a394c9ead6:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 27,
-                "denominator": 10
-            }
-        },
-        "e903d5e1-22a4-4bfa-9eb2-c9ffa5f35f78:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 39,
-                "denominator": 20
-            }
-        },
-        "ea2f0f6b-4bca-44ad-9ca5-526843332b67:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 12,
-                "denominator": 5
-            }
-        },
-        "f4a9df5a-2342-4fd2-826e-1a5c8db503a1:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 23,
-                "denominator": 10
-            }
-        },
-        "fc0fe489-9471-4eb7-8e84-9761326b5163:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "c1da7d26-7f02-4a78-81ce-71cd4f685d9d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 9,
                 "denominator": 25
             }
         },
-        "fc2f6f99-0954-4a2f-9c9f-e87dc61883e5:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "c2f5f776-2d71-4ebe-8aa7-caa94ebe1358:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 1
+            }
+        },
+        "c3065c27-addb-402e-840f-dc967bf27a00:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "c3b690f7-be91-43ec-a043-198230da92a9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "c40f886d-3d71-4b75-b3ab-d9460830d107:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "c5d6d085-e62b-405b-a4f0-bab86a6948db:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 1
+            }
+        },
+        "c70a0c58-2933-4f96-ac13-7f221bb68ab5:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "c7e2f25d-13b0-4c4c-9fa8-19015953b9dc:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 1
+            }
+        },
+        "c906569f-7d34-4133-ac96-50a135646c08:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "ccac06a2-76ed-4b42-899e-edbbd322f9f9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 5
+            }
+        },
+        "cda9a2b8-17e0-4dfc-8d21-b2ce0d2f238a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "cf88a467-c99a-4ab2-a413-deb073fe5915:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "cff776e9-5ccf-4c20-89eb-bc1c5ecf9cf8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "d1511a07-d2ce-4256-b314-882528cd8478:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 4
+            }
+        },
+        "d1aaaa42-0ea0-4a99-97cd-a254223b126e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "d295e717-7c29-4533-baa2-3728628aec0c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 2
+            }
+        },
+        "d32d867e-14d9-485e-9e09-c3a04742337f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "d38c5edd-c8a6-4d0c-a358-a5763cf35f1b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 47,
+                "denominator": 20
+            }
+        },
+        "d42c77de-305e-416f-8563-314df95afb07:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "d4407b7b-3e02-49d4-a489-73d7bd8d957d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 41,
+                "denominator": 20
+            }
+        },
+        "d54c3da7-dff2-4df7-a49d-af4352ad9bdd:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 9,
                 "denominator": 4
+            }
+        },
+        "d558eb19-23e8-4f74-83af-00fae60275c8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 41,
+                "denominator": 50
+            }
+        },
+        "db40168b-43d6-49b5-a00c-9518c140cac5:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "dbcc0914-2b97-426f-b450-a552e5b1d3a8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 5
+            }
+        },
+        "dcaa00c6-3d66-4b3c-bdfa-2f91023267e1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 5
+            }
+        },
+        "dd22308c-046b-42a3-beba-4201aed5fb77:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "dd553742-70db-4171-97f6-e9e31f591e72:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "df09720a-1f1e-433a-8154-50eb58908212:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 41,
+                "denominator": 50
+            }
+        },
+        "e0697bc8-a296-4adc-bba0-ec85f889997b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 5
+            }
+        },
+        "e1c47b1d-40bd-4413-8543-b8d9ad815411:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "e513fbb8-0769-4895-8f9e-4b7ebafceb18:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 1
+            }
+        },
+        "e55eb96b-0bef-40e9-a38d-dfd94175b671:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 5
+            }
+        },
+        "e72197ec-24be-47e9-b104-584ac00177d1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "e7735974-4022-422b-9a59-d0b2004ef091:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "e7bf0f81-db3f-4822-9106-92a394c9ead6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 5
+            }
+        },
+        "e855eb61-82a3-4c41-a377-c20036122801:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 100
+            }
+        },
+        "e889b365-b0c8-4e51-9e25-9cf39088adc6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "e903d5e1-22a4-4bfa-9eb2-c9ffa5f35f78:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 41,
+                "denominator": 20
+            }
+        },
+        "ea2f0f6b-4bca-44ad-9ca5-526843332b67:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 4
+            }
+        },
+        "eafcb97f-05b1-4870-bf68-6695de402d3b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "ebe8b321-43e5-4dd8-b726-6f0673c07bc1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "ebf86b98-ea11-443c-ad96-2846ab9732d9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 1
+            }
+        },
+        "ed1612c9-0364-49c9-b2e5-ed2db3db056c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 5
+            }
+        },
+        "eea7060a-6687-4651-b1b8-f2d6b569ee45:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "ef53ffaa-1803-445f-8092-527b18c7e7b2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "f08f66f9-7101-444f-9d55-9d36b5728590:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "f259d442-67d5-45f8-ba4f-b0714d6dce8e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "f4297908-caf6-4e1a-b6e8-afcd12ee0a70:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "f4a5ed97-0839-4c21-ac12-3d349ec80283:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "f4a9df5a-2342-4fd2-826e-1a5c8db503a1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 5
+            }
+        },
+        "f4ec2293-69b8-4a64-b543-e47a51a819af:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "f623d65e-dd62-44d3-a34d-36ea8af80cd7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "f67fcb1b-9176-4c19-a78b-3d02779b763c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "f794c2af-afa5-43ef-bd0b-0655a3705ae1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 4
+            }
+        },
+        "f80d387c-e5f1-4677-b27a-991c7c001bc2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 1,
+                "denominator": 25
+            }
+        },
+        "f8d73783-47c9-4a81-9893-2c044095900e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 10
+            }
+        },
+        "f927bac2-0f6d-4345-a475-f2338fa796b6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 2
+            }
+        },
+        "f9e4d56a-1148-4040-9887-3272e679c722:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "fba5ec96-03e8-4a38-8d97-93b77231f748:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "fbc66825-4c3f-4dbe-a922-da1a50781230:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "fc0fe489-9471-4eb7-8e84-9761326b5163:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 50
+            }
+        },
+        "fc2f6f99-0954-4a2f-9c9f-e87dc61883e5:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 5
+            }
+        },
+        "fcb250ab-c595-44f3-8e8e-0cd3eece020f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "ff4c2095-b4d6-4ef3-af7f-8147a2335795:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 5
+            }
+        },
+        "ffa08e85-bb0f-412d-8095-090167828f1b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         }
     }

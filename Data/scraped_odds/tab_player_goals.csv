@@ -1,103 +1,4 @@
 match,home_team,away_team,market_name,player_name,player_team,opposition_team,line,over_price,under_price,prop_id,under_prop_id,agency
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Chloe Molloy,Sydney Swans,Collingwood Magpies,0.5,1.17,NA,3131,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Rebecca Privitelli,Sydney Swans,Collingwood Magpies,0.5,1.22,NA,3136,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Sabrina Frederick,Collingwood Magpies,Sydney Swans,0.5,1.7,NA,3145,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Cynthia Hamilton,Sydney Swans,Collingwood Magpies,0.5,1.75,NA,3132,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Eliza James,Collingwood Magpies,Sydney Swans,0.5,1.75,NA,3141,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Montana Ham,Sydney Swans,Collingwood Magpies,0.5,2.1,NA,3135,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Mikala Cann,Collingwood Magpies,Sydney Swans,0.5,2.1,NA,3144,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Sarah Grunden,Sydney Swans,Collingwood Magpies,0.5,2.2,NA,3137,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Alana Porter,Collingwood Magpies,Sydney Swans,0.5,2.35,NA,3139,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Sofia Hurley,Sydney Swans,Collingwood Magpies,0.5,2.5,NA,3138,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Erica Fowler,Collingwood Magpies,Sydney Swans,0.5,2.5,NA,3142,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Grace Campbell,Collingwood Magpies,Sydney Swans,0.5,2.7,NA,3143,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Lucy McEvoy,Sydney Swans,Collingwood Magpies,0.5,2.7,NA,3134,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Laura Gardiner,Sydney Swans,Collingwood Magpies,0.5,2.8,NA,3133,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Brooke Lochland,Sydney Swans,Collingwood Magpies,0.5,2.85,NA,3130,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Tarni White,Collingwood Magpies,Sydney Swans,0.5,3,NA,3146,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Brittany Bonnici,Collingwood Magpies,Sydney Swans,0.5,3.2,NA,3140,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Chloe Molloy,Sydney Swans,Collingwood Magpies,1.5,1.8,NA,3161,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Rebecca Privitelli,Sydney Swans,Collingwood Magpies,1.5,2.2,NA,3166,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Sabrina Frederick,Collingwood Magpies,Sydney Swans,1.5,4.6,NA,14583,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Cynthia Hamilton,Sydney Swans,Collingwood Magpies,1.5,4.75,NA,3162,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Eliza James,Collingwood Magpies,Sydney Swans,1.5,5,NA,3171,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Montana Ham,Sydney Swans,Collingwood Magpies,1.5,7.5,NA,3165,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Mikala Cann,Collingwood Magpies,Sydney Swans,1.5,7.5,NA,14582,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Sarah Grunden,Sydney Swans,Collingwood Magpies,1.5,8,NA,3167,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Alana Porter,Collingwood Magpies,Sydney Swans,1.5,9,NA,3169,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Sofia Hurley,Sydney Swans,Collingwood Magpies,1.5,10,NA,3168,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Erica Fowler,Collingwood Magpies,Sydney Swans,1.5,11,NA,14580,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Grace Campbell,Collingwood Magpies,Sydney Swans,1.5,12,NA,14581,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Laura Gardiner,Sydney Swans,Collingwood Magpies,1.5,12.5,NA,3163,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Brooke Lochland,Sydney Swans,Collingwood Magpies,1.5,13,NA,3160,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Lucy McEvoy,Sydney Swans,Collingwood Magpies,1.5,13,NA,3164,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Tarni White,Collingwood Magpies,Sydney Swans,1.5,13,NA,14584,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Brittany Bonnici,Collingwood Magpies,Sydney Swans,1.5,14,NA,3170,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Chloe Molloy,Sydney Swans,Collingwood Magpies,2.5,3.5,NA,3101,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Rebecca Privitelli,Sydney Swans,Collingwood Magpies,2.5,5.5,NA,3106,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Montana Ham,Sydney Swans,Collingwood Magpies,2.5,13,NA,3105,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Sabrina Frederick,Collingwood Magpies,Sydney Swans,2.5,14,NA,3115,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Cynthia Hamilton,Sydney Swans,Collingwood Magpies,2.5,15,NA,3102,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Eliza James,Collingwood Magpies,Sydney Swans,2.5,18,NA,3111,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Laura Gardiner,Sydney Swans,Collingwood Magpies,2.5,26,NA,3103,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Grace Campbell,Collingwood Magpies,Sydney Swans,2.5,26,NA,3113,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Lucy McEvoy,Sydney Swans,Collingwood Magpies,2.5,26,NA,3104,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Erica Fowler,Collingwood Magpies,Sydney Swans,2.5,26,NA,3112,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Tarni White,Collingwood Magpies,Sydney Swans,2.5,26,NA,3116,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Sarah Grunden,Sydney Swans,Collingwood Magpies,2.5,31,NA,3107,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Brittany Bonnici,Collingwood Magpies,Sydney Swans,2.5,31,NA,3110,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Mikala Cann,Collingwood Magpies,Sydney Swans,2.5,31,NA,3114,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Alana Porter,Collingwood Magpies,Sydney Swans,2.5,41,NA,3109,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Brooke Lochland,Sydney Swans,Collingwood Magpies,2.5,51,NA,3100,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Goals,Sofia Hurley,Sydney Swans,Collingwood Magpies,2.5,51,NA,3108,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Katie Brennan,Richmond Tigers,West Coast Eagles,0.5,1.12,NA,14641,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Kellie Gibson,West Coast Eagles,Richmond Tigers,0.5,1.27,NA,14633,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Emelia Yassir,Richmond Tigers,West Coast Eagles,0.5,1.35,NA,14639,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Caitlin Greiser,Richmond Tigers,West Coast Eagles,0.5,1.57,NA,14636,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Courtney Jones,Richmond Tigers,West Coast Eagles,0.5,1.6,NA,14637,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Amy Franklin,West Coast Eagles,Richmond Tigers,0.5,1.95,NA,14628,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Monique Conti,Richmond Tigers,West Coast Eagles,0.5,2,NA,14642,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Isabella Lewis,West Coast Eagles,Richmond Tigers,0.5,2.5,NA,14631,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Jodie Hicks,Richmond Tigers,West Coast Eagles,0.5,2.7,NA,14640,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Stella Reid,Richmond Tigers,West Coast Eagles,0.5,2.7,NA,14643,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Ellie McKenzie,Richmond Tigers,West Coast Eagles,0.5,2.7,NA,14638,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Ella Roberts,West Coast Eagles,Richmond Tigers,0.5,2.75,NA,14630,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Ally Dallaway,Richmond Tigers,West Coast Eagles,0.5,2.8,NA,14635,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Mikayla Western,West Coast Eagles,Richmond Tigers,0.5,3,NA,14634,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Charlotte Thomas,West Coast Eagles,Richmond Tigers,0.5,4,NA,14629,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Jess Hosking,West Coast Eagles,Richmond Tigers,0.5,4.2,NA,14632,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Katie Brennan,Richmond Tigers,West Coast Eagles,1.5,1.75,NA,14671,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Kellie Gibson,West Coast Eagles,Richmond Tigers,1.5,2.5,NA,14663,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Emelia Yassir,Richmond Tigers,West Coast Eagles,1.5,2.7,NA,14669,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Courtney Jones,Richmond Tigers,West Coast Eagles,1.5,4,NA,14667,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Caitlin Greiser,Richmond Tigers,West Coast Eagles,1.5,4,NA,14666,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Amy Franklin,West Coast Eagles,Richmond Tigers,1.5,6,NA,14658,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Monique Conti,Richmond Tigers,West Coast Eagles,1.5,7,NA,14672,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Isabella Lewis,West Coast Eagles,Richmond Tigers,1.5,10,NA,14661,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Ally Dallaway,Richmond Tigers,West Coast Eagles,1.5,12,NA,14665,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Ellie McKenzie,Richmond Tigers,West Coast Eagles,1.5,12,NA,14668,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Jodie Hicks,Richmond Tigers,West Coast Eagles,1.5,12,NA,14670,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Stella Reid,Richmond Tigers,West Coast Eagles,1.5,12,NA,14673,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Ella Roberts,West Coast Eagles,Richmond Tigers,1.5,13,NA,14660,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Mikayla Western,West Coast Eagles,Richmond Tigers,1.5,15,NA,14664,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Charlotte Thomas,West Coast Eagles,Richmond Tigers,1.5,21,NA,14659,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Jess Hosking,West Coast Eagles,Richmond Tigers,1.5,21,NA,14662,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Katie Brennan,Richmond Tigers,West Coast Eagles,2.5,3.5,NA,14611,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Kellie Gibson,West Coast Eagles,Richmond Tigers,2.5,6,NA,14603,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Emelia Yassir,Richmond Tigers,West Coast Eagles,2.5,7,NA,14609,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Caitlin Greiser,Richmond Tigers,West Coast Eagles,2.5,12,NA,14606,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Courtney Jones,Richmond Tigers,West Coast Eagles,2.5,13,NA,14607,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Amy Franklin,West Coast Eagles,Richmond Tigers,2.5,23,NA,14598,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Monique Conti,Richmond Tigers,West Coast Eagles,2.5,23,NA,14612,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Ally Dallaway,Richmond Tigers,West Coast Eagles,2.5,26,NA,14605,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Ellie McKenzie,Richmond Tigers,West Coast Eagles,2.5,26,NA,14608,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Stella Reid,Richmond Tigers,West Coast Eagles,2.5,26,NA,14613,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Jodie Hicks,Richmond Tigers,West Coast Eagles,2.5,26,NA,14610,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Ella Roberts,West Coast Eagles,Richmond Tigers,2.5,31,NA,14600,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Isabella Lewis,West Coast Eagles,Richmond Tigers,2.5,31,NA,14601,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Mikayla Western,West Coast Eagles,Richmond Tigers,2.5,41,NA,14604,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Jess Hosking,West Coast Eagles,Richmond Tigers,2.5,51,NA,14602,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Goals,Charlotte Thomas,West Coast Eagles,Richmond Tigers,2.5,51,NA,14599,NA,TAB
 GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Zarlie Goldsworthy,GWS Giants,Western Bulldogs,0.5,1.16,NA,14726,NA,TAB
 GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Sarah Hartwig,Western Bulldogs,GWS Giants,0.5,1.52,NA,14735,NA,TAB
 GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Alyce Parker,GWS Giants,Western Bulldogs,0.5,1.75,NA,14719,NA,TAB
@@ -266,9 +167,9 @@ Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Eden 
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Aishling Moloney,Geelong Cats,Melbourne Demons,0.5,1.55,NA,16067,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Alyssa Bannan,Melbourne Demons,Geelong Cats,0.5,1.7,NA,16077,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Nina Morrison,Geelong Cats,Melbourne Demons,0.5,2,NA,16076,NA,TAB
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Kate Kenny,Geelong Cats,Melbourne Demons,0.5,2.05,NA,16074,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Ryleigh Wotherspoon,Melbourne Demons,Geelong Cats,0.5,2.15,NA,16083,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Amy McDonald,Geelong Cats,Melbourne Demons,0.5,2.15,NA,16068,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Kate Kenny,Geelong Cats,Melbourne Demons,0.5,2.15,NA,16074,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Georgie Prespakis,Geelong Cats,Melbourne Demons,0.5,2.35,NA,16070,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Kate Darby,Geelong Cats,Melbourne Demons,0.5,2.5,NA,16073,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Tyla Hanks,Melbourne Demons,Geelong Cats,0.5,2.65,NA,16085,NA,TAB
@@ -285,7 +186,7 @@ Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Eden 
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Aishling Moloney,Geelong Cats,Melbourne Demons,1.5,3.75,NA,16097,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Alyssa Bannan,Melbourne Demons,Geelong Cats,1.5,4.6,NA,16107,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Nina Morrison,Geelong Cats,Melbourne Demons,1.5,6,NA,16106,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Kate Kenny,Geelong Cats,Melbourne Demons,1.5,7.5,NA,16104,NA,TAB
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Kate Kenny,Geelong Cats,Melbourne Demons,1.5,6.5,NA,16104,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Ryleigh Wotherspoon,Melbourne Demons,Geelong Cats,1.5,7.5,NA,16113,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Amy McDonald,Geelong Cats,Melbourne Demons,1.5,8,NA,16098,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Georgie Prespakis,Geelong Cats,Melbourne Demons,1.5,10,NA,16100,NA,TAB
@@ -377,3 +278,123 @@ Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player G
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Rachelle Martin,Adelaide Crows,Port Adelaide Power,2.5,41,NA,16217,NA,TAB
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Cheyenne Hammond,Port Adelaide Power,Adelaide Crows,2.5,51,NA,16201,NA,TAB
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Olivia Levicki,Port Adelaide Power,Adelaide Crows,2.5,51,NA,16206,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Aine McDonagh,Hawthorn Hawks,Carlton,0.5,1.3,NA,15775,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Greta Bodey,Hawthorn Hawks,Carlton,0.5,1.36,NA,15776,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mia Austin,Carlton,Hawthorn Hawks,0.5,1.4,NA,15785,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Bridie Hipwell,Hawthorn Hawks,Carlton,0.5,1.6,NA,15777,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Darcy Vescio,Carlton,Hawthorn Hawks,0.5,1.75,NA,15786,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Aileen Gilroy,Hawthorn Hawks,Carlton,0.5,1.9,NA,15778,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Jess Vukic,Hawthorn Hawks,Carlton,0.5,1.9,NA,15779,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Casey Sherriff,Hawthorn Hawks,Carlton,0.5,1.9,NA,15780,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Breann Moody,Carlton,Hawthorn Hawks,0.5,1.9,NA,15787,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Lila Keck,Carlton,Hawthorn Hawks,0.5,2.6,NA,15788,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Keeley Skepper,Carlton,Hawthorn Hawks,0.5,2.6,NA,15789,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Abbie McKay,Carlton,Hawthorn Hawks,0.5,2.8,NA,15790,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Eliza West,Hawthorn Hawks,Carlton,0.5,3,NA,15783,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mattea Breed,Hawthorn Hawks,Carlton,0.5,3,NA,15784,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Emily Bates,Hawthorn Hawks,Carlton,0.5,3,NA,15781,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mikayla Williamson,Hawthorn Hawks,Carlton,0.5,3,NA,15782,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mimi Hill,Carlton,Hawthorn Hawks,0.5,3,NA,15791,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Keeley Sherar,Carlton,Hawthorn Hawks,0.5,3.3,NA,15792,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Jess Good,NA,NA,0.5,3.3,NA,15793,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Maddy Guerin,NA,NA,0.5,3.3,NA,15794,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Aine McDonagh,Hawthorn Hawks,Carlton,1.5,2.4,NA,15805,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Greta Bodey,Hawthorn Hawks,Carlton,1.5,3,NA,15806,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mia Austin,Carlton,Hawthorn Hawks,1.5,3,NA,15815,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Bridie Hipwell,Hawthorn Hawks,Carlton,1.5,4,NA,15807,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Darcy Vescio,Carlton,Hawthorn Hawks,1.5,5,NA,15816,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Aileen Gilroy,Hawthorn Hawks,Carlton,1.5,6,NA,15808,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Jess Vukic,Hawthorn Hawks,Carlton,1.5,6,NA,15809,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Casey Sherriff,Hawthorn Hawks,Carlton,1.5,6,NA,15810,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Breann Moody,Carlton,Hawthorn Hawks,1.5,6,NA,15817,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Keeley Skepper,Carlton,Hawthorn Hawks,1.5,11,NA,15819,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Lila Keck,Carlton,Hawthorn Hawks,1.5,11,NA,15818,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Abbie McKay,Carlton,Hawthorn Hawks,1.5,12,NA,15820,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mikayla Williamson,Hawthorn Hawks,Carlton,1.5,13,NA,15812,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Eliza West,Hawthorn Hawks,Carlton,1.5,13,NA,15813,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mattea Breed,Hawthorn Hawks,Carlton,1.5,13,NA,15814,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mimi Hill,Carlton,Hawthorn Hawks,1.5,13,NA,15821,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Emily Bates,Hawthorn Hawks,Carlton,1.5,13,NA,15811,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Keeley Sherar,Carlton,Hawthorn Hawks,1.5,16,NA,15822,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Jess Good,NA,NA,1.5,16,NA,15823,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Maddy Guerin,NA,NA,1.5,16,NA,15824,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Aine McDonagh,Hawthorn Hawks,Carlton,2.5,5.5,NA,15708,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mia Austin,Carlton,Hawthorn Hawks,2.5,7,NA,15718,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Greta Bodey,Hawthorn Hawks,Carlton,2.5,8,NA,15709,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Bridie Hipwell,Hawthorn Hawks,Carlton,2.5,13,NA,15710,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Darcy Vescio,Carlton,Hawthorn Hawks,2.5,17,NA,15719,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Aileen Gilroy,Hawthorn Hawks,Carlton,2.5,21,NA,15711,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Jess Vukic,Hawthorn Hawks,Carlton,2.5,21,NA,15712,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Casey Sherriff,Hawthorn Hawks,Carlton,2.5,21,NA,15713,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Breann Moody,Carlton,Hawthorn Hawks,2.5,21,NA,15720,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Lila Keck,Carlton,Hawthorn Hawks,2.5,34,NA,15721,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Keeley Skepper,Carlton,Hawthorn Hawks,2.5,34,NA,15722,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Abbie McKay,Carlton,Hawthorn Hawks,2.5,41,NA,15723,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mimi Hill,Carlton,Hawthorn Hawks,2.5,51,NA,15724,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Jess Good,NA,NA,2.5,51,NA,15726,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Emily Bates,Hawthorn Hawks,Carlton,2.5,51,NA,15714,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mikayla Williamson,Hawthorn Hawks,Carlton,2.5,51,NA,15715,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Eliza West,Hawthorn Hawks,Carlton,2.5,51,NA,15716,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mattea Breed,Hawthorn Hawks,Carlton,2.5,51,NA,15717,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Keeley Sherar,Carlton,Hawthorn Hawks,2.5,51,NA,15725,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Maddy Guerin,NA,NA,2.5,51,NA,15727,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Dakota Davidson,Brisbane Lions,North Melbourne Kangaroos,0.5,1.18,NA,15978,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Tahlia Randall,North Melbourne Kangaroos,Brisbane Lions,0.5,1.25,NA,15988,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Sophie Conway,Brisbane Lions,North Melbourne Kangaroos,0.5,1.5,NA,15979,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Jasmine Garner,North Melbourne Kangaroos,Brisbane Lions,0.5,1.7,NA,15989,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Kate Shierlaw,North Melbourne Kangaroos,Brisbane Lions,0.5,1.7,NA,15990,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Taylor Smith,Brisbane Lions,North Melbourne Kangaroos,0.5,1.8,NA,15980,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Orla ODwyer,NA,NA,0.5,1.9,NA,15981,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Charlotte Mullins,Brisbane Lions,North Melbourne Kangaroos,0.5,2.1,NA,15982,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Emma King,North Melbourne Kangaroos,Brisbane Lions,0.5,2.1,NA,15991,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Isabella Eddey,NA,NA,0.5,2.15,NA,15992,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Courtney Hodder,Brisbane Lions,North Melbourne Kangaroos,0.5,2.2,NA,15983,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Alice OLoughlin,NA,NA,0.5,2.5,NA,15993,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Catherine Svarc,NA,NA,0.5,3,NA,15985,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Lily Postlethwaite,Brisbane Lions,North Melbourne Kangaroos,0.5,3,NA,15984,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ellie Hampson,Brisbane Lions,North Melbourne Kangaroos,0.5,3.1,NA,15986,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Isabel Dawes,Brisbane Lions,North Melbourne Kangaroos,0.5,3.1,NA,15987,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ashleigh Riddell,NA,NA,0.5,3.5,NA,15995,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ruby Tripodi,North Melbourne Kangaroos,Brisbane Lions,0.5,3.5,NA,15996,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Tess Craven,North Melbourne Kangaroos,Brisbane Lions,0.5,3.5,NA,15997,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Mia King,North Melbourne Kangaroos,Brisbane Lions,0.5,3.5,NA,15994,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Dakota Davidson,Brisbane Lions,North Melbourne Kangaroos,1.5,2,NA,16406,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Tahlia Randall,North Melbourne Kangaroos,Brisbane Lions,1.5,2.3,NA,16416,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Sophie Conway,Brisbane Lions,North Melbourne Kangaroos,1.5,3.8,NA,16407,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Kate Shierlaw,North Melbourne Kangaroos,Brisbane Lions,1.5,4.8,NA,16418,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Jasmine Garner,North Melbourne Kangaroos,Brisbane Lions,1.5,4.8,NA,16417,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Taylor Smith,Brisbane Lions,North Melbourne Kangaroos,1.5,5.5,NA,16408,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Orla ODwyer,NA,NA,1.5,6,NA,16409,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Charlotte Mullins,Brisbane Lions,North Melbourne Kangaroos,1.5,7,NA,16410,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Emma King,North Melbourne Kangaroos,Brisbane Lions,1.5,7,NA,16419,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Isabella Eddey,NA,NA,1.5,8,NA,16420,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Courtney Hodder,Brisbane Lions,North Melbourne Kangaroos,1.5,9,NA,16411,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Alice OLoughlin,NA,NA,1.5,10,NA,16421,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Lily Postlethwaite,Brisbane Lions,North Melbourne Kangaroos,1.5,13,NA,16412,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Catherine Svarc,NA,NA,1.5,13,NA,16413,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ellie Hampson,Brisbane Lions,North Melbourne Kangaroos,1.5,14,NA,16414,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Isabel Dawes,Brisbane Lions,North Melbourne Kangaroos,1.5,14,NA,16415,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Mia King,North Melbourne Kangaroos,Brisbane Lions,1.5,15,NA,16422,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ashleigh Riddell,NA,NA,1.5,17,NA,16423,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ruby Tripodi,North Melbourne Kangaroos,Brisbane Lions,1.5,18,NA,16424,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Tess Craven,North Melbourne Kangaroos,Brisbane Lions,1.5,18,NA,16425,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Dakota Davidson,Brisbane Lions,North Melbourne Kangaroos,2.5,4.2,NA,15911,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Tahlia Randall,North Melbourne Kangaroos,Brisbane Lions,2.5,6,NA,15921,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Sophie Conway,Brisbane Lions,North Melbourne Kangaroos,2.5,11,NA,15912,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Kate Shierlaw,North Melbourne Kangaroos,Brisbane Lions,2.5,15,NA,15923,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Jasmine Garner,North Melbourne Kangaroos,Brisbane Lions,2.5,15,NA,15922,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Taylor Smith,Brisbane Lions,North Melbourne Kangaroos,2.5,17,NA,15913,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Orla ODwyer,NA,NA,2.5,19,NA,15914,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Emma King,North Melbourne Kangaroos,Brisbane Lions,2.5,23,NA,15924,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Charlotte Mullins,Brisbane Lions,North Melbourne Kangaroos,2.5,26,NA,15915,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Courtney Hodder,Brisbane Lions,North Melbourne Kangaroos,2.5,34,NA,15916,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Isabella Eddey,NA,NA,2.5,34,NA,15925,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Alice OLoughlin,NA,NA,2.5,41,NA,15926,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Lily Postlethwaite,Brisbane Lions,North Melbourne Kangaroos,2.5,51,NA,15917,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Catherine Svarc,NA,NA,2.5,51,NA,15918,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ellie Hampson,Brisbane Lions,North Melbourne Kangaroos,2.5,51,NA,15919,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Isabel Dawes,Brisbane Lions,North Melbourne Kangaroos,2.5,51,NA,15920,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Mia King,North Melbourne Kangaroos,Brisbane Lions,2.5,51,NA,15927,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ashleigh Riddell,NA,NA,2.5,51,NA,15928,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ruby Tripodi,North Melbourne Kangaroos,Brisbane Lions,2.5,51,NA,15929,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Tess Craven,North Melbourne Kangaroos,Brisbane Lions,2.5,51,NA,15930,NA,TAB

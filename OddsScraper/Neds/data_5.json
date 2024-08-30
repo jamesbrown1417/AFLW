@@ -1,5 +1,53 @@
 {
     "entrants": {
+        "038e384f-14f3-4d7b-bb44-a52eb0530be4": {
+            "id": "038e384f-14f3-4d7b-bb44-a52eb0530be4",
+            "name": "Joanne Cregg (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 420,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "04d3a607-f652-426f-bf4c-60f3500b2701": {
+            "id": "04d3a607-f652-426f-bf4c-60f3500b2701",
+            "name": "Sophie Van De Heuvel (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 260,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "053d31ea-c161-4292-9cb1-bd5bcd3a147a": {
+            "id": "053d31ea-c161-4292-9cb1-bd5bcd3a147a",
+            "name": "Orlagh Lally (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "059f6cf7-2680-4853-8801-657e0e587e59": {
+            "id": "059f6cf7-2680-4853-8801-657e0e587e59",
+            "name": "Sophie Alexander (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "0697cbd7-ffc9-41ef-8796-96535048b040": {
+            "id": "0697cbd7-ffc9-41ef-8796-96535048b040",
+            "name": "Emma O'Driscoll (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 310,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "07d10efc-65af-4790-b0b0-19d722d68353": {
+            "id": "07d10efc-65af-4790-b0b0-19d722d68353",
+            "name": "Mim Strom (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 340,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
         "084deccb-6185-4622-9a09-ddcb915bf28f": {
             "id": "084deccb-6185-4622-9a09-ddcb915bf28f",
             "name": "Fremantle (W)",
@@ -16,6 +64,46 @@
             "sort_order": 40,
             "market_id": "a8be4027-8b15-4a4f-be6a-1719892e8120"
         },
+        "0a4c16dd-6d20-4b99-a63c-02ed4cea438b": {
+            "id": "0a4c16dd-6d20-4b99-a63c-02ed4cea438b",
+            "name": "Hayley Miller (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 90,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "0b56f95a-d363-4d91-8e69-602f609ddd51": {
+            "id": "0b56f95a-d363-4d91-8e69-602f609ddd51",
+            "name": "Madison Prespakis (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "0b60f7c8-b4e3-48cd-b5ab-82e835d9ffce": {
+            "id": "0b60f7c8-b4e3-48cd-b5ab-82e835d9ffce",
+            "name": "Tunisha Kikoak (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 370,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "0bde4393-5c6b-4a35-81b3-8060da810444": {
+            "id": "0bde4393-5c6b-4a35-81b3-8060da810444",
+            "name": "Maddison Gay (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 170,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "0c1c105f-b9be-4f7b-86cc-c56f3b5847d1": {
+            "id": "0c1c105f-b9be-4f7b-86cc-c56f3b5847d1",
+            "name": "Sophie Van De Heuvel (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 260,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
         "0c7e964f-c1b2-425d-80f7-c54f614574f1": {
             "id": "0c7e964f-c1b2-425d-80f7-c54f614574f1",
             "name": "Essendon (W) Behind",
@@ -23,6 +111,54 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "5e23475c-6d7a-49bb-9a89-803e489d3f6e"
+        },
+        "0d379eae-43ee-4dff-ad3f-f9bff7ec530b": {
+            "id": "0d379eae-43ee-4dff-ad3f-f9bff7ec530b",
+            "name": "Tunisha Kikoak (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 370,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "0d4415e4-fc53-447a-ad60-3420ea04a96f": {
+            "id": "0d4415e4-fc53-447a-ad60-3420ea04a96f",
+            "name": "Airlie Runnalls (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 220,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "0f801764-12aa-4d4e-8598-5a4197481e17": {
+            "id": "0f801764-12aa-4d4e-8598-5a4197481e17",
+            "name": "Jae Flynn (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 400,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "0fdc89de-4f7a-4abd-86ad-51d9f0f9f8f8": {
+            "id": "0fdc89de-4f7a-4abd-86ad-51d9f0f9f8f8",
+            "name": "Orlagh Lally (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "1020f6f0-fa38-4a67-b165-4ef9e5dc1a98": {
+            "id": "1020f6f0-fa38-4a67-b165-4ef9e5dc1a98",
+            "name": "Maddison Gay (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 170,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "10295e02-7557-4a05-99f8-3f1700a2eb32": {
+            "id": "10295e02-7557-4a05-99f8-3f1700a2eb32",
+            "name": "Georgia Gee (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 210,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
         },
         "121d1335-d136-4039-9230-99f2b6e3b1d7": {
             "id": "121d1335-d136-4039-9230-99f2b6e3b1d7",
@@ -39,6 +175,21 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "3f3a66dd-4011-48cc-96b9-821c95b00366"
+        },
+        "14a064da-d42a-4ec4-965c-d1b7d7e3d618": {
+            "id": "14a064da-d42a-4ec4-965c-d1b7d7e3d618",
+            "name": "Under",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "13e29673-2ab4-48ed-b06d-aa42bcba945a"
+        },
+        "15522c4c-94f4-46fc-97be-22e9ee42778e": {
+            "id": "15522c4c-94f4-46fc-97be-22e9ee42778e",
+            "name": "Philipa Seth (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 320,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
         },
         "173bd28c-8fa6-4e9e-a198-365e3d296ed4": {
             "id": "173bd28c-8fa6-4e9e-a198-365e3d296ed4",
@@ -63,6 +214,14 @@
             "sort_order": 10,
             "market_id": "0b2c16b3-0745-4126-9cc0-62465ceb5d45"
         },
+        "18f246ce-1b17-46ae-9284-1e6e8c595c0b": {
+            "id": "18f246ce-1b17-46ae-9284-1e6e8c595c0b",
+            "name": "Amy Mulholland (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 200,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
         "1918fe3f-853f-43c0-89d9-b27b45130f18": {
             "id": "1918fe3f-853f-43c0-89d9-b27b45130f18",
             "name": "Fremantle (W) Goal",
@@ -79,6 +238,14 @@
             "sort_order": 20,
             "market_id": "aead05b2-daf4-4ec4-bb3f-e60ddcbb4ac4"
         },
+        "1c43244f-f8e1-4ead-9a53-eec4831ec34f": {
+            "id": "1c43244f-f8e1-4ead-9a53-eec4831ec34f",
+            "name": "Aisling McCarthy (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "be21177b-1891-42b3-a1b6-d66da8d7bc0b"
+        },
         "1d32ef9e-4124-4fd1-b0e4-795e9237a9ce": {
             "id": "1d32ef9e-4124-4fd1-b0e4-795e9237a9ce",
             "name": "Fremantle (W)",
@@ -86,6 +253,30 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "157c760e-a1a2-4a09-b085-3bbbf71bd2c8"
+        },
+        "1dc294ba-55c8-4d0c-8101-1f3b052bc26b": {
+            "id": "1dc294ba-55c8-4d0c-8101-1f3b052bc26b",
+            "name": "Ashleigh Brazill (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 300,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "1dd278e2-e4ad-43f8-9c9c-ffa096ae17ba": {
+            "id": "1dd278e2-e4ad-43f8-9c9c-ffa096ae17ba",
+            "name": "Airlie Runnalls (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 220,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "1de19e24-7514-490b-9c9d-37413c7dccb2": {
+            "id": "1de19e24-7514-490b-9c9d-37413c7dccb2",
+            "name": "Amy Gaylor (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 150,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
         },
         "1dfba4ab-c692-4499-99b6-ae2e3b82427e": {
             "id": "1dfba4ab-c692-4499-99b6-ae2e3b82427e",
@@ -95,6 +286,14 @@
             "sort_order": 10,
             "market_id": "36589785-ce5e-4398-bc1e-b94cc127e901"
         },
+        "1f9f0d0f-28f7-4727-b3e8-d04138aa532e": {
+            "id": "1f9f0d0f-28f7-4727-b3e8-d04138aa532e",
+            "name": "Aine Tighe (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "be21177b-1891-42b3-a1b6-d66da8d7bc0b"
+        },
         "20f5b075-479b-4a6f-bdf8-ddadb6f2db43": {
             "id": "20f5b075-479b-4a6f-bdf8-ddadb6f2db43",
             "name": "Fremantle (W) Behind",
@@ -102,6 +301,110 @@
             "visible": true,
             "sort_order": 30,
             "market_id": "5458d202-d433-4db2-a538-2bd4036b4ac3"
+        },
+        "224130b3-ed7d-4da3-9762-609e9e1968bb": {
+            "id": "224130b3-ed7d-4da3-9762-609e9e1968bb",
+            "name": "Gabrielle Newton (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 170,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "227d77c8-5a23-4b0a-9a7c-7da7311966a3": {
+            "id": "227d77c8-5a23-4b0a-9a7c-7da7311966a3",
+            "name": "Orlagh Lally (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "22907daf-5e1f-4260-acc6-50aba328a08d": {
+            "id": "22907daf-5e1f-4260-acc6-50aba328a08d",
+            "name": "Bonnie Toogood (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "22d0a4b8-189b-4dae-b1d6-f18443dd359e": {
+            "id": "22d0a4b8-189b-4dae-b1d6-f18443dd359e",
+            "name": "Philipa Seth (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 320,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "2307001d-6e83-4dfb-94d1-bd19001c714b": {
+            "id": "2307001d-6e83-4dfb-94d1-bd19001c714b",
+            "name": "Hayley Miller (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 90,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "238acd1d-c134-477f-96a2-6b14b61f1c68": {
+            "id": "238acd1d-c134-477f-96a2-6b14b61f1c68",
+            "name": "Dana East (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 140,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "242147e5-73dc-4f26-8622-72a28fa55a71": {
+            "id": "242147e5-73dc-4f26-8622-72a28fa55a71",
+            "name": "Amy Mulholland (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 200,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "256155a9-b9f2-4c2b-98c4-d2f12866ddc0": {
+            "id": "256155a9-b9f2-4c2b-98c4-d2f12866ddc0",
+            "name": "Jae Flynn (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 400,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "265aabaf-9d57-4551-a0ee-84a6dc297308": {
+            "id": "265aabaf-9d57-4551-a0ee-84a6dc297308",
+            "name": "Gabby O'Sullivan (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 100,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "26fb251a-18ad-4d90-b9c4-b939c3d6b09e": {
+            "id": "26fb251a-18ad-4d90-b9c4-b939c3d6b09e",
+            "name": "Georgia Nanscawen (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 190,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "280672fc-7c25-457c-b6c4-222433f97004": {
+            "id": "280672fc-7c25-457c-b6c4-222433f97004",
+            "name": "Elizabeth Keaney (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 290,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "2868956a-a749-48a8-af94-4468f4ea172f": {
+            "id": "2868956a-a749-48a8-af94-4468f4ea172f",
+            "name": "Maddison Gay (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 170,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "288699bf-907a-40ec-8930-b6b4e8f8dee2": {
+            "id": "288699bf-907a-40ec-8930-b6b4e8f8dee2",
+            "name": "Stephanie Cain (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 250,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
         },
         "28c5810c-44c9-423e-b2d5-26e4d9af4421": {
             "id": "28c5810c-44c9-423e-b2d5-26e4d9af4421",
@@ -119,6 +422,22 @@
             "sort_order": 30,
             "market_id": "5e23475c-6d7a-49bb-9a89-803e489d3f6e"
         },
+        "29a6903e-097e-40ae-b26b-00fef45aa266": {
+            "id": "29a6903e-097e-40ae-b26b-00fef45aa266",
+            "name": "Jessica Low (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 350,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "2a4dc9f7-8b35-46e6-bfe5-a16094fb7ea2": {
+            "id": "2a4dc9f7-8b35-46e6-bfe5-a16094fb7ea2",
+            "name": "Stephanie Cain (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 250,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
         "2a804082-7dd5-4188-83dd-a6000e6270b9": {
             "id": "2a804082-7dd5-4188-83dd-a6000e6270b9",
             "name": "Essendon (W) Behind",
@@ -127,6 +446,29 @@
             "sort_order": 10,
             "market_id": "aeb5790d-1591-4cf1-afe4-292c9d1b80d9"
         },
+        "2be3ac96-9f55-4135-9eb4-cbc8ce73056d": {
+            "id": "2be3ac96-9f55-4135-9eb4-cbc8ce73056d",
+            "name": "Fremantle (W) +8.5 / Over 82.5",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "985327b3-1c6f-4a9a-a277-84df7e13d508"
+        },
+        "2bfd56f3-4045-457b-b1b7-bec2c0020a8b": {
+            "id": "2bfd56f3-4045-457b-b1b7-bec2c0020a8b",
+            "name": "Megan Kauffman (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 130,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "2c40fc6d-f9d9-4f12-b580-35a8bc67a4a7": {
+            "id": "2c40fc6d-f9d9-4f12-b580-35a8bc67a4a7",
+            "name": "Madeleine Scanlon (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 390,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
         "2c5962f0-7b94-4812-aae5-6cbf80007124": {
             "id": "2c5962f0-7b94-4812-aae5-6cbf80007124",
             "name": "Essendon (W) Goal",
@@ -134,6 +476,22 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "c564cc8c-5e8a-444e-aeaf-bb8317d2a419"
+        },
+        "2cad6262-05a9-427c-8afc-0e7080827013": {
+            "id": "2cad6262-05a9-427c-8afc-0e7080827013",
+            "name": "Airlie Runnalls (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 220,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "2ce4f455-de62-4206-ae10-19cb4dff85c8": {
+            "id": "2ce4f455-de62-4206-ae10-19cb4dff85c8",
+            "name": "Madeleine Scanlon (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 390,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
         },
         "2dd28d59-8345-450f-ab91-96a0cd84624a": {
             "id": "2dd28d59-8345-450f-ab91-96a0cd84624a",
@@ -151,6 +509,29 @@
             "sort_order": 20,
             "market_id": "5458d202-d433-4db2-a538-2bd4036b4ac3"
         },
+        "2e6475e7-fa1b-4cdf-b5b6-5439fd4d77d7": {
+            "id": "2e6475e7-fa1b-4cdf-b5b6-5439fd4d77d7",
+            "name": "Emma O'Driscoll (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 310,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "2eac9e08-4a5a-480f-bc8e-528ce9abcf6d": {
+            "id": "2eac9e08-4a5a-480f-bc8e-528ce9abcf6d",
+            "name": "Draw at Halftime or Fulltime",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "e89a81f4-13f8-49b2-8127-4b46ddedd69b"
+        },
+        "2f2dd393-9f6a-4461-8bb0-9a641ffd1644": {
+            "id": "2f2dd393-9f6a-4461-8bb0-9a641ffd1644",
+            "name": "Dana East (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "00a030db-19fa-429f-95be-a09f88696345"
+        },
         "304d979e-9cfa-4b26-94bd-3b0ad1fa06c9": {
             "id": "304d979e-9cfa-4b26-94bd-3b0ad1fa06c9",
             "name": "Fremantle (W) Behind",
@@ -158,6 +539,14 @@
             "visible": true,
             "sort_order": 30,
             "market_id": "aead05b2-daf4-4ec4-bb3f-e60ddcbb4ac4"
+        },
+        "30820077-67d7-44bf-8cdd-e22910f81870": {
+            "id": "30820077-67d7-44bf-8cdd-e22910f81870",
+            "name": "Megan Kauffman (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 130,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
         },
         "3229e0f4-3ef3-4825-a67e-9c09b97c3cd8": {
             "id": "3229e0f4-3ef3-4825-a67e-9c09b97c3cd8",
@@ -167,6 +556,62 @@
             "sort_order": 10,
             "market_id": "3f3a66dd-4011-48cc-96b9-821c95b00366"
         },
+        "32732323-e023-4db5-b39a-b7d1f324a536": {
+            "id": "32732323-e023-4db5-b39a-b7d1f324a536",
+            "name": "Jae Flynn (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 400,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "3325fb1a-016f-4c18-89c7-1e71ca73bfd0": {
+            "id": "3325fb1a-016f-4c18-89c7-1e71ca73bfd0",
+            "name": "Sophie Alexander (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "33c6ddb8-5438-44c5-9ed3-6eedeaa547eb": {
+            "id": "33c6ddb8-5438-44c5-9ed3-6eedeaa547eb",
+            "name": "Amber Clarke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "348c40a8-b481-4907-b6d4-77aca1f60826": {
+            "id": "348c40a8-b481-4907-b6d4-77aca1f60826",
+            "name": "Georgia Nanscawen (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "f884a346-baca-491f-9d05-c637e3576df0"
+        },
+        "356bd8c5-9603-414c-bd8c-13de12afdbea": {
+            "id": "356bd8c5-9603-414c-bd8c-13de12afdbea",
+            "name": "Gabrielle Newton (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 160,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "37067b1f-49bd-48c3-a77d-0f6832c7f61f": {
+            "id": "37067b1f-49bd-48c3-a77d-0f6832c7f61f",
+            "name": "Emily Gough (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 380,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "378a570c-4a25-4d1a-a114-96c8b29ae403": {
+            "id": "378a570c-4a25-4d1a-a114-96c8b29ae403",
+            "name": "Emily Gough (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 380,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
         "37a2ceec-4637-4ca2-a3c6-b4460fe0234c": {
             "id": "37a2ceec-4637-4ca2-a3c6-b4460fe0234c",
             "name": "Essendon (W)",
@@ -174,6 +619,54 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "990d77fb-43cf-43ce-95a6-5de95f720ef5"
+        },
+        "39e3b243-0cf0-43f7-976d-4d7759def0b3": {
+            "id": "39e3b243-0cf0-43f7-976d-4d7759def0b3",
+            "name": "Sophie Alexander (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "3a8856df-4b7a-4bb8-bb8d-f0edb0fef3e7": {
+            "id": "3a8856df-4b7a-4bb8-bb8d-f0edb0fef3e7",
+            "name": "Bonnie Toogood (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "3afd2769-52ac-4f60-ad91-329540972f01": {
+            "id": "3afd2769-52ac-4f60-ad91-329540972f01",
+            "name": "Georgia Nanscawen (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "00a030db-19fa-429f-95be-a09f88696345"
+        },
+        "3bab65f5-ed71-470b-aef4-f31d23a1f015": {
+            "id": "3bab65f5-ed71-470b-aef4-f31d23a1f015",
+            "name": "Brooke Walker (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 330,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "3bc8f92a-d902-4d1f-b223-8ac40fda1b43": {
+            "id": "3bc8f92a-d902-4d1f-b223-8ac40fda1b43",
+            "name": "Hayley Miller (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 90,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "3bdfcbfb-9c7a-49aa-8342-b26157ea6804": {
+            "id": "3bdfcbfb-9c7a-49aa-8342-b26157ea6804",
+            "name": "Madison Prespakis (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
         },
         "3e4c75ef-6be9-4010-8ecb-edb31c375134": {
             "id": "3e4c75ef-6be9-4010-8ecb-edb31c375134",
@@ -183,6 +676,190 @@
             "sort_order": 30,
             "market_id": "c564cc8c-5e8a-444e-aeaf-bb8317d2a419"
         },
+        "3ed8aa24-0134-4c42-a084-14e04a17ac26": {
+            "id": "3ed8aa24-0134-4c42-a084-14e04a17ac26",
+            "name": "Georgia Nanscawen (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 190,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "3f917fd1-7c1c-4d32-9956-ef4e3c5586bc": {
+            "id": "3f917fd1-7c1c-4d32-9956-ef4e3c5586bc",
+            "name": "Georgia Clarke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 270,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "4059a98d-6873-4718-95ca-00cf4a03bf5b": {
+            "id": "4059a98d-6873-4718-95ca-00cf4a03bf5b",
+            "name": "Airlie Runnalls (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 220,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "416e0bb2-1d6a-464b-9384-f02f797e6ac2": {
+            "id": "416e0bb2-1d6a-464b-9384-f02f797e6ac2",
+            "name": "Ashleigh Brazill (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 300,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "4213f6ef-6c0b-4076-9d80-1baf0dcd9658": {
+            "id": "4213f6ef-6c0b-4076-9d80-1baf0dcd9658",
+            "name": "Amy Gaylor (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 150,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "439ca703-af50-4ac8-a22f-251c659a177f": {
+            "id": "439ca703-af50-4ac8-a22f-251c659a177f",
+            "name": "Aisling McCarthy (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "44ae24eb-838b-4ed6-a538-7603c74710cd": {
+            "id": "44ae24eb-838b-4ed6-a538-7603c74710cd",
+            "name": "Georgia Nanscawen (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 190,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "456fb546-eef6-47d2-bcaa-ffae4ba570e1": {
+            "id": "456fb546-eef6-47d2-bcaa-ffae4ba570e1",
+            "name": "Mim Strom (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 340,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "4649e915-7498-4e73-8fc0-8f49e88f5789": {
+            "id": "4649e915-7498-4e73-8fc0-8f49e88f5789",
+            "name": "Georgia Clarke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 270,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "478db316-c863-4540-a7c1-aa17fd658ece": {
+            "id": "478db316-c863-4540-a7c1-aa17fd658ece",
+            "name": "Philipa Seth (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 320,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "47e59b24-124c-4d16-a471-da8a15052ce3": {
+            "id": "47e59b24-124c-4d16-a471-da8a15052ce3",
+            "name": "Georgia Nanscawen (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 190,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "48338eff-a19c-4ee0-a058-8914c30a3092": {
+            "id": "48338eff-a19c-4ee0-a058-8914c30a3092",
+            "name": "Stephanie Cain (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 250,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "490834aa-fb01-4fbb-9063-21ecaf1198f8": {
+            "id": "490834aa-fb01-4fbb-9063-21ecaf1198f8",
+            "name": "Dana East (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 140,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "4b6d75fc-fa2e-44c9-acaa-07b5694ef19f": {
+            "id": "4b6d75fc-fa2e-44c9-acaa-07b5694ef19f",
+            "name": "Sophie Alexander (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "be21177b-1891-42b3-a1b6-d66da8d7bc0b"
+        },
+        "4bda8aa6-8be9-4a35-897f-bde98c195151": {
+            "id": "4bda8aa6-8be9-4a35-897f-bde98c195151",
+            "name": "Matilda Dyke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 360,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "4bfc1395-4a73-4635-9303-8c2a6466117e": {
+            "id": "4bfc1395-4a73-4635-9303-8c2a6466117e",
+            "name": "Aine Tighe (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "4c3e4f54-5676-4015-88a4-4d1d05e13edc": {
+            "id": "4c3e4f54-5676-4015-88a4-4d1d05e13edc",
+            "name": "Laura Pugh (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 240,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "4cb1a0ce-8b95-4bfc-8d90-cc36b3050e5e": {
+            "id": "4cb1a0ce-8b95-4bfc-8d90-cc36b3050e5e",
+            "name": "Hayley Miller (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 90,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "4cc6ab15-ac99-4cd4-bd4f-48c143c9c783": {
+            "id": "4cc6ab15-ac99-4cd4-bd4f-48c143c9c783",
+            "name": "Daria Bannister (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 100,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "4cf73395-ec10-422b-98f2-04c3ccd7f514": {
+            "id": "4cf73395-ec10-422b-98f2-04c3ccd7f514",
+            "name": "Stephanie Wales (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 410,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "4f8402cc-5751-4733-936d-fe532a3f65df": {
+            "id": "4f8402cc-5751-4733-936d-fe532a3f65df",
+            "name": "Emma O'Driscoll (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "00a030db-19fa-429f-95be-a09f88696345"
+        },
+        "4fc8890b-c9c5-48a0-bbe8-f531715a7d7b": {
+            "id": "4fc8890b-c9c5-48a0-bbe8-f531715a7d7b",
+            "name": "Kodi Jacques (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 180,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "5092c09b-ed31-4303-a490-0accb5a741cf": {
+            "id": "5092c09b-ed31-4303-a490-0accb5a741cf",
+            "name": "Amy Mulholland (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 200,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
         "522e22ae-e19b-47c9-a419-feb005173b3f": {
             "id": "522e22ae-e19b-47c9-a419-feb005173b3f",
             "name": "Essendon (W)",
@@ -190,6 +867,77 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "47b52709-7fbe-4196-b850-82d0731dab22"
+        },
+        "524bcf57-1d78-46e0-a799-5133d91394ec": {
+            "id": "524bcf57-1d78-46e0-a799-5133d91394ec",
+            "name": "Kodi Jacques (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 180,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "52a8ca49-9c46-4c7d-bd52-3838337fb40a": {
+            "id": "52a8ca49-9c46-4c7d-bd52-3838337fb40a",
+            "name": "Brooke Walker (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 330,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "5393d66d-9dd0-43d2-bf15-7a7d7395d731": {
+            "id": "5393d66d-9dd0-43d2-bf15-7a7d7395d731",
+            "name": "Fremantle (W) / Essendon (W)",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "e89a81f4-13f8-49b2-8127-4b46ddedd69b"
+        },
+        "53a3c444-600a-45ea-96e0-6d0aba7f0e1b": {
+            "id": "53a3c444-600a-45ea-96e0-6d0aba7f0e1b",
+            "name": "Dana East (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 140,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "53c6f255-58ce-4ce2-8a5a-db737ae2d708": {
+            "id": "53c6f255-58ce-4ce2-8a5a-db737ae2d708",
+            "name": "Ellyse Gamble (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 230,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "546336f9-b661-4d3b-9e82-c967f8b2dbef": {
+            "id": "546336f9-b661-4d3b-9e82-c967f8b2dbef",
+            "name": "Amelia Radford (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 120,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "54f8bd88-1228-494e-b129-4fa33ac49ef8": {
+            "id": "54f8bd88-1228-494e-b129-4fa33ac49ef8",
+            "name": "Brooke Walker (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 330,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "5595db56-49d8-4906-9953-c9ca1a2fa394": {
+            "id": "5595db56-49d8-4906-9953-c9ca1a2fa394",
+            "name": "Laura Pugh (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 240,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "55e6c500-930c-46ca-a74d-6c717bfb29de": {
+            "id": "55e6c500-930c-46ca-a74d-6c717bfb29de",
+            "name": "Orlagh Lally (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
         },
         "569420ad-f8e7-4427-894f-fb0e8d0a4be3": {
             "id": "569420ad-f8e7-4427-894f-fb0e8d0a4be3",
@@ -214,6 +962,14 @@
             "sort_order": 40,
             "market_id": "aeb5790d-1591-4cf1-afe4-292c9d1b80d9"
         },
+        "57507c3f-c56c-49d4-b9b3-f52cf7817b77": {
+            "id": "57507c3f-c56c-49d4-b9b3-f52cf7817b77",
+            "name": "Aine Tighe (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
         "57ecf788-73a6-4554-a97c-3f96ee6e53f0": {
             "id": "57ecf788-73a6-4554-a97c-3f96ee6e53f0",
             "name": "Essendon (W) Behind",
@@ -221,6 +977,22 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "07934471-b059-4e6b-bee9-0c9ceecf751e"
+        },
+        "59e315af-598b-4826-a0fb-a88ba3295396": {
+            "id": "59e315af-598b-4826-a0fb-a88ba3295396",
+            "name": "Ebony Antonio (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "5d414cff-9142-4050-aaf5-678ef854a5d0": {
+            "id": "5d414cff-9142-4050-aaf5-678ef854a5d0",
+            "name": "Madison Prespakis (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
         },
         "5de6555b-2669-4adb-83a3-64156fb3b457": {
             "id": "5de6555b-2669-4adb-83a3-64156fb3b457",
@@ -238,6 +1010,46 @@
             "sort_order": 10,
             "market_id": "5458d202-d433-4db2-a538-2bd4036b4ac3"
         },
+        "5ea52228-afe7-431d-aac6-2640b3c70a39": {
+            "id": "5ea52228-afe7-431d-aac6-2640b3c70a39",
+            "name": "Bonnie Toogood (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "6279a5ea-6efb-45fa-bc8b-896447ecbf69": {
+            "id": "6279a5ea-6efb-45fa-bc8b-896447ecbf69",
+            "name": "Dana East (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 140,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "63425282-4c53-4ee4-9c9b-c0eacfbd7cf0": {
+            "id": "63425282-4c53-4ee4-9c9b-c0eacfbd7cf0",
+            "name": "Alexandra Morcom (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 280,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "6377faab-5a40-4d42-a2a3-c88d32266c8c": {
+            "id": "6377faab-5a40-4d42-a2a3-c88d32266c8c",
+            "name": "Aisling McCarthy (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "63dcd1d0-51a1-41db-8e81-b041aa7fd9f3": {
+            "id": "63dcd1d0-51a1-41db-8e81-b041aa7fd9f3",
+            "name": "Daria Bannister (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 110,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
         "643c9e06-600e-437f-bf34-249ea4653c64": {
             "id": "643c9e06-600e-437f-bf34-249ea4653c64",
             "name": "Essendon (W) Goal",
@@ -245,6 +1057,28 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "07934471-b059-4e6b-bee9-0c9ceecf751e"
+        },
+        "64988041-851e-4fa3-a843-6e7cc943f0fc": {
+            "id": "64988041-851e-4fa3-a843-6e7cc943f0fc",
+            "name": "Essendon (W) / Over 82.5",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
+        },
+        "64bd2c8a-567a-4abb-b3a8-c6b5e8eb9832": {
+            "id": "64bd2c8a-567a-4abb-b3a8-c6b5e8eb9832",
+            "name": "Fremantle (W) / Under 82.5",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
+        },
+        "6651ea25-9f00-4427-a96d-1e58cc6f8969": {
+            "id": "6651ea25-9f00-4427-a96d-1e58cc6f8969",
+            "name": "Mim Strom (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 340,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
         },
         "682daef9-14df-4461-bad4-1eeabe8c1530": {
             "id": "682daef9-14df-4461-bad4-1eeabe8c1530",
@@ -254,6 +1088,30 @@
             "sort_order": 10,
             "market_id": "3aec6e19-f6d1-4aa2-b278-0d14a9c2d7a4"
         },
+        "688aa17f-36c9-4052-93f6-f468c00ca4b6": {
+            "id": "688aa17f-36c9-4052-93f6-f468c00ca4b6",
+            "name": "Matilda Dyke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 360,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "68c99f64-201d-4a54-9c26-d7460d91ac60": {
+            "id": "68c99f64-201d-4a54-9c26-d7460d91ac60",
+            "name": "Georgia Gee (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 210,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "69d495b7-4913-492a-a02e-8d506a47693b": {
+            "id": "69d495b7-4913-492a-a02e-8d506a47693b",
+            "name": "Sophie Van De Heuvel (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 260,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
         "69dc3dd3-7fea-43a2-9c1b-bddf92fd1522": {
             "id": "69dc3dd3-7fea-43a2-9c1b-bddf92fd1522",
             "name": "Essendon (W) to win by more than 24.5 points",
@@ -262,6 +1120,14 @@
             "sort_order": 10,
             "market_id": "04fe085c-f50a-4e79-bad9-a8f1ef47d9fd"
         },
+        "6ae60a48-3c61-4e37-99d3-83b64b8e0a9d": {
+            "id": "6ae60a48-3c61-4e37-99d3-83b64b8e0a9d",
+            "name": "Madison Prespakis (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "f884a346-baca-491f-9d05-c637e3576df0"
+        },
         "6b86266e-b16b-45d3-9326-a4cef0043bd5": {
             "id": "6b86266e-b16b-45d3-9326-a4cef0043bd5",
             "name": "Fremantle (W) Goal",
@@ -269,6 +1135,148 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "c564cc8c-5e8a-444e-aeaf-bb8317d2a419"
+        },
+        "6d23220d-5c0d-4093-9e00-0f2679db3167": {
+            "id": "6d23220d-5c0d-4093-9e00-0f2679db3167",
+            "name": "Gabby O'Sullivan (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 100,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "6f5bbc57-d299-4065-aa72-649b470d8c79": {
+            "id": "6f5bbc57-d299-4065-aa72-649b470d8c79",
+            "name": "Georgia Gee (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 210,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "70771698-5b53-45dd-89bc-b59efbb57a29": {
+            "id": "70771698-5b53-45dd-89bc-b59efbb57a29",
+            "name": "Essendon (W) -8.5 / Under 82.5",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "985327b3-1c6f-4a9a-a277-84df7e13d508"
+        },
+        "726587c9-ce00-4489-ab0e-ed0fbe9ea5e5": {
+            "id": "726587c9-ce00-4489-ab0e-ed0fbe9ea5e5",
+            "name": "Stephanie Cain (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 250,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "750dc9df-564e-452b-ae0f-27cc32d26faa": {
+            "id": "750dc9df-564e-452b-ae0f-27cc32d26faa",
+            "name": "Matilda Dyke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 360,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "75d04316-5640-446d-9bad-830cef7d6851": {
+            "id": "75d04316-5640-446d-9bad-830cef7d6851",
+            "name": "Sophie Alexander (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "782a5b05-9c11-4f3a-a126-ff45bce420b7": {
+            "id": "782a5b05-9c11-4f3a-a126-ff45bce420b7",
+            "name": "Madeleine Scanlon (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 390,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "78526331-0eb9-4d09-ac5f-e71d2298fff8": {
+            "id": "78526331-0eb9-4d09-ac5f-e71d2298fff8",
+            "name": "Kodi Jacques (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 160,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "78584cda-d966-45d6-982c-07e0e63c7a87": {
+            "id": "78584cda-d966-45d6-982c-07e0e63c7a87",
+            "name": "Stephanie Wales (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 410,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "79aafecc-f622-4aa1-9cdf-78976c41d9c2": {
+            "id": "79aafecc-f622-4aa1-9cdf-78976c41d9c2",
+            "name": "Ebony Antonio (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "7bd19954-8d81-49bb-8a67-458e1696d72c": {
+            "id": "7bd19954-8d81-49bb-8a67-458e1696d72c",
+            "name": "Aisling McCarthy (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "f884a346-baca-491f-9d05-c637e3576df0"
+        },
+        "7c571a14-6e4f-49f5-b275-21741b20f94d": {
+            "id": "7c571a14-6e4f-49f5-b275-21741b20f94d",
+            "name": "Fremantle (W) / Over 82.5",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
+        },
+        "7d56c709-1461-44b2-9199-c232db2abe42": {
+            "id": "7d56c709-1461-44b2-9199-c232db2abe42",
+            "name": "Ellyse Gamble (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 230,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "7daaaa69-7fcc-45c2-a31e-b0641a8fb5d1": {
+            "id": "7daaaa69-7fcc-45c2-a31e-b0641a8fb5d1",
+            "name": "Airlie Runnalls (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 220,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "7e1fe5d7-bd6b-4aa7-949d-3eae10bff970": {
+            "id": "7e1fe5d7-bd6b-4aa7-949d-3eae10bff970",
+            "name": "Megan Kauffman (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 130,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "80d7814f-f0e4-46a7-a2e9-f9be258113a6": {
+            "id": "80d7814f-f0e4-46a7-a2e9-f9be258113a6",
+            "name": "Amy Mulholland (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 200,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "810e0233-6b50-481d-aee7-91dc9a279546": {
+            "id": "810e0233-6b50-481d-aee7-91dc9a279546",
+            "name": "Aisling McCarthy (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "8122ec6b-c2c1-4ef1-88c1-a320b81bc526": {
+            "id": "8122ec6b-c2c1-4ef1-88c1-a320b81bc526",
+            "name": "Ebony Antonio (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
         },
         "81790ce7-41db-40a9-a32d-5758c4f17a63": {
             "id": "81790ce7-41db-40a9-a32d-5758c4f17a63",
@@ -286,6 +1294,38 @@
             "sort_order": 20,
             "market_id": "3aec6e19-f6d1-4aa2-b278-0d14a9c2d7a4"
         },
+        "82654360-d15c-4fc5-9103-1175646f8302": {
+            "id": "82654360-d15c-4fc5-9103-1175646f8302",
+            "name": "Megan Kauffman (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 130,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "82b6d142-1a18-4877-aa3a-1d23540e22c5": {
+            "id": "82b6d142-1a18-4877-aa3a-1d23540e22c5",
+            "name": "Orlagh Lally (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "84fe5b02-6ec2-4ed2-a39e-806a90409007": {
+            "id": "84fe5b02-6ec2-4ed2-a39e-806a90409007",
+            "name": "Gabby O'Sullivan (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 100,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "86b64b9a-d313-4175-8c6e-c0e4f667063c": {
+            "id": "86b64b9a-d313-4175-8c6e-c0e4f667063c",
+            "name": "Amelia Radford (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 120,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
         "86c11a31-2bab-456a-9e68-8ef16e7f4b96": {
             "id": "86c11a31-2bab-456a-9e68-8ef16e7f4b96",
             "name": "Fremantle (W) Behind",
@@ -302,6 +1342,37 @@
             "sort_order": 20,
             "market_id": "5987739a-3ebb-4dea-b682-c72d4a790e6f"
         },
+        "88a88ed6-d6ef-41f3-8ef1-b471eb31bc5a": {
+            "id": "88a88ed6-d6ef-41f3-8ef1-b471eb31bc5a",
+            "name": "Essendon (W) / Fremantle (W)",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "e89a81f4-13f8-49b2-8127-4b46ddedd69b"
+        },
+        "89f4cdd6-0a7a-4444-b127-5ee0c14c7237": {
+            "id": "89f4cdd6-0a7a-4444-b127-5ee0c14c7237",
+            "name": "Amy Gaylor (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 150,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "8a35145c-2c4c-4022-80f1-90d7e7187cfd": {
+            "id": "8a35145c-2c4c-4022-80f1-90d7e7187cfd",
+            "name": "Stephanie Wales (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 410,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "8a4b5ea2-e40d-4cee-a690-815e30c76ca0": {
+            "id": "8a4b5ea2-e40d-4cee-a690-815e30c76ca0",
+            "name": "Bonnie Toogood (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "f884a346-baca-491f-9d05-c637e3576df0"
+        },
         "8a55c469-686a-4d10-80c7-36358216536b": {
             "id": "8a55c469-686a-4d10-80c7-36358216536b",
             "name": "Fremantle (W) to win by more than 24.5 points",
@@ -309,6 +1380,22 @@
             "visible": true,
             "sort_order": 30,
             "market_id": "04fe085c-f50a-4e79-bad9-a8f1ef47d9fd"
+        },
+        "8d2a4fca-e3db-42d8-8dbc-414673b174ea": {
+            "id": "8d2a4fca-e3db-42d8-8dbc-414673b174ea",
+            "name": "Georgia Clarke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 270,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "8d7ea50e-b5ff-4e02-98df-115bd0b1c434": {
+            "id": "8d7ea50e-b5ff-4e02-98df-115bd0b1c434",
+            "name": "Ashleigh Brazill (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 300,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
         },
         "8e1116a3-f6d2-4a5d-ab7d-3faca7fdaec7": {
             "id": "8e1116a3-f6d2-4a5d-ab7d-3faca7fdaec7",
@@ -318,6 +1405,14 @@
             "sort_order": 20,
             "market_id": "990d77fb-43cf-43ce-95a6-5de95f720ef5"
         },
+        "8e2c4975-ba69-4292-a0c0-3d4ee001a3d0": {
+            "id": "8e2c4975-ba69-4292-a0c0-3d4ee001a3d0",
+            "name": "Amber Clarke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
         "9052ae0d-d5d6-4b93-850c-b352d783d2f7": {
             "id": "9052ae0d-d5d6-4b93-850c-b352d783d2f7",
             "name": "Fremantle (W)",
@@ -325,6 +1420,14 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "0b2c16b3-0745-4126-9cc0-62465ceb5d45"
+        },
+        "92b9a553-23b9-4f34-99c1-02ac8bc24b19": {
+            "id": "92b9a553-23b9-4f34-99c1-02ac8bc24b19",
+            "name": "Tunisha Kikoak (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 370,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
         },
         "93addf72-8c1b-4a10-aa25-ae5d3caf8c9f": {
             "id": "93addf72-8c1b-4a10-aa25-ae5d3caf8c9f",
@@ -342,6 +1445,22 @@
             "sort_order": 20,
             "market_id": "36589785-ce5e-4398-bc1e-b94cc127e901"
         },
+        "9413d5eb-1b77-4147-9e0f-a48dd3b57906": {
+            "id": "9413d5eb-1b77-4147-9e0f-a48dd3b57906",
+            "name": "Amy Mulholland (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 200,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "9557c984-190e-4be2-b249-5d0b8c796d9c": {
+            "id": "9557c984-190e-4be2-b249-5d0b8c796d9c",
+            "name": "Jae Flynn (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 400,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
         "95d6b2dc-b80c-4401-bfaa-a4f004a2cc94": {
             "id": "95d6b2dc-b80c-4401-bfaa-a4f004a2cc94",
             "name": "Essendon (W) Behind",
@@ -349,6 +1468,76 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "aead05b2-daf4-4ec4-bb3f-e60ddcbb4ac4"
+        },
+        "97df6b78-8f7b-431f-ace0-3cbd339d6d0d": {
+            "id": "97df6b78-8f7b-431f-ace0-3cbd339d6d0d",
+            "name": "Elizabeth Keaney (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 290,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "98b6565a-198a-42ce-9034-5c634514c0c2": {
+            "id": "98b6565a-198a-42ce-9034-5c634514c0c2",
+            "name": "Amelia Radford (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 120,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "99a01c23-045e-4846-8bba-7e7255fce3e6": {
+            "id": "99a01c23-045e-4846-8bba-7e7255fce3e6",
+            "name": "Aisling McCarthy (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "9cb052a6-97c7-45a2-9ac7-877722f99680": {
+            "id": "9cb052a6-97c7-45a2-9ac7-877722f99680",
+            "name": "Amy Gaylor (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 150,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "9e33defb-77b9-404c-ab14-196cf6abda81": {
+            "id": "9e33defb-77b9-404c-ab14-196cf6abda81",
+            "name": "Essendon (W) / Essendon (W)",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "e89a81f4-13f8-49b2-8127-4b46ddedd69b"
+        },
+        "9fcf40e2-337a-4161-b743-856df499f6f8": {
+            "id": "9fcf40e2-337a-4161-b743-856df499f6f8",
+            "name": "Daria Bannister (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 110,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "a1c32e15-a707-4dd0-9f9b-04cfa81561a8": {
+            "id": "a1c32e15-a707-4dd0-9f9b-04cfa81561a8",
+            "name": "Essendon (W) -8.5 / Over 82.5",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "985327b3-1c6f-4a9a-a277-84df7e13d508"
+        },
+        "a1ea9e23-72f2-4731-ae25-2cd3e99585b3": {
+            "id": "a1ea9e23-72f2-4731-ae25-2cd3e99585b3",
+            "name": "Amber Clarke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "a2f4dede-e61c-4e16-8fe7-48acce9a1f89": {
+            "id": "a2f4dede-e61c-4e16-8fe7-48acce9a1f89",
+            "name": "Brooke Walker (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 330,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
         },
         "a35eac69-f25b-49df-a41e-abf9773bdc3a": {
             "id": "a35eac69-f25b-49df-a41e-abf9773bdc3a",
@@ -374,12 +1563,68 @@
             "sort_order": 10,
             "market_id": "5987739a-3ebb-4dea-b682-c72d4a790e6f"
         },
+        "a591bf1b-47a7-4eb5-9fc4-defce2492e24": {
+            "id": "a591bf1b-47a7-4eb5-9fc4-defce2492e24",
+            "name": "Jessica Low (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 350,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "a815e208-0242-4dd1-b45e-9d6c12083e1f": {
+            "id": "a815e208-0242-4dd1-b45e-9d6c12083e1f",
+            "name": "Kodi Jacques (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 180,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "a8d7d386-28af-4e11-b8cc-6c6a0ba479f5": {
+            "id": "a8d7d386-28af-4e11-b8cc-6c6a0ba479f5",
+            "name": "Matilda Dyke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 360,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
         "aa13884b-8185-4b68-bd99-ce68c2652d9c": {
             "id": "aa13884b-8185-4b68-bd99-ce68c2652d9c",
             "name": "Draw",
             "visible": true,
             "sort_order": 30,
             "market_id": "22ef3360-2e75-4231-8e4e-a552b6215bcf"
+        },
+        "aa4af5a5-b448-4af0-9648-bb7bfe5bfe56": {
+            "id": "aa4af5a5-b448-4af0-9648-bb7bfe5bfe56",
+            "name": "Emma O'Driscoll (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 310,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "ab49e7fb-ca3e-4e76-86dc-254b36d2deda": {
+            "id": "ab49e7fb-ca3e-4e76-86dc-254b36d2deda",
+            "name": "Elizabeth Keaney (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 290,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "abe14322-724b-4d33-83c6-afd129ac62aa": {
+            "id": "abe14322-724b-4d33-83c6-afd129ac62aa",
+            "name": "Georgia Nanscawen (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 190,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "acce2467-7c1c-4908-a286-fb3a35887990": {
+            "id": "acce2467-7c1c-4908-a286-fb3a35887990",
+            "name": "Gabrielle Newton (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 160,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
         },
         "ae697410-35a8-408c-b29d-98ea6e6895d0": {
             "id": "ae697410-35a8-408c-b29d-98ea6e6895d0",
@@ -389,6 +1634,45 @@
             "sort_order": 40,
             "market_id": "22ef3360-2e75-4231-8e4e-a552b6215bcf"
         },
+        "aea73add-ba26-4633-9316-71b2fc4c5bd4": {
+            "id": "aea73add-ba26-4633-9316-71b2fc4c5bd4",
+            "name": "Hayley Miller (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 90,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "aeb98d94-4410-45a0-a7d4-5b5e64f9a7b0": {
+            "id": "aeb98d94-4410-45a0-a7d4-5b5e64f9a7b0",
+            "name": "Essendon (W) / Under 82.5",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
+        },
+        "aecc8207-9168-43ff-9ecf-8af73731a194": {
+            "id": "aecc8207-9168-43ff-9ecf-8af73731a194",
+            "name": "Madison Prespakis (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "af8624c0-50b7-4173-9ae5-e88149ef7151": {
+            "id": "af8624c0-50b7-4173-9ae5-e88149ef7151",
+            "name": "Georgia Gee (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 210,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "b017e0bf-9fa7-4305-9b35-b705adc50b62": {
+            "id": "b017e0bf-9fa7-4305-9b35-b705adc50b62",
+            "name": "Sophie Van De Heuvel (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 260,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
         "b216b9ef-4fa5-4b22-bf9d-7d15877991be": {
             "id": "b216b9ef-4fa5-4b22-bf9d-7d15877991be",
             "name": "Fremantle (W) Goal",
@@ -396,6 +1680,14 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "5e23475c-6d7a-49bb-9a89-803e489d3f6e"
+        },
+        "b2b0423d-fa6b-4739-a46e-3ab3f6c35a90": {
+            "id": "b2b0423d-fa6b-4739-a46e-3ab3f6c35a90",
+            "name": "Ebony Antonio (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
         },
         "b2e93fa7-7eaf-419d-b7a3-48668dc7dcf0": {
             "id": "b2e93fa7-7eaf-419d-b7a3-48668dc7dcf0",
@@ -405,6 +1697,21 @@
             "sort_order": 20,
             "market_id": "76a3f1c5-b6ab-48ff-a43a-7e127c881e42"
         },
+        "b309b653-5f73-4fb7-acfe-5684fb2f8f51": {
+            "id": "b309b653-5f73-4fb7-acfe-5684fb2f8f51",
+            "name": "Amber Clarke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "b3afa76f-44b5-4fb5-b800-f8ea33b94134": {
+            "id": "b3afa76f-44b5-4fb5-b800-f8ea33b94134",
+            "name": "Fremantle (W) +8.5 / Under 82.5",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "985327b3-1c6f-4a9a-a277-84df7e13d508"
+        },
         "b649e302-a36b-425b-9c89-f7aa67876415": {
             "id": "b649e302-a36b-425b-9c89-f7aa67876415",
             "name": "Essendon (W)",
@@ -412,6 +1719,30 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "6f38fdfd-6bd0-4aca-bb4f-d1d4d9505398"
+        },
+        "b6bc0239-47f7-4309-be7f-58b53bb8da6f": {
+            "id": "b6bc0239-47f7-4309-be7f-58b53bb8da6f",
+            "name": "Georgia Clarke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 270,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "bd0fefe0-2fbd-4069-8fd1-49197ede849c": {
+            "id": "bd0fefe0-2fbd-4069-8fd1-49197ede849c",
+            "name": "Ellyse Gamble (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 230,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "becfab88-1a57-49ae-a7f4-3dc6012b65e2": {
+            "id": "becfab88-1a57-49ae-a7f4-3dc6012b65e2",
+            "name": "Aisling McCarthy (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "00a030db-19fa-429f-95be-a09f88696345"
         },
         "bfa93bed-adc1-414e-b4ec-7f9646dd1c5a": {
             "id": "bfa93bed-adc1-414e-b4ec-7f9646dd1c5a",
@@ -421,6 +1752,46 @@
             "sort_order": 40,
             "market_id": "5458d202-d433-4db2-a538-2bd4036b4ac3"
         },
+        "c003a555-d72f-438d-9acc-df66c234a858": {
+            "id": "c003a555-d72f-438d-9acc-df66c234a858",
+            "name": "Jessica Low (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 350,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "c190c92a-2c50-4f5e-b84a-3146e6dba886": {
+            "id": "c190c92a-2c50-4f5e-b84a-3146e6dba886",
+            "name": "Laura Pugh (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 240,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "c38ef452-711b-4641-94bc-eca6c9e4a359": {
+            "id": "c38ef452-711b-4641-94bc-eca6c9e4a359",
+            "name": "Kodi Jacques (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 180,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "c39aa039-eae2-4828-afe5-eaff03f1d926": {
+            "id": "c39aa039-eae2-4828-afe5-eaff03f1d926",
+            "name": "Aine Tighe (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "c3ea607a-52e0-485c-ba6d-7088a9d52faf": {
+            "id": "c3ea607a-52e0-485c-ba6d-7088a9d52faf",
+            "name": "Georgia Gee (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 210,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
         "c3eca495-850f-4141-aa0f-a1e2ade5a3cc": {
             "id": "c3eca495-850f-4141-aa0f-a1e2ade5a3cc",
             "name": "Essendon (W)",
@@ -428,6 +1799,85 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "157c760e-a1a2-4a09-b085-3bbbf71bd2c8"
+        },
+        "c419225a-18f7-4238-8af8-89ac8ef2771a": {
+            "id": "c419225a-18f7-4238-8af8-89ac8ef2771a",
+            "name": "Stephanie Wales (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 410,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "c4a6581a-088f-495b-bab3-42a3437bd817": {
+            "id": "c4a6581a-088f-495b-bab3-42a3437bd817",
+            "name": "Bonnie Toogood (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "c4fa1629-a02d-4602-85d7-85a579ae504a": {
+            "id": "c4fa1629-a02d-4602-85d7-85a579ae504a",
+            "name": "Joanne Cregg (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 420,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "c7600d2f-6c00-495b-92a6-96b2b4cf1d55": {
+            "id": "c7600d2f-6c00-495b-92a6-96b2b4cf1d55",
+            "name": "Hayley Miller (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "00a030db-19fa-429f-95be-a09f88696345"
+        },
+        "c8b872d0-69c4-4a36-8729-39d56d8e24c9": {
+            "id": "c8b872d0-69c4-4a36-8729-39d56d8e24c9",
+            "name": "Ellyse Gamble (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 230,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "c8dcfb0d-85e9-4302-b070-c2fc8840364e": {
+            "id": "c8dcfb0d-85e9-4302-b070-c2fc8840364e",
+            "name": "Bonnie Toogood (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "c9bb89e1-0d1a-49bf-ba1b-cf61b414a4d6": {
+            "id": "c9bb89e1-0d1a-49bf-ba1b-cf61b414a4d6",
+            "name": "Fremantle (W) / Fremantle (W)",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "e89a81f4-13f8-49b2-8127-4b46ddedd69b"
+        },
+        "ca6fe9ce-d071-48ec-a4a3-3a770cdf196e": {
+            "id": "ca6fe9ce-d071-48ec-a4a3-3a770cdf196e",
+            "name": "Gabrielle Newton (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 160,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "cb4161e7-247d-4547-b684-0bd4f0b5c2c0": {
+            "id": "cb4161e7-247d-4547-b684-0bd4f0b5c2c0",
+            "name": "Maddison Gay (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 170,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "cb8b4baa-be1d-43fc-ba4e-fc29213151d2": {
+            "id": "cb8b4baa-be1d-43fc-ba4e-fc29213151d2",
+            "name": "Mim Strom (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 340,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
         },
         "cc0a33c6-c61e-4de8-a9c0-da7dc6f8e0c1": {
             "id": "cc0a33c6-c61e-4de8-a9c0-da7dc6f8e0c1",
@@ -445,6 +1895,54 @@
             "sort_order": 40,
             "market_id": "3aec6e19-f6d1-4aa2-b278-0d14a9c2d7a4"
         },
+        "ce3af248-c0db-4d04-8442-cfaedad01f02": {
+            "id": "ce3af248-c0db-4d04-8442-cfaedad01f02",
+            "name": "Amelia Radford (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 120,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "d50648a6-ae19-43d1-8c99-921777d3ea80": {
+            "id": "d50648a6-ae19-43d1-8c99-921777d3ea80",
+            "name": "Tunisha Kikoak (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 370,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "d5b966b6-614d-4a8b-adc8-f5d04984594c": {
+            "id": "d5b966b6-614d-4a8b-adc8-f5d04984594c",
+            "name": "Dana East (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 140,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "d6fe1e1d-fed1-4596-bde0-aa5d191bcedf": {
+            "id": "d6fe1e1d-fed1-4596-bde0-aa5d191bcedf",
+            "name": "Aine Tighe (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "d86557d5-6797-4964-bf59-3911baa8f8ff": {
+            "id": "d86557d5-6797-4964-bf59-3911baa8f8ff",
+            "name": "Jessica Low (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 350,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "d90020aa-46db-4ebd-a97d-1f9c6d1a5499": {
+            "id": "d90020aa-46db-4ebd-a97d-1f9c6d1a5499",
+            "name": "Alexandra Morcom (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 280,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
         "d901b0e7-5f60-40c8-99ce-f099388a486b": {
             "id": "d901b0e7-5f60-40c8-99ce-f099388a486b",
             "name": "Fremantle (W)",
@@ -452,6 +1950,30 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "47b52709-7fbe-4196-b850-82d0731dab22"
+        },
+        "d931f7d0-d74c-47fa-8ff2-378633dfadf3": {
+            "id": "d931f7d0-d74c-47fa-8ff2-378633dfadf3",
+            "name": "Joanne Cregg (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 420,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "d939839a-9c1e-4315-bc0e-1777e4a61477": {
+            "id": "d939839a-9c1e-4315-bc0e-1777e4a61477",
+            "name": "Stephanie Cain (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "00a030db-19fa-429f-95be-a09f88696345"
+        },
+        "d970c32f-0e79-4496-bf02-f88becfcfdc1": {
+            "id": "d970c32f-0e79-4496-bf02-f88becfcfdc1",
+            "name": "Philipa Seth (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 320,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
         },
         "dad687f4-4053-4f4a-a23f-f5ef2cf491bc": {
             "id": "dad687f4-4053-4f4a-a23f-f5ef2cf491bc",
@@ -461,6 +1983,30 @@
             "sort_order": 10,
             "market_id": "76a3f1c5-b6ab-48ff-a43a-7e127c881e42"
         },
+        "db1cafb7-d8e4-43dc-9597-6f20e40d73f6": {
+            "id": "db1cafb7-d8e4-43dc-9597-6f20e40d73f6",
+            "name": "Bonnie Toogood (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "00a030db-19fa-429f-95be-a09f88696345"
+        },
+        "db1f6226-9ade-4987-ba94-79880be35425": {
+            "id": "db1f6226-9ade-4987-ba94-79880be35425",
+            "name": "Joanne Cregg (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 420,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "dd3c8b67-b2d6-4cb9-bf6b-35579ded7f94": {
+            "id": "dd3c8b67-b2d6-4cb9-bf6b-35579ded7f94",
+            "name": "Amelia Radford (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 120,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
         "dfa885b2-5854-43c1-afdb-495ccf826738": {
             "id": "dfa885b2-5854-43c1-afdb-495ccf826738",
             "name": "Essendon (W) Goal",
@@ -468,6 +2014,38 @@
             "visible": true,
             "sort_order": 20,
             "market_id": "5e23475c-6d7a-49bb-9a89-803e489d3f6e"
+        },
+        "e09f33db-3080-493d-93bb-1b7f2a0c9185": {
+            "id": "e09f33db-3080-493d-93bb-1b7f2a0c9185",
+            "name": "Daria Bannister (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 110,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "e0b7fa90-1993-428d-ad5a-7729fd0130c5": {
+            "id": "e0b7fa90-1993-428d-ad5a-7729fd0130c5",
+            "name": "Alexandra Morcom (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 280,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "e0f252fc-8a39-46a5-92c1-5f019bf237d7": {
+            "id": "e0f252fc-8a39-46a5-92c1-5f019bf237d7",
+            "name": "Madison Prespakis (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "e1c817dc-e8ac-4201-aab8-b224fb6a7f0e": {
+            "id": "e1c817dc-e8ac-4201-aab8-b224fb6a7f0e",
+            "name": "Amber Clarke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
         },
         "e48441dd-3b52-4d34-8654-57d9b728603e": {
             "id": "e48441dd-3b52-4d34-8654-57d9b728603e",
@@ -477,6 +2055,22 @@
             "sort_order": 30,
             "market_id": "07934471-b059-4e6b-bee9-0c9ceecf751e"
         },
+        "e67e6967-4bc3-46e9-bd23-7c0d5ae556d1": {
+            "id": "e67e6967-4bc3-46e9-bd23-7c0d5ae556d1",
+            "name": "Alexandra Morcom (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 280,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "e7b2e9e6-1e74-40f5-8d77-d5cbaf424bf7": {
+            "id": "e7b2e9e6-1e74-40f5-8d77-d5cbaf424bf7",
+            "name": "Laura Pugh (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 240,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
         "e83571a3-83c1-4552-8ccd-0cb8e49ff683": {
             "id": "e83571a3-83c1-4552-8ccd-0cb8e49ff683",
             "name": "Fremantle (W)",
@@ -485,6 +2079,102 @@
             "sort_order": 20,
             "market_id": "0dc5c953-ab6d-4de4-bfc0-1cf6d36b60e5"
         },
+        "e84b2a6f-b97c-4281-9347-78b364907971": {
+            "id": "e84b2a6f-b97c-4281-9347-78b364907971",
+            "name": "Emma O'Driscoll (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 310,
+            "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "e8f03d03-a530-4ef1-ab5b-066b0e876ab7": {
+            "id": "e8f03d03-a530-4ef1-ab5b-066b0e876ab7",
+            "name": "Emily Gough (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 380,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "eab0dfea-00cb-49cd-8d88-5b9a1aa7c127": {
+            "id": "eab0dfea-00cb-49cd-8d88-5b9a1aa7c127",
+            "name": "Gabby O'Sullivan (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 100,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "ebf41768-2f8f-40f5-b148-145f36a24fb3": {
+            "id": "ebf41768-2f8f-40f5-b148-145f36a24fb3",
+            "name": "Emily Gough (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 380,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "ec03681c-95bc-4127-bf48-e3613ed58bca": {
+            "id": "ec03681c-95bc-4127-bf48-e3613ed58bca",
+            "name": "Daria Bannister (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 110,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "ecdef946-244f-4dc3-aa8f-94aed3437b5f": {
+            "id": "ecdef946-244f-4dc3-aa8f-94aed3437b5f",
+            "name": "Madison Prespakis (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "be21177b-1891-42b3-a1b6-d66da8d7bc0b"
+        },
+        "ed62f2c6-59a3-4d97-ac1c-06b4a7825a83": {
+            "id": "ed62f2c6-59a3-4d97-ac1c-06b4a7825a83",
+            "name": "Aine Tighe (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 20,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "ef66629b-a188-4eac-90e5-0dadb71beb84": {
+            "id": "ef66629b-a188-4eac-90e5-0dadb71beb84",
+            "name": "Amber Clarke (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 30,
+            "market_id": "be21177b-1891-42b3-a1b6-d66da8d7bc0b"
+        },
+        "efbd24ef-6b18-4552-a636-c632aeaf976a": {
+            "id": "efbd24ef-6b18-4552-a636-c632aeaf976a",
+            "name": "Ashleigh Brazill (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 300,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "f0347194-00e8-489d-bd0a-4e38b93acd84": {
+            "id": "f0347194-00e8-489d-bd0a-4e38b93acd84",
+            "name": "Amy Gaylor (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 150,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "f07d76e7-7ef3-4838-9675-04d4a05ffe08": {
+            "id": "f07d76e7-7ef3-4838-9675-04d4a05ffe08",
+            "name": "Maddison Gay (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 180,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
+        "f07ecb00-2c60-457d-a13b-1f57a78c4dae": {
+            "id": "f07ecb00-2c60-457d-a13b-1f57a78c4dae",
+            "name": "Gabby O'Sullivan (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 110,
+            "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
+        },
         "f39ec8ea-8472-4317-a8f5-b629049f6d37": {
             "id": "f39ec8ea-8472-4317-a8f5-b629049f6d37",
             "name": "Essendon (W) Behind",
@@ -492,6 +2182,38 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "a8be4027-8b15-4a4f-be6a-1719892e8120"
+        },
+        "f43f01a0-c2a6-4fb5-91c9-bf741fec91ae": {
+            "id": "f43f01a0-c2a6-4fb5-91c9-bf741fec91ae",
+            "name": "Sophie Alexander (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
+        },
+        "f45d4fbc-20f3-4186-87d0-1cc58717b754": {
+            "id": "f45d4fbc-20f3-4186-87d0-1cc58717b754",
+            "name": "Elizabeth Keaney (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "00a030db-19fa-429f-95be-a09f88696345"
+        },
+        "f4d446fd-2357-4205-b587-5a94590b21e8": {
+            "id": "f4d446fd-2357-4205-b587-5a94590b21e8",
+            "name": "Megan Kauffman (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 130,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "f4fb34a9-e874-49f2-a043-4f8fc0b89596": {
+            "id": "f4fb34a9-e874-49f2-a043-4f8fc0b89596",
+            "name": "Ebony Antonio (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 40,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
         },
         "f5ac686e-fb18-4b8f-aee8-fc696fcbde8e": {
             "id": "f5ac686e-fb18-4b8f-aee8-fc696fcbde8e",
@@ -509,6 +2231,21 @@
             "sort_order": 30,
             "market_id": "a8be4027-8b15-4a4f-be6a-1719892e8120"
         },
+        "f71fc6b0-2cab-4e16-a82b-d3dfdfa2f0fd": {
+            "id": "f71fc6b0-2cab-4e16-a82b-d3dfdfa2f0fd",
+            "name": "Madeleine Scanlon (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 390,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "f7d0485f-3d84-4a97-966c-d46446b99c9e": {
+            "id": "f7d0485f-3d84-4a97-966c-d46446b99c9e",
+            "name": "Over",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "13e29673-2ab4-48ed-b06d-aa42bcba945a"
+        },
         "f85b0f88-7d6f-4b3f-83a0-2418f96f531d": {
             "id": "f85b0f88-7d6f-4b3f-83a0-2418f96f531d",
             "name": "Fremantle (W) Behind",
@@ -516,6 +2253,30 @@
             "visible": true,
             "sort_order": 30,
             "market_id": "3aec6e19-f6d1-4aa2-b278-0d14a9c2d7a4"
+        },
+        "fa9c7916-5e81-4f58-8609-d02ad3c0a6cd": {
+            "id": "fa9c7916-5e81-4f58-8609-d02ad3c0a6cd",
+            "name": "Ebony Antonio (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "be21177b-1891-42b3-a1b6-d66da8d7bc0b"
+        },
+        "fb628b93-7e92-4c08-9179-c45937756c12": {
+            "id": "fb628b93-7e92-4c08-9179-c45937756c12",
+            "name": "Gabrielle Newton (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 160,
+            "market_id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392"
+        },
+        "fdf79191-3bd1-4958-87a3-21a182cc1739": {
+            "id": "fdf79191-3bd1-4958-87a3-21a182cc1739",
+            "name": "Bonnie Toogood (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 10,
+            "market_id": "be21177b-1891-42b3-a1b6-d66da8d7bc0b"
         },
         "fe40db5b-e68a-485a-bb03-e675f1d30c56": {
             "id": "fe40db5b-e68a-485a-bb03-e675f1d30c56",
@@ -532,6 +2293,22 @@
             "visible": true,
             "sort_order": 10,
             "market_id": "0dc5c953-ab6d-4de4-bfc0-1cf6d36b60e5"
+        },
+        "ff228daa-4573-40aa-a96f-02af3dab9671": {
+            "id": "ff228daa-4573-40aa-a96f-02af3dab9671",
+            "name": "Aisling McCarthy (Fremantle (W))",
+            "home_away": "AWAY",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "ff744be0-17ec-46c6-985e-06ff62d7a1e6": {
+            "id": "ff744be0-17ec-46c6-985e-06ff62d7a1e6",
+            "name": "Elizabeth Keaney (Essendon (W))",
+            "home_away": "HOME",
+            "visible": true,
+            "sort_order": 290,
+            "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
         }
     },
     "event_participants": {
@@ -570,8 +2347,12 @@
             "competition_id": "f4de6fff-de1d-40f9-b3bc-1d9d614ae6c1",
             "market_type_group_ids": [
                 "29edb5e1-a717-4769-8bcd-2d43ec38d828",
+                "750dfc4f-a778-4aeb-9e11-e9711566bc32",
+                "b8247ccf-a29f-4149-88dd-2f7ddea5a963",
+                "f4719457-4b2b-4f69-b8f9-c943d2b1440b",
                 "f8d682e7-80d0-4489-bbf5-358f1e8c7801",
                 "88dbaaac-e459-425e-90f2-319521d6fb27",
+                "68b6bfcc-f17e-42e9-ae36-300a4d98ba5f",
                 "23b315d6-f5f6-4a84-aeb7-76ab244b34c0",
                 "068cedc4-f695-4eec-a31d-9e94b25dc06d",
                 "4eb25c09-7065-4b36-8bce-77e6d8facddd",
@@ -584,7 +2365,39 @@
                     "market_type_group_id": "29edb5e1-a717-4769-8bcd-2d43ec38d828",
                     "market_ids": [
                         "36589785-ce5e-4398-bc1e-b94cc127e901",
-                        "47b52709-7fbe-4196-b850-82d0731dab22"
+                        "47b52709-7fbe-4196-b850-82d0731dab22",
+                        "13e29673-2ab4-48ed-b06d-aa42bcba945a",
+                        "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7",
+                        "be21177b-1891-42b3-a1b6-d66da8d7bc0b",
+                        "a983c561-4bb6-41c2-a6cf-90adc0c9e392",
+                        "00a030db-19fa-429f-95be-a09f88696345",
+                        "f884a346-baca-491f-9d05-c637e3576df0"
+                    ]
+                },
+                {
+                    "market_type_group_id": "750dfc4f-a778-4aeb-9e11-e9711566bc32",
+                    "market_ids": [
+                        "a983c561-4bb6-41c2-a6cf-90adc0c9e392",
+                        "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7",
+                        "be21177b-1891-42b3-a1b6-d66da8d7bc0b",
+                        "40a51c77-5b5f-46a2-9786-fe349c3e80e8",
+                        "3a3eb383-713a-4807-b439-5e8ac745ce0a",
+                        "f2d56371-882b-4369-b27f-81b3427fed18"
+                    ]
+                },
+                {
+                    "market_type_group_id": "b8247ccf-a29f-4149-88dd-2f7ddea5a963",
+                    "market_ids": [
+                        "00a030db-19fa-429f-95be-a09f88696345",
+                        "f884a346-baca-491f-9d05-c637e3576df0"
+                    ]
+                },
+                {
+                    "market_type_group_id": "f4719457-4b2b-4f69-b8f9-c943d2b1440b",
+                    "market_ids": [
+                        "8f2bc9a0-e6c6-4a17-9952-5525181b7e22",
+                        "985327b3-1c6f-4a9a-a277-84df7e13d508",
+                        "e89a81f4-13f8-49b2-8127-4b46ddedd69b"
                     ]
                 },
                 {
@@ -599,6 +2412,12 @@
                     "market_type_group_id": "88dbaaac-e459-425e-90f2-319521d6fb27",
                     "market_ids": [
                         "990d77fb-43cf-43ce-95a6-5de95f720ef5"
+                    ]
+                },
+                {
+                    "market_type_group_id": "68b6bfcc-f17e-42e9-ae36-300a4d98ba5f",
+                    "market_ids": [
+                        "13e29673-2ab4-48ed-b06d-aa42bcba945a"
                     ]
                 },
                 {
@@ -649,13 +2468,25 @@
                     ]
                 }
             ],
-            "market_count": 23,
+            "market_count": 35,
             "main_markets": [
                 "36589785-ce5e-4398-bc1e-b94cc127e901"
             ],
             "market_ids": [
                 "36589785-ce5e-4398-bc1e-b94cc127e901",
                 "47b52709-7fbe-4196-b850-82d0731dab22",
+                "13e29673-2ab4-48ed-b06d-aa42bcba945a",
+                "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7",
+                "be21177b-1891-42b3-a1b6-d66da8d7bc0b",
+                "a983c561-4bb6-41c2-a6cf-90adc0c9e392",
+                "00a030db-19fa-429f-95be-a09f88696345",
+                "f884a346-baca-491f-9d05-c637e3576df0",
+                "40a51c77-5b5f-46a2-9786-fe349c3e80e8",
+                "3a3eb383-713a-4807-b439-5e8ac745ce0a",
+                "f2d56371-882b-4369-b27f-81b3427fed18",
+                "8f2bc9a0-e6c6-4a17-9952-5525181b7e22",
+                "985327b3-1c6f-4a9a-a277-84df7e13d508",
+                "e89a81f4-13f8-49b2-8127-4b46ddedd69b",
                 "22ef3360-2e75-4231-8e4e-a552b6215bcf",
                 "49567c38-5f49-4611-8872-e7a8d4a5ffd8",
                 "04fe085c-f50a-4e79-bad9-a8f1ef47d9fd",
@@ -718,6 +2549,18 @@
             "name": "1st Quarter Markets",
             "priority": 120
         },
+        "68b6bfcc-f17e-42e9-ae36-300a4d98ba5f": {
+            "id": "68b6bfcc-f17e-42e9-ae36-300a4d98ba5f",
+            "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
+            "name": "Total Markets",
+            "priority": 160
+        },
+        "750dfc4f-a778-4aeb-9e11-e9711566bc32": {
+            "id": "750dfc4f-a778-4aeb-9e11-e9711566bc32",
+            "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
+            "name": "Goal Kicker Markets",
+            "priority": 300
+        },
         "88dbaaac-e459-425e-90f2-319521d6fb27": {
             "id": "88dbaaac-e459-425e-90f2-319521d6fb27",
             "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
@@ -730,11 +2573,23 @@
             "name": "2nd Quarter Markets",
             "priority": 110
         },
+        "b8247ccf-a29f-4149-88dd-2f7ddea5a963": {
+            "id": "b8247ccf-a29f-4149-88dd-2f7ddea5a963",
+            "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
+            "name": "Disposal Markets",
+            "priority": 260
+        },
         "c4358226-c6b9-4d1a-ad5b-a761cc3f8068": {
             "id": "c4358226-c6b9-4d1a-ad5b-a761cc3f8068",
             "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
             "name": "4th Quarter Markets",
             "priority": 80
+        },
+        "f4719457-4b2b-4f69-b8f9-c943d2b1440b": {
+            "id": "f4719457-4b2b-4f69-b8f9-c943d2b1440b",
+            "category_id": "23d497e6-8aab-4309-905b-9421f42c9bc5",
+            "name": "Double Markets",
+            "priority": 230
         },
         "f8d682e7-80d0-4489-bbf5-358f1e8c7801": {
             "id": "f8d682e7-80d0-4489-bbf5-358f1e8c7801",
@@ -744,6 +2599,33 @@
         }
     },
     "markets": {
+        "00a030db-19fa-429f-95be-a09f88696345": {
+            "id": "00a030db-19fa-429f-95be-a09f88696345",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "af25c289-602f-48b9-a99e-cc91a2a15d16",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 15+ Disposals",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "3afd2769-52ac-4f60-ad91-329540972f01",
+                "db1cafb7-d8e4-43dc-9597-6f20e40d73f6",
+                "becfab88-1a57-49ae-a7f4-3dc6012b65e2",
+                "4f8402cc-5751-4733-936d-fe532a3f65df",
+                "f45d4fbc-20f3-4186-87d0-1cc58717b754",
+                "d939839a-9c1e-4315-bc0e-1777e4a61477",
+                "c7600d2f-6c00-495b-92a6-96b2b4cf1d55",
+                "2f2dd393-9f6a-4461-8bb0-9a641ffd1644"
+            ],
+            "num_winners": 99
+        },
         "04fe085c-f50a-4e79-bad9-a8f1ef47d9fd": {
             "id": "04fe085c-f50a-4e79-bad9-a8f1ef47d9fd",
             "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
@@ -847,6 +2729,28 @@
             ],
             "num_winners": 1
         },
+        "13e29673-2ab4-48ed-b06d-aa42bcba945a": {
+            "id": "13e29673-2ab4-48ed-b06d-aa42bcba945a",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "9cc10db4-c9bb-49f2-bba6-e4ea6eabcb4a",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Total Points",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "live_betting_available": true,
+            "handicap": 82.5,
+            "same_game_multi_available": true,
+            "visible": true,
+            "entrant_ids": [
+                "f7d0485f-3d84-4a97-966c-d46446b99c9e",
+                "14a064da-d42a-4ec4-965c-d1b7d7e3d618"
+            ],
+            "num_winners": 1
+        },
         "157c760e-a1a2-4a09-b085-3bbbf71bd2c8": {
             "id": "157c760e-a1a2-4a09-b085-3bbbf71bd2c8",
             "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
@@ -890,6 +2794,47 @@
             ],
             "num_winners": 1
         },
+        "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7": {
+            "id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "92ceeb90-0e12-45b7-bcd4-b7b6f9c09268",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Player Goals - Anytime Goal Kicker",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "3a8856df-4b7a-4bb8-bb8d-f0edb0fef3e7",
+                "ed62f2c6-59a3-4d97-ac1c-06b4a7825a83",
+                "a1ea9e23-72f2-4731-ae25-2cd3e99585b3",
+                "75d04316-5640-446d-9bad-830cef7d6851",
+                "79aafecc-f622-4aa1-9cdf-78976c41d9c2",
+                "e0f252fc-8a39-46a5-92c1-5f019bf237d7",
+                "439ca703-af50-4ac8-a22f-251c659a177f",
+                "053d31ea-c161-4292-9cb1-bd5bcd3a147a",
+                "aea73add-ba26-4633-9316-71b2fc4c5bd4",
+                "4cc6ab15-ac99-4cd4-bd4f-48c143c9c783",
+                "f07ecb00-2c60-457d-a13b-1f57a78c4dae",
+                "dd3c8b67-b2d6-4cb9-bf6b-35579ded7f94",
+                "30820077-67d7-44bf-8cdd-e22910f81870",
+                "d5b966b6-614d-4a8b-adc8-f5d04984594c",
+                "9cb052a6-97c7-45a2-9ac7-877722f99680",
+                "78526331-0eb9-4d09-ac5f-e71d2298fff8",
+                "224130b3-ed7d-4da3-9762-609e9e1968bb",
+                "f07d76e7-7ef3-4838-9675-04d4a05ffe08",
+                "47e59b24-124c-4d16-a471-da8a15052ce3",
+                "80d7814f-f0e4-46a7-a2e9-f9be258113a6",
+                "6f5bbc57-d299-4065-aa72-649b470d8c79",
+                "7daaaa69-7fcc-45c2-a31e-b0641a8fb5d1"
+            ],
+            "num_winners": 99
+        },
         "36589785-ce5e-4398-bc1e-b94cc127e901": {
             "id": "36589785-ce5e-4398-bc1e-b94cc127e901",
             "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
@@ -909,6 +2854,67 @@
             "entrant_ids": [
                 "1dfba4ab-c692-4499-99b6-ae2e3b82427e",
                 "93d84317-8ee0-46d0-9170-7f3986c82cb2"
+            ],
+            "num_winners": 1
+        },
+        "3a3eb383-713a-4807-b439-5e8ac745ce0a": {
+            "id": "3a3eb383-713a-4807-b439-5e8ac745ce0a",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "9540ad92-aff8-4efe-b03e-93408aefafce",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "First Goal Kicker - 3rd Quarter",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "same_game_multi_available": true,
+            "comments": "Quote Others",
+            "visible": true,
+            "entrant_ids": [
+                "c4a6581a-088f-495b-bab3-42a3437bd817",
+                "d6fe1e1d-fed1-4596-bde0-aa5d191bcedf",
+                "8e2c4975-ba69-4292-a0c0-3d4ee001a3d0",
+                "f4fb34a9-e874-49f2-a043-4f8fc0b89596",
+                "3bdfcbfb-9c7a-49aa-8342-b26157ea6804",
+                "39e3b243-0cf0-43f7-976d-4d7759def0b3",
+                "ff228daa-4573-40aa-a96f-02af3dab9671",
+                "82b6d142-1a18-4877-aa3a-1d23540e22c5",
+                "4cb1a0ce-8b95-4bfc-8d90-cc36b3050e5e",
+                "265aabaf-9d57-4551-a0ee-84a6dc297308",
+                "63dcd1d0-51a1-41db-8e81-b041aa7fd9f3",
+                "ce3af248-c0db-4d04-8442-cfaedad01f02",
+                "7e1fe5d7-bd6b-4aa7-949d-3eae10bff970",
+                "490834aa-fb01-4fbb-9063-21ecaf1198f8",
+                "f0347194-00e8-489d-bd0a-4e38b93acd84",
+                "acce2467-7c1c-4908-a286-fb3a35887990",
+                "cb4161e7-247d-4547-b684-0bd4f0b5c2c0",
+                "524bcf57-1d78-46e0-a799-5133d91394ec",
+                "44ae24eb-838b-4ed6-a538-7603c74710cd",
+                "18f246ce-1b17-46ae-9284-1e6e8c595c0b",
+                "10295e02-7557-4a05-99f8-3f1700a2eb32",
+                "0d4415e4-fc53-447a-ad60-3420ea04a96f",
+                "7d56c709-1461-44b2-9199-c232db2abe42",
+                "5595db56-49d8-4906-9953-c9ca1a2fa394",
+                "2a4dc9f7-8b35-46e6-bfe5-a16094fb7ea2",
+                "0c1c105f-b9be-4f7b-86cc-c56f3b5847d1",
+                "8d2a4fca-e3db-42d8-8dbc-414673b174ea",
+                "e67e6967-4bc3-46e9-bd23-7c0d5ae556d1",
+                "97df6b78-8f7b-431f-ace0-3cbd339d6d0d",
+                "1dc294ba-55c8-4d0c-8101-1f3b052bc26b",
+                "2e6475e7-fa1b-4cdf-b5b6-5439fd4d77d7",
+                "22d0a4b8-189b-4dae-b1d6-f18443dd359e",
+                "a2f4dede-e61c-4e16-8fe7-48acce9a1f89",
+                "cb8b4baa-be1d-43fc-ba4e-fc29213151d2",
+                "d86557d5-6797-4964-bf59-3911baa8f8ff",
+                "a8d7d386-28af-4e11-b8cc-6c6a0ba479f5",
+                "92b9a553-23b9-4f34-99c1-02ac8bc24b19",
+                "e8f03d03-a530-4ef1-ab5b-066b0e876ab7",
+                "2ce4f455-de62-4206-ae10-19cb4dff85c8",
+                "256155a9-b9f2-4c2b-98c4-d2f12866ddc0",
+                "78584cda-d966-45d6-982c-07e0e63c7a87",
+                "db1f6226-9ade-4987-ba94-79880be35425"
             ],
             "num_winners": 1
         },
@@ -951,6 +2957,67 @@
             "entrant_ids": [
                 "3229e0f4-3ef3-4825-a67e-9c09b97c3cd8",
                 "125121c8-e76b-420e-b8f0-5fd5cc9685d9"
+            ],
+            "num_winners": 1
+        },
+        "40a51c77-5b5f-46a2-9786-fe349c3e80e8": {
+            "id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "d9bb2f0e-f107-4c02-8b11-9dc37c56ef7c",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "First Goal Kicker - 2nd Quarter",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "same_game_multi_available": true,
+            "comments": "Quote Others",
+            "visible": true,
+            "entrant_ids": [
+                "c8dcfb0d-85e9-4302-b070-c2fc8840364e",
+                "57507c3f-c56c-49d4-b9b3-f52cf7817b77",
+                "33c6ddb8-5438-44c5-9ed3-6eedeaa547eb",
+                "59e315af-598b-4826-a0fb-a88ba3295396",
+                "0b56f95a-d363-4d91-8e69-602f609ddd51",
+                "f43f01a0-c2a6-4fb5-91c9-bf741fec91ae",
+                "6377faab-5a40-4d42-a2a3-c88d32266c8c",
+                "227d77c8-5a23-4b0a-9a7c-7da7311966a3",
+                "2307001d-6e83-4dfb-94d1-bd19001c714b",
+                "6d23220d-5c0d-4093-9e00-0f2679db3167",
+                "ec03681c-95bc-4127-bf48-e3613ed58bca",
+                "546336f9-b661-4d3b-9e82-c967f8b2dbef",
+                "2bfd56f3-4045-457b-b1b7-bec2c0020a8b",
+                "53a3c444-600a-45ea-96e0-6d0aba7f0e1b",
+                "1de19e24-7514-490b-9c9d-37413c7dccb2",
+                "356bd8c5-9603-414c-bd8c-13de12afdbea",
+                "0bde4393-5c6b-4a35-81b3-8060da810444",
+                "c38ef452-711b-4641-94bc-eca6c9e4a359",
+                "26fb251a-18ad-4d90-b9c4-b939c3d6b09e",
+                "242147e5-73dc-4f26-8622-72a28fa55a71",
+                "af8624c0-50b7-4173-9ae5-e88149ef7151",
+                "1dd278e2-e4ad-43f8-9c9c-ffa096ae17ba",
+                "c8b872d0-69c4-4a36-8729-39d56d8e24c9",
+                "c190c92a-2c50-4f5e-b84a-3146e6dba886",
+                "48338eff-a19c-4ee0-a058-8914c30a3092",
+                "04d3a607-f652-426f-bf4c-60f3500b2701",
+                "b6bc0239-47f7-4309-be7f-58b53bb8da6f",
+                "63425282-4c53-4ee4-9c9b-c0eacfbd7cf0",
+                "ff744be0-17ec-46c6-985e-06ff62d7a1e6",
+                "416e0bb2-1d6a-464b-9384-f02f797e6ac2",
+                "aa4af5a5-b448-4af0-9648-bb7bfe5bfe56",
+                "478db316-c863-4540-a7c1-aa17fd658ece",
+                "3bab65f5-ed71-470b-aef4-f31d23a1f015",
+                "6651ea25-9f00-4427-a96d-1e58cc6f8969",
+                "a591bf1b-47a7-4eb5-9fc4-defce2492e24",
+                "750dc9df-564e-452b-ae0f-27cc32d26faa",
+                "0b60f7c8-b4e3-48cd-b5ab-82e835d9ffce",
+                "378a570c-4a25-4d1a-a114-96c8b29ae403",
+                "2c40fc6d-f9d9-4f12-b580-35a8bc67a4a7",
+                "32732323-e023-4db5-b39a-b7d1f324a536",
+                "c419225a-18f7-4238-8af8-89ac8ef2771a",
+                "c4fa1629-a02d-4602-85d7-85a579ae504a"
             ],
             "num_winners": 1
         },
@@ -1125,6 +3192,52 @@
             ],
             "num_winners": 1
         },
+        "8f2bc9a0-e6c6-4a17-9952-5525181b7e22": {
+            "id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "c2334cfd-9495-4464-a557-27cb6b4e73f4",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Winner / Total Points Double",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "64988041-851e-4fa3-a843-6e7cc943f0fc",
+                "aeb98d94-4410-45a0-a7d4-5b5e64f9a7b0",
+                "64bd2c8a-567a-4abb-b3a8-c6b5e8eb9832",
+                "7c571a14-6e4f-49f5-b275-21741b20f94d"
+            ],
+            "num_winners": 99
+        },
+        "985327b3-1c6f-4a9a-a277-84df7e13d508": {
+            "id": "985327b3-1c6f-4a9a-a277-84df7e13d508",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "785f7163-5608-4650-8101-1f4bc0015543",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Line / Total Points Double",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "b3afa76f-44b5-4fb5-b800-f8ea33b94134",
+                "a1c32e15-a707-4dd0-9f9b-04cfa81561a8",
+                "70771698-5b53-45dd-89bc-b59efbb57a29",
+                "2be3ac96-9f55-4135-9eb4-cbc8ce73056d"
+            ],
+            "num_winners": 99
+        },
         "990d77fb-43cf-43ce-95a6-5de95f720ef5": {
             "id": "990d77fb-43cf-43ce-95a6-5de95f720ef5",
             "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
@@ -1164,6 +3277,67 @@
                 "a35eac69-f25b-49df-a41e-abf9773bdc3a",
                 "f69d2f97-27c8-4bd3-a181-6433c7282a47",
                 "0a39207e-4b8c-48f4-8c06-8c72349ee2c5"
+            ],
+            "num_winners": 1
+        },
+        "a983c561-4bb6-41c2-a6cf-90adc0c9e392": {
+            "id": "a983c561-4bb6-41c2-a6cf-90adc0c9e392",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "4fb5763b-84fa-49c5-8f37-e2ed980b255f",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "First Goal Kicker",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "same_game_multi_available": true,
+            "comments": "Market Pays on First Goal Kicker whether or not the Goal is Kicked in the 1st Quarter, Quote Others",
+            "visible": true,
+            "entrant_ids": [
+                "22907daf-5e1f-4260-acc6-50aba328a08d",
+                "c39aa039-eae2-4828-afe5-eaff03f1d926",
+                "e1c817dc-e8ac-4201-aab8-b224fb6a7f0e",
+                "8122ec6b-c2c1-4ef1-88c1-a320b81bc526",
+                "5d414cff-9142-4050-aaf5-678ef854a5d0",
+                "059f6cf7-2680-4853-8801-657e0e587e59",
+                "99a01c23-045e-4846-8bba-7e7255fce3e6",
+                "0fdc89de-4f7a-4abd-86ad-51d9f0f9f8f8",
+                "3bc8f92a-d902-4d1f-b223-8ac40fda1b43",
+                "eab0dfea-00cb-49cd-8d88-5b9a1aa7c127",
+                "e09f33db-3080-493d-93bb-1b7f2a0c9185",
+                "86b64b9a-d313-4175-8c6e-c0e4f667063c",
+                "f4d446fd-2357-4205-b587-5a94590b21e8",
+                "238acd1d-c134-477f-96a2-6b14b61f1c68",
+                "89f4cdd6-0a7a-4444-b127-5ee0c14c7237",
+                "fb628b93-7e92-4c08-9179-c45937756c12",
+                "2868956a-a749-48a8-af94-4468f4ea172f",
+                "4fc8890b-c9c5-48a0-bbe8-f531715a7d7b",
+                "abe14322-724b-4d33-83c6-afd129ac62aa",
+                "9413d5eb-1b77-4147-9e0f-a48dd3b57906",
+                "c3ea607a-52e0-485c-ba6d-7088a9d52faf",
+                "4059a98d-6873-4718-95ca-00cf4a03bf5b",
+                "bd0fefe0-2fbd-4069-8fd1-49197ede849c",
+                "4c3e4f54-5676-4015-88a4-4d1d05e13edc",
+                "726587c9-ce00-4489-ab0e-ed0fbe9ea5e5",
+                "69d495b7-4913-492a-a02e-8d506a47693b",
+                "3f917fd1-7c1c-4d32-9956-ef4e3c5586bc",
+                "d90020aa-46db-4ebd-a97d-1f9c6d1a5499",
+                "280672fc-7c25-457c-b6c4-222433f97004",
+                "efbd24ef-6b18-4552-a636-c632aeaf976a",
+                "0697cbd7-ffc9-41ef-8796-96535048b040",
+                "d970c32f-0e79-4496-bf02-f88becfcfdc1",
+                "54f8bd88-1228-494e-b129-4fa33ac49ef8",
+                "456fb546-eef6-47d2-bcaa-ffae4ba570e1",
+                "29a6903e-097e-40ae-b26b-00fef45aa266",
+                "4bda8aa6-8be9-4a35-897f-bde98c195151",
+                "0d379eae-43ee-4dff-ad3f-f9bff7ec530b",
+                "ebf41768-2f8f-40f5-b148-145f36a24fb3",
+                "f71fc6b0-2cab-4e16-a82b-d3dfdfa2f0fd",
+                "0f801764-12aa-4d4e-8598-5a4197481e17",
+                "4cf73395-ec10-422b-98f2-04c3ccd7f514",
+                "038e384f-14f3-4d7b-bb44-a52eb0530be4"
             ],
             "num_winners": 1
         },
@@ -1211,6 +3385,33 @@
             ],
             "num_winners": 1
         },
+        "be21177b-1891-42b3-a1b6-d66da8d7bc0b": {
+            "id": "be21177b-1891-42b3-a1b6-d66da8d7bc0b",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "80c765fe-383e-4e6b-95c7-a47ea815c6d2",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Player Goals - To Kick 2+ Goals",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "is_future_market": true,
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "fdf79191-3bd1-4958-87a3-21a182cc1739",
+                "1f9f0d0f-28f7-4727-b3e8-d04138aa532e",
+                "ef66629b-a188-4eac-90e5-0dadb71beb84",
+                "4b6d75fc-fa2e-44c9-acaa-07b5694ef19f",
+                "fa9c7916-5e81-4f58-8609-d02ad3c0a6cd",
+                "ecdef946-244f-4dc3-aa8f-94aed3437b5f",
+                "1c43244f-f8e1-4ead-9a53-eec4831ec34f"
+            ],
+            "num_winners": 99
+        },
         "c564cc8c-5e8a-444e-aeaf-bb8317d2a419": {
             "id": "c564cc8c-5e8a-444e-aeaf-bb8317d2a419",
             "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
@@ -1232,19 +3433,133 @@
                 "6b86266e-b16b-45d3-9326-a4cef0043bd5"
             ],
             "num_winners": 1
+        },
+        "e89a81f4-13f8-49b2-8127-4b46ddedd69b": {
+            "id": "e89a81f4-13f8-49b2-8127-4b46ddedd69b",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "a3be2c40-c0dc-4b90-a367-bbaa7fa9e63f",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "Half-Time / Full-Time Double",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "9e33defb-77b9-404c-ab14-196cf6abda81",
+                "c9bb89e1-0d1a-49bf-ba1b-cf61b414a4d6",
+                "5393d66d-9dd0-43d2-bf15-7a7d7395d731",
+                "88a88ed6-d6ef-41f3-8ef1-b471eb31bc5a",
+                "2eac9e08-4a5a-480f-bc8e-528ce9abcf6d"
+            ],
+            "num_winners": 99
+        },
+        "f2d56371-882b-4369-b27f-81b3427fed18": {
+            "id": "f2d56371-882b-4369-b27f-81b3427fed18",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "75a617d3-2172-4760-b7b5-ff7209e005ad",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "First Goal Kicker - 4th Quarter",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "same_game_multi_available": true,
+            "comments": "Quote Others",
+            "visible": true,
+            "entrant_ids": [
+                "5ea52228-afe7-431d-aac6-2640b3c70a39",
+                "4bfc1395-4a73-4635-9303-8c2a6466117e",
+                "b309b653-5f73-4fb7-acfe-5684fb2f8f51",
+                "b2b0423d-fa6b-4739-a46e-3ab3f6c35a90",
+                "aecc8207-9168-43ff-9ecf-8af73731a194",
+                "3325fb1a-016f-4c18-89c7-1e71ca73bfd0",
+                "810e0233-6b50-481d-aee7-91dc9a279546",
+                "55e6c500-930c-46ca-a74d-6c717bfb29de",
+                "0a4c16dd-6d20-4b99-a63c-02ed4cea438b",
+                "84fe5b02-6ec2-4ed2-a39e-806a90409007",
+                "9fcf40e2-337a-4161-b743-856df499f6f8",
+                "98b6565a-198a-42ce-9034-5c634514c0c2",
+                "82654360-d15c-4fc5-9103-1175646f8302",
+                "6279a5ea-6efb-45fa-bc8b-896447ecbf69",
+                "4213f6ef-6c0b-4076-9d80-1baf0dcd9658",
+                "ca6fe9ce-d071-48ec-a4a3-3a770cdf196e",
+                "1020f6f0-fa38-4a67-b165-4ef9e5dc1a98",
+                "a815e208-0242-4dd1-b45e-9d6c12083e1f",
+                "3ed8aa24-0134-4c42-a084-14e04a17ac26",
+                "5092c09b-ed31-4303-a490-0accb5a741cf",
+                "68c99f64-201d-4a54-9c26-d7460d91ac60",
+                "2cad6262-05a9-427c-8afc-0e7080827013",
+                "53c6f255-58ce-4ce2-8a5a-db737ae2d708",
+                "e7b2e9e6-1e74-40f5-8d77-d5cbaf424bf7",
+                "288699bf-907a-40ec-8930-b6b4e8f8dee2",
+                "b017e0bf-9fa7-4305-9b35-b705adc50b62",
+                "4649e915-7498-4e73-8fc0-8f49e88f5789",
+                "e0b7fa90-1993-428d-ad5a-7729fd0130c5",
+                "ab49e7fb-ca3e-4e76-86dc-254b36d2deda",
+                "8d7ea50e-b5ff-4e02-98df-115bd0b1c434",
+                "e84b2a6f-b97c-4281-9347-78b364907971",
+                "15522c4c-94f4-46fc-97be-22e9ee42778e",
+                "52a8ca49-9c46-4c7d-bd52-3838337fb40a",
+                "07d10efc-65af-4790-b0b0-19d722d68353",
+                "c003a555-d72f-438d-9acc-df66c234a858",
+                "688aa17f-36c9-4052-93f6-f468c00ca4b6",
+                "d50648a6-ae19-43d1-8c99-921777d3ea80",
+                "37067b1f-49bd-48c3-a77d-0f6832c7f61f",
+                "782a5b05-9c11-4f3a-a126-ff45bce420b7",
+                "9557c984-190e-4be2-b249-5d0b8c796d9c",
+                "8a35145c-2c4c-4022-80f1-90d7e7187cfd",
+                "d931f7d0-d74c-47fa-8ff2-378633dfadf3"
+            ],
+            "num_winners": 1
+        },
+        "f884a346-baca-491f-9d05-c637e3576df0": {
+            "id": "f884a346-baca-491f-9d05-c637e3576df0",
+            "event_id": "4ff66343-19c4-4e47-a64e-b6d3ccce28ed",
+            "market_type_id": "a4a7ecff-fe82-4d1b-b7b6-f498232a5606",
+            "market_status_id": "4bc8fe96-296b-4b4c-aea4-85c94f63b9c6",
+            "name": "To Have 20+ Disposals",
+            "advertised_start": {
+                "seconds": 1725080700
+            },
+            "actual_start": {
+                "seconds": 1725080700
+            },
+            "is_future_market": true,
+            "same_game_multi_available": true,
+            "is_multiple_outcome_market": true,
+            "visible": true,
+            "entrant_ids": [
+                "6ae60a48-3c61-4e37-99d3-83b64b8e0a9d",
+                "348c40a8-b481-4907-b6d4-77aca1f60826",
+                "8a4b5ea2-e40d-4cee-a690-815e30c76ca0",
+                "7bd19954-8d81-49bb-8a67-458e1696d72c"
+            ],
+            "num_winners": 99
         }
     },
     "markets_allow_cashout": {
+        "00a030db-19fa-429f-95be-a09f88696345": true,
         "04fe085c-f50a-4e79-bad9-a8f1ef47d9fd": true,
         "07934471-b059-4e6b-bee9-0c9ceecf751e": true,
         "0b2c16b3-0745-4126-9cc0-62465ceb5d45": true,
         "0dc5c953-ab6d-4de4-bfc0-1cf6d36b60e5": true,
         "137739c0-1dc6-4195-bf0a-4ca8406b49bd": true,
+        "13e29673-2ab4-48ed-b06d-aa42bcba945a": false,
         "157c760e-a1a2-4a09-b085-3bbbf71bd2c8": true,
         "22ef3360-2e75-4231-8e4e-a552b6215bcf": true,
+        "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7": true,
         "36589785-ce5e-4398-bc1e-b94cc127e901": true,
+        "3a3eb383-713a-4807-b439-5e8ac745ce0a": true,
         "3aec6e19-f6d1-4aa2-b278-0d14a9c2d7a4": true,
         "3f3a66dd-4011-48cc-96b9-821c95b00366": true,
+        "40a51c77-5b5f-46a2-9786-fe349c3e80e8": true,
         "47b52709-7fbe-4196-b850-82d0731dab22": false,
         "49567c38-5f49-4611-8872-e7a8d4a5ffd8": true,
         "5458d202-d433-4db2-a538-2bd4036b4ac3": true,
@@ -1253,13 +3568,56 @@
         "62d64177-bfa2-464f-931e-911902dd4400": true,
         "6f38fdfd-6bd0-4aca-bb4f-d1d4d9505398": false,
         "76a3f1c5-b6ab-48ff-a43a-7e127c881e42": true,
+        "8f2bc9a0-e6c6-4a17-9952-5525181b7e22": false,
+        "985327b3-1c6f-4a9a-a277-84df7e13d508": false,
         "990d77fb-43cf-43ce-95a6-5de95f720ef5": true,
         "a8be4027-8b15-4a4f-be6a-1719892e8120": true,
+        "a983c561-4bb6-41c2-a6cf-90adc0c9e392": true,
         "aead05b2-daf4-4ec4-bb3f-e60ddcbb4ac4": true,
         "aeb5790d-1591-4cf1-afe4-292c9d1b80d9": true,
-        "c564cc8c-5e8a-444e-aeaf-bb8317d2a419": true
+        "be21177b-1891-42b3-a1b6-d66da8d7bc0b": true,
+        "c564cc8c-5e8a-444e-aeaf-bb8317d2a419": true,
+        "e89a81f4-13f8-49b2-8127-4b46ddedd69b": true,
+        "f2d56371-882b-4369-b27f-81b3427fed18": true,
+        "f884a346-baca-491f-9d05-c637e3576df0": true
     },
     "prices": {
+        "038e384f-14f3-4d7b-bb44-a52eb0530be4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "04d3a607-f652-426f-bf4c-60f3500b2701:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "053d31ea-c161-4292-9cb1-bd5bcd3a147a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 4
+            }
+        },
+        "059f6cf7-2680-4853-8801-657e0e587e59:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "0697cbd7-ffc9-41ef-8796-96535048b040:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "07d10efc-65af-4790-b0b0-19d722d68353:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
         "084deccb-6185-4622-9a09-ddcb915bf28f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 21,
@@ -1272,10 +3630,76 @@
                 "denominator": 20
             }
         },
+        "0a4c16dd-6d20-4b99-a63c-02ed4cea438b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 14,
+                "denominator": 1
+            }
+        },
+        "0b56f95a-d363-4d91-8e69-602f609ddd51:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "0b60f7c8-b4e3-48cd-b5ab-82e835d9ffce:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "0bde4393-5c6b-4a35-81b3-8060da810444:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "0c1c105f-b9be-4f7b-86cc-c56f3b5847d1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
         "0c7e964f-c1b2-425d-80f7-c54f614574f1:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 19,
                 "denominator": 10
+            }
+        },
+        "0d379eae-43ee-4dff-ad3f-f9bff7ec530b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "0d4415e4-fc53-447a-ad60-3420ea04a96f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "0f801764-12aa-4d4e-8598-5a4197481e17:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "0fdc89de-4f7a-4abd-86ad-51d9f0f9f8f8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 14,
+                "denominator": 1
+            }
+        },
+        "1020f6f0-fa38-4a67-b165-4ef9e5dc1a98:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "10295e02-7557-4a05-99f8-3f1700a2eb32:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
             }
         },
         "121d1335-d136-4039-9230-99f2b6e3b1d7:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1290,10 +3714,22 @@
                 "denominator": 20
             }
         },
+        "14a064da-d42a-4ec4-965c-d1b7d7e3d618:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 87,
+                "denominator": 100
+            }
+        },
+        "15522c4c-94f4-46fc-97be-22e9ee42778e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
         "173bd28c-8fa6-4e9e-a198-365e3d296ed4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 47,
-                "denominator": 50
+                "numerator": 19,
+                "denominator": 20
             }
         },
         "17b0a6a9-55e4-4975-b31b-47ca3f95aaae:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1308,10 +3744,16 @@
                 "denominator": 10
             }
         },
+        "18f246ce-1b17-46ae-9284-1e6e8c595c0b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
         "1918fe3f-853f-43c0-89d9-b27b45130f18:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 5
+                "numerator": 43,
+                "denominator": 20
             }
         },
         "1a9ed261-3874-4ba4-bde2-9978fe561bf3:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1320,10 +3762,34 @@
                 "denominator": 20
             }
         },
+        "1c43244f-f8e1-4ead-9a53-eec4831ec34f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 4,
+                "denominator": 1
+            }
+        },
         "1d32ef9e-4124-4fd1-b0e4-795e9237a9ce:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 21,
                 "denominator": 20
+            }
+        },
+        "1dc294ba-55c8-4d0c-8101-1f3b052bc26b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "1dd278e2-e4ad-43f8-9c9c-ffa096ae17ba:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "1de19e24-7514-490b-9c9d-37413c7dccb2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
             }
         },
         "1dfba4ab-c692-4499-99b6-ae2e3b82427e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1332,10 +3798,94 @@
                 "denominator": 25
             }
         },
+        "1f9f0d0f-28f7-4727-b3e8-d04138aa532e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 20
+            }
+        },
         "20f5b075-479b-4a6f-bdf8-ddadb6f2db43:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 14,
                 "denominator": 5
+            }
+        },
+        "224130b3-ed7d-4da3-9762-609e9e1968bb:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 4
+            }
+        },
+        "227d77c8-5a23-4b0a-9a7c-7da7311966a3:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 14,
+                "denominator": 1
+            }
+        },
+        "22907daf-5e1f-4260-acc6-50aba328a08d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 1
+            }
+        },
+        "22d0a4b8-189b-4dae-b1d6-f18443dd359e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "2307001d-6e83-4dfb-94d1-bd19001c714b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 14,
+                "denominator": 1
+            }
+        },
+        "238acd1d-c134-477f-96a2-6b14b61f1c68:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "242147e5-73dc-4f26-8622-72a28fa55a71:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "256155a9-b9f2-4c2b-98c4-d2f12866ddc0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "265aabaf-9d57-4551-a0ee-84a6dc297308:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "26fb251a-18ad-4d90-b9c4-b939c3d6b09e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "280672fc-7c25-457c-b6c4-222433f97004:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "2868956a-a749-48a8-af94-4468f4ea172f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "288699bf-907a-40ec-8930-b6b4e8f8dee2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "28c5810c-44c9-423e-b2d5-26e4d9af4421:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1350,16 +3900,58 @@
                 "denominator": 2
             }
         },
+        "29a6903e-097e-40ae-b26b-00fef45aa266:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "2a4dc9f7-8b35-46e6-bfe5-a16094fb7ea2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
         "2a804082-7dd5-4188-83dd-a6000e6270b9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 43,
                 "denominator": 20
             }
         },
+        "2be3ac96-9f55-4135-9eb4-cbc8ce73056d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 27,
+                "denominator": 10
+            }
+        },
+        "2bfd56f3-4045-457b-b1b7-bec2c0020a8b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
+        "2c40fc6d-f9d9-4f12-b580-35a8bc67a4a7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
         "2c5962f0-7b94-4812-aae5-6cbf80007124:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 5
+                "numerator": 33,
+                "denominator": 20
+            }
+        },
+        "2cad6262-05a9-427c-8afc-0e7080827013:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "2ce4f455-de62-4206-ae10-19cb4dff85c8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "2dd28d59-8345-450f-ab91-96a0cd84624a:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1374,10 +3966,34 @@
                 "denominator": 20
             }
         },
+        "2e6475e7-fa1b-4cdf-b5b6-5439fd4d77d7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "2eac9e08-4a5a-480f-bc8e-528ce9abcf6d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 1
+            }
+        },
+        "2f2dd393-9f6a-4461-8bb0-9a641ffd1644:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 25
+            }
+        },
         "304d979e-9cfa-4b26-94bd-3b0ad1fa06c9:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 14,
                 "denominator": 5
+            }
+        },
+        "30820077-67d7-44bf-8cdd-e22910f81870:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 33,
+                "denominator": 20
             }
         },
         "3229e0f4-3ef3-4825-a67e-9c09b97c3cd8:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1386,10 +4002,88 @@
                 "denominator": 10
             }
         },
+        "32732323-e023-4db5-b39a-b7d1f324a536:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "3325fb1a-016f-4c18-89c7-1e71ca73bfd0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "33c6ddb8-5438-44c5-9ed3-6eedeaa547eb:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 1
+            }
+        },
+        "348c40a8-b481-4907-b6d4-77aca1f60826:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 73,
+                "denominator": 100
+            }
+        },
+        "356bd8c5-9603-414c-bd8c-13de12afdbea:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "37067b1f-49bd-48c3-a77d-0f6832c7f61f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "378a570c-4a25-4d1a-a114-96c8b29ae403:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
         "37a2ceec-4637-4ca2-a3c6-b4460fe0234c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
                 "denominator": 10
+            }
+        },
+        "39e3b243-0cf0-43f7-976d-4d7759def0b3:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "3a8856df-4b7a-4bb8-bb8d-f0edb0fef3e7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 100
+            }
+        },
+        "3afd2769-52ac-4f60-ad91-329540972f01:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 50
+            }
+        },
+        "3bab65f5-ed71-470b-aef4-f31d23a1f015:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "3bc8f92a-d902-4d1f-b223-8ac40fda1b43:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 14,
+                "denominator": 1
+            }
+        },
+        "3bdfcbfb-9c7a-49aa-8342-b26157ea6804:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
             }
         },
         "3e4c75ef-6be9-4010-8ecb-edb31c375134:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1398,10 +4092,202 @@
                 "denominator": 2
             }
         },
+        "3ed8aa24-0134-4c42-a084-14e04a17ac26:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "3f917fd1-7c1c-4d32-9956-ef4e3c5586bc:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "4059a98d-6873-4718-95ca-00cf4a03bf5b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 25,
+                "denominator": 1
+            }
+        },
+        "416e0bb2-1d6a-464b-9384-f02f797e6ac2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "4213f6ef-6c0b-4076-9d80-1baf0dcd9658:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "439ca703-af50-4ac8-a22f-251c659a177f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 4,
+                "denominator": 5
+            }
+        },
+        "44ae24eb-838b-4ed6-a538-7603c74710cd:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "456fb546-eef6-47d2-bcaa-ffae4ba570e1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "4649e915-7498-4e73-8fc0-8f49e88f5789:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "478db316-c863-4540-a7c1-aa17fd658ece:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "47e59b24-124c-4d16-a471-da8a15052ce3:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 4
+            }
+        },
+        "48338eff-a19c-4ee0-a058-8914c30a3092:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "490834aa-fb01-4fbb-9063-21ecaf1198f8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "4b6d75fc-fa2e-44c9-acaa-07b5694ef19f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 5
+            }
+        },
+        "4bda8aa6-8be9-4a35-897f-bde98c195151:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "4bfc1395-4a73-4635-9303-8c2a6466117e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 1
+            }
+        },
+        "4c3e4f54-5676-4015-88a4-4d1d05e13edc:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "4cb1a0ce-8b95-4bfc-8d90-cc36b3050e5e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 14,
+                "denominator": 1
+            }
+        },
+        "4cc6ab15-ac99-4cd4-bd4f-48c143c9c783:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 3,
+                "denominator": 2
+            }
+        },
+        "4cf73395-ec10-422b-98f2-04c3ccd7f514:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "4f8402cc-5751-4733-936d-fe532a3f65df:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 57,
+                "denominator": 100
+            }
+        },
+        "4fc8890b-c9c5-48a0-bbe8-f531715a7d7b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "5092c09b-ed31-4303-a490-0accb5a741cf:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
         "522e22ae-e19b-47c9-a419-feb005173b3f:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 22,
                 "denominator": 25
+            }
+        },
+        "524bcf57-1d78-46e0-a799-5133d91394ec:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "52a8ca49-9c46-4c7d-bd52-3838337fb40a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "5393d66d-9dd0-43d2-bf15-7a7d7395d731:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 28,
+                "denominator": 5
+            }
+        },
+        "53a3c444-600a-45ea-96e0-6d0aba7f0e1b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "53c6f255-58ce-4ce2-8a5a-db737ae2d708:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "546336f9-b661-4d3b-9e82-c967f8b2dbef:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
+        "54f8bd88-1228-494e-b129-4fa33ac49ef8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "5595db56-49d8-4906-9953-c9ca1a2fa394:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "55e6c500-930c-46ca-a74d-6c717bfb29de:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 14,
+                "denominator": 1
             }
         },
         "569420ad-f8e7-4427-894f-fb0e8d0a4be3:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1422,10 +4308,28 @@
                 "denominator": 20
             }
         },
+        "57507c3f-c56c-49d4-b9b3-f52cf7817b77:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 1
+            }
+        },
         "57ecf788-73a6-4554-a97c-3f96ee6e53f0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 19,
                 "denominator": 10
+            }
+        },
+        "59e315af-598b-4826-a0fb-a88ba3295396:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "5d414cff-9142-4050-aaf5-678ef854a5d0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
             }
         },
         "5de6555b-2669-4adb-83a3-64156fb3b457:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1440,10 +4344,58 @@
                 "denominator": 20
             }
         },
+        "5ea52228-afe7-431d-aac6-2640b3c70a39:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 1
+            }
+        },
+        "6279a5ea-6efb-45fa-bc8b-896447ecbf69:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "63425282-4c53-4ee4-9c9b-c0eacfbd7cf0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "6377faab-5a40-4d42-a2a3-c88d32266c8c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "63dcd1d0-51a1-41db-8e81-b041aa7fd9f3:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
         "643c9e06-600e-437f-bf34-249ea4653c64:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 5
+                "numerator": 33,
+                "denominator": 20
+            }
+        },
+        "64988041-851e-4fa3-a843-6e7cc943f0fc:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 4
+            }
+        },
+        "64bd2c8a-567a-4abb-b3a8-c6b5e8eb9832:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 4
+            }
+        },
+        "6651ea25-9f00-4427-a96d-1e58cc6f8969:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "682daef9-14df-4461-bad4-1eeabe8c1530:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1452,16 +4404,148 @@
                 "denominator": 10
             }
         },
+        "688aa17f-36c9-4052-93f6-f468c00ca4b6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "68c99f64-201d-4a54-9c26-d7460d91ac60:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "69d495b7-4913-492a-a02e-8d506a47693b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
         "69dc3dd3-7fea-43a2-9c1b-bddf92fd1522:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 49,
-                "denominator": 20
+                "numerator": 12,
+                "denominator": 5
+            }
+        },
+        "6ae60a48-3c61-4e37-99d3-83b64b8e0a9d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 50
             }
         },
         "6b86266e-b16b-45d3-9326-a4cef0043bd5:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
+                "numerator": 43,
+                "denominator": 20
+            }
+        },
+        "6d23220d-5c0d-4093-9e00-0f2679db3167:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "6f5bbc57-d299-4065-aa72-649b470d8c79:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 4
+            }
+        },
+        "70771698-5b53-45dd-89bc-b59efbb57a29:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 2
+            }
+        },
+        "726587c9-ce00-4489-ab0e-ed0fbe9ea5e5:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "750dc9df-564e-452b-ae0f-27cc32d26faa:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "75d04316-5640-446d-9bad-830cef7d6851:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 73,
+                "denominator": 100
+            }
+        },
+        "782a5b05-9c11-4f3a-a126-ff45bce420b7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "78526331-0eb9-4d09-ac5f-e71d2298fff8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 43,
+                "denominator": 20
+            }
+        },
+        "78584cda-d966-45d6-982c-07e0e63c7a87:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "79aafecc-f622-4aa1-9cdf-78976c41d9c2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 77,
+                "denominator": 100
+            }
+        },
+        "7bd19954-8d81-49bb-8a67-458e1696d72c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 20
+            }
+        },
+        "7c571a14-6e4f-49f5-b275-21741b20f94d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 4,
+                "denominator": 1
+            }
+        },
+        "7d56c709-1461-44b2-9199-c232db2abe42:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "7daaaa69-7fcc-45c2-a31e-b0641a8fb5d1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
                 "numerator": 11,
-                "denominator": 5
+                "denominator": 4
+            }
+        },
+        "7e1fe5d7-bd6b-4aa7-949d-3eae10bff970:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
+        "80d7814f-f0e4-46a7-a2e9-f9be258113a6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 4
+            }
+        },
+        "810e0233-6b50-481d-aee7-91dc9a279546:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "8122ec6b-c2c1-4ef1-88c1-a320b81bc526:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
             }
         },
         "81790ce7-41db-40a9-a32d-5758c4f17a63:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1472,8 +4556,32 @@
         },
         "81f5185f-5513-467e-ba72-112764ebd138:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 5
+                "numerator": 33,
+                "denominator": 20
+            }
+        },
+        "82654360-d15c-4fc5-9103-1175646f8302:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
+        "82b6d142-1a18-4877-aa3a-1d23540e22c5:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 14,
+                "denominator": 1
+            }
+        },
+        "84fe5b02-6ec2-4ed2-a39e-806a90409007:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "86b64b9a-d313-4175-8c6e-c0e4f667063c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
             }
         },
         "86c11a31-2bab-456a-9e68-8ef16e7f4b96:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1488,10 +4596,46 @@
                 "denominator": 10
             }
         },
+        "88a88ed6-d6ef-41f3-8ef1-b471eb31bc5a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 4
+            }
+        },
+        "89f4cdd6-0a7a-4444-b127-5ee0c14c7237:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "8a35145c-2c4c-4022-80f1-90d7e7187cfd:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "8a4b5ea2-e40d-4cee-a690-815e30c76ca0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 20
+            }
+        },
         "8a55c469-686a-4d10-80c7-36358216536b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 17,
                 "denominator": 2
+            }
+        },
+        "8d2a4fca-e3db-42d8-8dbc-414673b174ea:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "8d7ea50e-b5ff-4e02-98df-115bd0b1c434:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "8e1116a3-f6d2-4a5d-ab7d-3faca7fdaec7:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1500,10 +4644,22 @@
                 "denominator": 20
             }
         },
+        "8e2c4975-ba69-4292-a0c0-3d4ee001a3d0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 1
+            }
+        },
         "9052ae0d-d5d6-4b93-850c-b352d783d2f7:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 21,
                 "denominator": 20
+            }
+        },
+        "92b9a553-23b9-4f34-99c1-02ac8bc24b19:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "93addf72-8c1b-4a10-aa25-ae5d3caf8c9f:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1518,10 +4674,76 @@
                 "denominator": 5
             }
         },
+        "9413d5eb-1b77-4147-9e0f-a48dd3b57906:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "9557c984-190e-4be2-b249-5d0b8c796d9c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
         "95d6b2dc-b80c-4401-bfaa-a4f004a2cc94:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 43,
                 "denominator": 20
+            }
+        },
+        "97df6b78-8f7b-431f-ace0-3cbd339d6d0d:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "98b6565a-198a-42ce-9034-5c634514c0c2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
+        "99a01c23-045e-4846-8bba-7e7255fce3e6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "9cb052a6-97c7-45a2-9ac7-877722f99680:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 41,
+                "denominator": 20
+            }
+        },
+        "9e33defb-77b9-404c-ab14-196cf6abda81:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 4,
+                "denominator": 5
+            }
+        },
+        "9fcf40e2-337a-4161-b743-856df499f6f8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
+        "a1c32e15-a707-4dd0-9f9b-04cfa81561a8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 49,
+                "denominator": 20
+            }
+        },
+        "a1ea9e23-72f2-4731-ae25-2cd3e99585b3:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 67,
+                "denominator": 100
+            }
+        },
+        "a2f4dede-e61c-4e16-8fe7-48acce9a1f89:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "a35eac69-f25b-49df-a41e-abf9773bdc3a:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1542,22 +4764,100 @@
                 "denominator": 10
             }
         },
+        "a591bf1b-47a7-4eb5-9fc4-defce2492e24:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "a815e208-0242-4dd1-b45e-9d6c12083e1f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "a8d7d386-28af-4e11-b8cc-6c6a0ba479f5:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
         "aa13884b-8185-4b68-bd99-ce68c2652d9c:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 40,
                 "denominator": 1
             }
         },
+        "aa4af5a5-b448-4af0-9648-bb7bfe5bfe56:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "ab49e7fb-ca3e-4e76-86dc-254b36d2deda:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "abe14322-724b-4d33-83c6-afd129ac62aa:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "acce2467-7c1c-4908-a286-fb3a35887990:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
         "ae697410-35a8-408c-b29d-98ea6e6895d0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 47,
-                "denominator": 20
+                "numerator": 12,
+                "denominator": 5
+            }
+        },
+        "aea73add-ba26-4633-9316-71b2fc4c5bd4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 4
+            }
+        },
+        "aeb98d94-4410-45a0-a7d4-5b5e64f9a7b0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 4
+            }
+        },
+        "aecc8207-9168-43ff-9ecf-8af73731a194:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "af8624c0-50b7-4173-9ae5-e88149ef7151:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "b017e0bf-9fa7-4305-9b35-b705adc50b62:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "b216b9ef-4fa5-4b22-bf9d-7d15877991be:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 5
+                "numerator": 43,
+                "denominator": 20
+            }
+        },
+        "b2b0423d-fa6b-4739-a46e-3ab3f6c35a90:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
             }
         },
         "b2e93fa7-7eaf-419d-b7a3-48668dc7dcf0:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1566,9 +4866,39 @@
                 "denominator": 20
             }
         },
+        "b309b653-5f73-4fb7-acfe-5684fb2f8f51:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 1
+            }
+        },
+        "b3afa76f-44b5-4fb5-b800-f8ea33b94134:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 5
+            }
+        },
         "b649e302-a36b-425b-9c89-f7aa67876415:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 91,
+                "denominator": 100
+            }
+        },
+        "b6bc0239-47f7-4309-be7f-58b53bb8da6f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "bd0fefe0-2fbd-4069-8fd1-49197ede849c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "becfab88-1a57-49ae-a7f4-3dc6012b65e2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 33,
                 "denominator": 100
             }
         },
@@ -1578,10 +4908,100 @@
                 "denominator": 20
             }
         },
+        "c003a555-d72f-438d-9acc-df66c234a858:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "c190c92a-2c50-4f5e-b84a-3146e6dba886:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "c38ef452-711b-4641-94bc-eca6c9e4a359:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "c39aa039-eae2-4828-afe5-eaff03f1d926:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 1
+            }
+        },
+        "c3ea607a-52e0-485c-ba6d-7088a9d52faf:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
         "c3eca495-850f-4141-aa0f-a1e2ade5a3cc:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
                 "denominator": 10
+            }
+        },
+        "c419225a-18f7-4238-8af8-89ac8ef2771a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "c4a6581a-088f-495b-bab3-42a3437bd817:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 1
+            }
+        },
+        "c4fa1629-a02d-4602-85d7-85a579ae504a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "c7600d2f-6c00-495b-92a6-96b2b4cf1d55:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 31,
+                "denominator": 50
+            }
+        },
+        "c8b872d0-69c4-4a36-8729-39d56d8e24c9:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "c8dcfb0d-85e9-4302-b070-c2fc8840364e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 1
+            }
+        },
+        "c9bb89e1-0d1a-49bf-ba1b-cf61b414a4d6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 12,
+                "denominator": 5
+            }
+        },
+        "ca6fe9ce-d071-48ec-a4a3-3a770cdf196e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "cb4161e7-247d-4547-b684-0bd4f0b5c2c0:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "cb8b4baa-be1d-43fc-ba4e-fc29213151d2:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "cc0a33c6-c61e-4de8-a9c0-da7dc6f8e0c1:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1592,8 +5012,44 @@
         },
         "cc7996e9-b4cb-4f0c-a70a-4559721d7dc5:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 11,
-                "denominator": 5
+                "numerator": 43,
+                "denominator": 20
+            }
+        },
+        "ce3af248-c0db-4d04-8442-cfaedad01f02:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
+        "d50648a6-ae19-43d1-8c99-921777d3ea80:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "d5b966b6-614d-4a8b-adc8-f5d04984594c:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 37,
+                "denominator": 20
+            }
+        },
+        "d6fe1e1d-fed1-4596-bde0-aa5d191bcedf:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 6,
+                "denominator": 1
+            }
+        },
+        "d86557d5-6797-4964-bf59-3911baa8f8ff:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "d90020aa-46db-4ebd-a97d-1f9c6d1a5499:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         },
         "d901b0e7-5f60-40c8-99ce-f099388a486b:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1602,16 +5058,76 @@
                 "denominator": 25
             }
         },
+        "d931f7d0-d74c-47fa-8ff2-378633dfadf3:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "d939839a-9c1e-4315-bc0e-1777e4a61477:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 31,
+                "denominator": 50
+            }
+        },
+        "d970c32f-0e79-4496-bf02-f88becfcfdc1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
         "dad687f4-4053-4f4a-a23f-f5ef2cf491bc:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 7,
                 "denominator": 10
             }
         },
+        "db1cafb7-d8e4-43dc-9597-6f20e40d73f6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 100
+            }
+        },
+        "db1f6226-9ade-4987-ba94-79880be35425:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "dd3c8b67-b2d6-4cb9-bf6b-35579ded7f94:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 3,
+                "denominator": 2
+            }
+        },
         "dfa885b2-5854-43c1-afdb-495ccf826738:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
+                "numerator": 33,
+                "denominator": 20
+            }
+        },
+        "e09f33db-3080-493d-93bb-1b7f2a0c9185:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
+        "e0b7fa90-1993-428d-ad5a-7729fd0130c5:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "e0f252fc-8a39-46a5-92c1-5f019bf237d7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 4,
                 "denominator": 5
+            }
+        },
+        "e1c817dc-e8ac-4201-aab8-b224fb6a7f0e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 1
             }
         },
         "e48441dd-3b52-4d34-8654-57d9b728603e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1620,16 +5136,124 @@
                 "denominator": 2
             }
         },
+        "e67e6967-4bc3-46e9-bd23-7c0d5ae556d1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "e7b2e9e6-1e74-40f5-8d77-d5cbaf424bf7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
         "e83571a3-83c1-4552-8ccd-0cb8e49ff683:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 21,
                 "denominator": 20
             }
         },
+        "e84b2a6f-b97c-4281-9347-78b364907971:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "e8f03d03-a530-4ef1-ab5b-066b0e876ab7:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "eab0dfea-00cb-49cd-8d88-5b9a1aa7c127:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 15,
+                "denominator": 1
+            }
+        },
+        "ebf41768-2f8f-40f5-b148-145f36a24fb3:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "ec03681c-95bc-4127-bf48-e3613ed58bca:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
+        "ecdef946-244f-4dc3-aa8f-94aed3437b5f:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 4,
+                "denominator": 1
+            }
+        },
+        "ed62f2c6-59a3-4d97-ac1c-06b4a7825a83:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 3,
+                "denominator": 10
+            }
+        },
+        "ef66629b-a188-4eac-90e5-0dadb71beb84:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 4
+            }
+        },
+        "efbd24ef-6b18-4552-a636-c632aeaf976a:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "f0347194-00e8-489d-bd0a-4e38b93acd84:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 18,
+                "denominator": 1
+            }
+        },
+        "f07d76e7-7ef3-4838-9675-04d4a05ffe08:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 9,
+                "denominator": 4
+            }
+        },
+        "f07ecb00-2c60-457d-a13b-1f57a78c4dae:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 3,
+                "denominator": 2
+            }
+        },
         "f39ec8ea-8472-4317-a8f5-b629049f6d37:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 43,
                 "denominator": 20
+            }
+        },
+        "f43f01a0-c2a6-4fb5-91c9-bf741fec91ae:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "f45d4fbc-20f3-4186-87d0-1cc58717b754:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 29,
+                "denominator": 50
+            }
+        },
+        "f4d446fd-2357-4205-b587-5a94590b21e8:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 16,
+                "denominator": 1
+            }
+        },
+        "f4fb34a9-e874-49f2-a043-4f8fc0b89596:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
             }
         },
         "f5ac686e-fb18-4b8f-aee8-fc696fcbde8e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1644,10 +5268,40 @@
                 "denominator": 5
             }
         },
+        "f71fc6b0-2cab-4e16-a82b-d3dfdfa2f0fd:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "f7d0485f-3d84-4a97-966c-d46446b99c9e:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 87,
+                "denominator": 100
+            }
+        },
         "f85b0f88-7d6f-4b3f-83a0-2418f96f531d:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 5,
                 "denominator": 2
+            }
+        },
+        "fa9c7916-5e81-4f58-8609-d02ad3c0a6cd:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 19,
+                "denominator": 5
+            }
+        },
+        "fb628b93-7e92-4c08-9179-c45937756c12:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 22,
+                "denominator": 1
+            }
+        },
+        "fdf79191-3bd1-4958-87a3-21a182cc1739:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 24,
+                "denominator": 25
             }
         },
         "fe40db5b-e68a-485a-bb03-e675f1d30c56:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -1660,6 +5314,18 @@
             "odds": {
                 "numerator": 7,
                 "denominator": 10
+            }
+        },
+        "ff228daa-4573-40aa-a96f-02af3dab9671:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 10,
+                "denominator": 1
+            }
+        },
+        "ff744be0-17ec-46c6-985e-06ff62d7a1e6:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 40,
+                "denominator": 1
             }
         }
     }

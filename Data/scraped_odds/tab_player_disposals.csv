@@ -1,128 +1,4 @@
 match,home_team,away_team,market_name,player_name,player_team,opposition_team,line,over_price,under_price,prop_id,under_prop_id,agency
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sarah Rowe,Collingwood Magpies,Sydney Swans,14.5,1.22,NA,14968,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Mikala Cann,Collingwood Magpies,Sydney Swans,14.5,1.23,NA,14966,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Brittany Bonnici,Collingwood Magpies,Sydney Swans,14.5,1.3,NA,14964,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sofia Hurley,Sydney Swans,Collingwood Magpies,14.5,1.33,NA,14962,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ruby Schleicher,Collingwood Magpies,Sydney Swans,14.5,1.4,NA,14967,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Chloe Molloy,Sydney Swans,Collingwood Magpies,14.5,1.65,NA,14958,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Tanya Kennedy,Sydney Swans,Collingwood Magpies,14.5,1.87,NA,14963,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Jordyn Allen,Collingwood Magpies,Sydney Swans,14.5,2.2,NA,14965,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ella Heads,Sydney Swans,Collingwood Magpies,14.5,2.25,NA,14959,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Lucy McEvoy,Sydney Swans,Collingwood Magpies,14.5,2.25,NA,14961,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Brittany Bonnici,Collingwood Magpies,Sydney Swans,19.5,2.6,NA,14976,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sofia Hurley,Sydney Swans,Collingwood Magpies,19.5,2.6,NA,14974,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Mikala Cann,Collingwood Magpies,Sydney Swans,19.5,2.7,NA,14978,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sarah Rowe,Collingwood Magpies,Sydney Swans,19.5,2.7,NA,14980,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ruby Schleicher,Collingwood Magpies,Sydney Swans,19.5,3.25,NA,14979,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Chloe Molloy,Sydney Swans,Collingwood Magpies,19.5,3.5,NA,14970,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Tanya Kennedy,Sydney Swans,Collingwood Magpies,19.5,4.5,NA,14975,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Jordyn Allen,Collingwood Magpies,Sydney Swans,19.5,7.5,NA,14977,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Lucy McEvoy,Sydney Swans,Collingwood Magpies,19.5,7.5,NA,14973,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ella Heads,Sydney Swans,Collingwood Magpies,19.5,10,NA,14971,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Laura Gardiner,Sydney Swans,Collingwood Magpies,24.5,1.27,NA,14984,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sofia Hurley,Sydney Swans,Collingwood Magpies,24.5,8,NA,14986,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Brittany Bonnici,Collingwood Magpies,Sydney Swans,24.5,8,NA,14988,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Chloe Molloy,Sydney Swans,Collingwood Magpies,24.5,10,NA,14982,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Mikala Cann,Collingwood Magpies,Sydney Swans,24.5,11,NA,14990,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sarah Rowe,Collingwood Magpies,Sydney Swans,24.5,11,NA,14992,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ruby Schleicher,Collingwood Magpies,Sydney Swans,24.5,12,NA,14991,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Tanya Kennedy,Sydney Swans,Collingwood Magpies,24.5,14,NA,14987,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Lucy McEvoy,Sydney Swans,Collingwood Magpies,24.5,21,NA,14985,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Jordyn Allen,Collingwood Magpies,Sydney Swans,24.5,26,NA,14989,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ella Heads,Sydney Swans,Collingwood Magpies,24.5,26,NA,14983,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Laura Gardiner,Sydney Swans,Collingwood Magpies,29.5,2.1,NA,14996,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Brittany Bonnici,Collingwood Magpies,Sydney Swans,29.5,26,NA,15000,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Mikala Cann,Collingwood Magpies,Sydney Swans,29.5,26,NA,15002,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ruby Schleicher,Collingwood Magpies,Sydney Swans,29.5,26,NA,15003,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sarah Rowe,Collingwood Magpies,Sydney Swans,29.5,26,NA,15004,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Chloe Molloy,Sydney Swans,Collingwood Magpies,29.5,26,NA,14994,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sofia Hurley,Sydney Swans,Collingwood Magpies,29.5,26,NA,14998,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Jordyn Allen,Collingwood Magpies,Sydney Swans,29.5,51,NA,15001,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ella Heads,Sydney Swans,Collingwood Magpies,29.5,51,NA,14995,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Lucy McEvoy,Sydney Swans,Collingwood Magpies,29.5,51,NA,14997,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Tanya Kennedy,Sydney Swans,Collingwood Magpies,29.5,51,NA,14999,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Laura Gardiner,Sydney Swans,Collingwood Magpies,34.5,4.5,NA,15008,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Chloe Molloy,Sydney Swans,Collingwood Magpies,34.5,51,NA,15006,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sofia Hurley,Sydney Swans,Collingwood Magpies,34.5,51,NA,15010,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Brittany Bonnici,Collingwood Magpies,Sydney Swans,34.5,51,NA,15012,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Mikala Cann,Collingwood Magpies,Sydney Swans,34.5,51,NA,15014,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ruby Schleicher,Collingwood Magpies,Sydney Swans,34.5,51,NA,15015,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sarah Rowe,Collingwood Magpies,Sydney Swans,34.5,51,NA,15016,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ella Heads,Sydney Swans,Collingwood Magpies,34.5,101,NA,15007,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Lucy McEvoy,Sydney Swans,Collingwood Magpies,34.5,101,NA,15009,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Tanya Kennedy,Sydney Swans,Collingwood Magpies,34.5,101,NA,15011,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Jordyn Allen,Collingwood Magpies,Sydney Swans,34.5,101,NA,15013,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Laura Gardiner,Sydney Swans,Collingwood Magpies,39.5,13,NA,15020,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sofia Hurley,Sydney Swans,Collingwood Magpies,39.5,101,NA,15022,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Brittany Bonnici,Collingwood Magpies,Sydney Swans,39.5,101,NA,15024,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Mikala Cann,Collingwood Magpies,Sydney Swans,39.5,101,NA,15026,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Sarah Rowe,Collingwood Magpies,Sydney Swans,39.5,101,NA,15028,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Chloe Molloy,Sydney Swans,Collingwood Magpies,39.5,101,NA,15018,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ruby Schleicher,Collingwood Magpies,Sydney Swans,39.5,101,NA,15027,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Tanya Kennedy,Sydney Swans,Collingwood Magpies,39.5,151,NA,15023,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Jordyn Allen,Collingwood Magpies,Sydney Swans,39.5,151,NA,15025,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Ella Heads,Sydney Swans,Collingwood Magpies,39.5,151,NA,15019,NA,TAB
-Sydney Swans v Collingwood Magpies,Sydney Swans,Collingwood Magpies,Player Disposals,Lucy McEvoy,Sydney Swans,Collingwood Magpies,39.5,151,NA,15021,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ella Roberts,West Coast Eagles,Richmond Tigers,14.5,1.01,NA,15033,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Grace Egan,Richmond Tigers,West Coast Eagles,14.5,1.01,NA,15036,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Monique Conti,Richmond Tigers,West Coast Eagles,14.5,1.01,NA,15039,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Kate Dempsey,Richmond Tigers,West Coast Eagles,14.5,1.07,NA,15037,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Alison Drennan,West Coast Eagles,Richmond Tigers,14.5,1.11,NA,15030,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Charlotte Thomas,West Coast Eagles,Richmond Tigers,14.5,1.38,NA,15032,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Isabella Lewis,West Coast Eagles,Richmond Tigers,14.5,1.4,NA,15034,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ellie McKenzie,Richmond Tigers,West Coast Eagles,14.5,1.45,NA,15035,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Belinda Smith,West Coast Eagles,Richmond Tigers,14.5,1.5,NA,15031,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Katie Brennan,Richmond Tigers,West Coast Eagles,14.5,2,NA,15038,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Monique Conti,Richmond Tigers,West Coast Eagles,19.5,1.01,NA,15051,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Grace Egan,Richmond Tigers,West Coast Eagles,19.5,1.24,NA,15048,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ella Roberts,West Coast Eagles,Richmond Tigers,19.5,1.46,NA,15045,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Kate Dempsey,Richmond Tigers,West Coast Eagles,19.5,1.62,NA,15049,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Alison Drennan,West Coast Eagles,Richmond Tigers,19.5,1.85,NA,15042,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Charlotte Thomas,West Coast Eagles,Richmond Tigers,19.5,2.45,NA,15044,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Belinda Smith,West Coast Eagles,Richmond Tigers,19.5,2.85,NA,15043,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Isabella Lewis,West Coast Eagles,Richmond Tigers,19.5,3.35,NA,15046,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ellie McKenzie,Richmond Tigers,West Coast Eagles,19.5,3.5,NA,15047,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Katie Brennan,Richmond Tigers,West Coast Eagles,19.5,8,NA,15050,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Monique Conti,Richmond Tigers,West Coast Eagles,24.5,1.27,NA,15063,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Grace Egan,Richmond Tigers,West Coast Eagles,24.5,2.1,NA,15060,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ella Roberts,West Coast Eagles,Richmond Tigers,24.5,3,NA,15057,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Kate Dempsey,Richmond Tigers,West Coast Eagles,24.5,4,NA,15061,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Alison Drennan,West Coast Eagles,Richmond Tigers,24.5,5,NA,15054,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Charlotte Thomas,West Coast Eagles,Richmond Tigers,24.5,5.5,NA,15056,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Belinda Smith,West Coast Eagles,Richmond Tigers,24.5,7,NA,15055,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ellie McKenzie,Richmond Tigers,West Coast Eagles,24.5,9,NA,15059,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Isabella Lewis,West Coast Eagles,Richmond Tigers,24.5,13,NA,15058,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Katie Brennan,Richmond Tigers,West Coast Eagles,24.5,26,NA,15062,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Monique Conti,Richmond Tigers,West Coast Eagles,29.5,2.1,NA,15075,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Grace Egan,Richmond Tigers,West Coast Eagles,29.5,5,NA,15072,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ella Roberts,West Coast Eagles,Richmond Tigers,29.5,8,NA,15069,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Kate Dempsey,Richmond Tigers,West Coast Eagles,29.5,13,NA,15073,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Charlotte Thomas,West Coast Eagles,Richmond Tigers,29.5,15,NA,15068,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Alison Drennan,West Coast Eagles,Richmond Tigers,29.5,19,NA,15066,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Belinda Smith,West Coast Eagles,Richmond Tigers,29.5,21,NA,15067,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Isabella Lewis,West Coast Eagles,Richmond Tigers,29.5,31,NA,15070,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ellie McKenzie,Richmond Tigers,West Coast Eagles,29.5,34,NA,15071,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Katie Brennan,Richmond Tigers,West Coast Eagles,29.5,51,NA,15074,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Monique Conti,Richmond Tigers,West Coast Eagles,34.5,4.5,NA,15087,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Grace Egan,Richmond Tigers,West Coast Eagles,34.5,14,NA,15084,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ella Roberts,West Coast Eagles,Richmond Tigers,34.5,29,NA,15081,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Alison Drennan,West Coast Eagles,Richmond Tigers,34.5,51,NA,15078,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Charlotte Thomas,West Coast Eagles,Richmond Tigers,34.5,51,NA,15080,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Kate Dempsey,Richmond Tigers,West Coast Eagles,34.5,51,NA,15085,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Belinda Smith,West Coast Eagles,Richmond Tigers,34.5,67,NA,15079,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Isabella Lewis,West Coast Eagles,Richmond Tigers,34.5,81,NA,15082,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ellie McKenzie,Richmond Tigers,West Coast Eagles,34.5,101,NA,15083,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Katie Brennan,Richmond Tigers,West Coast Eagles,34.5,101,NA,15086,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Monique Conti,Richmond Tigers,West Coast Eagles,39.5,13,NA,15099,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Grace Egan,Richmond Tigers,West Coast Eagles,39.5,67,NA,15096,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ella Roberts,West Coast Eagles,Richmond Tigers,39.5,81,NA,15093,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Alison Drennan,West Coast Eagles,Richmond Tigers,39.5,101,NA,15090,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Charlotte Thomas,West Coast Eagles,Richmond Tigers,39.5,101,NA,15092,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Kate Dempsey,Richmond Tigers,West Coast Eagles,39.5,101,NA,15097,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Belinda Smith,West Coast Eagles,Richmond Tigers,39.5,126,NA,15091,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Isabella Lewis,West Coast Eagles,Richmond Tigers,39.5,151,NA,15094,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Ellie McKenzie,Richmond Tigers,West Coast Eagles,39.5,151,NA,15095,NA,TAB
-West Coast Eagles v Richmond Tigers,West Coast Eagles,Richmond Tigers,Player Disposals,Katie Brennan,Richmond Tigers,West Coast Eagles,39.5,151,NA,15098,NA,TAB
 GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Zarlie Goldsworthy,GWS Giants,Western Bulldogs,14.5,1.13,NA,15107,NA,TAB
 GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Rebecca Beeson,GWS Giants,Western Bulldogs,14.5,1.17,NA,15105,NA,TAB
 GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Deanna Berry,Western Bulldogs,GWS Giants,14.5,1.25,NA,15108,NA,TAB
@@ -200,8 +76,8 @@ Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player D
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma ODriscoll,NA,NA,19.5,3.5,NA,15195,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,Essendon Bombers,19.5,4,NA,15196,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Elizabeth Keaney,Essendon Bombers,Fremantle Dockers,19.5,4.75,NA,15187,NA,TAB
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Dana East,Fremantle Dockers,Essendon Bombers,19.5,5,NA,15193,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Stephanie Cain,Essendon Bombers,Fremantle Dockers,19.5,6,NA,15191,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Dana East,Fremantle Dockers,Essendon Bombers,19.5,6,NA,15193,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Megan Kauffman,Fremantle Dockers,Essendon Bombers,19.5,8,NA,15197,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Maddison Gay,Essendon Bombers,Fremantle Dockers,19.5,11,NA,15189,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Ebony Antonio,Fremantle Dockers,Essendon Bombers,19.5,12,NA,15194,NA,TAB
@@ -266,7 +142,7 @@ Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposa
 Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Charlie Rowbottom,Gold Coast Suns,St Kilda Saints,19.5,1.19,NA,15258,NA,TAB
 Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Jaimee Lambert,St Kilda Saints,Gold Coast Suns,19.5,2.2,NA,15265,NA,TAB
 Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Olivia Vesely,St Kilda Saints,Gold Coast Suns,19.5,2.5,NA,15267,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Lucy Single,Gold Coast Suns,St Kilda Saints,19.5,2.85,NA,15263,NA,TAB
+Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Lucy Single,Gold Coast Suns,St Kilda Saints,19.5,2.75,NA,15263,NA,TAB
 Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Katie Lynch,Gold Coast Suns,St Kilda Saints,19.5,4.4,NA,15262,NA,TAB
 Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Daisy DArcy,NA,NA,19.5,4.75,NA,15260,NA,TAB
 Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Hannah Priest,St Kilda Saints,Gold Coast Suns,19.5,4.75,NA,15264,NA,TAB
@@ -340,9 +216,9 @@ Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,G
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,Melbourne Demons,24.5,2.3,NA,16155,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,Melbourne Demons,24.5,2.5,NA,16152,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,Geelong Cats,24.5,2.5,NA,16161,NA,TAB
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,Geelong Cats,24.5,7,NA,16158,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,Geelong Cats,24.5,7.5,NA,16157,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,Melbourne Demons,24.5,8,NA,16156,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,Geelong Cats,24.5,9,NA,16158,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Lily Mithen,Melbourne Demons,Geelong Cats,24.5,15,NA,16159,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Aishling Moloney,Geelong Cats,Melbourne Demons,24.5,17,NA,16151,NA,TAB
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Chantel Emonson,Geelong Cats,Melbourne Demons,24.5,23,NA,16153,NA,TAB
@@ -451,3 +327,142 @@ Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player D
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Gemma Houghton,Port Adelaide Power,Adelaide Crows,39.5,151,NA,16388,NA,TAB
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Maria Moloney,Port Adelaide Power,Adelaide Crows,39.5,151,NA,16390,NA,TAB
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Stevie-Lee Thompson,Adelaide Crows,Port Adelaide Power,39.5,151,NA,16397,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,Carlton,14.5,1.1,NA,15835,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,Hawthorn Hawks,14.5,1.15,NA,15841,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,Carlton,14.5,1.25,NA,15837,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,Hawthorn Hawks,14.5,1.25,NA,15842,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,14.5,1.3,NA,15836,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,Carlton,14.5,1.4,NA,15838,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,NA,14.5,1.65,NA,15843,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,Carlton,14.5,1.65,NA,15839,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Kaitlyn Ashmore,Hawthorn Hawks,Carlton,14.5,1.8,NA,15840,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,Hawthorn Hawks,14.5,2,NA,15844,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,Hawthorn Hawks,14.5,2.2,NA,15845,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,Hawthorn Hawks,19.5,1.3,NA,15858,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,Hawthorn Hawks,19.5,1.6,NA,15853,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,Carlton,19.5,1.65,NA,15847,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,Hawthorn Hawks,19.5,2,NA,15854,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,Carlton,19.5,2.1,NA,15849,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,19.5,3,NA,15848,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,Carlton,19.5,3.3,NA,15850,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,NA,19.5,3.5,NA,15855,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,Carlton,19.5,4,NA,15851,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,Hawthorn Hawks,19.5,4.5,NA,15856,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,Hawthorn Hawks,19.5,6,NA,15857,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Kaitlyn Ashmore,Hawthorn Hawks,Carlton,19.5,7,NA,15852,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,Hawthorn Hawks,24.5,2.2,NA,15870,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,Hawthorn Hawks,24.5,2.6,NA,15865,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,Carlton,24.5,3.6,NA,15859,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,Carlton,24.5,4,NA,15861,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,Hawthorn Hawks,24.5,4.5,NA,15866,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,NA,24.5,10,NA,15867,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,24.5,11,NA,15860,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,Hawthorn Hawks,24.5,12,NA,15868,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,Carlton,24.5,13,NA,15862,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,Carlton,24.5,15,NA,15863,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,Hawthorn Hawks,24.5,19,NA,15869,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Kaitlyn Ashmore,Hawthorn Hawks,Carlton,24.5,26,NA,15864,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,Hawthorn Hawks,29.5,4.5,NA,15886,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,Hawthorn Hawks,29.5,5,NA,15877,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,Carlton,29.5,9,NA,15873,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,Carlton,29.5,11,NA,15871,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,Hawthorn Hawks,29.5,12,NA,15878,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,29.5,41,NA,15872,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,Hawthorn Hawks,29.5,41,NA,15881,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,Carlton,29.5,41,NA,15874,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,Carlton,29.5,41,NA,15875,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Kaitlyn Ashmore,Hawthorn Hawks,Carlton,29.5,41,NA,15876,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,NA,29.5,41,NA,15879,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,Hawthorn Hawks,29.5,41,NA,15880,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,Hawthorn Hawks,34.5,11,NA,15893,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,Hawthorn Hawks,34.5,11,NA,15898,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,Carlton,34.5,21,NA,15889,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,Hawthorn Hawks,34.5,34,NA,15894,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,Carlton,34.5,41,NA,15887,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,NA,34.5,81,NA,15895,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,Hawthorn Hawks,34.5,81,NA,15896,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,Hawthorn Hawks,34.5,81,NA,15897,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,34.5,81,NA,15888,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,Carlton,34.5,81,NA,15890,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,Carlton,34.5,81,NA,15891,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Kaitlyn Ashmore,Hawthorn Hawks,Carlton,34.5,81,NA,15892,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,Hawthorn Hawks,39.5,26,NA,15910,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,Hawthorn Hawks,39.5,34,NA,15905,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,Carlton,39.5,67,NA,15901,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,Hawthorn Hawks,39.5,81,NA,15906,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,Carlton,39.5,101,NA,15899,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,39.5,151,NA,15900,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,NA,39.5,151,NA,15907,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,Hawthorn Hawks,39.5,151,NA,15908,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,Hawthorn Hawks,39.5,151,NA,15909,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,Carlton,39.5,151,NA,15902,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,Carlton,39.5,151,NA,15903,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Kaitlyn Ashmore,Hawthorn Hawks,Carlton,39.5,151,NA,15904,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,Brisbane Lions,14.5,1.1,NA,16442,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,Brisbane Lions,14.5,1.1,NA,16447,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Isabel Dawes,Brisbane Lions,North Melbourne Kangaroos,14.5,1.25,NA,16436,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla ODwyer,NA,NA,14.5,1.5,NA,16437,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jade Ellenger,Brisbane Lions,North Melbourne Kangaroos,14.5,2,NA,16438,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Tess Craven,North Melbourne Kangaroos,Brisbane Lions,14.5,2.5,NA,16444,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alice OLoughlin,NA,NA,14.5,2.5,NA,16443,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Sophie Conway,Brisbane Lions,North Melbourne Kangaroos,14.5,2.6,NA,16439,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Catherine Svarc,NA,NA,14.5,3.3,NA,16440,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,NA,19.5,1.1,NA,16457,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,NA,19.5,1.2,NA,16453,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Emma Kearney,North Melbourne Kangaroos,Brisbane Lions,19.5,1.5,NA,16458,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,Brisbane Lions,19.5,1.9,NA,16454,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Isabel Dawes,Brisbane Lions,North Melbourne Kangaroos,19.5,2.7,NA,16448,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla ODwyer,NA,NA,19.5,4.5,NA,16449,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jade Ellenger,Brisbane Lions,North Melbourne Kangaroos,19.5,6.5,NA,16450,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Sophie Conway,Brisbane Lions,North Melbourne Kangaroos,19.5,8,NA,16451,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Catherine Svarc,NA,NA,19.5,11,NA,16452,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alice OLoughlin,NA,NA,19.5,11,NA,16455,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Tess Craven,North Melbourne Kangaroos,Brisbane Lions,19.5,11,NA,16456,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,Brisbane Lions,24.5,1.35,NA,16471,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,NA,24.5,1.35,NA,16469,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,NA,24.5,2,NA,16465,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Emma Kearney,North Melbourne Kangaroos,Brisbane Lions,24.5,3.6,NA,16470,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,Brisbane Lions,24.5,6,NA,16466,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Isabel Dawes,Brisbane Lions,North Melbourne Kangaroos,24.5,11,NA,16460,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla ODwyer,NA,NA,24.5,13,NA,16461,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jade Ellenger,Brisbane Lions,North Melbourne Kangaroos,24.5,21,NA,16462,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alice OLoughlin,NA,NA,24.5,26,NA,16467,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Tess Craven,North Melbourne Kangaroos,Brisbane Lions,24.5,26,NA,16468,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Sophie Conway,Brisbane Lions,North Melbourne Kangaroos,24.5,34,NA,16463,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Catherine Svarc,NA,NA,24.5,41,NA,16464,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,NA,29.5,1.95,NA,17769,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,Brisbane Lions,29.5,2.8,NA,17771,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,NA,29.5,4.5,NA,17765,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Emma Kearney,North Melbourne Kangaroos,Brisbane Lions,29.5,13,NA,17770,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,Brisbane Lions,29.5,23,NA,17766,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Isabel Dawes,Brisbane Lions,North Melbourne Kangaroos,29.5,41,NA,17760,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla ODwyer,NA,NA,29.5,41,NA,17761,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jade Ellenger,Brisbane Lions,North Melbourne Kangaroos,29.5,41,NA,17762,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Sophie Conway,Brisbane Lions,North Melbourne Kangaroos,29.5,51,NA,17763,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alice OLoughlin,NA,NA,29.5,51,NA,17767,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Tess Craven,North Melbourne Kangaroos,Brisbane Lions,29.5,51,NA,17768,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Catherine Svarc,NA,NA,29.5,67,NA,17764,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,NA,34.5,3.3,NA,17781,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,Brisbane Lions,34.5,9,NA,17783,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,NA,34.5,15,NA,17777,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Emma Kearney,North Melbourne Kangaroos,Brisbane Lions,34.5,34,NA,17782,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,Brisbane Lions,34.5,51,NA,17778,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla ODwyer,NA,NA,34.5,81,NA,17773,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jade Ellenger,Brisbane Lions,North Melbourne Kangaroos,34.5,81,NA,17774,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Sophie Conway,Brisbane Lions,North Melbourne Kangaroos,34.5,81,NA,17775,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Isabel Dawes,Brisbane Lions,North Melbourne Kangaroos,34.5,81,NA,17772,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alice OLoughlin,NA,NA,34.5,81,NA,17779,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Tess Craven,North Melbourne Kangaroos,Brisbane Lions,34.5,81,NA,17780,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Catherine Svarc,NA,NA,34.5,101,NA,17776,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,NA,39.5,6.5,NA,17793,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,Brisbane Lions,39.5,34,NA,17795,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,NA,39.5,51,NA,17789,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Emma Kearney,North Melbourne Kangaroos,Brisbane Lions,39.5,81,NA,17794,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,Brisbane Lions,39.5,101,NA,17790,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alice OLoughlin,NA,NA,39.5,151,NA,17791,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Isabel Dawes,Brisbane Lions,North Melbourne Kangaroos,39.5,151,NA,17784,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla ODwyer,NA,NA,39.5,151,NA,17785,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jade Ellenger,Brisbane Lions,North Melbourne Kangaroos,39.5,151,NA,17786,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Sophie Conway,Brisbane Lions,North Melbourne Kangaroos,39.5,151,NA,17787,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Tess Craven,North Melbourne Kangaroos,Brisbane Lions,39.5,151,NA,17792,NA,TAB
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Catherine Svarc,NA,NA,39.5,201,NA,17788,NA,TAB

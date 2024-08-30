@@ -1,19 +1,44 @@
 match,start_time,market_name,home_team,away_team,line,over_price,under_price,margin,agency
-Sydney Swans v Collingwood Magpies,2024-08-30T09:17:00.000Z,Total Points,Sydney Swans,Collingwood Magpies,64.5,1.1,6.2,1.07,TAB
-Sydney Swans v Collingwood Magpies,2024-08-30T09:17:00.000Z,Total Points,Sydney Swans,Collingwood Magpies,70.5,1.2,4.2,1.071,TAB
-Sydney Swans v Collingwood Magpies,2024-08-30T09:17:00.000Z,Total Points,Sydney Swans,Collingwood Magpies,76.5,1.36,3,1.069,TAB
-Sydney Swans v Collingwood Magpies,2024-08-30T09:17:00.000Z,Total Points,Sydney Swans,Collingwood Magpies,82.5,1.6,2.25,1.069,TAB
-Sydney Swans v Collingwood Magpies,2024-08-30T09:17:00.000Z,Total Points,Sydney Swans,Collingwood Magpies,87.5,1.87,1.87,1.07,TAB
-Sydney Swans v Collingwood Magpies,2024-08-30T09:17:00.000Z,Total Points,Sydney Swans,Collingwood Magpies,88.5,1.95,1.8,1.068,TAB
-Sydney Swans v Collingwood Magpies,2024-08-30T09:17:00.000Z,Total Points,Sydney Swans,Collingwood Magpies,94.5,2.5,1.5,1.067,TAB
-Sydney Swans v Collingwood Magpies,2024-08-30T09:17:00.000Z,Total Points,Sydney Swans,Collingwood Magpies,100.5,3.3,1.3,1.072,TAB
-Sydney Swans v Collingwood Magpies,2024-08-30T09:17:00.000Z,Total Points,Sydney Swans,Collingwood Magpies,106.5,4.8,1.16,1.07,TAB
-West Coast Eagles v Richmond Tigers,2024-08-30T11:15:00.000Z,Total Points,West Coast Eagles,Richmond Tigers,62.5,1.12,5.7,1.068,TAB
-West Coast Eagles v Richmond Tigers,2024-08-30T11:15:00.000Z,Total Points,West Coast Eagles,Richmond Tigers,68.5,1.23,3.9,1.069,TAB
-West Coast Eagles v Richmond Tigers,2024-08-30T11:15:00.000Z,Total Points,West Coast Eagles,Richmond Tigers,74.5,1.4,2.8,1.071,TAB
-West Coast Eagles v Richmond Tigers,2024-08-30T11:15:00.000Z,Total Points,West Coast Eagles,Richmond Tigers,80.5,1.65,2.15,1.071,TAB
-West Coast Eagles v Richmond Tigers,2024-08-30T11:15:00.000Z,Total Points,West Coast Eagles,Richmond Tigers,84.5,1.9,1.85,1.067,TAB
-West Coast Eagles v Richmond Tigers,2024-08-30T11:15:00.000Z,Total Points,West Coast Eagles,Richmond Tigers,86.5,2.05,1.72,1.069,TAB
-West Coast Eagles v Richmond Tigers,2024-08-30T11:15:00.000Z,Total Points,West Coast Eagles,Richmond Tigers,92.5,2.65,1.45,1.067,TAB
-West Coast Eagles v Richmond Tigers,2024-08-30T11:15:00.000Z,Total Points,West Coast Eagles,Richmond Tigers,98.5,3.6,1.26,1.071,TAB
-West Coast Eagles v Richmond Tigers,2024-08-30T11:15:00.000Z,Total Points,West Coast Eagles,Richmond Tigers,104.5,5.2,1.14,1.07,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Total Points,GWS Giants,Western Bulldogs,62.5,1.12,5.7,1.068,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Total Points,GWS Giants,Western Bulldogs,68.5,1.24,3.8,1.07,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Total Points,GWS Giants,Western Bulldogs,74.5,1.42,2.75,1.068,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Total Points,GWS Giants,Western Bulldogs,80.5,1.68,2.1,1.071,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Total Points,GWS Giants,Western Bulldogs,83.5,1.85,1.9,1.067,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Total Points,GWS Giants,Western Bulldogs,86.5,2.05,1.72,1.069,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Total Points,GWS Giants,Western Bulldogs,92.5,2.7,1.44,1.065,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Total Points,GWS Giants,Western Bulldogs,98.5,3.7,1.25,1.07,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Total Points,GWS Giants,Western Bulldogs,104.5,5.5,1.13,1.067,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Total Points,Essendon Bombers,Fremantle Dockers,63.5,1.18,4.5,1.07,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Total Points,Essendon Bombers,Fremantle Dockers,69.5,1.34,3.1,1.069,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Total Points,Essendon Bombers,Fremantle Dockers,75.5,1.55,2.35,1.071,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Total Points,Essendon Bombers,Fremantle Dockers,80.5,1.85,1.9,1.067,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Total Points,Essendon Bombers,Fremantle Dockers,81.5,1.9,1.85,1.067,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Total Points,Essendon Bombers,Fremantle Dockers,87.5,2.45,1.52,1.066,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Total Points,Essendon Bombers,Fremantle Dockers,93.5,3.3,1.3,1.072,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Total Points,Essendon Bombers,Fremantle Dockers,99.5,4.8,1.16,1.07,TAB
+Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Total Points,Gold Coast Suns,St Kilda Saints,64.5,1.18,4.5,1.07,TAB
+Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Total Points,Gold Coast Suns,St Kilda Saints,70.5,1.34,3.1,1.069,TAB
+Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Total Points,Gold Coast Suns,St Kilda Saints,76.5,1.55,2.35,1.071,TAB
+Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Total Points,Gold Coast Suns,St Kilda Saints,81.5,1.85,1.9,1.067,TAB
+Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Total Points,Gold Coast Suns,St Kilda Saints,82.5,1.9,1.85,1.067,TAB
+Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Total Points,Gold Coast Suns,St Kilda Saints,88.5,2.45,1.52,1.066,TAB
+Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Total Points,Gold Coast Suns,St Kilda Saints,94.5,3.3,1.3,1.072,TAB
+Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Total Points,Gold Coast Suns,St Kilda Saints,100.5,4.8,1.16,1.07,TAB
+Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Total Points,Geelong Cats,Melbourne Demons,61.5,1.1,6.2,1.07,TAB
+Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Total Points,Geelong Cats,Melbourne Demons,67.5,1.2,4.2,1.071,TAB
+Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Total Points,Geelong Cats,Melbourne Demons,73.5,1.36,3,1.069,TAB
+Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Total Points,Geelong Cats,Melbourne Demons,79.5,1.58,2.3,1.068,TAB
+Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Total Points,Geelong Cats,Melbourne Demons,84.5,1.87,1.87,1.07,TAB
+Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Total Points,Geelong Cats,Melbourne Demons,85.5,1.95,1.8,1.068,TAB
+Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Total Points,Geelong Cats,Melbourne Demons,91.5,2.5,1.5,1.067,TAB
+Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Total Points,Geelong Cats,Melbourne Demons,97.5,3.3,1.3,1.072,TAB
+Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Total Points,Geelong Cats,Melbourne Demons,103.5,4.8,1.16,1.07,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Total Points,Port Adelaide Power,Adelaide Crows,62.5,1.1,6.2,1.07,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Total Points,Port Adelaide Power,Adelaide Crows,68.5,1.2,4.2,1.071,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Total Points,Port Adelaide Power,Adelaide Crows,74.5,1.36,3,1.069,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Total Points,Port Adelaide Power,Adelaide Crows,80.5,1.58,2.3,1.068,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Total Points,Port Adelaide Power,Adelaide Crows,85.5,1.87,1.87,1.07,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Total Points,Port Adelaide Power,Adelaide Crows,86.5,1.95,1.8,1.068,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Total Points,Port Adelaide Power,Adelaide Crows,92.5,2.5,1.5,1.067,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Total Points,Port Adelaide Power,Adelaide Crows,98.5,3.3,1.3,1.072,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Total Points,Port Adelaide Power,Adelaide Crows,104.5,4.8,1.16,1.07,TAB
