@@ -25,10 +25,10 @@ df <- data.frame(event_name, event_id, competition_name)
 df <- df |> filter(str_detect(event_name, ' vs '))
 
 # Only get NBA Games
-df <- df |> filter(str_detect(competition_name, 'AFL'))
+df <- df |> filter(str_detect(competition_name, 'AFLW'))
 
 df$url <-
-  paste0("https://www.neds.com.au/sports/australian-rules/afl/",
+  paste0("https://www.neds.com.au/sports/australian-rules/aflw/",
          tolower(gsub(" ", "-", df$event_name)),
          "/",
          df$event_id)

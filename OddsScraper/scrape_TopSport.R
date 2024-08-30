@@ -12,7 +12,7 @@ player_names <- player_names |> select(player_full_name, team_name)
 source("Functions/fix_team_names.R")
 
 # URL of website
-topsport_url = "https://www.topsport.com.au/Sport/Aussie_Rules/AFL_-_Round_24/Matches"
+topsport_url = "https://www.topsport.com.au/Sport/Aussie_Rules/AFLW_-_Round_1/Matches"
 
 #===============================================================================
 # Use rvest to get main market information-------------------------------------#
@@ -158,7 +158,24 @@ pick_your_own_disposals_markets <- unique(pick_your_own_disposals_markets)
 # Map function
 player_disposals_alternate <-
 map(pick_your_own_disposals_markets, read_topsport_html) |> 
-    bind_rows() |> 
+    bind_rows()
+
+# if nrow zero then return tibble with the desired columns and no rows
+if (nrow(player_disposals_alternate) == 0) {
+  player_disposals_alternate <-
+    tibble(
+      match = character(),
+      line = numeric(),
+      home_team = character(),
+      away_team = character(),
+      Selection = character(),
+      Win = numeric()
+      
+    )
+}
+
+player_disposals_alternate <-
+player_disposals_alternate |> 
     mutate(line = as.numeric(line) - 0.5) |>
     rename(over_price = Win) |> 
     rename(player_name = Selection) |> 

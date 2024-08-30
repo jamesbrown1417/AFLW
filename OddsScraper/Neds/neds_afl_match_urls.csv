@@ -1,10 +1,10 @@
 event_name,event_id,competition_name,url
-Carlton vs St Kilda,01dcc12d-b034-4935-8616-2f87f2c94788,AFL,https://www.neds.com.au/sports/australian-rules/afl/carlton-vs-st-kilda/01dcc12d-b034-4935-8616-2f87f2c94788
-Richmond vs Gold Coast Suns,1386f9db-1ee6-4e54-8ab8-67fda3db0149,AFL,https://www.neds.com.au/sports/australian-rules/afl/richmond-vs-gold-coast-suns/1386f9db-1ee6-4e54-8ab8-67fda3db0149
-Hawthorn vs North Melbourne,1c034565-6fa6-4448-9e8d-b2662a803e23,AFL,https://www.neds.com.au/sports/australian-rules/afl/hawthorn-vs-north-melbourne/1c034565-6fa6-4448-9e8d-b2662a803e23
-Brisbane Lions vs Essendon,43554cce-519e-4f75-a5c1-be3457891200,AFL,https://www.neds.com.au/sports/australian-rules/afl/brisbane-lions-vs-essendon/43554cce-519e-4f75-a5c1-be3457891200
-Fremantle vs Port Adelaide,60c05f22-a8a2-4691-aa3c-a87221e3c11a,AFL,https://www.neds.com.au/sports/australian-rules/afl/fremantle-vs-port-adelaide/60c05f22-a8a2-4691-aa3c-a87221e3c11a
-Sydney Swans vs Adelaide Crows,74edf3c4-adf3-4f1a-973d-84aa8022d7e2,AFL,https://www.neds.com.au/sports/australian-rules/afl/sydney-swans-vs-adelaide-crows/74edf3c4-adf3-4f1a-973d-84aa8022d7e2
-Western Bulldogs vs GWS Giants,858eb4b3-1d8b-4777-853a-e88b926d92d2,AFL,https://www.neds.com.au/sports/australian-rules/afl/western-bulldogs-vs-gws-giants/858eb4b3-1d8b-4777-853a-e88b926d92d2
-Melbourne vs Collingwood,c79c7143-56ec-48ec-a102-c0ffa1c5126d,AFL,https://www.neds.com.au/sports/australian-rules/afl/melbourne-vs-collingwood/c79c7143-56ec-48ec-a102-c0ffa1c5126d
-Geelong Cats vs West Coast Eagles,df0387af-9bd5-4691-860d-20851474fa33,AFL,https://www.neds.com.au/sports/australian-rules/afl/geelong-cats-vs-west-coast-eagles/df0387af-9bd5-4691-860d-20851474fa33
+GWS GIANTS (W) vs Western Bulldogs (W),05244ac9-5a2f-4e10-ba62-3d3b82942b41,AFLW,https://www.neds.com.au/sports/australian-rules/aflw/gws-giants-(w)-vs-western-bulldogs-(w)/05244ac9-5a2f-4e10-ba62-3d3b82942b41
+Geelong Cats (W) vs Melbourne (W),0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3,AFLW,https://www.neds.com.au/sports/australian-rules/aflw/geelong-cats-(w)-vs-melbourne-(w)/0c9d3e5d-b85c-4ea6-b1f6-d1eabb7f1cb3
+Hawthorn (W) vs Carlton (W),364db332-ed7f-44ea-aa14-31d4249a0d78,AFLW,https://www.neds.com.au/sports/australian-rules/aflw/hawthorn-(w)-vs-carlton-(w)/364db332-ed7f-44ea-aa14-31d4249a0d78
+Gold Coast SUNS (W) vs St Kilda (W),48799e0c-c6d8-4457-b968-88626d377894,AFLW,https://www.neds.com.au/sports/australian-rules/aflw/gold-coast-suns-(w)-vs-st-kilda-(w)/48799e0c-c6d8-4457-b968-88626d377894
+Essendon (W) vs Fremantle (W),4ff66343-19c4-4e47-a64e-b6d3ccce28ed,AFLW,https://www.neds.com.au/sports/australian-rules/aflw/essendon-(w)-vs-fremantle-(w)/4ff66343-19c4-4e47-a64e-b6d3ccce28ed
+Sydney Swans (W) vs Collingwood (W),616994dc-11a3-4656-a5cc-c071e6787aca,AFLW,https://www.neds.com.au/sports/australian-rules/aflw/sydney-swans-(w)-vs-collingwood-(w)/616994dc-11a3-4656-a5cc-c071e6787aca
+Port Adelaide (W) vs Adelaide Crows (W),7fd5f9cf-ebd0-49e0-b40b-6501cdc70742,AFLW,https://www.neds.com.au/sports/australian-rules/aflw/port-adelaide-(w)-vs-adelaide-crows-(w)/7fd5f9cf-ebd0-49e0-b40b-6501cdc70742
+Brisbane Lions (W) vs North Melbourne (W),94c61107-4e5b-492a-96e4-7a15be331c5d,AFLW,https://www.neds.com.au/sports/australian-rules/aflw/brisbane-lions-(w)-vs-north-melbourne-(w)/94c61107-4e5b-492a-96e4-7a15be331c5d
+West Coast Eagles (W) vs Richmond (W),ab5ba96a-1846-425d-91b0-0fdfe422a732,AFLW,https://www.neds.com.au/sports/australian-rules/aflw/west-coast-eagles-(w)-vs-richmond-(w)/ab5ba96a-1846-425d-91b0-0fdfe422a732

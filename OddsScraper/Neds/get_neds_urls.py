@@ -32,7 +32,7 @@ async def main():
         page.on('response', handle_response)
 
         # Navigate to the target page
-        await page.goto("https://www.neds.com.au/sports/australian-rules/afl", wait_until="networkidle")
+        await page.goto("https://www.neds.com.au/sports/australian-rules/aflw", wait_until="networkidle")
 
         # Keep the script running until the browser is closed
         while len(await browser.contexts()) > 0:

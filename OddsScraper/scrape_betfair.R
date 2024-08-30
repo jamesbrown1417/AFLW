@@ -28,12 +28,12 @@ loginBF(username = betfair_username,
         password = betfair_password,
         applicationKey = betfair_app_key)
 
-# All AFL Markets
+# All AFLW Markets
 all_afl_markets <-
   listMarketTypes(
   eventTypeIds = 61420,
   # marketTypeCodes = "MATCH_ODDS",
-  competitionIds = 11897406,
+  competitionIds = 10765024,
   toDate = (format(Sys.time() + 86400 * 60, "%Y-%m-%dT%TZ")) ## Look ahead until the next 60 days
 )
 
@@ -44,7 +44,7 @@ enumerate_markets <- function(marketTypeCode) {
     listMarketCatalogue(
       eventTypeIds = 61420,
       marketTypeCodes = marketTypeCode,
-      competitionIds = 11897406,
+      competitionIds = 10765024,
       toDate = (format(Sys.time() + 86400 * 60, "%Y-%m-%dT%TZ")) ## Look ahead until the next 60 days
     )
   
@@ -297,13 +297,15 @@ all_disposal_odds <-
   keep(~ !is.null(.x)) |>
   bind_rows()
 
-# Add player teams to disposals
-all_disposal_odds <-
-  all_disposal_odds |> 
-left_join(player_names, by = c("player_name" = "player_full_name")) |> 
-  rename(player_team = team_name) |> 
-  mutate(opposition_team = ifelse(home_team == player_team, away_team, home_team)) |>
-  relocate(player_team, opposition_team, .after = player_name)
+# Add player teams to disposals if nrow > 0
+if (nrow(all_disposal_odds) > 0) {
+  all_disposal_odds <-
+    all_disposal_odds |>
+    left_join(player_names, by = c("player_name" = "player_full_name")) |>
+    rename(player_team = team_name) |>
+    mutate(opposition_team = ifelse(home_team == player_team, away_team, home_team)) |>
+    relocate(player_team, opposition_team, .after = player_name)
+}
 
 # Write to CSV
 write_csv(all_disposal_odds, "Data/scraped_odds/betfair_player_disposals.csv")

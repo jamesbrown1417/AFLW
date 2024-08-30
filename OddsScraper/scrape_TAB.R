@@ -2,10 +2,10 @@
 library(tidyverse)
 library(rvest)
 library(httr2)
+library(httr)
 library(jsonlite)
 
 # URL to get responses
-# tab_url = "https://api.beta.tab.com.au/v1/recommendation-service/AFL%20Football/featured?jurisdiction=SA"
 tab_url = "https://api.beta.tab.com.au/v1/tab-info-service/sports/AFL%20Football/competitions/AFL%20Womens?homeState=SA&jurisdiction=SA"
 
 # Player names file
@@ -17,60 +17,30 @@ source("Functions/fix_team_names.R")
 
 main_tab <- function() {
 
-# # Make request and get response
-# tab_response <-
-#     request(tab_url) |>
-#     req_perform() |> 
-#     resp_body_json()
-
-  # Function to fetch and parse JSON with exponential backoff
-  fetch_data_with_backoff <-
-    function(url,
-             delay = 1,
-             max_retries = 5,
-             backoff_multiplier = 2) {
-      tryCatch({
-        # Attempt to fetch and parse the JSON
-        tab_response <-
-          read_html_live(url) |>
-          html_nodes("pre") %>%
-          html_text() %>%
-          fromJSON(simplifyVector = FALSE)
-        
-        # Return the parsed response
-        return(tab_response)
-      }, error = function(e) {
-        if (max_retries > 0) {
-          # Log the retry attempt
-          message(sprintf("Error encountered. Retrying in %s seconds...", delay))
-          
-          # Wait for the specified delay
-          Sys.sleep(delay)
-          
-          # Recursively call the function with updated parameters
-          return(
-            fetch_data_with_backoff(
-              url,
-              delay * backoff_multiplier,
-              max_retries - 1,
-              backoff_multiplier
-            )
-          )
-        } else {
-          # Max retries reached, throw an error
-          stop("Failed to fetch data after multiple retries.")
-        }
-      })
-    }
+  # Set the headers
+  headers <- c(
+    "accept" = "application/json, text/plain, */*",
+    "accept-language" = "en-US,en;q=0.9",
+    "origin" = "https://www.tab.com.au",
+    "referer" = "https://www.tab.com.au/",
+    "sec-ch-ua" = '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+    "sec-ch-ua-mobile" = "?0",
+    "sec-ch-ua-platform" = '"Windows"',
+    "sec-fetch-dest" = "empty",
+    "sec-fetch-mode" = "cors",
+    "sec-fetch-site" = "same-site",
+    "user-agent" = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  )
   
-  tab_response <- fetch_data_with_backoff(tab_url)
-
-# # Get index element of competitions with name value "AFL"
-# names_list <- map(tab_response$competitions, "name")
-# index <- which(names_list == "AFL")
-# 
-# # Get the response
-# tab_response <- tab_response$competitions[[index]]
+  # Try response, if nothing in 3 seconds, make it null
+  response <- tryCatch({
+    GET(tab_url, add_headers(.headers = headers), timeout(3))
+  }, error = function(e) {
+    return(NULL)
+  })
+  
+  # Get response body
+  tab_response <- content(response, as = "parsed")
 
 # Function to extract market info from response---------------------------------
 get_market_info <- function(markets) {

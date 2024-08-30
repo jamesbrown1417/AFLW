@@ -11,11 +11,11 @@ library(zoo)
 #===============================================================================
 
 combined_stats <-
-  read_rds("Data/afl_fantasy_2015_2023_data.rds")
+  read_rds("Data/afl_fantasy_2023_2023_data.rds")
 
-current_season_stats <- read_rds("Data/afl_fantasy_2024_data.rds")
-
-combined_stats <- bind_rows(combined_stats, current_season_stats)
+# current_season_stats <- read_rds("Data/afl_fantasy_2024_data.rds")
+# 
+# combined_stats <- bind_rows(combined_stats, current_season_stats)
 
 #===============================================================================
 # Create a function that takes a player name + line and returns their hit rate

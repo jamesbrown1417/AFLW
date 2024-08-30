@@ -28,7 +28,7 @@ players_this_year <-
 #===============================================================================
 
 # Get Disposal Lines
-disposal_lines <- c(9.5, 14.5, 19.5, 24.5, 29.5, 34.5, 39.5)
+disposal_lines <- c(9.5, 14.5, 19.5, 24.5, 29.5, 34.5)
 
 # Get table of all player, disposal combinations
 disposals_table <- 
@@ -44,29 +44,6 @@ disposals_results <-
 disposals_table <-
   disposals_table |> 
   bind_cols(disposals_results) |> 
-  mutate(across(where(is.numeric), ~round(., 3)))
-
-#===============================================================================
-# Apply function to all player, fantasy combinations
-#===============================================================================
-
-# Get fantasy Lines
-fantasy_lines <- c(69.5, 74.5, 79.5, 84.5, 89.5, 94.5, 99.5, 104.5, 109.5, 114.5, 119.5)
-
-# Get table of all player, fantasy combinations
-fantasy_table <- 
-  expand_grid(player_full_name = players_this_year, line = fantasy_lines) |> 
-  mutate(stat = "fantasy_points")
-
-# Apply function to all player, fantasy combinations
-fantasy_results <-
-  future_pmap(fantasy_table, get_empirical_prob_season, .progress = TRUE) |> 
-  bind_rows()
-
-# Join with initial table
-fantasy_table <-
-  fantasy_table |> 
-  bind_cols(fantasy_results) |> 
   mutate(across(where(is.numeric), ~round(., 3)))
 
 #===============================================================================
@@ -98,7 +75,7 @@ goal_table <-
 
 # Combine
 combined_table <-
-  bind_rows(disposals_table, fantasy_table, goal_table)
+  bind_rows(disposals_table, goal_table)
 
 # Save as RDS
 write_rds(combined_table, "Data/empirical_probabilities_2023.rds")

@@ -90,7 +90,8 @@ market_df <-
   left_join(df[,c("event_name", "event_id")], by = c("event_id" = "event_id")) |> 
   relocate(event_name, .before = event_id) |> 
   rename(match_name = event_name) |> 
-  select(-event_id)
+  select(-event_id) |> 
+  mutate(match_name = str_remove_all(match_name, " \\(W\\)"))
 
 # Create event ID df
 event_ids_df <-
@@ -119,17 +120,21 @@ market_df |>
 home_teams <-
     h2h_data |> 
     separate(match_name, c("home_team", "away_team"), sep = " vs ", remove = FALSE) |> 
+    mutate(entrants = fix_team_names(entrants)) |> 
+    mutate(home_team = fix_team_names(home_team)) |> 
     filter(entrants == home_team) |> 
     select(match = match_name, home_team, home_win = price) |> 
-    mutate(home_team = fix_team_names(home_team))
+    distinct(match, .keep_all = TRUE)
 
 # Away teams
 away_teams <-
     h2h_data |> 
     separate(match_name, c("home_team", "away_team"), sep = " vs ", remove = FALSE) |> 
+    mutate(entrants = fix_team_names(entrants)) |> 
+    mutate(away_team = fix_team_names(away_team)) |> 
     filter(entrants == away_team) |> 
     select(match = match_name, away_team, away_win = price) |> 
-    mutate(away_team = fix_team_names(away_team))
+    distinct(match, .keep_all = TRUE)
 
 # Merge home and away teams
 h2h_data <-
@@ -164,6 +169,7 @@ disposals_overs <-
                                            ".*(?= \\()")) |>
     mutate(player_name_2 = str_extract(market_name, "(?<= \\- ).*")) |> 
     mutate(player_name = coalesce(player_name_1, player_name_2)) |>
+    mutate(player_name = str_remove_all(player_name, " \\(.*$")) |> 
     transmute(
         match = match_name,
         market_name = "Player Disposals",
@@ -173,7 +179,8 @@ disposals_overs <-
         line = handicap,
         over_price = price,
         agency = "Neds"
-    )
+    ) |> 
+  distinct(player_name, match, line, over_price, .keep_all = TRUE)
 
 # Unders
 disposals_unders <-
@@ -185,6 +192,7 @@ disposals_unders <-
                                            ".*(?= \\()")) |>
     mutate(player_name_2 = str_extract(market_name, "(?<= \\- ).*")) |>
     mutate(player_name = coalesce(player_name_1, player_name_2)) |>
+    mutate(player_name = str_remove_all(player_name, " \\(.*$")) |> 
     transmute(
         match = match_name,
         market_name = "Player Disposals",
@@ -194,7 +202,9 @@ disposals_unders <-
         line = handicap,
         under_price = price,
         agency = "Neds"
-    )
+    ) |> 
+      distinct(player_name, match, line, under_price, .keep_all = TRUE)
+    
 
 # Merge overs and unders
 player_disposals_data <-
@@ -265,6 +275,7 @@ goals_overs <-
                                        ".*(?= \\()")) |>
   mutate(player_name_2 = str_extract(market_name, "(?<= \\- ).*")) |> 
   mutate(player_name = coalesce(player_name_1, player_name_2)) |>
+  mutate(player_name = str_remove_all(player_name, " \\(.*$")) |> 
   transmute(
     match = match_name,
     market_name = "Player Goals",
@@ -274,7 +285,8 @@ goals_overs <-
     line = handicap,
     over_price = price,
     agency = "Neds"
-  )
+  ) |> 
+  distinct(match, player_name, line, over_price, .keep_all = TRUE)
 
 # Unders
 goals_unders <-
@@ -286,6 +298,7 @@ goals_unders <-
                                        ".*(?= \\()")) |>
   mutate(player_name_2 = str_extract(market_name, "(?<= \\- ).*")) |>
   mutate(player_name = coalesce(player_name_1, player_name_2)) |>
+  mutate(player_name = str_remove_all(player_name, " \\(.*$")) |> 
   transmute(
     match = match_name,
     market_name = "Player Goals",

@@ -15,7 +15,7 @@ async def main():
     # options.add_argument("--headless=True")
 
     async with webdriver.Chrome(options=options) as driver:
-        await driver.get('https://www.bet365.com.au/#/AC/B36/C20925848/D48/E360013/F48/')
+        await driver.get('https://www.bet365.com.au/#/AC/B36/C20991782/D48/E360013/F48/')
         await driver.sleep(0.1)
         
         # wait 100s for elem to exist
