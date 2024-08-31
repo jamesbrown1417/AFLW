@@ -1,85 +1,37 @@
 match,home_team,away_team,market_name,player_name,player_team,line,over_price,under_price,agency,opposition_team,class_external_id,competition_external_id,event_external_id,market_id,player_id,player_id_unders
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Alicia Eva,GWS Giants,14.5,1.56,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685569,2148113086,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Nicola Barr,GWS Giants,14.5,1.3,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685569,2148113089,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Rebecca Beeson,GWS Giants,14.5,1.17,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685569,2148113088,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Tarni Evans,GWS Giants,14.5,1.5,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685569,2148113090,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Zarlie Goldsworthy,GWS Giants,14.5,1.14,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685569,2148113091,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Deanna Berry,Western Bulldogs,14.5,1.24,NA,Sportsbet,GWS Giants,103,46287,12586314,441685569,2148113093,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Elisabeth Georgostathis,Western Bulldogs,14.5,1.43,NA,Sportsbet,GWS Giants,103,46287,12586314,441685569,2148113097,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Isabelle Pritchard,Western Bulldogs,14.5,1.34,NA,Sportsbet,GWS Giants,103,46287,12586314,441685569,2148113094,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Jasmyn Smith,Western Bulldogs,14.5,1.86,NA,Sportsbet,GWS Giants,103,46287,12586314,441685569,2148113096,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Jess Fitzgerald,NA,14.5,1.37,NA,Sportsbet,NA,103,46287,12586314,441685569,2148113095,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Alyce Parker,GWS Giants,19.5,1.29,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685550,2148112959,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Nicola Barr,GWS Giants,19.5,2.6,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685550,2148112961,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Rebecca Beeson,GWS Giants,19.5,2.15,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685550,2148112960,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Zarlie Goldsworthy,GWS Giants,19.5,2.2,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685550,2148112963,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Alicia Eva,GWS Giants,19.5,3.2,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685550,2148112958,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Tarni Evans,GWS Giants,19.5,3.5,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685550,2148112962,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Deanna Berry,Western Bulldogs,19.5,2.3,NA,Sportsbet,GWS Giants,103,46287,12586314,441685550,2148112965,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Elisabeth Georgostathis,Western Bulldogs,19.5,2.35,NA,Sportsbet,GWS Giants,103,46287,12586314,441685550,2148112969,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Isabelle Pritchard,Western Bulldogs,19.5,2.1,NA,Sportsbet,GWS Giants,103,46287,12586314,441685550,2148112966,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Jess Fitzgerald,NA,19.5,2.45,NA,Sportsbet,NA,103,46287,12586314,441685550,2148112967,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Jasmyn Smith,Western Bulldogs,19.5,5.6,NA,Sportsbet,GWS Giants,103,46287,12586314,441685550,2148112968,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Alyce Parker,GWS Giants,24.5,1.9,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685551,2148112971,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Rebecca Beeson,GWS Giants,24.5,6.25,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685551,2148112972,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Nicola Barr,GWS Giants,24.5,7.75,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685551,2148112973,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Zarlie Goldsworthy,GWS Giants,24.5,7.25,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685551,2148112975,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Alicia Eva,GWS Giants,24.5,8.75,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685551,2148112970,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Tarni Evans,GWS Giants,24.5,12.5,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685551,2148112974,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Ellie Blackburn,Western Bulldogs,24.5,1.34,NA,Sportsbet,GWS Giants,103,46287,12586314,441685551,2148112976,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Elisabeth Georgostathis,Western Bulldogs,24.5,4.75,NA,Sportsbet,GWS Giants,103,46287,12586314,441685551,2148112981,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Isabelle Pritchard,Western Bulldogs,24.5,4,NA,Sportsbet,GWS Giants,103,46287,12586314,441685551,2148112978,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Deanna Berry,Western Bulldogs,24.5,6.25,NA,Sportsbet,GWS Giants,103,46287,12586314,441685551,2148112977,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Jess Fitzgerald,NA,24.5,6,NA,Sportsbet,NA,103,46287,12586314,441685551,2148112979,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Alyce Parker,GWS Giants,29.5,3.7,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685552,2148112983,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Rebecca Beeson,GWS Giants,29.5,21,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685552,2148112984,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Alicia Eva,GWS Giants,29.5,26,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685552,2148112982,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Ellie Blackburn,Western Bulldogs,29.5,2.45,NA,Sportsbet,GWS Giants,103,46287,12586314,441685552,2148112988,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Isabelle Pritchard,Western Bulldogs,29.5,9,NA,Sportsbet,GWS Giants,103,46287,12586314,441685552,2148112990,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Elisabeth Georgostathis,Western Bulldogs,29.5,11.5,NA,Sportsbet,GWS Giants,103,46287,12586314,441685552,2148112993,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Jess Fitzgerald,NA,29.5,16,NA,Sportsbet,NA,103,46287,12586314,441685552,2148112991,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Deanna Berry,Western Bulldogs,29.5,23,NA,Sportsbet,GWS Giants,103,46287,12586314,441685552,2148112989,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Alyce Parker,GWS Giants,34.5,8.75,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685553,2148112995,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Ellie Blackburn,Western Bulldogs,34.5,6.25,NA,Sportsbet,GWS Giants,103,46287,12586314,441685553,2148113000,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Isabelle Pritchard,Western Bulldogs,34.5,23,NA,Sportsbet,GWS Giants,103,46287,12586314,441685553,2148113002,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Elisabeth Georgostathis,Western Bulldogs,34.5,29,NA,Sportsbet,GWS Giants,103,46287,12586314,441685553,2148113005,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Jess Fitzgerald,NA,34.5,67,NA,Sportsbet,NA,103,46287,12586314,441685553,2148113003,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Alyce Parker,GWS Giants,39.5,21,NA,Sportsbet,Western Bulldogs,103,46287,12586314,441685554,2148113007,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Ellie Blackburn,Western Bulldogs,39.5,18,NA,Sportsbet,GWS Giants,103,46287,12586314,441685554,2148113012,NA
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Disposals,Isabelle Pritchard,Western Bulldogs,39.5,71,NA,Sportsbet,GWS Giants,103,46287,12586314,441685554,2148113014,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Bonnie Toogood,Essendon Bombers,14.5,1.17,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686955,2148122049,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Elizabeth Keaney,Essendon Bombers,14.5,1.53,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686955,2148122054,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,14.5,1.18,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686955,2148122052,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Bonnie Toogood,Essendon Bombers,14.5,1.18,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686955,2148122049,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Elizabeth Keaney,Essendon Bombers,14.5,1.55,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686955,2148122054,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,14.5,1.17,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686955,2148122052,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Stephanie Cain,Essendon Bombers,14.5,1.69,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686955,2148122051,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Maddison Gay,Essendon Bombers,14.5,2.95,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686955,2148122053,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Aisling McCarthy,Fremantle Dockers,14.5,1.24,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686955,2148122060,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Maddison Gay,Essendon Bombers,14.5,3,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686955,2148122053,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Aisling McCarthy,Fremantle Dockers,14.5,1.26,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686955,2148122060,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Dana East,Fremantle Dockers,14.5,1.87,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686955,2148122058,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma O'Driscoll,Fremantle Dockers,14.5,1.52,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686955,2148122055,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,14.5,1.62,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686955,2148122057,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma O'Driscoll,Fremantle Dockers,14.5,1.48,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686955,2148122055,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,14.5,1.61,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686955,2148122057,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Ebony Antonio,Fremantle Dockers,14.5,2.8,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686955,2148122056,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Megan Kauffman,Fremantle Dockers,14.5,2.2,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686955,2148122059,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,19.5,1.8,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686934,2148121924,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Megan Kauffman,Fremantle Dockers,14.5,2.18,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686955,2148122059,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,19.5,1.79,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686934,2148121924,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,19.5,1.08,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686934,2148121922,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Bonnie Toogood,Essendon Bombers,19.5,2.2,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686934,2148121921,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Elizabeth Keaney,Essendon Bombers,19.5,4.75,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686934,2148121926,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Elizabeth Keaney,Essendon Bombers,19.5,4.8,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686934,2148121926,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Stephanie Cain,Essendon Bombers,19.5,5.6,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686934,2148121923,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Aisling McCarthy,Fremantle Dockers,19.5,2.6,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686934,2148121932,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Aisling McCarthy,Fremantle Dockers,19.5,2.65,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686934,2148121932,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma O'Driscoll,Fremantle Dockers,19.5,3.6,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686934,2148121927,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,19.5,4.1,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686934,2148121929,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Dana East,Fremantle Dockers,19.5,5.4,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686934,2148121930,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Megan Kauffman,Fremantle Dockers,19.5,8.5,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686934,2148121931,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,24.5,1.5,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686935,2148121934,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,24.5,3.7,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686935,2148121936,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,19.5,4,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686934,2148121929,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Dana East,Fremantle Dockers,19.5,5.5,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686934,2148121930,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Megan Kauffman,Fremantle Dockers,19.5,8.25,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686934,2148121931,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,24.5,1.49,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686935,2148121934,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,24.5,3.6,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686935,2148121936,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Bonnie Toogood,Essendon Bombers,24.5,6.75,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686935,2148121933,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Aisling McCarthy,Fremantle Dockers,24.5,9,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686935,2148121944,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma O'Driscoll,Fremantle Dockers,24.5,12.5,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686935,2148121939,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma O'Driscoll,Fremantle Dockers,24.5,13,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686935,2148121939,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,24.5,14,NA,Sportsbet,Essendon Bombers,103,46287,12586315,441686935,2148121941,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,29.5,2.9,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686936,2148121946,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,29.5,2.8,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686936,2148121946,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,29.5,8.75,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686936,2148121948,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Bonnie Toogood,Essendon Bombers,29.5,26,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686936,2148121945,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,34.5,7.25,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686937,2148121958,NA
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,34.5,23,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686937,2148121960,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,39.5,19,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686938,2148121970,NA
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,39.5,23,NA,Sportsbet,Fremantle Dockers,103,46287,12586315,441686938,2148121970,NA
 Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Daisy D'Arcy,Gold Coast Suns,14.5,1.55,NA,Sportsbet,St Kilda Saints,103,46287,12586316,441688888,2148130058,NA
 Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Katie Lynch,Gold Coast Suns,14.5,1.58,NA,Sportsbet,St Kilda Saints,103,46287,12586316,441688888,2148130062,NA
 Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Lucy Single,Gold Coast Suns,14.5,1.37,NA,Sportsbet,St Kilda Saints,103,46287,12586316,441688888,2148130059,NA
@@ -114,165 +66,166 @@ Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposa
 Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Charlie Rowbottom,Gold Coast Suns,39.5,10.5,NA,Sportsbet,St Kilda Saints,103,46287,12586316,441688873,2148129980,NA
 Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Claudia Whitfort,Gold Coast Suns,39.5,71,NA,Sportsbet,St Kilda Saints,103,46287,12586316,441688873,2148129977,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Aishling Moloney,Geelong Cats,14.5,1.85,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689456,2148132392,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,14.5,1.11,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689456,2148132388,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,14.5,1.12,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689456,2148132388,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,14.5,1.5,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689456,2148132389,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Chantel Emonson,Geelong Cats,14.5,2.2,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689456,2148132390,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,14.5,1.49,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689456,2148132398,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Karen Paxman,NA,14.5,1.32,NA,Sportsbet,NA,103,46287,12586317,441689456,2148132393,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,14.5,1.29,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689456,2148132394,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Lily Mithen,Melbourne Demons,14.5,1.37,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689456,2148132395,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Chantel Emonson,Geelong Cats,14.5,2.25,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689456,2148132390,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,14.5,1.5,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689456,2148132398,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Karen Paxman,NA,14.5,1.31,NA,Sportsbet,NA,103,46287,12586317,441689456,2148132393,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,14.5,1.27,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689456,2148132394,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Lily Mithen,Melbourne Demons,14.5,1.36,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689456,2148132395,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Sinead Goldrick,Melbourne Demons,14.5,2.75,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689456,2148132396,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,19.5,1.32,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689437,2148132259,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,19.5,1.07,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689437,2148132263,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,19.5,1.47,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689437,2148132260,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,19.5,2.95,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689437,2148132261,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,19.5,1.31,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689437,2148132259,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,19.5,1.08,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689437,2148132263,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,19.5,1.48,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689437,2148132260,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,19.5,2.9,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689437,2148132261,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Aishling Moloney,Geelong Cats,19.5,5.4,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689437,2148132264,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Chantel Emonson,Geelong Cats,19.5,8.5,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689437,2148132262,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,19.5,1.34,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689437,2148132269,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,19.5,2.85,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689437,2148132270,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,19.5,2.6,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689437,2148132266,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Karen Paxman,NA,19.5,3,NA,Sportsbet,NA,103,46287,12586317,441689437,2148132265,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Chantel Emonson,Geelong Cats,19.5,8.25,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689437,2148132262,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,19.5,1.35,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689437,2148132269,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,19.5,2.95,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689437,2148132270,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Karen Paxman,NA,19.5,2.9,NA,Sportsbet,NA,103,46287,12586317,441689437,2148132265,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,19.5,2.65,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689437,2148132266,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Lily Mithen,Melbourne Demons,19.5,3.5,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689437,2148132267,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,24.5,1.48,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689438,2148132275,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,24.5,1.49,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689438,2148132275,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,24.5,2.55,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689438,2148132271,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,24.5,2.25,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689438,2148132272,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,24.5,7.75,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689438,2148132273,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,24.5,2.45,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689438,2148132281,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,24.5,2.4,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689438,2148132272,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,24.5,7.5,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689438,2148132273,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,24.5,2.4,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689438,2148132281,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,24.5,7.5,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689438,2148132282,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,24.5,9,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689438,2148132278,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Karen Paxman,NA,24.5,11,NA,Sportsbet,NA,103,46287,12586317,441689438,2148132277,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Karen Paxman,NA,24.5,10,NA,Sportsbet,NA,103,46287,12586317,441689438,2148132277,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Lily Mithen,Melbourne Demons,24.5,15,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689438,2148132279,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,29.5,2.85,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689439,2148132287,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,29.5,4.2,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689439,2148132284,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,29.5,2.8,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689439,2148132287,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,29.5,4.4,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689439,2148132284,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,29.5,7.25,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689439,2148132283,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,29.5,23,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689439,2148132285,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,29.5,6.25,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689439,2148132293,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,29.5,21,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689439,2148132294,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,34.5,7.5,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689440,2148132299,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,34.5,8.75,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689440,2148132296,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,34.5,23,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689440,2148132295,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,29.5,23,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689439,2148132294,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,34.5,7.25,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689440,2148132299,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,34.5,9.5,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689440,2148132296,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,34.5,26,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689440,2148132295,NA
 Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,34.5,19,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689440,2148132305,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,39.5,18,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689441,2148132308,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,39.5,21,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689441,2148132311,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,14.5,1.11,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690443,2148135430,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,14.5,1.88,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690443,2148135432,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,39.5,19,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689441,2148132311,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,39.5,21,NA,Sportsbet,Melbourne Demons,103,46287,12586317,441689441,2148132308,NA
+Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,39.5,81,NA,Sportsbet,Geelong Cats,103,46287,12586317,441689441,2148132317,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,14.5,1.1,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690443,2148135430,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,14.5,1.89,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690443,2148135432,NA
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,14.5,1.06,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690443,2148135433,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Gemma Houghton,Port Adelaide Power,14.5,2.25,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690443,2148135429,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Gemma Houghton,Port Adelaide Power,14.5,2.2,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690443,2148135429,NA
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Maria Moloney,Port Adelaide Power,14.5,2.7,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690443,2148135428,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Angela Foley,Port Adelaide Power,14.5,3.7,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690443,2148439234,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Chelsea Biddell,Adelaide Crows,14.5,1.58,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690443,2148135435,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Madison Newman,Adelaide Crows,14.5,1.41,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690443,2148135437,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Angela Foley,Port Adelaide Power,14.5,3.6,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690443,2148439234,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Chelsea Biddell,Adelaide Crows,14.5,1.62,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690443,2148135435,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Madison Newman,Adelaide Crows,14.5,1.44,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690443,2148135437,NA
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,14.5,1.45,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690443,2148135439,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Stevie-Lee Thompson,Adelaide Crows,14.5,2.9,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690443,2148135436,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,19.5,1.86,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690424,2148135302,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Stevie-Lee Thompson,Adelaide Crows,14.5,2.75,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690443,2148135436,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,19.5,1.82,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690424,2148135302,NA
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,19.5,1.48,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690424,2148135305,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,19.5,4.5,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690424,2148135304,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Gemma Houghton,Port Adelaide Power,19.5,10.5,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690424,2148135301,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Maria Moloney,Port Adelaide Power,19.5,10.5,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690424,2148135300,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,19.5,1.26,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690424,2148135310,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,19.5,1.07,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690424,2148135306,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,19.5,2.4,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690424,2148135311,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,19.5,4.6,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690424,2148135304,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Gemma Houghton,Port Adelaide Power,19.5,10,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690424,2148135301,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,19.5,1.24,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690424,2148135310,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,19.5,1.08,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690424,2148135306,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,19.5,2.35,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690424,2148135311,NA
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Madison Newman,Adelaide Crows,19.5,3.25,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690424,2148135309,NA
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Chelsea Biddell,Adelaide Crows,19.5,4,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690424,2148135307,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,24.5,3,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690425,2148135317,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,24.5,2.9,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690425,2148135317,NA
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,24.5,5,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690425,2148135314,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,24.5,13,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690425,2148135316,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,24.5,1.77,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690425,2148135322,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,24.5,1.46,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690425,2148135318,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,24.5,5,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690425,2148135323,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Madison Newman,Adelaide Crows,24.5,11,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690425,2148135321,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,24.5,14,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690425,2148135316,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,24.5,1.75,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690425,2148135322,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,24.5,1.51,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690425,2148135318,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,24.5,4.8,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690425,2148135323,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Madison Newman,Adelaide Crows,24.5,10.5,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690425,2148135321,NA
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Chelsea Biddell,Adelaide Crows,24.5,14,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690425,2148135319,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,29.5,8.5,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690426,2148135329,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,29.5,18,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690426,2148135326,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,29.5,8,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690426,2148135329,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,29.5,17,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690426,2148135326,NA
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,29.5,2.9,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690426,2148135334,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,29.5,2.8,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690426,2148135330,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,29.5,11.5,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690426,2148135335,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,34.5,26,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690427,2148135341,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,34.5,5.6,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690427,2148135346,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,29.5,2.9,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690426,2148135330,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,29.5,11,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690426,2148135335,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,34.5,29,NA,Sportsbet,Adelaide Crows,103,46287,12586318,441690427,2148135341,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,34.5,5.75,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690427,2148135346,NA
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,34.5,7.25,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690427,2148135342,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,34.5,31,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690427,2148135347,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,39.5,12.5,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690428,2148135358,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,34.5,26,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690427,2148135347,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,39.5,13,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690428,2148135358,NA
 Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,39.5,21,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690428,2148135354,NA
+Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,39.5,91,NA,Sportsbet,Port Adelaide Power,103,46287,12586318,441690428,2148135359,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,14.5,1.31,NA,Sportsbet,Carlton,103,46287,12586319,441734228,2148376358,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,14.5,1.09,NA,Sportsbet,Carlton,103,46287,12586319,441734228,2148376356,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,14.5,1.37,NA,Sportsbet,Carlton,103,46287,12586319,441734228,2148376361,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Kaitlyn Ashmore,Hawthorn Hawks,14.5,1.79,NA,Sportsbet,Carlton,103,46287,12586319,441734228,2148376360,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,14.5,1.62,NA,Sportsbet,Carlton,103,46287,12586319,441734228,2148376357,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,14.5,1.32,NA,Sportsbet,Carlton,103,46287,12586319,441734228,2148376359,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,14.5,1.65,NA,Sportsbet,NA,103,46287,12586319,441734228,2148376367,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,14.5,1.23,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734228,2148376365,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,14.5,1.15,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734228,2148376364,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,14.5,2.2,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734228,2148376362,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,14.5,2,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734228,2148376366,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,19.5,1.65,NA,Sportsbet,Carlton,103,46287,12586319,441734209,2148376228,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,14.5,1.39,NA,Sportsbet,Carlton,103,46287,12586319,441734228,2148376361,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Kaitlyn Ashmore,Hawthorn Hawks,14.5,1.85,NA,Sportsbet,Carlton,103,46287,12586319,441734228,2148376360,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,14.5,1.6,NA,Sportsbet,Carlton,103,46287,12586319,441734228,2148376357,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,14.5,1.33,NA,Sportsbet,Carlton,103,46287,12586319,441734228,2148376359,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,14.5,1.67,NA,Sportsbet,NA,103,46287,12586319,441734228,2148376367,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,14.5,1.22,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734228,2148376365,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,14.5,1.98,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734228,2148376366,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,14.5,1.16,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734228,2148376364,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,14.5,2.18,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734228,2148376362,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,19.5,1.64,NA,Sportsbet,Carlton,103,46287,12586319,441734209,2148376228,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,19.5,2.9,NA,Sportsbet,Carlton,103,46287,12586319,441734209,2148376230,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,19.5,2.08,NA,Sportsbet,Carlton,103,46287,12586319,441734209,2148376231,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,19.5,3.25,NA,Sportsbet,Carlton,103,46287,12586319,441734209,2148376233,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,19.5,3.3,NA,Sportsbet,Carlton,103,46287,12586319,441734209,2148376233,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,19.5,4.1,NA,Sportsbet,Carlton,103,46287,12586319,441734209,2148376229,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Kaitlyn Ashmore,Hawthorn Hawks,19.5,6.75,NA,Sportsbet,Carlton,103,46287,12586319,441734209,2148376232,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,19.5,1.31,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734209,2148376235,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,19.5,1.97,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734209,2148376237,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,19.5,1.58,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734209,2148376236,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,19.5,1.3,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734209,2148376235,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,19.5,1.98,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734209,2148376237,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,19.5,1.59,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734209,2148376236,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,19.5,3.5,NA,Sportsbet,NA,103,46287,12586319,441734209,2148376239,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,19.5,4.3,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734209,2148376238,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,19.5,5.9,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734209,2148376234,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,24.5,3.6,NA,Sportsbet,Carlton,103,46287,12586319,441734210,2148376240,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,24.5,3.9,NA,Sportsbet,Carlton,103,46287,12586319,441734210,2148376243,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,24.5,4.1,NA,Sportsbet,Carlton,103,46287,12586319,441734210,2148376243,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,24.5,10.5,NA,Sportsbet,Carlton,103,46287,12586319,441734210,2148376242,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,24.5,13,NA,Sportsbet,Carlton,103,46287,12586319,441734210,2148376245,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,24.5,12,NA,Sportsbet,Carlton,103,46287,12586319,441734210,2148376245,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,24.5,14,NA,Sportsbet,Carlton,103,46287,12586319,441734210,2148376241,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,24.5,2.15,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734210,2148376247,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,24.5,2.6,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734210,2148376248,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,24.5,4.2,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734210,2148376249,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,24.5,10,NA,Sportsbet,NA,103,46287,12586319,441734210,2148376251,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,24.5,12,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734210,2148376250,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,24.5,2.08,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734210,2148376247,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,24.5,2.55,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734210,2148376248,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,24.5,4.1,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734210,2148376249,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,24.5,9.75,NA,Sportsbet,NA,103,46287,12586319,441734210,2148376251,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,24.5,11,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734210,2148376250,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,24.5,19,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734210,2148376246,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,29.5,8.75,NA,Sportsbet,Carlton,103,46287,12586319,441734211,2148376255,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,29.5,10.5,NA,Sportsbet,Carlton,103,46287,12586319,441734211,2148376252,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,29.5,4.25,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734211,2148376259,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,29.5,9,NA,Sportsbet,Carlton,103,46287,12586319,441734211,2148376255,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,29.5,11,NA,Sportsbet,Carlton,103,46287,12586319,441734211,2148376252,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,29.5,4.3,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734211,2148376259,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,29.5,5,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734211,2148376260,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,29.5,11.5,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734211,2148376261,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,34.5,21,NA,Sportsbet,Carlton,103,46287,12586319,441734212,2148376267,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,34.5,23,NA,Sportsbet,Carlton,103,46287,12586319,441734212,2148376267,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,34.5,41,NA,Sportsbet,Carlton,103,46287,12586319,441734212,2148376264,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,34.5,10.5,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734212,2148376271,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,34.5,11.5,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734212,2148376272,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,34.5,10.5,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734212,2148376272,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,34.5,34,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734212,2148376273,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,39.5,67,NA,Sportsbet,Carlton,103,46287,12586319,441734213,2148376279,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,39.5,23,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734213,2148376284,NA
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,39.5,26,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734213,2148376283,NA
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,39.5,29,NA,Sportsbet,Hawthorn Hawks,103,46287,12586319,441734213,2148376284,NA
 Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Isabel Dawes,Brisbane Lions,14.5,1.22,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738950,2148398676,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla O'Dwyer,Brisbane Lions,14.5,1.5,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738950,2148398673,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla O'Dwyer,Brisbane Lions,14.5,1.52,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738950,2148398673,NA
 Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jade Ellenger,Brisbane Lions,14.5,2.02,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738950,2148398678,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Sophie Conway,Brisbane Lions,14.5,2.6,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738950,2148398674,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Catherine Svarc,NA,14.5,3.15,NA,Sportsbet,NA,103,46287,12586320,441738950,2148398675,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,14.5,1.09,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738950,2148398680,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alice O'Loughlin,North Melbourne Kangaroos,14.5,2.45,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738950,2148398682,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Tess Craven,North Melbourne Kangaroos,14.5,2.5,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738950,2148398683,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Sophie Conway,Brisbane Lions,14.5,2.65,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738950,2148398674,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Catherine Svarc,NA,14.5,3.25,NA,Sportsbet,NA,103,46287,12586320,441738950,2148398675,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,14.5,1.08,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738950,2148398680,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alice O'Loughlin,North Melbourne Kangaroos,14.5,2.5,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738950,2148398682,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Tess Craven,North Melbourne Kangaroos,14.5,2.55,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738950,2148398683,NA
 Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,19.5,1.2,NA,Sportsbet,NA,103,46287,12586320,441738931,2148398549,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Isabel Dawes,Brisbane Lions,19.5,2.7,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738931,2148398548,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla O'Dwyer,Brisbane Lions,19.5,3.45,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738931,2148398545,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jade Ellenger,Brisbane Lions,19.5,6.5,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738931,2148398550,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Isabel Dawes,Brisbane Lions,19.5,2.65,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738931,2148398548,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla O'Dwyer,Brisbane Lions,19.5,3.5,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738931,2148398545,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jade Ellenger,Brisbane Lions,19.5,6,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738931,2148398550,NA
 Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Sophie Conway,Brisbane Lions,19.5,7.75,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738931,2148398546,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,19.5,1.08,NA,Sportsbet,NA,103,46287,12586320,441738931,2148398551,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Emma Kearney,North Melbourne Kangaroos,19.5,1.48,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738931,2148398556,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,19.5,1.84,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738931,2148398552,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,19.5,1.09,NA,Sportsbet,NA,103,46287,12586320,441738931,2148398551,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Emma Kearney,North Melbourne Kangaroos,19.5,1.51,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738931,2148398556,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,19.5,1.87,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738931,2148398552,NA
 Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alice O'Loughlin,North Melbourne Kangaroos,19.5,10.5,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738931,2148398554,NA
 Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Tess Craven,North Melbourne Kangaroos,19.5,10,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738931,2148398555,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,24.5,1.98,NA,Sportsbet,NA,103,46287,12586320,441738932,2148398561,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Isabel Dawes,Brisbane Lions,24.5,10.5,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738932,2148398560,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla O'Dwyer,Brisbane Lions,24.5,12,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738932,2148398557,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,24.5,1.33,NA,Sportsbet,NA,103,46287,12586320,441738932,2148398563,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,24.5,1.36,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738932,2148398565,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Emma Kearney,North Melbourne Kangaroos,24.5,3.6,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738932,2148398568,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,24.5,5.7,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738932,2148398564,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,29.5,4.5,NA,Sportsbet,NA,103,46287,12586320,441738933,2148398573,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,29.5,1.93,NA,Sportsbet,NA,103,46287,12586320,441738933,2148398575,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,29.5,2.7,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738933,2148398577,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Emma Kearney,North Melbourne Kangaroos,29.5,13,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738933,2148398580,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,24.5,2,NA,Sportsbet,NA,103,46287,12586320,441738932,2148398561,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Isabel Dawes,Brisbane Lions,24.5,10,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738932,2148398560,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Orla O'Dwyer,Brisbane Lions,24.5,13,NA,Sportsbet,North Melbourne Kangaroos,103,46287,12586320,441738932,2148398557,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,24.5,1.34,NA,Sportsbet,NA,103,46287,12586320,441738932,2148398563,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,24.5,1.37,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738932,2148398565,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Emma Kearney,North Melbourne Kangaroos,24.5,3.7,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738932,2148398568,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,24.5,5.5,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738932,2148398564,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,29.5,4.6,NA,Sportsbet,NA,103,46287,12586320,441738933,2148398573,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,29.5,1.95,NA,Sportsbet,NA,103,46287,12586320,441738933,2148398575,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,29.5,2.75,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738933,2148398577,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Emma Kearney,North Melbourne Kangaroos,29.5,14,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738933,2148398580,NA
 Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Mia King,North Melbourne Kangaroos,29.5,23,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738933,2148398576,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,34.5,14,NA,Sportsbet,NA,103,46287,12586320,441738934,2148398585,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,34.5,3.25,NA,Sportsbet,NA,103,46287,12586320,441738934,2148398587,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,34.5,8.5,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738934,2148398589,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,34.5,13,NA,Sportsbet,NA,103,46287,12586320,441738934,2148398585,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,34.5,3.3,NA,Sportsbet,NA,103,46287,12586320,441738934,2148398587,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,34.5,7.75,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738934,2148398589,NA
 Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Alexandra Anderson,NA,39.5,51,NA,Sportsbet,NA,103,46287,12586320,441738935,2148398597,NA
 Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Ashleigh Riddell,NA,39.5,6.25,NA,Sportsbet,NA,103,46287,12586320,441738935,2148398599,NA
-Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,39.5,34,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738935,2148398601,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Disposals,Jasmine Garner,North Melbourne Kangaroos,39.5,31,NA,Sportsbet,Brisbane Lions,103,46287,12586320,441738935,2148398601,NA

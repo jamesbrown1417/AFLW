@@ -1,58 +1,4 @@
 match,home_team,away_team,market_name,player_name,player_team,opposition_team,line,over_price,under_price,prop_id,under_prop_id,agency
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Zarlie Goldsworthy,GWS Giants,Western Bulldogs,0.5,1.16,NA,14726,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Sarah Hartwig,Western Bulldogs,GWS Giants,0.5,1.52,NA,14735,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Alyce Parker,GWS Giants,Western Bulldogs,0.5,1.75,NA,14719,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Kristie-Lee West-Turner,NA,NA,0.5,1.8,NA,14733,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Deanna Berry,Western Bulldogs,GWS Giants,0.5,1.95,NA,14729,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Georgia Garnett,GWS Giants,Western Bulldogs,0.5,2,NA,14720,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Jessica Doyle,GWS Giants,Western Bulldogs,0.5,2,NA,14722,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Alice Edmonds,Western Bulldogs,GWS Giants,0.5,2.1,NA,14727,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Isabelle Pritchard,Western Bulldogs,GWS Giants,0.5,2.1,NA,14732,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Rebecca Beeson,GWS Giants,Western Bulldogs,0.5,2.25,NA,14724,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Alicia Eva,GWS Giants,Western Bulldogs,0.5,2.5,NA,14718,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Ellie Gavalas,Western Bulldogs,GWS Giants,0.5,2.5,NA,14731,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Maggie Gorham,Western Bulldogs,GWS Giants,0.5,2.6,NA,14734,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Analea McKee,Western Bulldogs,GWS Giants,0.5,2.75,NA,14728,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Tarni Evans,GWS Giants,Western Bulldogs,0.5,3,NA,14725,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Haneen Zreika,GWS Giants,Western Bulldogs,0.5,3.1,NA,14721,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Mikayla Pauga,GWS Giants,Western Bulldogs,0.5,3.1,NA,14723,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Ellie Blackburn,Western Bulldogs,GWS Giants,0.5,3.1,NA,14730,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Zarlie Goldsworthy,GWS Giants,Western Bulldogs,1.5,1.9,NA,14756,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Sarah Hartwig,Western Bulldogs,GWS Giants,1.5,3.7,NA,14765,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Alyce Parker,GWS Giants,Western Bulldogs,1.5,4.8,NA,14749,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Kristie-Lee West-Turner,NA,NA,1.5,5.5,NA,14763,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Deanna Berry,Western Bulldogs,GWS Giants,1.5,6,NA,14759,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Georgia Garnett,GWS Giants,Western Bulldogs,1.5,7,NA,14750,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Jessica Doyle,GWS Giants,Western Bulldogs,1.5,7,NA,14752,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Alice Edmonds,Western Bulldogs,GWS Giants,1.5,7,NA,14757,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Isabelle Pritchard,Western Bulldogs,GWS Giants,1.5,7,NA,14762,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Rebecca Beeson,GWS Giants,Western Bulldogs,1.5,8,NA,14754,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Ellie Gavalas,Western Bulldogs,GWS Giants,1.5,10,NA,14761,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Alicia Eva,GWS Giants,Western Bulldogs,1.5,11,NA,14748,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Maggie Gorham,Western Bulldogs,GWS Giants,1.5,11,NA,14764,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Analea McKee,Western Bulldogs,GWS Giants,1.5,12,NA,14758,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Haneen Zreika,GWS Giants,Western Bulldogs,1.5,14,NA,14751,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Ellie Blackburn,Western Bulldogs,GWS Giants,1.5,14,NA,14760,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Mikayla Pauga,GWS Giants,Western Bulldogs,1.5,15,NA,14753,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Tarni Evans,GWS Giants,Western Bulldogs,1.5,15,NA,14755,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Zarlie Goldsworthy,GWS Giants,Western Bulldogs,2.5,3.8,NA,14696,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Sarah Hartwig,Western Bulldogs,GWS Giants,2.5,11,NA,14705,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Alyce Parker,GWS Giants,Western Bulldogs,2.5,15,NA,14689,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Kristie-Lee West-Turner,NA,NA,2.5,17,NA,14703,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Deanna Berry,Western Bulldogs,GWS Giants,2.5,21,NA,14699,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Jessica Doyle,GWS Giants,Western Bulldogs,2.5,23,NA,14692,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Isabelle Pritchard,Western Bulldogs,GWS Giants,2.5,23,NA,14702,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Georgia Garnett,GWS Giants,Western Bulldogs,2.5,23,NA,14690,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Alice Edmonds,Western Bulldogs,GWS Giants,2.5,31,NA,14697,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Rebecca Beeson,GWS Giants,Western Bulldogs,2.5,41,NA,14694,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Ellie Gavalas,Western Bulldogs,GWS Giants,2.5,41,NA,14701,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Maggie Gorham,Western Bulldogs,GWS Giants,2.5,41,NA,14704,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Analea McKee,Western Bulldogs,GWS Giants,2.5,41,NA,14698,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Alicia Eva,GWS Giants,Western Bulldogs,2.5,51,NA,14688,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Mikayla Pauga,GWS Giants,Western Bulldogs,2.5,51,NA,14693,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Tarni Evans,GWS Giants,Western Bulldogs,2.5,51,NA,14695,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Haneen Zreika,GWS Giants,Western Bulldogs,2.5,51,NA,14691,NA,TAB
-GWS Giants v Western Bulldogs,GWS Giants,Western Bulldogs,Player Goals,Ellie Blackburn,Western Bulldogs,GWS Giants,2.5,51,NA,14700,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Bonnie Toogood,Essendon Bombers,Fremantle Dockers,0.5,1.18,NA,14810,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Aine Tighe,Fremantle Dockers,Essendon Bombers,0.5,1.34,NA,14816,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Amber Clarke,Essendon Bombers,Fremantle Dockers,0.5,1.6,NA,14808,NA,TAB
@@ -60,9 +6,9 @@ Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player G
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Ebony Antonio,Fremantle Dockers,Essendon Bombers,0.5,1.75,NA,14820,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Madison Prespakis,Essendon Bombers,Fremantle Dockers,0.5,1.87,NA,14814,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Aisling McCarthy,Fremantle Dockers,Essendon Bombers,0.5,1.92,NA,14818,NA,TAB
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Daria Bannister,Essendon Bombers,Fremantle Dockers,0.5,2.1,NA,14811,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Hayley Miller,Fremantle Dockers,Essendon Bombers,0.5,2.2,NA,14822,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Orlagh Lally,Fremantle Dockers,Essendon Bombers,0.5,2.2,NA,14824,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Daria Bannister,Essendon Bombers,Fremantle Dockers,0.5,2.35,NA,14811,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Gabby OSullivan,NA,NA,0.5,2.4,NA,14821,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Amelia Radford,Essendon Bombers,Fremantle Dockers,0.5,2.4,NA,14809,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Megan Kauffman,Fremantle Dockers,Essendon Bombers,0.5,2.5,NA,14823,NA,TAB
@@ -76,10 +22,10 @@ Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player G
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Sophie Alexander,Essendon Bombers,Fremantle Dockers,1.5,4.6,NA,14845,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Ebony Antonio,Fremantle Dockers,Essendon Bombers,1.5,5,NA,14850,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Madison Prespakis,Essendon Bombers,Fremantle Dockers,1.5,5.5,NA,14844,NA,TAB
+Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Daria Bannister,Essendon Bombers,Fremantle Dockers,1.5,6,NA,14841,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Aisling McCarthy,Fremantle Dockers,Essendon Bombers,1.5,6,NA,14848,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Orlagh Lally,Fremantle Dockers,Essendon Bombers,1.5,7.5,NA,14854,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Hayley Miller,Fremantle Dockers,Essendon Bombers,1.5,8,NA,14852,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Daria Bannister,Essendon Bombers,Fremantle Dockers,1.5,8.5,NA,14841,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Gabby OSullivan,NA,NA,1.5,8.5,NA,14851,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Amelia Radford,Essendon Bombers,Fremantle Dockers,1.5,10,NA,14839,NA,TAB
 Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Megan Kauffman,Fremantle Dockers,Essendon Bombers,1.5,10,NA,14853,NA,TAB
