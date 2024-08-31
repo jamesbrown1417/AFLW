@@ -446,13 +446,6 @@
             "sort_order": 10,
             "market_id": "aeb5790d-1591-4cf1-afe4-292c9d1b80d9"
         },
-        "2be3ac96-9f55-4135-9eb4-cbc8ce73056d": {
-            "id": "2be3ac96-9f55-4135-9eb4-cbc8ce73056d",
-            "name": "Fremantle (W) +8.5 / Over 82.5",
-            "visible": true,
-            "sort_order": 40,
-            "market_id": "985327b3-1c6f-4a9a-a277-84df7e13d508"
-        },
         "2bfd56f3-4045-457b-b1b7-bec2c0020a8b": {
             "id": "2bfd56f3-4045-457b-b1b7-bec2c0020a8b",
             "name": "Megan Kauffman (Fremantle (W))",
@@ -667,6 +660,13 @@
             "visible": true,
             "sort_order": 50,
             "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
+        },
+        "3d5214f6-6290-407d-8d6b-300510bdf9fd": {
+            "id": "3d5214f6-6290-407d-8d6b-300510bdf9fd",
+            "name": "Essendon (W) / Under 80.5",
+            "visible": true,
+            "sort_order": 60,
+            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
         },
         "3e4c75ef-6be9-4010-8ecb-edb31c375134": {
             "id": "3e4c75ef-6be9-4010-8ecb-edb31c375134",
@@ -1058,20 +1058,6 @@
             "sort_order": 20,
             "market_id": "07934471-b059-4e6b-bee9-0c9ceecf751e"
         },
-        "64988041-851e-4fa3-a843-6e7cc943f0fc": {
-            "id": "64988041-851e-4fa3-a843-6e7cc943f0fc",
-            "name": "Essendon (W) / Over 82.5",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
-        },
-        "64bd2c8a-567a-4abb-b3a8-c6b5e8eb9832": {
-            "id": "64bd2c8a-567a-4abb-b3a8-c6b5e8eb9832",
-            "name": "Fremantle (W) / Under 82.5",
-            "visible": true,
-            "sort_order": 30,
-            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
-        },
         "6651ea25-9f00-4427-a96d-1e58cc6f8969": {
             "id": "6651ea25-9f00-4427-a96d-1e58cc6f8969",
             "name": "Mim Strom (Fremantle (W))",
@@ -1128,6 +1114,13 @@
             "sort_order": 10,
             "market_id": "f884a346-baca-491f-9d05-c637e3576df0"
         },
+        "6af56295-6f0d-4e61-9d3c-17b0af74bd7b": {
+            "id": "6af56295-6f0d-4e61-9d3c-17b0af74bd7b",
+            "name": "Fremantle (W) / Under 80.5",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
+        },
         "6b86266e-b16b-45d3-9326-a4cef0043bd5": {
             "id": "6b86266e-b16b-45d3-9326-a4cef0043bd5",
             "name": "Fremantle (W) Goal",
@@ -1144,6 +1137,13 @@
             "sort_order": 100,
             "market_id": "40a51c77-5b5f-46a2-9786-fe349c3e80e8"
         },
+        "6ec90ee2-5279-44d5-9c73-916d2be8c171": {
+            "id": "6ec90ee2-5279-44d5-9c73-916d2be8c171",
+            "name": "Essendon (W) / Over 80.5",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
+        },
         "6f5bbc57-d299-4065-aa72-649b470d8c79": {
             "id": "6f5bbc57-d299-4065-aa72-649b470d8c79",
             "name": "Georgia Gee (Essendon (W))",
@@ -1152,11 +1152,11 @@
             "sort_order": 210,
             "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
         },
-        "70771698-5b53-45dd-89bc-b59efbb57a29": {
-            "id": "70771698-5b53-45dd-89bc-b59efbb57a29",
-            "name": "Essendon (W) -8.5 / Under 82.5",
+        "70690c32-100b-4c3b-b77f-84dcd6c7def3": {
+            "id": "70690c32-100b-4c3b-b77f-84dcd6c7def3",
+            "name": "Essendon (W) -8.5 / Over 80.5",
             "visible": true,
-            "sort_order": 30,
+            "sort_order": 60,
             "market_id": "985327b3-1c6f-4a9a-a277-84df7e13d508"
         },
         "726587c9-ce00-4489-ab0e-ed0fbe9ea5e5": {
@@ -1222,13 +1222,6 @@
             "visible": true,
             "sort_order": 40,
             "market_id": "f884a346-baca-491f-9d05-c637e3576df0"
-        },
-        "7c571a14-6e4f-49f5-b275-21741b20f94d": {
-            "id": "7c571a14-6e4f-49f5-b275-21741b20f94d",
-            "name": "Fremantle (W) / Over 82.5",
-            "visible": true,
-            "sort_order": 40,
-            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
         },
         "7d56c709-1461-44b2-9199-c232db2abe42": {
             "id": "7d56c709-1461-44b2-9199-c232db2abe42",
@@ -1310,6 +1303,13 @@
             "sort_order": 80,
             "market_id": "3a3eb383-713a-4807-b439-5e8ac745ce0a"
         },
+        "83083cca-8014-4beb-8db4-b9418cb9d5a1": {
+            "id": "83083cca-8014-4beb-8db4-b9418cb9d5a1",
+            "name": "Fremantle (W) +8.5 / Under 80.5",
+            "visible": true,
+            "sort_order": 50,
+            "market_id": "985327b3-1c6f-4a9a-a277-84df7e13d508"
+        },
         "84fe5b02-6ec2-4ed2-a39e-806a90409007": {
             "id": "84fe5b02-6ec2-4ed2-a39e-806a90409007",
             "name": "Gabby O'Sullivan (Fremantle (W))",
@@ -1364,6 +1364,13 @@
             "visible": true,
             "sort_order": 410,
             "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "8a366b40-367e-485c-ae09-4fb408193325": {
+            "id": "8a366b40-367e-485c-ae09-4fb408193325",
+            "name": "Fremantle (W) / Over 80.5",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
         },
         "8a4b5ea2-e40d-4cee-a690-815e30c76ca0": {
             "id": "8a4b5ea2-e40d-4cee-a690-815e30c76ca0",
@@ -1469,6 +1476,13 @@
             "sort_order": 10,
             "market_id": "aead05b2-daf4-4ec4-bb3f-e60ddcbb4ac4"
         },
+        "9795899e-f8db-430a-a4a1-ed6bc3d1dbeb": {
+            "id": "9795899e-f8db-430a-a4a1-ed6bc3d1dbeb",
+            "name": "Fremantle (W) +8.5 / Over 80.5",
+            "visible": true,
+            "sort_order": 80,
+            "market_id": "985327b3-1c6f-4a9a-a277-84df7e13d508"
+        },
         "97df6b78-8f7b-431f-ace0-3cbd339d6d0d": {
             "id": "97df6b78-8f7b-431f-ace0-3cbd339d6d0d",
             "name": "Elizabeth Keaney (Essendon (W))",
@@ -1515,13 +1529,6 @@
             "visible": true,
             "sort_order": 110,
             "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
-        },
-        "a1c32e15-a707-4dd0-9f9b-04cfa81561a8": {
-            "id": "a1c32e15-a707-4dd0-9f9b-04cfa81561a8",
-            "name": "Essendon (W) -8.5 / Over 82.5",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "985327b3-1c6f-4a9a-a277-84df7e13d508"
         },
         "a1ea9e23-72f2-4731-ae25-2cd3e99585b3": {
             "id": "a1ea9e23-72f2-4731-ae25-2cd3e99585b3",
@@ -1578,6 +1585,13 @@
             "visible": true,
             "sort_order": 180,
             "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
+        },
+        "a82bc920-fb31-422b-944c-87d6460cbfc4": {
+            "id": "a82bc920-fb31-422b-944c-87d6460cbfc4",
+            "name": "Essendon (W) -8.5 / Under 80.5",
+            "visible": true,
+            "sort_order": 70,
+            "market_id": "985327b3-1c6f-4a9a-a277-84df7e13d508"
         },
         "a8d7d386-28af-4e11-b8cc-6c6a0ba479f5": {
             "id": "a8d7d386-28af-4e11-b8cc-6c6a0ba479f5",
@@ -1642,13 +1656,6 @@
             "sort_order": 90,
             "market_id": "278c3f1e-cbab-49a9-bab0-5a8ac0ff20d7"
         },
-        "aeb98d94-4410-45a0-a7d4-5b5e64f9a7b0": {
-            "id": "aeb98d94-4410-45a0-a7d4-5b5e64f9a7b0",
-            "name": "Essendon (W) / Under 82.5",
-            "visible": true,
-            "sort_order": 20,
-            "market_id": "8f2bc9a0-e6c6-4a17-9952-5525181b7e22"
-        },
         "aecc8207-9168-43ff-9ecf-8af73731a194": {
             "id": "aecc8207-9168-43ff-9ecf-8af73731a194",
             "name": "Madison Prespakis (Essendon (W))",
@@ -1704,13 +1711,6 @@
             "visible": true,
             "sort_order": 30,
             "market_id": "f2d56371-882b-4369-b27f-81b3427fed18"
-        },
-        "b3afa76f-44b5-4fb5-b800-f8ea33b94134": {
-            "id": "b3afa76f-44b5-4fb5-b800-f8ea33b94134",
-            "name": "Fremantle (W) +8.5 / Under 82.5",
-            "visible": true,
-            "sort_order": 10,
-            "market_id": "985327b3-1c6f-4a9a-a277-84df7e13d508"
         },
         "b649e302-a36b-425b-9c89-f7aa67876415": {
             "id": "b649e302-a36b-425b-9c89-f7aa67876415",
@@ -2742,7 +2742,7 @@
                 "seconds": 1725080700
             },
             "live_betting_available": true,
-            "handicap": 82.5,
+            "handicap": 80.5,
             "same_game_multi_available": true,
             "visible": true,
             "entrant_ids": [
@@ -3208,10 +3208,10 @@
             "is_multiple_outcome_market": true,
             "visible": true,
             "entrant_ids": [
-                "64988041-851e-4fa3-a843-6e7cc943f0fc",
-                "aeb98d94-4410-45a0-a7d4-5b5e64f9a7b0",
-                "64bd2c8a-567a-4abb-b3a8-c6b5e8eb9832",
-                "7c571a14-6e4f-49f5-b275-21741b20f94d"
+                "6ec90ee2-5279-44d5-9c73-916d2be8c171",
+                "3d5214f6-6290-407d-8d6b-300510bdf9fd",
+                "6af56295-6f0d-4e61-9d3c-17b0af74bd7b",
+                "8a366b40-367e-485c-ae09-4fb408193325"
             ],
             "num_winners": 99
         },
@@ -3231,10 +3231,10 @@
             "is_multiple_outcome_market": true,
             "visible": true,
             "entrant_ids": [
-                "b3afa76f-44b5-4fb5-b800-f8ea33b94134",
-                "a1c32e15-a707-4dd0-9f9b-04cfa81561a8",
-                "70771698-5b53-45dd-89bc-b59efbb57a29",
-                "2be3ac96-9f55-4135-9eb4-cbc8ce73056d"
+                "83083cca-8014-4beb-8db4-b9418cb9d5a1",
+                "70690c32-100b-4c3b-b77f-84dcd6c7def3",
+                "a82bc920-fb31-422b-944c-87d6460cbfc4",
+                "9795899e-f8db-430a-a4a1-ed6bc3d1dbeb"
             ],
             "num_winners": 99
         },
@@ -3728,8 +3728,8 @@
         },
         "173bd28c-8fa6-4e9e-a198-365e3d296ed4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 19,
-                "denominator": 20
+                "numerator": 47,
+                "denominator": 50
             }
         },
         "17b0a6a9-55e4-4975-b31b-47ca3f95aaae:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -3752,8 +3752,8 @@
         },
         "1918fe3f-853f-43c0-89d9-b27b45130f18:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 43,
-                "denominator": 20
+                "numerator": 11,
+                "denominator": 5
             }
         },
         "1a9ed261-3874-4ba4-bde2-9978fe561bf3:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -3794,8 +3794,8 @@
         },
         "1dfba4ab-c692-4499-99b6-ae2e3b82427e:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 12,
-                "denominator": 25
+                "numerator": 23,
+                "denominator": 50
             }
         },
         "1f9f0d0f-28f7-4727-b3e8-d04138aa532e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -3918,12 +3918,6 @@
                 "denominator": 20
             }
         },
-        "2be3ac96-9f55-4135-9eb4-cbc8ce73056d:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 27,
-                "denominator": 10
-            }
-        },
         "2bfd56f3-4045-457b-b1b7-bec2c0020a8b:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 16,
@@ -3938,8 +3932,8 @@
         },
         "2c5962f0-7b94-4812-aae5-6cbf80007124:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
-                "denominator": 20
+                "numerator": 8,
+                "denominator": 5
             }
         },
         "2cad6262-05a9-427c-8afc-0e7080827013:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4084,6 +4078,12 @@
             "odds": {
                 "numerator": 10,
                 "denominator": 1
+            }
+        },
+        "3d5214f6-6290-407d-8d6b-300510bdf9fd:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 4
             }
         },
         "3e4c75ef-6be9-4010-8ecb-edb31c375134:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4376,20 +4376,8 @@
         },
         "643c9e06-600e-437f-bf34-249ea4653c64:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
-                "denominator": 20
-            }
-        },
-        "64988041-851e-4fa3-a843-6e7cc943f0fc:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 7,
-                "denominator": 4
-            }
-        },
-        "64bd2c8a-567a-4abb-b3a8-c6b5e8eb9832:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 13,
-                "denominator": 4
+                "numerator": 8,
+                "denominator": 5
             }
         },
         "6651ea25-9f00-4427-a96d-1e58cc6f8969:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4424,8 +4412,8 @@
         },
         "69dc3dd3-7fea-43a2-9c1b-bddf92fd1522:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 12,
-                "denominator": 5
+                "numerator": 49,
+                "denominator": 20
             }
         },
         "6ae60a48-3c61-4e37-99d3-83b64b8e0a9d:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4434,10 +4422,16 @@
                 "denominator": 50
             }
         },
+        "6af56295-6f0d-4e61-9d3c-17b0af74bd7b:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 13,
+                "denominator": 4
+            }
+        },
         "6b86266e-b16b-45d3-9326-a4cef0043bd5:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 43,
-                "denominator": 20
+                "numerator": 11,
+                "denominator": 5
             }
         },
         "6d23220d-5c0d-4093-9e00-0f2679db3167:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4446,16 +4440,22 @@
                 "denominator": 1
             }
         },
+        "6ec90ee2-5279-44d5-9c73-916d2be8c171:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 7,
+                "denominator": 4
+            }
+        },
         "6f5bbc57-d299-4065-aa72-649b470d8c79:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 9,
                 "denominator": 4
             }
         },
-        "70771698-5b53-45dd-89bc-b59efbb57a29:940b8704-e497-4a76-b390-00918ff7d282:": {
+        "70690c32-100b-4c3b-b77f-84dcd6c7def3:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 5,
-                "denominator": 2
+                "numerator": 49,
+                "denominator": 20
             }
         },
         "726587c9-ce00-4489-ab0e-ed0fbe9ea5e5:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4506,12 +4506,6 @@
                 "denominator": 20
             }
         },
-        "7c571a14-6e4f-49f5-b275-21741b20f94d:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 4,
-                "denominator": 1
-            }
-        },
         "7d56c709-1461-44b2-9199-c232db2abe42:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 40,
@@ -4556,8 +4550,8 @@
         },
         "81f5185f-5513-467e-ba72-112764ebd138:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
-                "denominator": 20
+                "numerator": 8,
+                "denominator": 5
             }
         },
         "82654360-d15c-4fc5-9103-1175646f8302:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4570,6 +4564,12 @@
             "odds": {
                 "numerator": 14,
                 "denominator": 1
+            }
+        },
+        "83083cca-8014-4beb-8db4-b9418cb9d5a1:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 11,
+                "denominator": 5
             }
         },
         "84fe5b02-6ec2-4ed2-a39e-806a90409007:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4598,8 +4598,8 @@
         },
         "88a88ed6-d6ef-41f3-8ef1-b471eb31bc5a:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 29,
-                "denominator": 4
+                "numerator": 15,
+                "denominator": 2
             }
         },
         "89f4cdd6-0a7a-4444-b127-5ee0c14c7237:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4611,6 +4611,12 @@
         "8a35145c-2c4c-4022-80f1-90d7e7187cfd:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 40,
+                "denominator": 1
+            }
+        },
+        "8a366b40-367e-485c-ae09-4fb408193325:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 4,
                 "denominator": 1
             }
         },
@@ -4670,8 +4676,8 @@
         },
         "93d84317-8ee0-46d0-9170-7f3986c82cb2:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 8,
-                "denominator": 5
+                "numerator": 33,
+                "denominator": 20
             }
         },
         "9413d5eb-1b77-4147-9e0f-a48dd3b57906:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4690,6 +4696,12 @@
             "odds": {
                 "numerator": 43,
                 "denominator": 20
+            }
+        },
+        "9795899e-f8db-430a-a4a1-ed6bc3d1dbeb:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 27,
+                "denominator": 10
             }
         },
         "97df6b78-8f7b-431f-ace0-3cbd339d6d0d:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4718,20 +4730,14 @@
         },
         "9e33defb-77b9-404c-ab14-196cf6abda81:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 4,
-                "denominator": 5
+                "numerator": 41,
+                "denominator": 50
             }
         },
         "9fcf40e2-337a-4161-b743-856df499f6f8:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 16,
                 "denominator": 1
-            }
-        },
-        "a1c32e15-a707-4dd0-9f9b-04cfa81561a8:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 49,
-                "denominator": 20
             }
         },
         "a1ea9e23-72f2-4731-ae25-2cd3e99585b3:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4776,6 +4782,12 @@
                 "denominator": 1
             }
         },
+        "a82bc920-fb31-422b-944c-87d6460cbfc4:940b8704-e497-4a76-b390-00918ff7d282:": {
+            "odds": {
+                "numerator": 5,
+                "denominator": 2
+            }
+        },
         "a8d7d386-28af-4e11-b8cc-6c6a0ba479f5:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 40,
@@ -4814,19 +4826,13 @@
         },
         "ae697410-35a8-408c-b29d-98ea6e6895d0:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 12,
-                "denominator": 5
+                "numerator": 47,
+                "denominator": 20
             }
         },
         "aea73add-ba26-4633-9316-71b2fc4c5bd4:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
                 "numerator": 5,
-                "denominator": 4
-            }
-        },
-        "aeb98d94-4410-45a0-a7d4-5b5e64f9a7b0:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 7,
                 "denominator": 4
             }
         },
@@ -4850,8 +4856,8 @@
         },
         "b216b9ef-4fa5-4b22-bf9d-7d15877991be:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 43,
-                "denominator": 20
+                "numerator": 11,
+                "denominator": 5
             }
         },
         "b2b0423d-fa6b-4739-a46e-3ab3f6c35a90:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4870,12 +4876,6 @@
             "odds": {
                 "numerator": 9,
                 "denominator": 1
-            }
-        },
-        "b3afa76f-44b5-4fb5-b800-f8ea33b94134:940b8704-e497-4a76-b390-00918ff7d282:": {
-            "odds": {
-                "numerator": 11,
-                "denominator": 5
             }
         },
         "b649e302-a36b-425b-9c89-f7aa67876415:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -4982,8 +4982,8 @@
         },
         "c9bb89e1-0d1a-49bf-ba1b-cf61b414a4d6:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 12,
-                "denominator": 5
+                "numerator": 47,
+                "denominator": 20
             }
         },
         "ca6fe9ce-d071-48ec-a4a3-3a770cdf196e:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -5012,8 +5012,8 @@
         },
         "cc7996e9-b4cb-4f0c-a70a-4559721d7dc5:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 43,
-                "denominator": 20
+                "numerator": 11,
+                "denominator": 5
             }
         },
         "ce3af248-c0db-4d04-8442-cfaedad01f02:940b8704-e497-4a76-b390-00918ff7d282:": {
@@ -5102,8 +5102,8 @@
         },
         "dfa885b2-5854-43c1-afdb-495ccf826738:940b8704-e497-4a76-b390-00918ff7d282:": {
             "odds": {
-                "numerator": 33,
-                "denominator": 20
+                "numerator": 8,
+                "denominator": 5
             }
         },
         "e09f33db-3080-493d-93bb-1b7f2a0c9185:940b8704-e497-4a76-b390-00918ff7d282:": {

@@ -1,18 +1,20 @@
 match,start_time,market_name,home_team,home_line,home_win,away_team,away_line,away_win,margin,agency
-GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,-4.5,1.9,Western Bulldogs,4.5,1.9,1.053,TAB
-GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,-22.5,4.5,Western Bulldogs,22.5,1.18,1.07,TAB
-GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,-16.5,3.1,Western Bulldogs,16.5,1.34,1.069,TAB
-GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,-10.5,2.35,Western Bulldogs,10.5,1.55,1.071,TAB
-GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,2.5,1.5,Western Bulldogs,-2.5,2.5,1.067,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,-3.5,1.9,Western Bulldogs,3.5,1.9,1.053,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,-22.5,5,Western Bulldogs,22.5,1.15,1.07,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,-16.5,3.4,Western Bulldogs,16.5,1.28,1.075,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,-10.5,2.5,Western Bulldogs,10.5,1.5,1.067,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,-4.5,1.95,Western Bulldogs,4.5,1.8,1.068,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,2.5,1.53,Western Bulldogs,-2.5,2.4,1.07,TAB
 GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,8.5,1.3,Western Bulldogs,-8.5,3.3,1.072,TAB
-GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,14.5,1.16,Western Bulldogs,-14.5,4.8,1.07,TAB
-Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-8.5,1.9,Fremantle Dockers,8.5,1.9,1.053,TAB
-Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-26.5,4.5,Fremantle Dockers,26.5,1.18,1.07,TAB
-Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-20.5,3.2,Fremantle Dockers,20.5,1.32,1.07,TAB
-Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-14.5,2.35,Fremantle Dockers,14.5,1.55,1.071,TAB
-Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-2.5,1.55,Fremantle Dockers,2.5,2.35,1.071,TAB
-Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,3.5,1.32,Fremantle Dockers,-3.5,3.2,1.07,TAB
-Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,9.5,1.18,Fremantle Dockers,-9.5,4.5,1.07,TAB
+GWS Giants v Western Bulldogs,2024-08-31T03:05:00.000Z,Line,GWS Giants,14.5,1.17,Western Bulldogs,-14.5,4.6,1.072,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-7.5,1.9,Fremantle Dockers,7.5,1.9,1.053,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-26.5,4.8,Fremantle Dockers,26.5,1.16,1.07,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-20.5,3.3,Fremantle Dockers,20.5,1.3,1.072,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-14.5,2.5,Fremantle Dockers,14.5,1.5,1.067,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-8.5,1.95,Fremantle Dockers,8.5,1.8,1.068,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,-2.5,1.58,Fremantle Dockers,2.5,2.3,1.068,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,3.5,1.34,Fremantle Dockers,-3.5,3.1,1.069,TAB
+Essendon Bombers v Fremantle Dockers,2024-08-31T05:05:00.000Z,Line,Essendon Bombers,9.5,1.2,Fremantle Dockers,-9.5,4.2,1.071,TAB
 Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Line,Gold Coast Suns,-4.5,1.9,St Kilda Saints,4.5,1.9,1.053,TAB
 Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Line,Gold Coast Suns,-24.5,5,St Kilda Saints,24.5,1.15,1.07,TAB
 Gold Coast Suns v St Kilda Saints,2024-08-31T07:05:00.000Z,Line,Gold Coast Suns,-18.5,3.5,St Kilda Saints,18.5,1.27,1.073,TAB
@@ -31,13 +33,13 @@ Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Line,Geelong Cats,8.5,1
 Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Line,Geelong Cats,14.5,1.23,Melbourne Demons,-14.5,3.9,1.069,TAB
 Geelong Cats v Melbourne Demons,2024-08-31T09:15:00.000Z,Line,Geelong Cats,20.5,1.12,Melbourne Demons,-20.5,5.7,1.068,TAB
 Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,26.5,1.9,Adelaide Crows,-26.5,1.9,1.053,TAB
-Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,4.5,5.5,Adelaide Crows,-4.5,1.13,1.067,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,4.5,5.7,Adelaide Crows,-4.5,1.12,1.068,TAB
 Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,10.5,3.9,Adelaide Crows,-10.5,1.23,1.069,TAB
 Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,16.5,2.8,Adelaide Crows,-16.5,1.4,1.071,TAB
 Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,22.5,2.15,Adelaide Crows,-22.5,1.65,1.071,TAB
 Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,28.5,1.75,Adelaide Crows,-28.5,2,1.071,TAB
-Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,34.5,1.48,Adelaide Crows,-34.5,2.55,1.068,TAB
-Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,40.5,1.28,Adelaide Crows,-40.5,3.4,1.075,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,34.5,1.46,Adelaide Crows,-34.5,2.6,1.07,TAB
+Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,40.5,1.27,Adelaide Crows,-40.5,3.5,1.073,TAB
 Port Adelaide Power v Adelaide Crows,2024-08-31T09:45:00.000Z,Line,Port Adelaide Power,46.5,1.15,Adelaide Crows,-46.5,5,1.07,TAB
 Hawthorn Hawks v Carlton,2024-09-01T03:05:00.000Z,Line,Hawthorn Hawks,-7.5,1.9,Carlton,7.5,1.9,1.053,TAB
 Brisbane Lions v North Melbourne Kangaroos,2024-09-01T05:05:00.000Z,Line,Brisbane Lions,-6.5,1.9,North Melbourne Kangaroos,6.5,1.9,1.053,TAB

@@ -281,8 +281,8 @@ pointsbet_h2h_main <- function() {
   pointsbet_player_disposals_lines <-
     pointsbet_data_player_props |>
     filter(str_detect(market, "Disposals")) |>
-    filter(str_detect(market, "To Get")) |>
-    mutate(line = str_extract(market, "[0-9]{1,2}")) |>
+    filter(str_detect(market, "Pick Your Own")) |>
+    mutate(line = str_extract(outcome, "[0-9]{1,2}")) |>
     mutate(line = as.numeric(line) - 0.5) |>
     separate(
       match,
@@ -293,6 +293,7 @@ pointsbet_h2h_main <- function() {
     mutate(home_team = fix_team_names(home_team),
            away_team = fix_team_names(away_team)) |>
     mutate(match = paste(home_team, "v", away_team)) |>
+    mutate(outcome = str_remove(outcome, " To Get .*$")) |>
     mutate(
       outcome = case_when(
         outcome == "Lebron James" ~ "LeBron James",
