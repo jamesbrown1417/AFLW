@@ -1,94 +1,47 @@
 match,home_team,away_team,market_name,player_name,player_team,line,over_price,under_price,agency,opposition_team,EventKey,MarketKey,OutcomeKey,OutcomeKey_unders
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Bonnie Toogood,Essendon Bombers,0.5,1.2,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1001,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Aine Tighe,Fremantle Dockers,0.5,1.36,NA,Pointsbet,Essendon Bombers,1929124,68171908,1020,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Amber Clarke,Essendon Bombers,0.5,1.6,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1006,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Sophie Alexander,Essendon Bombers,0.5,1.7,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1007,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Ebony Antonio,Fremantle Dockers,0.5,1.8,NA,Pointsbet,Essendon Bombers,1929124,68171908,1019,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Madison Prespakis,Essendon Bombers,0.5,1.9,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1005,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Aisling Mccarthy,NA,0.5,1.91,NA,Pointsbet,NA,1929124,68171908,1014,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Hayley Miller,Fremantle Dockers,0.5,2.2,NA,Pointsbet,Essendon Bombers,1929124,68171908,1016,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Orlagh Lally,Fremantle Dockers,0.5,2.2,NA,Pointsbet,Essendon Bombers,1929124,68171908,1021,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Daria Bannister,Essendon Bombers,0.5,2.3,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1008,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Amelia Radford,Essendon Bombers,0.5,2.5,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1009,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Megan Kauffman,Fremantle Dockers,0.5,2.5,NA,Pointsbet,Essendon Bombers,1929124,68171908,1018,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Gabby O'Sullivan,Fremantle Dockers,0.5,2.5,NA,Pointsbet,Essendon Bombers,1929124,68171908,1022,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Georgia Nanscawen,Essendon Bombers,0.5,3,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1002,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Amy Gaylor,Essendon Bombers,0.5,3,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1010,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Kodi Jacques,Essendon Bombers,0.5,3,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1011,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Maddison Gay,Essendon Bombers,0.5,3,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1012,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Georgia Gee,Essendon Bombers,0.5,3,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1013,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Amy Mullholland,NA,0.5,3.2,NA,Pointsbet,NA,1929124,68171908,1023,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Gabby Newton,NA,0.5,3.5,NA,Pointsbet,NA,1929124,68171908,1024,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Airlie Runnalls,Fremantle Dockers,0.5,3.5,NA,Pointsbet,Essendon Bombers,1929124,68171908,1025,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Elizabeth Keaney,Essendon Bombers,0.5,5,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1003,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Stephanie Cain,Essendon Bombers,0.5,5,NA,Pointsbet,Fremantle Dockers,1929124,68171908,1004,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Emma O'Driscoll,Fremantle Dockers,0.5,5,NA,Pointsbet,Essendon Bombers,1929124,68171908,1015,NA
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Goals,Dana East,Fremantle Dockers,0.5,5,NA,Pointsbet,Essendon Bombers,1929124,68171908,1017,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Jamie Stanton,Gold Coast Suns,0.5,1.2,NA,Pointsbet,St Kilda Saints,1929125,67969786,1001,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Tara Bohanna,Gold Coast Suns,0.5,1.27,NA,Pointsbet,St Kilda Saints,1929125,67969786,1002,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Jacqui Dupuy,NA,0.5,1.4,NA,Pointsbet,NA,1929125,67969786,1003,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Jesse Wardlaw,St Kilda Saints,0.5,1.4,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1014,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Jaimee Lambert,St Kilda Saints,0.5,1.9,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1015,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Nicola Xenos,St Kilda Saints,0.5,2.1,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1016,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Jordan Membrey,Gold Coast Suns,0.5,2.15,NA,Pointsbet,St Kilda Saints,1929125,67969786,1005,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Claudia Whitfort,Gold Coast Suns,0.5,2.4,NA,Pointsbet,St Kilda Saints,1929125,67969786,1004,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Ashleigh Richards,St Kilda Saints,0.5,2.4,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1017,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Tyanna Smith,St Kilda Saints,0.5,2.6,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1019,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Ella Friend,St Kilda Saints,0.5,2.6,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1020,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Niamh McLaughlin,Gold Coast Suns,0.5,2.75,NA,Pointsbet,St Kilda Saints,1929125,67969786,1006,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Hannah Stuart,St Kilda Saints,0.5,2.75,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1021,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Charlie Rowbottom,Gold Coast Suns,0.5,3,NA,Pointsbet,St Kilda Saints,1929125,67969786,1007,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Darcie Davies,Gold Coast Suns,0.5,3,NA,Pointsbet,St Kilda Saints,1929125,67969786,1009,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Annabel Kievit,Gold Coast Suns,0.5,3,NA,Pointsbet,St Kilda Saints,1929125,67969786,1011,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,J'Noemi Anderson,St Kilda Saints,0.5,3,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1018,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Elise Barwick,Gold Coast Suns,0.5,3.25,NA,Pointsbet,St Kilda Saints,1929125,67969786,1008,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Georgia Calyden,NA,0.5,3.25,NA,Pointsbet,NA,1929125,67969786,1010,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Olivia Vesely,St Kilda Saints,0.5,3.25,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1022,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Grace Kelly,St Kilda Saints,0.5,3.5,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1023,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Lucy Single,Gold Coast Suns,0.5,4,NA,Pointsbet,St Kilda Saints,1929125,67969786,1012,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Katie Lynch,Gold Coast Suns,0.5,4,NA,Pointsbet,St Kilda Saints,1929125,67969786,1013,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Hannah Priest,St Kilda Saints,0.5,5,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1024,NA
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Goals,Tyanna Smith,St Kilda Saints,0.5,5,NA,Pointsbet,Gold Coast Suns,1929125,67969786,1025,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Jacqueline Parry,Geelong Cats,0.5,1.3,NA,Pointsbet,Melbourne Demons,1929126,67969863,1001,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Kate Hore,Melbourne Demons,0.5,1.35,NA,Pointsbet,Geelong Cats,1929126,67969863,1013,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Eden Zanker,Melbourne Demons,0.5,1.4,NA,Pointsbet,Geelong Cats,1929126,67969863,1014,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Aishling Moloney,Geelong Cats,0.5,1.65,NA,Pointsbet,Melbourne Demons,1929126,67969863,1002,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Alyssa Bannan,Melbourne Demons,0.5,1.7,NA,Pointsbet,Geelong Cats,1929126,67969863,1015,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Nina Morrison,Geelong Cats,0.5,2.2,NA,Pointsbet,Melbourne Demons,1929126,67969863,1003,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Ryleigh Wotherspoon,Melbourne Demons,0.5,2.2,NA,Pointsbet,Geelong Cats,1929126,67969863,1016,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Kate Kenny,Geelong Cats,0.5,2.25,NA,Pointsbet,Melbourne Demons,1929126,67969863,1004,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Amy McDonald,Geelong Cats,0.5,2.5,NA,Pointsbet,Melbourne Demons,1929126,67969863,1005,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Paxy Paxman,Melbourne Demons,0.5,2.65,NA,Pointsbet,Geelong Cats,1929126,67969863,1017,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Georgie Prespakis,Geelong Cats,0.5,2.75,NA,Pointsbet,Melbourne Demons,1929126,67969863,1006,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Shelley Scott,Geelong Cats,0.5,2.75,NA,Pointsbet,Melbourne Demons,1929126,67969863,1011,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Kate Darby,Geelong Cats,0.5,3,NA,Pointsbet,Melbourne Demons,1929126,67969863,1007,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Kate Surman,Geelong Cats,0.5,3,NA,Pointsbet,Melbourne Demons,1929126,67969863,1008,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Tyla Hanks,Melbourne Demons,0.5,3,NA,Pointsbet,Geelong Cats,1929126,67969863,1018,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Lily Mithen,Melbourne Demons,0.5,3,NA,Pointsbet,Geelong Cats,1929126,67969863,1019,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Julia Crockett-Grills,Geelong Cats,0.5,3.25,NA,Pointsbet,Melbourne Demons,1929126,67969863,1009,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Darcy Moloney,Geelong Cats,0.5,3.5,NA,Pointsbet,Melbourne Demons,1929126,67969863,1010,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Eliza McNamara,Melbourne Demons,0.5,3.5,NA,Pointsbet,Geelong Cats,1929126,67969863,1020,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Megan Fitzsimon,Melbourne Demons,0.5,3.5,NA,Pointsbet,Geelong Cats,1929126,67969863,1021,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Sarah Lampard,Melbourne Demons,0.5,3.5,NA,Pointsbet,Geelong Cats,1929126,67969863,1022,NA
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Goals,Rebecca Webster,Geelong Cats,0.5,5,NA,Pointsbet,Melbourne Demons,1929126,67969863,1012,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Danielle Ponter,Adelaide Crows,0.5,1.25,NA,Pointsbet,Port Adelaide Power,1929127,67969937,1011,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Eloise Jones,Adelaide Crows,0.5,1.3,NA,Pointsbet,Port Adelaide Power,1929127,67969937,1012,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Gemma Houghton,Port Adelaide Power,0.5,1.55,NA,Pointsbet,Adelaide Crows,1929127,67969937,1001,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Chelsea Biddell,Adelaide Crows,0.5,1.6,NA,Pointsbet,Port Adelaide Power,1929127,67969937,1013,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Ashleigh Saint,Port Adelaide Power,0.5,1.7,NA,Pointsbet,Adelaide Crows,1929127,67969937,1002,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Chelsea Randall,Adelaide Crows,0.5,1.7,NA,Pointsbet,Port Adelaide Power,1929127,67969937,1014,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Anne Hatchard,Adelaide Crows,0.5,1.95,NA,Pointsbet,Port Adelaide Power,1929127,67969937,1015,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Stevie-Lee Thompson,Adelaide Crows,0.5,2.15,NA,Pointsbet,Port Adelaide Power,1929127,67969937,1016,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Julia Teakle,Port Adelaide Power,0.5,2.5,NA,Pointsbet,Adelaide Crows,1929127,67969937,1003,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Kirsty Lamb,Port Adelaide Power,0.5,2.5,NA,Pointsbet,Adelaide Crows,1929127,67969937,1004,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Niamh Kelly,Adelaide Crows,0.5,2.6,NA,Pointsbet,Port Adelaide Power,1929127,67969937,1017,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Rachelle Martin,Adelaide Crows,0.5,2.6,NA,Pointsbet,Port Adelaide Power,1929127,67969937,1018,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Brooke Boileau,Adelaide Crows,0.5,3,NA,Pointsbet,Port Adelaide Power,1929127,67969937,1019,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Ebony Marinoff,Adelaide Crows,0.5,3,NA,Pointsbet,Port Adelaide Power,1929127,67969937,1020,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Madison Newman,Adelaide Crows,0.5,3,NA,Pointsbet,Port Adelaide Power,1929127,67969937,1021,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Justine Mules,NA,0.5,3.5,NA,Pointsbet,NA,1929127,67969937,1005,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Shineah Goody,Port Adelaide Power,0.5,4,NA,Pointsbet,Adelaide Crows,1929127,67969937,1008,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Abbey Dowrick,Port Adelaide Power,0.5,4.5,NA,Pointsbet,Adelaide Crows,1929127,67969937,1006,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Cheyenne Hammond,Port Adelaide Power,0.5,4.5,NA,Pointsbet,Adelaide Crows,1929127,67969937,1007,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Ella Boag,Port Adelaide Power,0.5,5,NA,Pointsbet,Adelaide Crows,1929127,67969937,1009,NA
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Goals,Olivia Levicki,Port Adelaide Power,0.5,5,NA,Pointsbet,Adelaide Crows,1929127,67969937,1010,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Aline McDonagh,NA,0.5,1.35,NA,Pointsbet,NA,1929128,67970010,1001,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Greta Bodey,Hawthorn Hawks,0.5,1.45,NA,Pointsbet,Carlton,1929128,67970010,1002,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mia Austin,Carlton,0.5,1.45,NA,Pointsbet,Hawthorn Hawks,1929128,67970010,1012,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Bridie Hipwell,Hawthorn Hawks,0.5,1.7,NA,Pointsbet,Carlton,1929128,67970010,1003,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Darcy Vescio,Carlton,0.5,1.9,NA,Pointsbet,Hawthorn Hawks,1929128,67970010,1013,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Breann Moody,Carlton,0.5,2,NA,Pointsbet,Hawthorn Hawks,1929128,67970010,1014,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Aileen Gilroy,Hawthorn Hawks,0.5,2.05,NA,Pointsbet,Carlton,1929128,67970010,1004,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Jess Vukic,Hawthorn Hawks,0.5,2.05,NA,Pointsbet,Carlton,1929128,67970010,1005,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mattea Breed,Hawthorn Hawks,0.5,2.07,NA,Pointsbet,Carlton,1929128,67970010,1006,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Lila Keck,Carlton,0.5,2.8,NA,Pointsbet,Hawthorn Hawks,1929128,67970010,1015,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Keely Skepper,NA,0.5,2.85,NA,Pointsbet,NA,1929128,67970010,1016,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Abbie McKay,Carlton,0.5,3,NA,Pointsbet,Hawthorn Hawks,1929128,67970010,1017,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mimi Hill,Carlton,0.5,3.1,NA,Pointsbet,Hawthorn Hawks,1929128,67970010,1018,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Eliza West,Hawthorn Hawks,0.5,3.2,NA,Pointsbet,Carlton,1929128,67970010,1007,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Emily Bates,Hawthorn Hawks,0.5,3.25,NA,Pointsbet,Carlton,1929128,67970010,1008,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Mikayla Williamson,Hawthorn Hawks,0.5,3.25,NA,Pointsbet,Carlton,1929128,67970010,1009,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Tilly Lucas-Rodd,Hawthorn Hawks,0.5,3.25,NA,Pointsbet,Carlton,1929128,67970010,1010,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Keeley Sherar,Carlton,0.5,3.4,NA,Pointsbet,Hawthorn Hawks,1929128,67970010,1019,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Jess Good,NA,0.5,3.6,NA,Pointsbet,NA,1929128,67970010,1020,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Maddy Guerin,NA,0.5,3.7,NA,Pointsbet,NA,1929128,67970010,1021,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Jasmine Fleming,Hawthorn Hawks,0.5,4.5,NA,Pointsbet,Carlton,1929128,67970010,1011,NA
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Goals,Gabriella Pound,NA,0.5,4.5,NA,Pointsbet,NA,1929128,67970010,1022,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Dakota Davidson,Brisbane Lions,0.5,1.23,NA,Pointsbet,North Melbourne Kangaroos,1929129,67970084,1001,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Tahlia Randall,North Melbourne Kangaroos,0.5,1.3,NA,Pointsbet,Brisbane Lions,1929129,67970084,1013,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Sophie Conway,Brisbane Lions,0.5,1.6,NA,Pointsbet,North Melbourne Kangaroos,1929129,67970084,1002,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Jasmine Garner,North Melbourne Kangaroos,0.5,1.7,NA,Pointsbet,Brisbane Lions,1929129,67970084,1014,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Kate Shierlaw,North Melbourne Kangaroos,0.5,1.85,NA,Pointsbet,Brisbane Lions,1929129,67970084,1015,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Taylor Smith,Brisbane Lions,0.5,1.95,NA,Pointsbet,North Melbourne Kangaroos,1929129,67970084,1003,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Orla O'Dwyer,Brisbane Lions,0.5,2.05,NA,Pointsbet,North Melbourne Kangaroos,1929129,67970084,1004,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Emma King,North Melbourne Kangaroos,0.5,2.25,NA,Pointsbet,Brisbane Lions,1929129,67970084,1016,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Isabella Eddey,NA,0.5,2.25,NA,Pointsbet,NA,1929129,67970084,1017,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Charlotte Mullins,Brisbane Lions,0.5,2.3,NA,Pointsbet,North Melbourne Kangaroos,1929129,67970084,1005,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Courtney Hodder,Brisbane Lions,0.5,2.5,NA,Pointsbet,North Melbourne Kangaroos,1929129,67970084,1006,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Alice O'loughlin,NA,0.5,2.6,NA,Pointsbet,NA,1929129,67970084,1018,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Lily Postlethwaite,Brisbane Lions,0.5,3,NA,Pointsbet,North Melbourne Kangaroos,1929129,67970084,1007,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Catherine Svarc,NA,0.5,3.5,NA,Pointsbet,NA,1929129,67970084,1008,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ellie Hampson,Brisbane Lions,0.5,3.5,NA,Pointsbet,North Melbourne Kangaroos,1929129,67970084,1009,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Isabel Dawes,Brisbane Lions,0.5,3.6,NA,Pointsbet,North Melbourne Kangaroos,1929129,67970084,1010,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Mia King,North Melbourne Kangaroos,0.5,4,NA,Pointsbet,Brisbane Lions,1929129,67970084,1019,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Alexandra Anderson,NA,0.5,4.5,NA,Pointsbet,NA,1929129,67970084,1011,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ashleigh Riddell,NA,0.5,4.5,NA,Pointsbet,NA,1929129,67970084,1022,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Niamh Martin,North Melbourne Kangaroos,0.5,4.5,NA,Pointsbet,Brisbane Lions,1929129,67970084,1023,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Jade Ellenger,Brisbane Lions,0.5,5,NA,Pointsbet,North Melbourne Kangaroos,1929129,67970084,1012,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Ruby Tripodi,North Melbourne Kangaroos,0.5,5,NA,Pointsbet,Brisbane Lions,1929129,67970084,1020,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Tess Craven,North Melbourne Kangaroos,0.5,5,NA,Pointsbet,Brisbane Lions,1929129,67970084,1021,NA
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Player Goals,Emma Kearney,North Melbourne Kangaroos,0.5,6,NA,Pointsbet,Brisbane Lions,1929129,67970084,1024,NA

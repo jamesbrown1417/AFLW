@@ -1,357 +1,173 @@
 match,home_team,away_team,player_name,player_team,line,over_price,opposition_team,market_name,agency
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Bonnie Toogood,Essendon Bombers,0.5,1.17,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Aine Tighe,Fremantle Dockers,0.5,1.4,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Amber Clarke,Essendon Bombers,0.5,1.7,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Ebony Antonio,Fremantle Dockers,0.5,1.77,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Sophie Alexander,Essendon Bombers,0.5,1.95,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Madison Prespakis,Essendon Bombers,0.5,2.04,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Daria Bannister,Essendon Bombers,0.5,2.16,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Aisling McCarthy,Fremantle Dockers,0.5,2.24,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Orlagh Lally,Fremantle Dockers,0.5,2.42,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Amelia Radford,Essendon Bombers,0.5,2.62,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Hayley Miller,Fremantle Dockers,0.5,2.67,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Megan Kauffman,Fremantle Dockers,0.5,2.67,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Gabby O'Sullivan,Fremantle Dockers,0.5,3.1,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Gabrielle Newton,Fremantle Dockers,0.5,3.15,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Airlie Runnalls,Fremantle Dockers,0.5,3.35,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Georgia Gee,Essendon Bombers,0.5,3.4,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Georgia Nanscawen,Essendon Bombers,0.5,3.65,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Kodi Jacques,Essendon Bombers,0.5,3.75,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Amy Mulholland,Fremantle Dockers,0.5,3.8,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Emily Gough,Essendon Bombers,0.5,4.4,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Maddison Gay,Essendon Bombers,0.5,4.4,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Tunisha Kikoak,Fremantle Dockers,0.5,4.9,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Amy Gaylor,Essendon Bombers,0.5,5,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Ashleigh Brazill,Fremantle Dockers,0.5,5,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Brooke Walker,Essendon Bombers,0.5,5,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Dana East,Fremantle Dockers,0.5,5,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Elizabeth Keaney,Essendon Bombers,0.5,5,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Bonnie Toogood,Essendon Bombers,1.5,1.84,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Aine Tighe,Fremantle Dockers,1.5,2.81,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Amber Clarke,Essendon Bombers,1.5,4.3,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Ebony Antonio,Fremantle Dockers,1.5,4.8,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Sophie Alexander,Essendon Bombers,1.5,6.25,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Madison Prespakis,Essendon Bombers,1.5,7,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Daria Bannister,Essendon Bombers,1.5,8,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Aisling McCarthy,Fremantle Dockers,1.5,9,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Airlie Runnalls,Fremantle Dockers,1.5,10,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Amelia Radford,Essendon Bombers,1.5,10,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Gabby O'Sullivan,Fremantle Dockers,1.5,10,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Gabrielle Newton,Fremantle Dockers,1.5,10,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Georgia Gee,Essendon Bombers,1.5,10,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Hayley Miller,Fremantle Dockers,1.5,10,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Megan Kauffman,Fremantle Dockers,1.5,10,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Orlagh Lally,Fremantle Dockers,1.5,10,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Bonnie Toogood,Essendon Bombers,2.5,3.5,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Aine Tighe,Fremantle Dockers,2.5,7,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Amber Clarke,Essendon Bombers,2.5,16,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Ebony Antonio,Fremantle Dockers,2.5,17,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Aisling McCarthy,Fremantle Dockers,2.5,21,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Amelia Radford,Essendon Bombers,2.5,21,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Daria Bannister,Essendon Bombers,2.5,21,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Gabby O'Sullivan,Fremantle Dockers,2.5,21,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Hayley Miller,Fremantle Dockers,2.5,21,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Madison Prespakis,Essendon Bombers,2.5,21,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Megan Kauffman,Fremantle Dockers,2.5,21,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Orlagh Lally,Fremantle Dockers,2.5,21,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Sophie Alexander,Essendon Bombers,2.5,21,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Bonnie Toogood,Essendon Bombers,3.5,8.25,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Aine Tighe,Fremantle Dockers,3.5,23,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Amber Clarke,Essendon Bombers,3.5,58,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Ebony Antonio,Fremantle Dockers,3.5,61,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Aisling McCarthy,Fremantle Dockers,3.5,67,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Daria Bannister,Essendon Bombers,3.5,67,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Madison Prespakis,Essendon Bombers,3.5,67,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Orlagh Lally,Fremantle Dockers,3.5,67,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Sophie Alexander,Essendon Bombers,3.5,67,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Bonnie Toogood,Essendon Bombers,4.5,22,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Aine Tighe,Fremantle Dockers,4.5,67,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Airlie Runnalls,Fremantle Dockers,4.5,101,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Aisling McCarthy,Fremantle Dockers,4.5,101,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Amber Clarke,Essendon Bombers,4.5,101,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Daria Bannister,Essendon Bombers,4.5,101,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Ebony Antonio,Fremantle Dockers,4.5,101,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Gabby O'Sullivan,Fremantle Dockers,4.5,101,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Gabrielle Newton,Fremantle Dockers,4.5,101,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Hayley Miller,Fremantle Dockers,4.5,101,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Madison Prespakis,Essendon Bombers,4.5,101,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Orlagh Lally,Fremantle Dockers,4.5,101,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Sophie Alexander,Essendon Bombers,4.5,101,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Bonnie Toogood,Essendon Bombers,5.5,56,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Aine Tighe,Fremantle Dockers,5.5,181,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Amber Clarke,Essendon Bombers,5.5,201,Fremantle Dockers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Ebony Antonio,Fremantle Dockers,5.5,201,Essendon Bombers,Player Goals,TopSport
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Hayley Miller,Fremantle Dockers,5.5,201,Essendon Bombers,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jesse Wardlaw,St Kilda Saints,0.5,1.33,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jamie Stanton,Gold Coast Suns,0.5,1.37,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Tara Bohanna,Gold Coast Suns,0.5,1.42,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jacqueline Dupuy,Gold Coast Suns,0.5,1.57,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jaimee Lambert,St Kilda Saints,0.5,1.89,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Nicola Xenos,St Kilda Saints,0.5,2.09,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Ashleigh Richards,St Kilda Saints,0.5,2.22,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Claudia Whitfort,Gold Coast Suns,0.5,2.43,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jordan Membrey,Gold Coast Suns,0.5,2.47,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Hannah Stuart,St Kilda Saints,0.5,2.62,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Tyanna Smith,St Kilda Saints,0.5,2.63,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Niamh McLaughlin,Gold Coast Suns,0.5,2.85,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Darcie Davies,Gold Coast Suns,0.5,2.95,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Ella Friend,St Kilda Saints,0.5,3.05,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,J'Noemi Anderson,St Kilda Saints,0.5,3.05,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Olivia Vesely,St Kilda Saints,0.5,3.1,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Molly McDonald,St Kilda Saints,0.5,3.6,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Elise Barwick,Gold Coast Suns,0.5,3.7,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Charlie Rowbottom,Gold Coast Suns,0.5,3.85,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Lauren Bella,Gold Coast Suns,0.5,3.85,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Lucy Single,Gold Coast Suns,0.5,3.95,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Georgia Clayden,Gold Coast Suns,0.5,4,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Rene Caris,St Kilda Saints,0.5,4.3,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Daisy D'Arcy,Gold Coast Suns,0.5,4.9,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Simone Nalder,St Kilda Saints,0.5,4.9,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Charlotte Wilson,Gold Coast Suns,0.5,5,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Ella Maurer,Gold Coast Suns,0.5,5,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Grace Kelly,St Kilda Saints,0.5,5,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jesse Wardlaw,St Kilda Saints,1.5,2.59,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jamie Stanton,Gold Coast Suns,1.5,2.75,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Tara Bohanna,Gold Coast Suns,1.5,2.98,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jacqueline Dupuy,Gold Coast Suns,1.5,3.75,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jaimee Lambert,St Kilda Saints,1.5,5.5,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Nicola Xenos,St Kilda Saints,1.5,7.5,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Ashleigh Richards,St Kilda Saints,1.5,8.75,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Claudia Whitfort,Gold Coast Suns,1.5,10,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Darcie Davies,Gold Coast Suns,1.5,10,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Ella Friend,St Kilda Saints,1.5,10,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Hannah Stuart,St Kilda Saints,1.5,10,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,J'Noemi Anderson,St Kilda Saints,1.5,10,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jordan Membrey,Gold Coast Suns,1.5,10,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Niamh McLaughlin,Gold Coast Suns,1.5,10,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Olivia Vesely,St Kilda Saints,1.5,10,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Tyanna Smith,St Kilda Saints,1.5,10,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jesse Wardlaw,St Kilda Saints,2.5,6.25,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jamie Stanton,Gold Coast Suns,2.5,7,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Tara Bohanna,Gold Coast Suns,2.5,7.5,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jacqueline Dupuy,Gold Coast Suns,2.5,12,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Ashleigh Richards,St Kilda Saints,2.5,21,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Claudia Whitfort,Gold Coast Suns,2.5,21,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Darcie Davies,Gold Coast Suns,2.5,21,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Ella Friend,St Kilda Saints,2.5,21,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Hannah Stuart,St Kilda Saints,2.5,21,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jaimee Lambert,St Kilda Saints,2.5,21,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,J'Noemi Anderson,St Kilda Saints,2.5,21,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jordan Membrey,Gold Coast Suns,2.5,21,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Niamh McLaughlin,Gold Coast Suns,2.5,21,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Nicola Xenos,St Kilda Saints,2.5,21,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Olivia Vesely,St Kilda Saints,2.5,21,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Tyanna Smith,St Kilda Saints,2.5,21,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jesse Wardlaw,St Kilda Saints,3.5,19,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jamie Stanton,Gold Coast Suns,3.5,22,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Tara Bohanna,Gold Coast Suns,3.5,26,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jacqueline Dupuy,Gold Coast Suns,3.5,44,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Ashleigh Richards,St Kilda Saints,3.5,67,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Claudia Whitfort,Gold Coast Suns,3.5,67,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jaimee Lambert,St Kilda Saints,3.5,67,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Nicola Xenos,St Kilda Saints,3.5,67,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Tyanna Smith,St Kilda Saints,3.5,67,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jesse Wardlaw,St Kilda Saints,4.5,58,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jamie Stanton,Gold Coast Suns,4.5,65,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Tara Bohanna,Gold Coast Suns,4.5,81,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Ashleigh Richards,St Kilda Saints,4.5,101,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Claudia Whitfort,Gold Coast Suns,4.5,101,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Ella Friend,St Kilda Saints,4.5,101,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jacqueline Dupuy,Gold Coast Suns,4.5,101,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jaimee Lambert,St Kilda Saints,4.5,101,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Niamh McLaughlin,Gold Coast Suns,4.5,101,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Nicola Xenos,St Kilda Saints,4.5,101,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Simone Nalder,St Kilda Saints,4.5,101,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Tyanna Smith,St Kilda Saints,4.5,101,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jesse Wardlaw,St Kilda Saints,5.5,141,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jamie Stanton,Gold Coast Suns,5.5,161,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jacqueline Dupuy,Gold Coast Suns,5.5,201,St Kilda Saints,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Jaimee Lambert,St Kilda Saints,5.5,201,Gold Coast Suns,Player Goals,TopSport
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Tara Bohanna,Gold Coast Suns,5.5,201,St Kilda Saints,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Jacqueline Parry,Geelong Cats,0.5,1.3,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Eden Zanker,Melbourne Demons,0.5,1.39,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Hore,Melbourne Demons,0.5,1.42,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Aishling Moloney,Geelong Cats,0.5,1.58,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Alyssa Bannan,Melbourne Demons,0.5,1.82,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Kenny,Geelong Cats,0.5,2.08,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Ryleigh Wotherspoon,Melbourne Demons,0.5,2.14,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Nina Morrison,Geelong Cats,0.5,2.19,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Amy McDonald,Geelong Cats,0.5,2.41,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Georgie Prespakis,Geelong Cats,0.5,2.54,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Surman,Geelong Cats,0.5,2.61,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Lily Mithen,Melbourne Demons,0.5,2.64,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Tyla Hanks,Melbourne Demons,0.5,2.67,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Darby,Geelong Cats,0.5,2.85,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Megan Fitzsimon,Melbourne Demons,0.5,2.86,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Eliza McNamara,Melbourne Demons,0.5,2.99,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Paxy Paxman,Melbourne Demons,0.5,3.05,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Sarah Lampard,Melbourne Demons,0.5,3.05,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Darcy Moloney,Geelong Cats,0.5,3.2,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Julia Crockett-Grills,Geelong Cats,0.5,3.75,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Rebecca Webster,Geelong Cats,0.5,4.6,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Rachel Kearns,Geelong Cats,0.5,4.8,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Blaithin Mackin,Melbourne Demons,0.5,5,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Gabbi Featherston,Geelong Cats,0.5,5,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Lauren Pearce,Melbourne Demons,0.5,5,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Mikayla Bowen,Geelong Cats,0.5,5,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Shelley Heath,Melbourne Demons,0.5,5,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Zali Friswell,Geelong Cats,0.5,5,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Jacqueline Parry,Geelong Cats,1.5,2.42,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Eden Zanker,Melbourne Demons,1.5,2.82,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Hore,Melbourne Demons,1.5,2.99,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Aishling Moloney,Geelong Cats,1.5,3.65,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Alyssa Bannan,Melbourne Demons,1.5,5,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Kenny,Geelong Cats,1.5,7.25,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Ryleigh Wotherspoon,Melbourne Demons,1.5,7.75,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Nina Morrison,Geelong Cats,1.5,8.25,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Amy McDonald,Geelong Cats,1.5,10,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Darcy Moloney,Geelong Cats,1.5,10,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Eliza McNamara,Melbourne Demons,1.5,10,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Georgie Prespakis,Geelong Cats,1.5,10,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Darby,Geelong Cats,1.5,10,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Surman,Geelong Cats,1.5,10,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Lily Mithen,Melbourne Demons,1.5,10,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Megan Fitzsimon,Melbourne Demons,1.5,10,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Paxy Paxman,Melbourne Demons,1.5,10,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Sarah Lampard,Melbourne Demons,1.5,10,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Tyla Hanks,Melbourne Demons,1.5,10,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Jacqueline Parry,Geelong Cats,2.5,5.6,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Eden Zanker,Melbourne Demons,2.5,7.25,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Hore,Melbourne Demons,2.5,8,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Aishling Moloney,Geelong Cats,2.5,12,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Alyssa Bannan,Melbourne Demons,2.5,19,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Amy McDonald,Geelong Cats,2.5,21,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Eliza McNamara,Melbourne Demons,2.5,21,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Georgie Prespakis,Geelong Cats,2.5,21,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Darby,Geelong Cats,2.5,21,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Kenny,Geelong Cats,2.5,21,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Surman,Geelong Cats,2.5,21,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Lily Mithen,Melbourne Demons,2.5,21,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Megan Fitzsimon,Melbourne Demons,2.5,21,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Nina Morrison,Geelong Cats,2.5,21,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Paxy Paxman,Melbourne Demons,2.5,21,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Ryleigh Wotherspoon,Melbourne Demons,2.5,21,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Sarah Lampard,Melbourne Demons,2.5,21,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Tyla Hanks,Melbourne Demons,2.5,21,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Jacqueline Parry,Geelong Cats,3.5,17,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Eden Zanker,Melbourne Demons,3.5,23,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Hore,Melbourne Demons,3.5,26,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Aishling Moloney,Geelong Cats,3.5,38,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Alyssa Bannan,Melbourne Demons,3.5,67,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Amy McDonald,Geelong Cats,3.5,67,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Georgie Prespakis,Geelong Cats,3.5,67,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Kenny,Geelong Cats,3.5,67,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Surman,Geelong Cats,3.5,67,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Nina Morrison,Geelong Cats,3.5,67,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Ryleigh Wotherspoon,Melbourne Demons,3.5,67,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Jacqueline Parry,Geelong Cats,4.5,51,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Eden Zanker,Melbourne Demons,4.5,75,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Hore,Melbourne Demons,4.5,81,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Aishling Moloney,Geelong Cats,4.5,101,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Alyssa Bannan,Melbourne Demons,4.5,101,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Amy McDonald,Geelong Cats,4.5,101,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Georgie Prespakis,Geelong Cats,4.5,101,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Darby,Geelong Cats,4.5,101,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Kenny,Geelong Cats,4.5,101,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Surman,Geelong Cats,4.5,101,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Lily Mithen,Melbourne Demons,4.5,101,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Megan Fitzsimon,Melbourne Demons,4.5,101,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Nina Morrison,Geelong Cats,4.5,101,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Paxy Paxman,Melbourne Demons,4.5,101,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Ryleigh Wotherspoon,Melbourne Demons,4.5,101,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Tyla Hanks,Melbourne Demons,4.5,101,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Jacqueline Parry,Geelong Cats,5.5,111,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Eden Zanker,Melbourne Demons,5.5,171,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Aishling Moloney,Geelong Cats,5.5,201,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Alyssa Bannan,Melbourne Demons,5.5,201,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Hore,Melbourne Demons,5.5,201,Geelong Cats,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Kate Kenny,Geelong Cats,5.5,201,Melbourne Demons,Player Goals,TopSport
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Ryleigh Wotherspoon,Melbourne Demons,5.5,201,Geelong Cats,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Danielle Ponter,Adelaide Crows,0.5,1.2,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Eloise Jones,Adelaide Crows,0.5,1.27,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Gemma Houghton,Port Adelaide Power,0.5,1.48,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ashleigh Saint,Port Adelaide Power,0.5,1.53,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Chelsea Randall,Adelaide Crows,0.5,1.66,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Chelsea Biddell,Adelaide Crows,0.5,1.68,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Anne Hatchard,Adelaide Crows,0.5,2,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Rachelle Martin,Adelaide Crows,0.5,2.24,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Stevie-Lee Thompson,Adelaide Crows,0.5,2.31,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Kirsty Lamb,Port Adelaide Power,0.5,2.36,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Niamh Kelly,Adelaide Crows,0.5,2.36,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Julia Teakle,Port Adelaide Power,0.5,2.41,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ebony Marinoff,Adelaide Crows,0.5,2.74,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Brooke Boileau,Adelaide Crows,0.5,2.75,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Madison Newman,Adelaide Crows,0.5,2.87,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Shineah Goody,Port Adelaide Power,0.5,4.5,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ella Boag,Port Adelaide Power,0.5,4.7,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Abbey Dowrick,Port Adelaide Power,0.5,5,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Angela Foley,Port Adelaide Power,0.5,5,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Cheyenne Hammond,Port Adelaide Power,0.5,5,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Justine Mules,NA,0.5,5,NA,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Maria Moloney,Port Adelaide Power,0.5,5,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Olivia Levicki,Port Adelaide Power,0.5,5,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Piper Window,Port Adelaide Power,0.5,5,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Danielle Ponter,Adelaide Crows,1.5,1.99,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Eloise Jones,Adelaide Crows,1.5,2.26,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Gemma Houghton,Port Adelaide Power,1.5,3.25,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ashleigh Saint,Port Adelaide Power,1.5,3.45,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Chelsea Randall,Adelaide Crows,1.5,4.1,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Chelsea Biddell,Adelaide Crows,1.5,4.2,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Anne Hatchard,Adelaide Crows,1.5,6.5,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Rachelle Martin,Adelaide Crows,1.5,9,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Brooke Boileau,Adelaide Crows,1.5,10,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ebony Marinoff,Adelaide Crows,1.5,10,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Julia Teakle,Port Adelaide Power,1.5,10,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Kirsty Lamb,Port Adelaide Power,1.5,10,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Madison Newman,Adelaide Crows,1.5,10,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Niamh Kelly,Adelaide Crows,1.5,10,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Stevie-Lee Thompson,Adelaide Crows,1.5,10,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Danielle Ponter,Adelaide Crows,2.5,4,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Eloise Jones,Adelaide Crows,2.5,5,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Gemma Houghton,Port Adelaide Power,2.5,9,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ashleigh Saint,Port Adelaide Power,2.5,9.75,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Chelsea Biddell,Adelaide Crows,2.5,15,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Chelsea Randall,Adelaide Crows,2.5,15,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Anne Hatchard,Adelaide Crows,2.5,21,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Brooke Boileau,Adelaide Crows,2.5,21,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ebony Marinoff,Adelaide Crows,2.5,21,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Julia Teakle,Port Adelaide Power,2.5,21,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Kirsty Lamb,Port Adelaide Power,2.5,21,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Madison Newman,Adelaide Crows,2.5,21,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Niamh Kelly,Adelaide Crows,2.5,21,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Rachelle Martin,Adelaide Crows,2.5,21,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Stevie-Lee Thompson,Adelaide Crows,2.5,21,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Danielle Ponter,Adelaide Crows,3.5,10,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Eloise Jones,Adelaide Crows,3.5,14,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ashleigh Saint,Port Adelaide Power,3.5,31,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Gemma Houghton,Port Adelaide Power,3.5,31,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Chelsea Randall,Adelaide Crows,3.5,51,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Chelsea Biddell,Adelaide Crows,3.5,54,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Anne Hatchard,Adelaide Crows,3.5,67,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ebony Marinoff,Adelaide Crows,3.5,67,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Julia Teakle,Port Adelaide Power,3.5,67,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Kirsty Lamb,Port Adelaide Power,3.5,67,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Niamh Kelly,Adelaide Crows,3.5,67,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Rachelle Martin,Adelaide Crows,3.5,67,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Stevie-Lee Thompson,Adelaide Crows,3.5,67,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Danielle Ponter,Adelaide Crows,4.5,29,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Eloise Jones,Adelaide Crows,4.5,38,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ashleigh Saint,Port Adelaide Power,4.5,85,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Gemma Houghton,Port Adelaide Power,4.5,85,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Anne Hatchard,Adelaide Crows,4.5,101,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Chelsea Biddell,Adelaide Crows,4.5,101,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Chelsea Randall,Adelaide Crows,4.5,101,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ebony Marinoff,Adelaide Crows,4.5,101,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Julia Teakle,Port Adelaide Power,4.5,101,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Kirsty Lamb,Port Adelaide Power,4.5,101,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Madison Newman,Adelaide Crows,4.5,101,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Niamh Kelly,Adelaide Crows,4.5,101,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Rachelle Martin,Adelaide Crows,4.5,101,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Stevie-Lee Thompson,Adelaide Crows,4.5,101,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Danielle Ponter,Adelaide Crows,5.5,75,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Eloise Jones,Adelaide Crows,5.5,101,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Anne Hatchard,Adelaide Crows,5.5,201,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Ashleigh Saint,Port Adelaide Power,5.5,201,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Chelsea Biddell,Adelaide Crows,5.5,201,Port Adelaide Power,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Gemma Houghton,Port Adelaide Power,5.5,201,Adelaide Crows,Player Goals,TopSport
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Rachelle Martin,Adelaide Crows,5.5,201,Port Adelaide Power,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Aine McDonagh,Hawthorn Hawks,0.5,1.34,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Mia Austin,Carlton,0.5,1.42,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Greta Bodey,Hawthorn Hawks,0.5,1.49,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Bridie Hipwell,Hawthorn Hawks,0.5,1.6,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Darcy Vescio,Carlton,0.5,1.89,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Aileen Gilroy,Hawthorn Hawks,0.5,1.94,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Jess Vukic,Hawthorn Hawks,0.5,1.99,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Casey Sherriff,Hawthorn Hawks,0.5,2.04,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Breann Moody,Carlton,0.5,2.06,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Lila Keck,Carlton,0.5,2.63,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Abbie McKay,Carlton,0.5,2.78,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Keeley Skepper,Carlton,0.5,2.81,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Eliza West,Hawthorn Hawks,0.5,2.92,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Mattea Breed,Hawthorn Hawks,0.5,2.94,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Keeley Sherar,Carlton,0.5,3.1,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Harriet Cordner,Carlton,0.5,3.4,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Emily Bates,Hawthorn Hawks,0.5,3.6,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Madeline Hendrie,Carlton,0.5,4.2,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Ciara Fitzgerald,Carlton,0.5,5,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Dayna Finn,Carlton,0.5,5,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Genevieve Lawson,NA,0.5,5,NA,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Jess Good,NA,0.5,5,NA,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Madeleine Guerin,Carlton,0.5,5,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Mimi Hill,Carlton,0.5,5,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Tilly Lucas-Rodd,Hawthorn Hawks,0.5,5,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Aine McDonagh,Hawthorn Hawks,1.5,2.59,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Mia Austin,Carlton,1.5,2.97,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Greta Bodey,Hawthorn Hawks,1.5,3.3,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Bridie Hipwell,Hawthorn Hawks,1.5,3.85,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Darcy Vescio,Carlton,1.5,5.5,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Aileen Gilroy,Hawthorn Hawks,1.5,6.25,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Jess Vukic,Hawthorn Hawks,1.5,6.25,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Breann Moody,Carlton,1.5,7,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Casey Sherriff,Hawthorn Hawks,1.5,7,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Abbie McKay,Carlton,1.5,10,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Eliza West,Hawthorn Hawks,1.5,10,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Harriet Cordner,Carlton,1.5,10,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Keeley Sherar,Carlton,1.5,10,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Keeley Skepper,Carlton,1.5,10,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Lila Keck,Carlton,1.5,10,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Mattea Breed,Hawthorn Hawks,1.5,10,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Aine McDonagh,Hawthorn Hawks,2.5,6.25,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Mia Austin,Carlton,2.5,8,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Greta Bodey,Hawthorn Hawks,2.5,9.75,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Bridie Hipwell,Hawthorn Hawks,2.5,13,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Abbie McKay,Carlton,2.5,21,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Aileen Gilroy,Hawthorn Hawks,2.5,21,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Breann Moody,Carlton,2.5,21,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Casey Sherriff,Hawthorn Hawks,2.5,21,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Darcy Vescio,Carlton,2.5,21,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Eliza West,Hawthorn Hawks,2.5,21,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Jess Vukic,Hawthorn Hawks,2.5,21,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Keeley Sherar,Carlton,2.5,21,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Keeley Skepper,Carlton,2.5,21,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Lila Keck,Carlton,2.5,21,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Mattea Breed,Hawthorn Hawks,2.5,21,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Aine McDonagh,Hawthorn Hawks,3.5,20,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Mia Austin,Carlton,3.5,26,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Greta Bodey,Hawthorn Hawks,3.5,34,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Bridie Hipwell,Hawthorn Hawks,3.5,44,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Aileen Gilroy,Hawthorn Hawks,3.5,67,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Breann Moody,Carlton,3.5,67,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Casey Sherriff,Hawthorn Hawks,3.5,67,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Darcy Vescio,Carlton,3.5,67,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Jess Vukic,Hawthorn Hawks,3.5,67,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Lila Keck,Carlton,3.5,67,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Aine McDonagh,Hawthorn Hawks,4.5,58,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Mia Austin,Carlton,4.5,81,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Greta Bodey,Hawthorn Hawks,4.5,91,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Abbie McKay,Carlton,4.5,101,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Aileen Gilroy,Hawthorn Hawks,4.5,101,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Breann Moody,Carlton,4.5,101,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Bridie Hipwell,Hawthorn Hawks,4.5,101,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Casey Sherriff,Hawthorn Hawks,4.5,101,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Darcy Vescio,Carlton,4.5,101,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Eliza West,Hawthorn Hawks,4.5,101,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Jess Good,NA,4.5,101,NA,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Jess Vukic,Hawthorn Hawks,4.5,101,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Lila Keck,Carlton,4.5,101,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Aine McDonagh,Hawthorn Hawks,5.5,171,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Breann Moody,Carlton,5.5,201,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Bridie Hipwell,Hawthorn Hawks,5.5,201,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Casey Sherriff,Hawthorn Hawks,5.5,201,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Darcy Vescio,Carlton,5.5,201,Hawthorn Hawks,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Greta Bodey,Hawthorn Hawks,5.5,201,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Jess Vukic,Hawthorn Hawks,5.5,201,Carlton,Player Goals,TopSport
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Mia Austin,Carlton,5.5,201,Hawthorn Hawks,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Dakota Davidson,Brisbane Lions,0.5,1.3,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Tahlia Randall,North Melbourne Kangaroos,0.5,1.39,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Sophie Conway,Brisbane Lions,0.5,1.62,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Jasmine Garner,North Melbourne Kangaroos,0.5,1.74,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Kate Shierlaw,North Melbourne Kangaroos,0.5,1.77,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Taylor Smith,Brisbane Lions,0.5,1.82,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Orla O'Dwyer,Brisbane Lions,0.5,2.04,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Emma King,North Melbourne Kangaroos,0.5,2.07,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Bella Eddey,North Melbourne Kangaroos,0.5,2.09,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Courtney Hodder,Brisbane Lions,0.5,2.19,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Alice O'Loughlin,North Melbourne Kangaroos,0.5,2.61,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Vikki Wall,North Melbourne Kangaroos,0.5,2.91,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Lily Postlethwaite,Brisbane Lions,0.5,3.15,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Ruby Tripodi,North Melbourne Kangaroos,0.5,3.2,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Isabel Dawes,Brisbane Lions,0.5,3.25,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Charlotte Mullins,Brisbane Lions,0.5,3.45,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Ruby Svarc,Brisbane Lions,0.5,3.6,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Ash Riddell,North Melbourne Kangaroos,0.5,3.75,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Ellie Hampson,Brisbane Lions,0.5,3.9,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Shanae Davison,Brisbane Lions,0.5,4.1,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Ally Anderson,Brisbane Lions,0.5,4.3,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Breanna Koenen,Brisbane Lions,0.5,5,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Jade Ellenger,Brisbane Lions,0.5,5,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Niamh Martin,North Melbourne Kangaroos,0.5,5,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Poppy Boltz,Brisbane Lions,0.5,5,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Shannon Campbell,Brisbane Lions,0.5,5,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Dakota Davidson,Brisbane Lions,1.5,2.42,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Tahlia Randall,North Melbourne Kangaroos,1.5,2.81,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Sophie Conway,Brisbane Lions,1.5,3.95,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Jasmine Garner,North Melbourne Kangaroos,1.5,4.6,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Kate Shierlaw,North Melbourne Kangaroos,1.5,4.8,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Taylor Smith,Brisbane Lions,1.5,5.1,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Orla O'Dwyer,Brisbane Lions,1.5,6.75,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Bella Eddey,North Melbourne Kangaroos,1.5,7.5,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Emma King,North Melbourne Kangaroos,1.5,7.5,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Courtney Hodder,Brisbane Lions,1.5,8.25,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Alice O'Loughlin,North Melbourne Kangaroos,1.5,10,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Charlotte Mullins,Brisbane Lions,1.5,10,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Isabel Dawes,Brisbane Lions,1.5,10,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Lily Postlethwaite,Brisbane Lions,1.5,10,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Ruby Svarc,Brisbane Lions,1.5,10,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Ruby Tripodi,North Melbourne Kangaroos,1.5,10,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Vikki Wall,North Melbourne Kangaroos,1.5,10,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Dakota Davidson,Brisbane Lions,2.5,5.7,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Tahlia Randall,North Melbourne Kangaroos,2.5,7,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Sophie Conway,Brisbane Lions,2.5,13,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Jasmine Garner,North Melbourne Kangaroos,2.5,17,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Kate Shierlaw,North Melbourne Kangaroos,2.5,18,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Taylor Smith,Brisbane Lions,2.5,19,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Alice O'Loughlin,North Melbourne Kangaroos,2.5,21,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Bella Eddey,North Melbourne Kangaroos,2.5,21,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Courtney Hodder,Brisbane Lions,2.5,21,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Emma King,North Melbourne Kangaroos,2.5,21,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Lily Postlethwaite,Brisbane Lions,2.5,21,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Orla O'Dwyer,Brisbane Lions,2.5,21,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Ruby Tripodi,North Melbourne Kangaroos,2.5,21,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Vikki Wall,North Melbourne Kangaroos,2.5,21,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Dakota Davidson,Brisbane Lions,3.5,17,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Tahlia Randall,North Melbourne Kangaroos,3.5,22,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Sophie Conway,Brisbane Lions,3.5,51,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Jasmine Garner,North Melbourne Kangaroos,3.5,58,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Kate Shierlaw,North Melbourne Kangaroos,3.5,61,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Bella Eddey,North Melbourne Kangaroos,3.5,67,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Courtney Hodder,Brisbane Lions,3.5,67,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Emma King,North Melbourne Kangaroos,3.5,67,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Orla O'Dwyer,Brisbane Lions,3.5,67,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Taylor Smith,Brisbane Lions,3.5,67,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Dakota Davidson,Brisbane Lions,4.5,54,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Tahlia Randall,North Melbourne Kangaroos,4.5,65,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Bella Eddey,North Melbourne Kangaroos,4.5,101,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Courtney Hodder,Brisbane Lions,4.5,101,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Ellie Hampson,Brisbane Lions,4.5,101,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Emma King,North Melbourne Kangaroos,4.5,101,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Jasmine Garner,North Melbourne Kangaroos,4.5,101,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Kate Shierlaw,North Melbourne Kangaroos,4.5,101,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Orla O'Dwyer,Brisbane Lions,4.5,101,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Sophie Conway,Brisbane Lions,4.5,101,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Taylor Smith,Brisbane Lions,4.5,101,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Dakota Davidson,Brisbane Lions,5.5,126,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Jasmine Garner,North Melbourne Kangaroos,5.5,201,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Kate Shierlaw,North Melbourne Kangaroos,5.5,201,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Orla O'Dwyer,Brisbane Lions,5.5,201,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Sophie Conway,Brisbane Lions,5.5,201,North Melbourne Kangaroos,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Tahlia Randall,North Melbourne Kangaroos,5.5,201,Brisbane Lions,Player Goals,TopSport
+Brisbane Lions v North Melbourne Kangaroos,Brisbane Lions,North Melbourne Kangaroos,Taylor Smith,Brisbane Lions,5.5,201,North Melbourne Kangaroos,Player Goals,TopSport

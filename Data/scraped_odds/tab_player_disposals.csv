@@ -1,290 +1,21 @@
 match,home_team,away_team,market_name,player_name,player_team,opposition_team,line,over_price,under_price,prop_id,under_prop_id,agency
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,Fremantle Dockers,14.5,1.16,NA,15176,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Bonnie Toogood,Essendon Bombers,Fremantle Dockers,14.5,1.17,NA,15174,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Aisling McCarthy,Fremantle Dockers,Essendon Bombers,14.5,1.3,NA,15180,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma ODriscoll,NA,NA,14.5,1.53,NA,15183,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Elizabeth Keaney,Essendon Bombers,Fremantle Dockers,14.5,1.55,NA,15175,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,Essendon Bombers,14.5,1.6,NA,15184,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Stephanie Cain,Essendon Bombers,Fremantle Dockers,14.5,1.7,NA,15179,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Dana East,Fremantle Dockers,Essendon Bombers,14.5,1.75,NA,15181,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Megan Kauffman,Fremantle Dockers,Essendon Bombers,14.5,2.2,NA,15185,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Ebony Antonio,Fremantle Dockers,Essendon Bombers,14.5,2.8,NA,15182,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Maddison Gay,Essendon Bombers,Fremantle Dockers,14.5,3,NA,15177,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,Fremantle Dockers,19.5,1.1,NA,15190,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,Fremantle Dockers,19.5,1.8,NA,15188,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Bonnie Toogood,Essendon Bombers,Fremantle Dockers,19.5,2.2,NA,15186,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Aisling McCarthy,Fremantle Dockers,Essendon Bombers,19.5,2.6,NA,15192,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma ODriscoll,NA,NA,19.5,3.5,NA,15195,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,Essendon Bombers,19.5,4,NA,15196,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Elizabeth Keaney,Essendon Bombers,Fremantle Dockers,19.5,4.75,NA,15187,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Dana East,Fremantle Dockers,Essendon Bombers,19.5,5,NA,15193,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Stephanie Cain,Essendon Bombers,Fremantle Dockers,19.5,6,NA,15191,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Megan Kauffman,Fremantle Dockers,Essendon Bombers,19.5,8,NA,15197,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Maddison Gay,Essendon Bombers,Fremantle Dockers,19.5,11,NA,15189,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Ebony Antonio,Fremantle Dockers,Essendon Bombers,19.5,12,NA,15194,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,Fremantle Dockers,24.5,1.5,NA,15202,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,Fremantle Dockers,24.5,3.6,NA,15200,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Bonnie Toogood,Essendon Bombers,Fremantle Dockers,24.5,7,NA,15198,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Aisling McCarthy,Fremantle Dockers,Essendon Bombers,24.5,9,NA,15204,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma ODriscoll,NA,NA,24.5,12,NA,15207,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,Essendon Bombers,24.5,14,NA,15208,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Elizabeth Keaney,Essendon Bombers,Fremantle Dockers,24.5,17,NA,15199,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Dana East,Fremantle Dockers,Essendon Bombers,24.5,23,NA,15205,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Stephanie Cain,Essendon Bombers,Fremantle Dockers,24.5,23,NA,15203,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Maddison Gay,Essendon Bombers,Fremantle Dockers,24.5,31,NA,15201,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Megan Kauffman,Fremantle Dockers,Essendon Bombers,24.5,31,NA,15209,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Ebony Antonio,Fremantle Dockers,Essendon Bombers,24.5,34,NA,15206,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,Fremantle Dockers,29.5,2.8,NA,15214,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,Fremantle Dockers,29.5,9,NA,15212,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Bonnie Toogood,Essendon Bombers,Fremantle Dockers,29.5,31,NA,15210,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Aisling McCarthy,Fremantle Dockers,Essendon Bombers,29.5,31,NA,15216,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma ODriscoll,NA,NA,29.5,31,NA,15219,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,Essendon Bombers,29.5,31,NA,15220,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Dana East,Fremantle Dockers,Essendon Bombers,29.5,51,NA,15217,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Elizabeth Keaney,Essendon Bombers,Fremantle Dockers,29.5,51,NA,15211,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Stephanie Cain,Essendon Bombers,Fremantle Dockers,29.5,51,NA,15215,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Maddison Gay,Essendon Bombers,Fremantle Dockers,29.5,67,NA,15213,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Megan Kauffman,Fremantle Dockers,Essendon Bombers,29.5,67,NA,15221,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Ebony Antonio,Fremantle Dockers,Essendon Bombers,29.5,81,NA,15218,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,Fremantle Dockers,34.5,7.5,NA,15226,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,Fremantle Dockers,34.5,23,NA,15224,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Aisling McCarthy,Fremantle Dockers,Essendon Bombers,34.5,67,NA,15228,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma ODriscoll,NA,NA,34.5,67,NA,15231,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,Essendon Bombers,34.5,67,NA,15232,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Bonnie Toogood,Essendon Bombers,Fremantle Dockers,34.5,81,NA,15222,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Elizabeth Keaney,Essendon Bombers,Fremantle Dockers,34.5,101,NA,15223,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Maddison Gay,Essendon Bombers,Fremantle Dockers,34.5,101,NA,15225,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Stephanie Cain,Essendon Bombers,Fremantle Dockers,34.5,101,NA,15227,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Dana East,Fremantle Dockers,Essendon Bombers,34.5,101,NA,15229,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Megan Kauffman,Fremantle Dockers,Essendon Bombers,34.5,101,NA,15233,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Ebony Antonio,Fremantle Dockers,Essendon Bombers,34.5,126,NA,15230,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Madison Prespakis,Essendon Bombers,Fremantle Dockers,39.5,23,NA,15238,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Georgia Nanscawen,Essendon Bombers,Fremantle Dockers,39.5,81,NA,15236,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Aisling McCarthy,Fremantle Dockers,Essendon Bombers,39.5,101,NA,15240,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Emma ODriscoll,NA,NA,39.5,101,NA,15243,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Hayley Miller,Fremantle Dockers,Essendon Bombers,39.5,101,NA,15244,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Bonnie Toogood,Essendon Bombers,Fremantle Dockers,39.5,126,NA,15234,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Elizabeth Keaney,Essendon Bombers,Fremantle Dockers,39.5,151,NA,15235,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Maddison Gay,Essendon Bombers,Fremantle Dockers,39.5,151,NA,15237,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Stephanie Cain,Essendon Bombers,Fremantle Dockers,39.5,151,NA,15239,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Dana East,Fremantle Dockers,Essendon Bombers,39.5,151,NA,15241,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Megan Kauffman,Fremantle Dockers,Essendon Bombers,39.5,151,NA,15245,NA,TAB
-Essendon Bombers v Fremantle Dockers,Essendon Bombers,Fremantle Dockers,Player Disposals,Ebony Antonio,Fremantle Dockers,Essendon Bombers,39.5,201,NA,15242,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Jaimee Lambert,St Kilda Saints,Gold Coast Suns,14.5,1.2,NA,15253,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Lucy Single,Gold Coast Suns,St Kilda Saints,14.5,1.34,NA,15251,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Olivia Vesely,St Kilda Saints,Gold Coast Suns,14.5,1.5,NA,15255,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Daisy DArcy,NA,NA,14.5,1.55,NA,15248,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Katie Lynch,Gold Coast Suns,St Kilda Saints,14.5,1.58,NA,15250,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Tyanna Smith,St Kilda Saints,Gold Coast Suns,14.5,2,NA,15256,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Hannah Priest,St Kilda Saints,Gold Coast Suns,14.5,2.15,NA,15252,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Georgia Clayden,Gold Coast Suns,St Kilda Saints,14.5,3,NA,15249,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Molly McDonald,St Kilda Saints,Gold Coast Suns,14.5,4,NA,15254,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Claudia Whitfort,Gold Coast Suns,St Kilda Saints,19.5,1.17,NA,15259,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Charlie Rowbottom,Gold Coast Suns,St Kilda Saints,19.5,1.19,NA,15258,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Jaimee Lambert,St Kilda Saints,Gold Coast Suns,19.5,2.2,NA,15265,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Olivia Vesely,St Kilda Saints,Gold Coast Suns,19.5,2.5,NA,15267,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Lucy Single,Gold Coast Suns,St Kilda Saints,19.5,2.75,NA,15263,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Katie Lynch,Gold Coast Suns,St Kilda Saints,19.5,4.4,NA,15262,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Daisy DArcy,NA,NA,19.5,4.75,NA,15260,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Hannah Priest,St Kilda Saints,Gold Coast Suns,19.5,4.75,NA,15264,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Tyanna Smith,St Kilda Saints,Gold Coast Suns,19.5,8,NA,15268,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Georgia Clayden,Gold Coast Suns,St Kilda Saints,19.5,12,NA,15261,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Molly McDonald,St Kilda Saints,Gold Coast Suns,19.5,13,NA,15266,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Charlie Rowbottom,Gold Coast Suns,St Kilda Saints,24.5,1.72,NA,15270,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Claudia Whitfort,Gold Coast Suns,St Kilda Saints,24.5,1.85,NA,15271,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Jaimee Lambert,St Kilda Saints,Gold Coast Suns,24.5,6,NA,15277,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Olivia Vesely,St Kilda Saints,Gold Coast Suns,24.5,8,NA,15279,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Lucy Single,Gold Coast Suns,St Kilda Saints,24.5,9,NA,15275,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Hannah Priest,St Kilda Saints,Gold Coast Suns,24.5,13,NA,15276,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Daisy DArcy,NA,NA,24.5,17,NA,15272,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Katie Lynch,Gold Coast Suns,St Kilda Saints,24.5,18,NA,15274,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Tyanna Smith,St Kilda Saints,Gold Coast Suns,24.5,21,NA,15280,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Georgia Clayden,Gold Coast Suns,St Kilda Saints,24.5,31,NA,15273,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Molly McDonald,St Kilda Saints,Gold Coast Suns,24.5,31,NA,15278,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Charlie Rowbottom,Gold Coast Suns,St Kilda Saints,29.5,3.5,NA,15282,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Claudia Whitfort,Gold Coast Suns,St Kilda Saints,29.5,4.5,NA,15283,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Jaimee Lambert,St Kilda Saints,Gold Coast Suns,29.5,19,NA,15289,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Olivia Vesely,St Kilda Saints,Gold Coast Suns,29.5,21,NA,15291,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Hannah Priest,St Kilda Saints,Gold Coast Suns,29.5,31,NA,15288,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Lucy Single,Gold Coast Suns,St Kilda Saints,29.5,31,NA,15287,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Daisy DArcy,NA,NA,29.5,41,NA,15284,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Tyanna Smith,St Kilda Saints,Gold Coast Suns,29.5,41,NA,15292,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Katie Lynch,Gold Coast Suns,St Kilda Saints,29.5,51,NA,15286,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Georgia Clayden,Gold Coast Suns,St Kilda Saints,29.5,67,NA,15285,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Molly McDonald,St Kilda Saints,Gold Coast Suns,29.5,67,NA,15290,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Charlie Rowbottom,Gold Coast Suns,St Kilda Saints,34.5,7,NA,15294,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Claudia Whitfort,Gold Coast Suns,St Kilda Saints,34.5,14,NA,15295,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Jaimee Lambert,St Kilda Saints,Gold Coast Suns,34.5,51,NA,15301,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Olivia Vesely,St Kilda Saints,Gold Coast Suns,34.5,51,NA,15303,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Lucy Single,Gold Coast Suns,St Kilda Saints,34.5,67,NA,15299,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Hannah Priest,St Kilda Saints,Gold Coast Suns,34.5,67,NA,15300,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Katie Lynch,Gold Coast Suns,St Kilda Saints,34.5,81,NA,15298,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Tyanna Smith,St Kilda Saints,Gold Coast Suns,34.5,81,NA,15304,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Daisy DArcy,NA,NA,34.5,81,NA,15296,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Molly McDonald,St Kilda Saints,Gold Coast Suns,34.5,101,NA,15302,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Georgia Clayden,Gold Coast Suns,St Kilda Saints,34.5,101,NA,15297,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Charlie Rowbottom,Gold Coast Suns,St Kilda Saints,39.5,41,NA,15306,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Claudia Whitfort,Gold Coast Suns,St Kilda Saints,39.5,51,NA,15307,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Lucy Single,Gold Coast Suns,St Kilda Saints,39.5,101,NA,15311,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Jaimee Lambert,St Kilda Saints,Gold Coast Suns,39.5,101,NA,15313,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Olivia Vesely,St Kilda Saints,Gold Coast Suns,39.5,101,NA,15315,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Daisy DArcy,NA,NA,39.5,126,NA,15308,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Katie Lynch,Gold Coast Suns,St Kilda Saints,39.5,126,NA,15310,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Hannah Priest,St Kilda Saints,Gold Coast Suns,39.5,126,NA,15312,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Tyanna Smith,St Kilda Saints,Gold Coast Suns,39.5,126,NA,15316,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Georgia Clayden,Gold Coast Suns,St Kilda Saints,39.5,151,NA,15309,NA,TAB
-Gold Coast Suns v St Kilda Saints,Gold Coast Suns,St Kilda Saints,Player Disposals,Molly McDonald,St Kilda Saints,Gold Coast Suns,39.5,151,NA,15314,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,Melbourne Demons,14.5,1.12,NA,16131,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,Geelong Cats,14.5,1.25,NA,16134,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Lily Mithen,Melbourne Demons,Geelong Cats,14.5,1.35,NA,16135,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,Geelong Cats,14.5,1.5,NA,16133,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,Melbourne Demons,14.5,1.5,NA,16132,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Aishling Moloney,Geelong Cats,Melbourne Demons,14.5,1.87,NA,16127,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Chantel Emonson,Geelong Cats,Melbourne Demons,14.5,2.25,NA,16129,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Sinead Goldrick,Melbourne Demons,Geelong Cats,14.5,2.8,NA,16136,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,Melbourne Demons,19.5,1.08,NA,16142,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,Melbourne Demons,19.5,1.3,NA,16140,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,Geelong Cats,19.5,1.36,NA,16149,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,Melbourne Demons,19.5,1.45,NA,16143,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,Geelong Cats,19.5,2.6,NA,16146,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,Melbourne Demons,19.5,2.9,NA,16144,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,Geelong Cats,19.5,3,NA,16145,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Lily Mithen,Melbourne Demons,Geelong Cats,19.5,3.5,NA,16147,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Aishling Moloney,Geelong Cats,Melbourne Demons,19.5,5.5,NA,16139,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Chantel Emonson,Geelong Cats,Melbourne Demons,19.5,8,NA,16141,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Sinead Goldrick,Melbourne Demons,Geelong Cats,19.5,9,NA,16148,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,Melbourne Demons,24.5,1.5,NA,16154,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,Melbourne Demons,24.5,2.3,NA,16155,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,Melbourne Demons,24.5,2.5,NA,16152,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,Geelong Cats,24.5,2.5,NA,16161,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,Geelong Cats,24.5,7,NA,16158,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,Geelong Cats,24.5,7.5,NA,16157,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,Melbourne Demons,24.5,8,NA,16156,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Lily Mithen,Melbourne Demons,Geelong Cats,24.5,15,NA,16159,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Aishling Moloney,Geelong Cats,Melbourne Demons,24.5,17,NA,16151,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Chantel Emonson,Geelong Cats,Melbourne Demons,24.5,23,NA,16153,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Sinead Goldrick,Melbourne Demons,Geelong Cats,24.5,26,NA,16160,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,Melbourne Demons,29.5,2.8,NA,16166,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,Melbourne Demons,29.5,4.25,NA,16167,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,Melbourne Demons,29.5,7,NA,16164,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,Geelong Cats,29.5,7,NA,16173,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,Melbourne Demons,29.5,23,NA,16168,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,Geelong Cats,29.5,23,NA,16169,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,Geelong Cats,29.5,31,NA,16170,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Lily Mithen,Melbourne Demons,Geelong Cats,29.5,41,NA,16171,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Aishling Moloney,Geelong Cats,Melbourne Demons,29.5,51,NA,16163,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Chantel Emonson,Geelong Cats,Melbourne Demons,29.5,51,NA,16165,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Sinead Goldrick,Melbourne Demons,Geelong Cats,29.5,51,NA,16172,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,Melbourne Demons,34.5,7,NA,16178,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,Melbourne Demons,34.5,9,NA,16179,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,Geelong Cats,34.5,21,NA,16185,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,Melbourne Demons,34.5,26,NA,16176,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,Melbourne Demons,34.5,51,NA,16180,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,Geelong Cats,34.5,51,NA,16181,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,Geelong Cats,34.5,67,NA,16182,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Lily Mithen,Melbourne Demons,Geelong Cats,34.5,81,NA,16183,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Aishling Moloney,Geelong Cats,Melbourne Demons,34.5,101,NA,16175,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Chantel Emonson,Geelong Cats,Melbourne Demons,34.5,101,NA,16177,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Sinead Goldrick,Melbourne Demons,Geelong Cats,34.5,101,NA,16184,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Georgie Prespakis,Geelong Cats,Melbourne Demons,39.5,21,NA,16190,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Nina Morrison,Geelong Cats,Melbourne Demons,39.5,23,NA,16191,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Amy McDonald,Geelong Cats,Melbourne Demons,39.5,67,NA,16188,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Tyla Hanks,Melbourne Demons,Geelong Cats,39.5,81,NA,16197,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Rebecca Webster,Geelong Cats,Melbourne Demons,39.5,101,NA,16192,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Eliza McNamara,Melbourne Demons,Geelong Cats,39.5,101,NA,16193,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Kate Hore,Melbourne Demons,Geelong Cats,39.5,101,NA,16194,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Lily Mithen,Melbourne Demons,Geelong Cats,39.5,126,NA,16195,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Aishling Moloney,Geelong Cats,Melbourne Demons,39.5,151,NA,16187,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Chantel Emonson,Geelong Cats,Melbourne Demons,39.5,151,NA,16189,NA,TAB
-Geelong Cats v Melbourne Demons,Geelong Cats,Melbourne Demons,Player Disposals,Sinead Goldrick,Melbourne Demons,Geelong Cats,39.5,151,NA,16196,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,Port Adelaide Power,14.5,1.01,NA,16332,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,Adelaide Crows,14.5,1.06,NA,16331,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,Adelaide Crows,14.5,1.11,NA,16326,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Madison Newman,Adelaide Crows,Port Adelaide Power,14.5,1.42,NA,16335,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,Port Adelaide Power,14.5,1.45,NA,16336,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Chelsea Biddell,Adelaide Crows,Port Adelaide Power,14.5,1.6,NA,16333,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,Adelaide Crows,14.5,1.9,NA,16329,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Gemma Houghton,Port Adelaide Power,Adelaide Crows,14.5,2.25,NA,16328,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Maria Moloney,Port Adelaide Power,Adelaide Crows,14.5,2.8,NA,16330,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Stevie-Lee Thompson,Adelaide Crows,Port Adelaide Power,14.5,2.8,NA,16337,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Angela Foley,Port Adelaide Power,Adelaide Crows,14.5,3.6,NA,16327,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,Port Adelaide Power,19.5,1.08,NA,16344,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,Port Adelaide Power,19.5,1.08,NA,16346,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,Adelaide Crows,19.5,1.48,NA,16343,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,Adelaide Crows,19.5,1.85,NA,16338,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,Port Adelaide Power,19.5,2.35,NA,16348,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Madison Newman,Adelaide Crows,Port Adelaide Power,19.5,3,NA,16347,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Chelsea Biddell,Adelaide Crows,Port Adelaide Power,19.5,4,NA,16345,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,Adelaide Crows,19.5,4.5,NA,16341,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Maria Moloney,Port Adelaide Power,Adelaide Crows,19.5,9,NA,16342,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Stevie-Lee Thompson,Adelaide Crows,Port Adelaide Power,19.5,10,NA,16349,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Gemma Houghton,Port Adelaide Power,Adelaide Crows,19.5,10,NA,16340,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Angela Foley,Port Adelaide Power,Adelaide Crows,19.5,14,NA,16339,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,Port Adelaide Power,24.5,1.5,NA,16356,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,Port Adelaide Power,24.5,1.5,NA,16358,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,Adelaide Crows,24.5,2.9,NA,16355,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,Port Adelaide Power,24.5,4.75,NA,16360,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,Adelaide Crows,24.5,5,NA,16350,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Madison Newman,Adelaide Crows,Port Adelaide Power,24.5,10,NA,16359,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,Adelaide Crows,24.5,13,NA,16353,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Chelsea Biddell,Adelaide Crows,Port Adelaide Power,24.5,14,NA,16357,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Gemma Houghton,Port Adelaide Power,Adelaide Crows,24.5,31,NA,16352,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Maria Moloney,Port Adelaide Power,Adelaide Crows,24.5,31,NA,16354,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Stevie-Lee Thompson,Adelaide Crows,Port Adelaide Power,24.5,31,NA,16361,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Angela Foley,Port Adelaide Power,Adelaide Crows,24.5,41,NA,16351,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,Port Adelaide Power,29.5,2.85,NA,16368,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,Port Adelaide Power,29.5,2.85,NA,16370,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,Adelaide Crows,29.5,8.5,NA,16367,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,Port Adelaide Power,29.5,12,NA,16372,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,Adelaide Crows,29.5,19,NA,16362,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Madison Newman,Adelaide Crows,Port Adelaide Power,29.5,26,NA,16371,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,Adelaide Crows,29.5,31,NA,16365,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Chelsea Biddell,Adelaide Crows,Port Adelaide Power,29.5,34,NA,16369,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Maria Moloney,Port Adelaide Power,Adelaide Crows,29.5,67,NA,16366,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Gemma Houghton,Port Adelaide Power,Adelaide Crows,29.5,67,NA,16364,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Stevie-Lee Thompson,Adelaide Crows,Port Adelaide Power,29.5,67,NA,16373,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Angela Foley,Port Adelaide Power,Adelaide Crows,29.5,81,NA,16363,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,Port Adelaide Power,34.5,5.75,NA,16380,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,Port Adelaide Power,34.5,6,NA,16382,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,Adelaide Crows,34.5,29,NA,16379,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,Port Adelaide Power,34.5,31,NA,16384,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,Adelaide Crows,34.5,51,NA,16374,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Madison Newman,Adelaide Crows,Port Adelaide Power,34.5,51,NA,16383,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,Adelaide Crows,34.5,67,NA,16377,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Chelsea Biddell,Adelaide Crows,Port Adelaide Power,34.5,67,NA,16381,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Gemma Houghton,Port Adelaide Power,Adelaide Crows,34.5,101,NA,16376,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Maria Moloney,Port Adelaide Power,Adelaide Crows,34.5,101,NA,16378,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Angela Foley,Port Adelaide Power,Adelaide Crows,34.5,126,NA,16375,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Stevie-Lee Thompson,Adelaide Crows,Port Adelaide Power,34.5,126,NA,16385,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Anne Hatchard,Adelaide Crows,Port Adelaide Power,39.5,13,NA,16392,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Ebony Marinoff,Adelaide Crows,Port Adelaide Power,39.5,21,NA,16394,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Shineah Goody,Port Adelaide Power,Adelaide Crows,39.5,67,NA,16391,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Abbey Dowrick,Port Adelaide Power,Adelaide Crows,39.5,101,NA,16386,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Niamh Kelly,Adelaide Crows,Port Adelaide Power,39.5,101,NA,16396,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Kirsty Lamb,Port Adelaide Power,Adelaide Crows,39.5,126,NA,16389,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Chelsea Biddell,Adelaide Crows,Port Adelaide Power,39.5,126,NA,16393,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Madison Newman,Adelaide Crows,Port Adelaide Power,39.5,126,NA,16395,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Angela Foley,Port Adelaide Power,Adelaide Crows,39.5,151,NA,16387,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Gemma Houghton,Port Adelaide Power,Adelaide Crows,39.5,151,NA,16388,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Maria Moloney,Port Adelaide Power,Adelaide Crows,39.5,151,NA,16390,NA,TAB
-Port Adelaide Power v Adelaide Crows,Port Adelaide Power,Adelaide Crows,Player Disposals,Stevie-Lee Thompson,Adelaide Crows,Port Adelaide Power,39.5,151,NA,16397,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,Carlton,14.5,1.1,NA,15835,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,Hawthorn Hawks,14.5,1.15,NA,15841,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,14.5,1.15,NA,15836,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,Carlton,14.5,1.25,NA,15837,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,Hawthorn Hawks,14.5,1.25,NA,15842,NA,TAB
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,14.5,1.3,NA,15836,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,Carlton,14.5,1.4,NA,15838,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,NA,14.5,1.65,NA,15843,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,Carlton,14.5,1.65,NA,15839,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Kaitlyn Ashmore,Hawthorn Hawks,Carlton,14.5,1.8,NA,15840,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,Hawthorn Hawks,14.5,2,NA,15844,NA,TAB
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,Hawthorn Hawks,14.5,2.2,NA,15845,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,Hawthorn Hawks,14.5,2,NA,15845,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Carlton,Hawthorn Hawks,19.5,1.3,NA,15858,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlton,Hawthorn Hawks,19.5,1.6,NA,15853,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,Carlton,19.5,1.65,NA,15847,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,Hawthorn Hawks,19.5,2,NA,15854,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,Carlton,19.5,2.1,NA,15849,NA,TAB
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,19.5,3,NA,15848,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,19.5,2.3,NA,15848,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,Carlton,19.5,3.3,NA,15850,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,NA,19.5,3.5,NA,15855,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,Carlton,19.5,4,NA,15851,NA,TAB
@@ -296,8 +27,8 @@ Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlt
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,Carlton,24.5,3.6,NA,15859,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,Carlton,24.5,4,NA,15861,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,Hawthorn Hawks,24.5,4.5,NA,15866,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,24.5,7,NA,15860,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,NA,24.5,10,NA,15867,NA,TAB
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,24.5,11,NA,15860,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,Hawthorn Hawks,24.5,12,NA,15868,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,Carlton,24.5,13,NA,15862,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,Carlton,24.5,15,NA,15863,NA,TAB
@@ -308,7 +39,7 @@ Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mimi Hill,Carlt
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,Carlton,29.5,9,NA,15873,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,Carlton,29.5,11,NA,15871,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,Hawthorn Hawks,29.5,12,NA,15878,NA,TAB
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,29.5,41,NA,15872,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,29.5,21,NA,15872,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,Hawthorn Hawks,29.5,41,NA,15881,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,Carlton,29.5,41,NA,15874,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,Carlton,29.5,41,NA,15875,NA,TAB
@@ -320,10 +51,10 @@ Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Abbie McKay,Car
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Tilly Lucas-Rodd,Hawthorn Hawks,Carlton,34.5,21,NA,15889,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Sherar,Carlton,Hawthorn Hawks,34.5,34,NA,15894,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Emily Bates,Hawthorn Hawks,Carlton,34.5,41,NA,15887,NA,TAB
+Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,34.5,61,NA,15888,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Gabriella Pound,NA,NA,34.5,81,NA,15895,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Keeley Skepper,Carlton,Hawthorn Hawks,34.5,81,NA,15896,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Darcy Vescio,Carlton,Hawthorn Hawks,34.5,81,NA,15897,NA,TAB
-Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Eliza West,Hawthorn Hawks,Carlton,34.5,81,NA,15888,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Jasmine Fleming,Hawthorn Hawks,Carlton,34.5,81,NA,15890,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Mattea Breed,Hawthorn Hawks,Carlton,34.5,81,NA,15891,NA,TAB
 Hawthorn Hawks v Carlton,Hawthorn Hawks,Carlton,Player Disposals,Kaitlyn Ashmore,Hawthorn Hawks,Carlton,34.5,81,NA,15892,NA,TAB
